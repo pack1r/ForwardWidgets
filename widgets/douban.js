@@ -137,7 +137,7 @@ WidgetMetadata = {
           enumOptions: [
             {
               title: "全部",
-              value: "全部",
+              value: "all",
             },
             {
               title: "热门电影",
@@ -456,7 +456,7 @@ async function loadRecommendItems(params = {}, type = "movie") {
   console.log("请求结果:", response.data);
   if (response.data && response.data.items) {
     const items = response.data.items;
-    const doubanIds = items.map((item) => ({
+    const doubanIds = items.filter((item) => item.id != null).map((item) => ({
       id: item.id,
       type: "douban",
     }));
