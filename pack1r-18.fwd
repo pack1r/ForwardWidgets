@@ -49,6 +49,15 @@
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
     },
     {
+      "id": "unknow.baranwang.xvideos",
+      "title": "XVideos",
+      "description": "Xvideos",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "匿名",
+      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
+    },
+    {
       "id": "ti.bemarkt.vod.maccms",
       "title": "VOD",
       "description": "获取 VOD 影视数据",
