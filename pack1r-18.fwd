@@ -35,18 +35,18 @@
       "title": "JAVDay",
       "description": "获取 JAVDay 推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "author": "Ti",
-      "url": "https://gist.githubusercontent.com/bemarkt/17e04f66b772d4ab9ab839c12a8ad608/raw/javday.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js"
     },
     {
       "id": "ti.bemarkt.javrate",
       "title": "JAVRate",
       "description": "获取 JAVRate 推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.3.0",
+      "version": "2.1.0",
       "author": "Ti",
-      "url": "https://gist.githubusercontent.com/bemarkt/17e04f66b772d4ab9ab839c12a8ad608/raw/javrate.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
     },
     {
       "id": "ti.bemarkt.vod.maccms",
