@@ -249,7 +249,7 @@ WidgetMetadata = {
         functionName: "loadTodayGlobalMedia",
         cacheDuration: 60,
         params: [
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
+            { name: "language", title: "语言", type: "language", value: "zh-CN" }
         ]
     },
     {
@@ -259,7 +259,7 @@ WidgetMetadata = {
         functionName: "loadWeekGlobalMovies",
         cacheDuration: 60,
         params: [
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
+            { name: "language", title: "语言", type: "language", value: "zh-CN" }
         ]
     },
     // --- 常规发现模块 ---
