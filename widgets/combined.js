@@ -1,6 +1,6 @@
 // =============UserScript=============
 // @name         影视聚合查询组件
-// @version      1.2.7
+// @version      1.2.8
 // @description  聚合查询豆瓣/TMDB/IMDB/BGM影视数据
 // @author       阿米诺斯
 // =============UserScript=============
@@ -10,7 +10,7 @@ WidgetMetadata = {
   description: "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
   author: "阿米诺斯",
   site: "https://github.com/quantumultxx/FW-Widgets",
-  version: "1.2.7",
+  version: "1.2.8",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
   modules: [
@@ -243,36 +243,25 @@ WidgetMetadata = {
         ]
     },
     {
-        title: "TMDB 本日热门",
+        title: "TMDB 今日热门",
         description: "今日热门电影与剧集",
         requiresWebView: false,
-        functionName: "tmdbTrending",
-        cacheDuration: 900,
+        functionName: "loadTodayGlobalMedia",
+        cacheDuration: 60,
         params: [
-            { name: "time_window", 
-              title: "时间", 
-              type: "constant", 
-              value: "day" },
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" },
-            { name: "page", title: "页码", type: "page" }
+            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
         ]
     },
     {
         title: "TMDB 本周热门",
         description: "本周热门电影与剧集",
         requiresWebView: false,
-        functionName: "tmdbTrending",
-        cacheDuration: 900,
+        functionName: "loadWeekGlobalMovies",
+        cacheDuration: 60,
         params: [
-            { name: "time_window", 
-              title: "时间", 
-              type: "constant", 
-              value: "week" },
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" },
-            { name: "page", title: "页码", type: "page" }
+            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
         ]
     },
-
     // --- 常规发现模块 ---
     {
         title: "TMDB 高分内容",
@@ -1317,13 +1306,49 @@ async function tmdbNowPlaying(params) {
     return await fetchTmdbData(api, params);
 }
 
-async function tmdbTrending(params) {
-  const timeWindow = params.time_window;
-  const api = `trending/all/${timeWindow}`;
-  delete params.time_window;
-  return await fetchTmdbData(api, params);
+async function loadTmdbTrendingData() {
+    try {
+        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
+        if (response && response.data) {
+            return response.data;
+        } else {
+            throw new Error("JSON数据为空或格式不正确");
+        }
+    } catch (error) {
+        console.error("加载JSON数据失败:", error);
+        return { today_global: [], week_global_all: [] };
+    }
 }
 
+async function loadTodayGlobalMedia(params) {
+    const data = await loadTmdbTrendingData();
+    return data.today_global.map(item => ({
+        id: item.id.toString(),
+        type: "tmdb",
+        title: item.title,
+        description: item.overview || "暂无简介",
+        releaseDate: item.release_date,
+        backdropPath: item.backdrop_url,
+        posterPath: item.poster_url,
+        rating: item.rating,
+        mediaType: item.type
+    }));
+}
+
+async function loadWeekGlobalMovies(params) {
+    const data = await loadTmdbTrendingData();
+    return data.week_global_all.map(item => ({
+        id: item.id.toString(),
+        type: "tmdb",
+        title: item.title,
+        description: item.overview || "暂无简介",
+        releaseDate: item.release_date,
+        backdropPath: item.backdrop_url,
+        posterPath: item.poster_url,
+        rating: item.rating,
+        mediaType: item.type
+    }));
+}
 
 async function tmdbTopRated(params) {
     const type = params.type || 'movie';
