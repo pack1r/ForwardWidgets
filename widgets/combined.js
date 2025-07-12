@@ -1,6 +1,6 @@
 // =============UserScript=============
 // @name         影视聚合查询组件
-// @version      1.2.7
+// @version      1.2.8
 // @description  聚合查询豆瓣/TMDB/IMDB/BGM影视数据
 // @author       阿米诺斯
 // =============UserScript=============
@@ -10,7 +10,7 @@ WidgetMetadata = {
   description: "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
   author: "阿米诺斯",
   site: "https://github.com/quantumultxx/FW-Widgets",
-  version: "1.2.7",
+  version: "1.2.8",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
   modules: [
@@ -174,18 +174,6 @@ WidgetMetadata = {
             { title: "传记", value: "传记" },
             { title: "短片", value: "短片" },
             { title: "纪录片", value: "纪录片" }
-          ]
-        },
-        {
-          name: "sort_by",
-          title: "🔢 排序",
-          type: "enumeration",
-          value: "T",
-          enumOptions: [
-            { title: "综合排序", value: "T" },
-            { title: "近期热度", value: "U" },
-            { title: "首映时间", value: "R" },
-            { title: "高分优选", value: "S" }
           ]
         },
         { name: "page", title: "页码", type: "page" },
@@ -974,6 +962,43 @@ WidgetMetadata = {
 };
 
 // ===============辅助函数===============
+let tmdbGenresCache = null;
+
+async function fetchTmdbGenres() {
+    if (tmdbGenresCache) return tmdbGenresCache;
+    try {
+        const [movieGenres, tvGenres] = await Promise.all([
+            Widget.tmdb.get('/genre/movie/list', { params: { language: 'zh-CN' } }),
+            Widget.tmdb.get('/genre/tv/list', { params: { language: 'zh-CN' } })
+        ]);
+        
+        tmdbGenresCache = {
+            movie: movieGenres.genres.reduce((acc, g) => ({ ...acc, [g.id]: g.name }), {}),
+            tv: tvGenres.genres.reduce((acc, g) => ({ ...acc, [g.id]: g.name }), {})
+        };
+        return tmdbGenresCache;
+    } catch (error) {
+        console.error("获取TMDB类型映射失败:", error);
+        return { movie: {}, tv: {} };
+    }
+}
+
+function getTmdbGenreTitles(genreIds, mediaType) {
+    const genres = tmdbGenresCache?.[mediaType] || {};
+    const topThreeIds = genreIds.slice(0, 4); 
+    return topThreeIds
+        .map(id => genres[id]?.trim() || `未知类型(${id})`)
+        .filter(Boolean)
+        .join('•');
+}
+
+function getDoubanGenreTitles(genres) {
+    if (!genres || genres.length === 0) return "未分类";
+    const topThreeGenres = genres.slice(0, 1); 
+    return topThreeGenres.join('•');
+}
+
+
 function formatItemDescription(item) {
     let description = item.description || '';
     const hasRating = /评分|rating/i.test(description);
@@ -996,6 +1021,7 @@ function formatItemDescription(item) {
         .trim();
 }
 
+
 function createErrorItem(id, title, error) {
     const errorMessage = String(error?.message || error || '未知错误');
     const uniqueId = `error-${id.replace(/[^a-zA-Z0-9]/g, '-')}-${Date.now()}`;
@@ -1006,6 +1032,7 @@ function createErrorItem(id, title, error) {
         description: `错误详情：${errorMessage}`
     };
 }
+
 
 function calculatePagination(params) {
     let page = parseInt(params.page) || 1;
@@ -1022,18 +1049,15 @@ function calculatePagination(params) {
     return { page, limit, start };
 }
 
+
 function getBeijingDate() {
     const now = new Date();
-    
     const beijingTime = now.getTime() + (8 * 60 * 60 * 1000);
     const beijingDate = new Date(beijingTime);
-    
-    const year = beijingDate.getUTCFullYear();
-    const month = String(beijingDate.getUTCMonth() + 1).padStart(2, '0');
-    const day = String(beijingDate.getUTCDate()).padStart(2, '0');
-    
-    return `${year}-${month}-${day}`;
+    return `${beijingDate.getUTCFullYear()}-${String(beijingDate.getUTCMonth() + 1).padStart(2, '0')}-${String(beijingDate.getUTCDate()).padStart(2, '0')}`;
 }
+
+
 // ===============豆瓣功能函数===============
 async function loadDoubanCardItems(params = {}) {
   try {
@@ -1130,6 +1154,7 @@ async function loadDoubanDefaultList(params = {}) {
                   rating = await Widget.dom.text(ratingElementId);
                   rating = rating.trim();
               }
+              const genres = await Widget.dom.attr(titleElementId, "data-genres");
               doubanIds.push({
                   id: idMatch[1],
                   type: "douban",
@@ -1140,7 +1165,8 @@ async function loadDoubanDefaultList(params = {}) {
                       rating: rating,
                       releaseDate: item.releaseDate
                   }),
-                  rating: rating ? parseFloat(rating) : undefined
+                  rating: rating ? parseFloat(rating) : undefined,
+                  genreTitle: getDoubanGenreTitles(genres?.split(',') || [])
                 });
           } else {
              console.warn("解析豆列项时未找到 subject ID, Title:", title, "Link:", link);
@@ -1177,7 +1203,8 @@ async function loadDoubanItemsFromApi(params = {}) {
           releaseDate: item.year
       }),
       rating: item.rating?.value,
-      releaseDate: item.year
+      releaseDate: item.year,
+      genreTitle: getDoubanGenreTitles(item.genres || [])
     }));
     return doubanIds;
   }
@@ -1200,6 +1227,7 @@ async function loadDoubanRecommendMovies(params = {}) {
   return await loadDoubanRecommendItems(params, "movie");
 }
 
+
 async function loadDoubanRecommendShows(params = {}) {
   return await loadDoubanRecommendItems(params, "tv");
 }
@@ -1209,16 +1237,14 @@ async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
   const category = params.category || "";
   const subType = params.type || "";
   const tags = params.tags || "";
-  const sortBy = params.sort_by || "T";
   const encodedTags = encodeURIComponent(tags);
   
   let url;
   if (category === "全部" || category === "all") {
     url = `https://m.douban.com/rexxar/api/v2/${mediaType}/recommend?refresh=0&start=${start}&count=${limit}&selected_categories=${encodeURIComponent(JSON.stringify(params.selected_categories || {}))}&uncollect=false&score_range=0,10`;
     if (encodedTags) url += `&tags=${encodedTags}`;
-    url += `&sort=${sortBy}`; 
   } else {
-    url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${start}&count=${limit}&category=${encodeURIComponent(category)}&type=${encodeURIComponent(subType)}&sort=${sortBy}`;
+    url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${start}&count=${limit}&category=${encodeURIComponent(category)}&type=${encodeURIComponent(subType)}`;
   }
 
   const response = await Widget.http.get(url, {
@@ -1234,20 +1260,7 @@ async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
     const releaseYear = item.year || item.release_date?.substring(0, 4);
     const cover = item.cover?.url || item.pic?.normal;
     
-    let dynamicDesc = "";
-    switch(sortBy) {
-      case "U":
-        dynamicDesc = "近期热度排序";
-        break;
-      case "R":
-        dynamicDesc = `首映时间: ${releaseYear || '未知'}`;
-        break;
-      case "S":
-        dynamicDesc = `评分: ${rating?.toFixed(1) || '无'}`;
-        break;
-      default: // T
-        dynamicDesc = item.card_subtitle || item.description || "";
-    }
+    const dynamicDesc = item.card_subtitle || item.description || "";
 
     return {
       id: String(item.id),
@@ -1260,38 +1273,37 @@ async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
         releaseDate: releaseYear ? `${releaseYear}-01-01` : undefined
       }),
       rating: rating,
-      releaseDate: releaseYear ? `${releaseYear}-01-01` : undefined
+      releaseDate: releaseYear ? `${releaseYear}-01-01` : undefined,
+      genreTitle: getDoubanGenreTitles(item.genres || [])
     };
   });
 }
 
+
 //===============TMDB功能函数===============
 async function fetchTmdbData(api, params) {
     try {
-        const response = await Widget.tmdb.get(api, { params: params });
+        const [data, genres] = await Promise.all([
+            Widget.tmdb.get(api, { params: params }),
+            fetchTmdbGenres()
+        ]);
 
-        if (!response) {
+        if (!data?.results) {
             throw new Error("获取数据失败");
         }
 
-        const data = response.results;
-        
-        return data
+        return data.results
             .filter(item => {
                 const hasPoster = item.poster_path;
                 const hasTitle = item.title || item.name;
                 const hasValidId = Number.isInteger(item.id);
-                
                 return hasPoster && hasTitle && hasValidId;
             })
             .map((item) => {
-                let mediaType = item.media_type;
-                
-                if (!mediaType) {
-                    if (item.title) mediaType = "movie";
-                    else if (item.name) mediaType = "tv";
-                }
-                
+                const mediaType = item.media_type || (item.title ? 'movie' : 'tv');
+                const genreIds = item.genre_ids || [];
+                const genreTitle = getTmdbGenreTitles(genreIds, mediaType);
+
                 return {
                     id: item.id,
                     type: "tmdb",
@@ -1301,7 +1313,8 @@ async function fetchTmdbData(api, params) {
                     backdropPath: item.backdrop_path,
                     posterPath: item.poster_path,
                     rating: item.vote_average,
-                    mediaType: mediaType || "unknown",
+                    mediaType: mediaType,
+                    genreTitle: genreTitle
                 };
             });
     } catch (error) {
