@@ -176,18 +176,6 @@ WidgetMetadata = {
             { title: "纪录片", value: "纪录片" }
           ]
         },
-        {
-          name: "sort_by",
-          title: "🔢 排序",
-          type: "enumeration",
-          value: "T",
-          enumOptions: [
-            { title: "综合排序", value: "T" },
-            { title: "近期热度", value: "U" },
-            { title: "首映时间", value: "R" },
-            { title: "高分优选", value: "S" }
-          ]
-        },
         { name: "page", title: "页码", type: "page" },
         { name: "limit", title: "🔢 每页数量", type: "constant", value: "20" }
       ]
