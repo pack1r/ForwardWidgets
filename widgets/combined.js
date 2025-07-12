@@ -1244,7 +1244,7 @@ async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
     url = `https://m.douban.com/rexxar/api/v2/${mediaType}/recommend?refresh=0&start=${start}&count=${limit}&selected_categories=${encodeURIComponent(JSON.stringify(params.selected_categories || {}))}&uncollect=false&score_range=0,10`;
     if (encodedTags) url += `&tags=${encodedTags}`;
   } else {
-    url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${start}&count=${limit}&category=${encodeURIComponent(category)}&type=${encodeURIComponent(subType)}`;
+    url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${start}&count=${limit}&category=${encodeURIComponent(category)}&type=${encodeURIComponent(subType)}&sort=${sortBy}`;
   }
 
   const response = await Widget.http.get(url, {
