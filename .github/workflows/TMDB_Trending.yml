@@ -43,10 +43,16 @@ jobs:
       - name: Check for changes in JSON file
         id: check_changes
         run: |
-          if ! git diff --quiet -- data/TMDB_Trending.json; then
+          # 检查文件是否存在
+          if [ ! -f "data/TMDB_Trending.json" ]; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "文件不存在，需要创建"
+          elif ! git diff --quiet -- data/TMDB_Trending.json; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "文件内容有变化"
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
+            echo "文件内容无变化"
           fi
           
       - name: Configure Git
