@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-02 03:25:22",
+  "last_updated": "2025-08-02 03:41:23",
   "today_global": [
     {
       "id": 241388,
@@ -35,17 +35,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
     },
     {
-      "id": 1307078,
-      "title": "爱在牛津的一年",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.9,
-      "release_date": "2025-07-31",
-      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
-    },
-    {
       "id": 755898,
       "title": "世界大战",
       "type": "movie",
@@ -55,6 +44,17 @@
       "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
       "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
+    },
+    {
+      "id": 1307078,
+      "title": "爱在牛津的一年",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.9,
+      "release_date": "2025-07-31",
+      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
     },
     {
       "id": 1187436,
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 133748,
-      "title": "烈火战车",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧",
-      "rating": 7.8,
-      "release_date": "2023-07-27",
-      "overview": "麦凯饰演无名氏，一个对过去毫无记忆的送奶工，他得到了一个过上更好生活的机会——将一个神秘的包裹运送到后末世世界的荒原上。\n\n他和跟班——一个好战的偷车贼在这条道路上面临各种威胁：野蛮的掠夺者、精神错乱开冰激凌卡车的小丑等。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7NAll7asGoVeIpcZkF2lyJByCCi.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -132,6 +121,17 @@
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 133748,
+      "title": "烈火战车",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧",
+      "rating": 7.8,
+      "release_date": "2023-07-27",
+      "overview": "麦凯饰演无名氏，一个对过去毫无记忆的送奶工，他得到了一个过上更好生活的机会——将一个神秘的包裹运送到后末世世界的荒原上。\n\n他和跟班——一个好战的偷车贼在这条道路上面临各种威胁：野蛮的掠夺者、精神错乱开冰激凌卡车的小丑等。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7NAll7asGoVeIpcZkF2lyJByCCi.jpg"
     },
     {
       "id": 259909,
@@ -149,22 +149,11 @@
       "title": "高尔夫球也疯狂2",
       "type": "movie",
       "genreTitle": "喜剧",
-      "rating": 6.7,
+      "rating": 6.8,
       "release_date": "2025-07-25",
       "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
       "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
-    },
-    {
-      "id": 91097,
-      "title": "灵笼",
-      "type": "tv",
-      "genreTitle": "动画•Sci-Fi & Fantasy•动作冒险",
-      "rating": 8.3,
-      "release_date": "2019-07-13",
-      "overview": "不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，人们从废墟和深渊中重新踏上了这片熟悉而又陌生的大地。习惯了主宰一切的我们是否还是这个世界的主人？",
-      "poster_url": "https://image.tmdb.org/t/p/original/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aGNfFLXMHOxkkM5ssIqZYktTRSr.jpg"
     },
     {
       "id": 986056,
@@ -178,26 +167,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.6,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
-      "id": 296834,
-      "title": "华山论剑",
+      "id": 91097,
+      "title": "灵笼",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 5.0,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gwHpqRxpe0o0pDmDZK7V8RVMhTJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9q7uryMCmAun2bGXoP3Liw24mpz.jpg"
+      "genreTitle": "动画•Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.3,
+      "release_date": "2019-07-13",
+      "overview": "不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，人们从废墟和深渊中重新踏上了这片熟悉而又陌生的大地。习惯了主宰一切的我们是否还是这个世界的主人？",
+      "poster_url": "https://image.tmdb.org/t/p/original/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aGNfFLXMHOxkkM5ssIqZYktTRSr.jpg"
     },
     {
       "id": 7451,
@@ -211,6 +189,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.4,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
       "id": 293808,
       "title": "最后目标",
       "type": "tv",
@@ -220,6 +209,17 @@
       "overview": "虔诚的退休警察巴巴尔瓦急需给女儿做手术的救命钱。于是她向一位邪恶的“救世主”求救，实施胆大包天的抢劫行动。",
       "poster_url": "https://image.tmdb.org/t/p/original/6IMRDbq5DxpFTnmw2GbUSjriVr1.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/94I5GW6BrDOiw10O2OcxQT7Q1cr.jpg"
+    },
+    {
+      "id": 296834,
+      "title": "华山论剑",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 5.0,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gwHpqRxpe0o0pDmDZK7V8RVMhTJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9q7uryMCmAun2bGXoP3Liw24mpz.jpg"
     }
   ],
   "week_global_all": [
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 6.9,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
-    },
-    {
       "id": 552524,
       "title": "星际宝贝史迪奇",
       "type": "movie",
@@ -332,6 +321,17 @@
       "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 6.9,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
     },
     {
       "id": 1087192,
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -367,26 +356,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 60625,
-      "title": "瑞克和莫蒂",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
-      "rating": 8.7,
-      "release_date": "2013-12-02",
-      "overview": "天才兼疯子科学家瑞克，在失踪多年后突然回到女儿贝丝的身边，并且在她的车库里搞了一个科学实验室。瑞克有一把“传送门枪”，可以穿越到宇宙的各个次元。孙子莫蒂莫名其妙就成了他的助手，经常被拖进他的自制太空船内，跟他一同开展各种疯狂刺激的宇宙冒险。女儿女婿对他的疯狂行为感到不满，却又对这个天才科学家无可奈何。",
-      "poster_url": "https://image.tmdb.org/t/p/original/AcjbO2Kjk9OxoXApQIr8eTMNtmx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
-    },
-    {
-      "id": 1136867,
-      "title": "物质主义者",
+      "id": 1175942,
+      "title": "坏蛋联盟2",
       "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.4,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
       "id": 842924,
@@ -409,6 +387,17 @@
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+    },
+    {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
       "id": 9614,
@@ -442,6 +431,17 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 243224,
+      "title": "凡人修仙传",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 6.4,
+      "release_date": "2025-07-27",
+      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     }
   ],
   "popular_movies": [
