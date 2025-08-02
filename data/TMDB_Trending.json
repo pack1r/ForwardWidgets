@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-08-03 01:44:40",
+  "last_updated": "2025-08-03 01:56:26",
   "today_global": [
     {
       "id": 241388,
       "title": "瓦坎达之眼",
       "type": "tv",
       "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 4.7,
+      "rating": 4.8,
       "release_date": "2025-08-01",
       "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
       "poster_url": "https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg",
@@ -24,17 +24,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
     },
     {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.0,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
-    },
-    {
       "id": 1307078,
       "title": "爱在牛津的一年",
       "type": "movie",
@@ -44,6 +33,17 @@
       "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
       "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
+    },
+    {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 7.0,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
     },
     {
       "id": 196890,
@@ -167,6 +167,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.3,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
       "id": 1087192,
       "title": "新·驯龙高手",
       "type": "movie",
@@ -187,17 +198,6 @@
       "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
       "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.3,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
       "id": 552524,
@@ -250,7 +250,7 @@
       "title": "瓦坎达之眼",
       "type": "tv",
       "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 4.7,
+      "rating": 4.8,
       "release_date": "2025-08-01",
       "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
       "poster_url": "https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg",
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1307078,
-      "title": "爱在牛津的一年",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.7,
-      "release_date": "2025-07-31",
-      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
-    },
-    {
       "id": 1035259,
       "title": "新白头神探",
       "type": "movie",
@@ -334,15 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
     },
     {
-      "id": 552524,
-      "title": "星际宝贝史迪奇",
+      "id": 1307078,
+      "title": "爱在牛津的一年",
       "type": "movie",
-      "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.3,
-      "release_date": "2025-05-17",
-      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.7,
+      "release_date": "2025-07-31",
+      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
     },
     {
       "id": 243224,
@@ -354,6 +343,17 @@
       "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+    },
+    {
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
+      "type": "movie",
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
       "id": 1087192,
