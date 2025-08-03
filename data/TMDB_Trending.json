@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-08-04 03:52:38",
+  "last_updated": "2025-08-04 04:26:49",
   "today_global": [
     {
       "id": 1100988,
       "title": "惊变28年",
       "type": "movie",
       "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.0,
+      "rating": 6.9,
       "release_date": "2025-06-18",
       "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
       "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
@@ -22,17 +22,6 @@
       "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
       "poster_url": "https://image.tmdb.org/t/p/original/72pE4JaQ2UPAgweTHzXYbKtXEUX.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
-    },
-    {
-      "id": 196890,
-      "title": "战酋",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.7,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 755898,
@@ -61,11 +50,22 @@
       "title": "爱在牛津的一年",
       "type": "movie",
       "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2025-07-31",
       "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
       "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
+    },
+    {
+      "id": 196890,
+      "title": "战酋",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.7,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 617126,
@@ -101,17 +101,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -121,6 +110,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 37854,
@@ -134,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
-      "id": 1087192,
-      "title": "新·驯龙高手",
-      "type": "movie",
-      "genreTitle": "奇幻•家庭•动作",
-      "rating": 8.0,
-      "release_date": "2025-06-06",
-      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4k0CHrBwyuhKeQfDZDH31863lTx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
-    },
-    {
       "id": 1242011,
       "title": "同甘共苦",
       "type": "movie",
@@ -154,6 +143,17 @@
       "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
       "poster_url": "https://image.tmdb.org/t/p/original/wEgfIrmSUibiXjp9qWLL35g1nNr.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3NCYVzeqLUKMhf5TaDlHol7BoTn.jpg"
+    },
+    {
+      "id": 1087192,
+      "title": "新·驯龙高手",
+      "type": "movie",
+      "genreTitle": "奇幻•家庭•动作",
+      "rating": 8.0,
+      "release_date": "2025-06-06",
+      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
+      "poster_url": "https://image.tmdb.org/t/p/original/4k0CHrBwyuhKeQfDZDH31863lTx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
       "id": 1263256,
@@ -167,28 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
     },
     {
-      "id": 281004,
-      "title": "梦想成为律师的律师们",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.3,
-      "release_date": "2025-08-02",
-      "overview": "该剧讲述充满正义，但社会生活生疏的新进律师，透过冷漠但实力坚强的合伙人律师，成为一名完整的律师。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y9SDvLKABqz0FWymCz6IGhpYoFs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rzF5qIhMWF6ALRtw9Jqo9X4Z3c3.jpg"
-    },
-    {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.3,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
       "id": 90802,
       "title": "睡魔",
       "type": "tv",
@@ -200,15 +178,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
+      "id": 281004,
+      "title": "梦想成为律师的律师们",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.3,
+      "release_date": "2025-08-02",
+      "overview": "该剧讲述充满正义，但社会生活生疏的新进律师，透过冷漠但实力坚强的合伙人律师，成为一名完整的律师。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y9SDvLKABqz0FWymCz6IGhpYoFs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rzF5qIhMWF6ALRtw9Jqo9X4Z3c3.jpg"
+    },
+    {
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
       "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wjcvEVwkhQdqilbXcsxAo1HIeWe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
+    },
+    {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.3,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
       "id": 1011477,
@@ -228,7 +228,7 @@
       "title": "惊变28年",
       "type": "movie",
       "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.0,
+      "rating": 6.9,
       "release_date": "2025-06-18",
       "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
       "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
@@ -268,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
     },
     {
-      "id": 241388,
-      "title": "瓦坎达之眼",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 5.1,
-      "release_date": "2025-08-01",
-      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
-    },
-    {
       "id": 1263256,
       "title": "高尔夫球也疯狂2",
       "type": "movie",
@@ -290,15 +279,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
     },
     {
-      "id": 196890,
-      "title": "战酋",
+      "id": 241388,
+      "title": "瓦坎达之眼",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.7,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 5.1,
+      "release_date": "2025-08-01",
+      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
       "id": 7451,
@@ -312,15 +301,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
-      "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.1,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/72pE4JaQ2UPAgweTHzXYbKtXEUX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
+      "id": 196890,
+      "title": "战酋",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.7,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 986056,
@@ -332,6 +321,17 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.1,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/72pE4JaQ2UPAgweTHzXYbKtXEUX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
     },
     {
       "id": 1175942,
@@ -356,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 1307078,
-      "title": "爱在牛津的一年",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.6,
-      "release_date": "2025-07-31",
-      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
-    },
-    {
       "id": 90802,
       "title": "睡魔",
       "type": "tv",
@@ -378,15 +367,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
+      "id": 1307078,
+      "title": "爱在牛津的一年",
       "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wjcvEVwkhQdqilbXcsxAo1HIeWe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.5,
+      "release_date": "2025-07-31",
+      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
     },
     {
       "id": 552524,
@@ -400,15 +389,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wjcvEVwkhQdqilbXcsxAo1HIeWe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     },
     {
       "id": 1136867,
@@ -422,15 +411,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 243224,
-      "title": "凡人修仙传",
+      "id": 37854,
+      "title": "航海王",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 6.8,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
       "id": 842924,
@@ -442,6 +431,17 @@
       "overview": "　　影片根据史蒂芬·金的同名短片小说改编，以三幕倒叙的方式，讲述查尔斯·克兰兹的一生，以他39岁因脑瘤去世为开端，以他在闹鬼的房子里度过的童年时光为结尾。",
       "poster_url": "https://image.tmdb.org/t/p/original/2nbnPVh2OIRK3sbwBM4Kxpyxavi.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zHbH1WyTbJhp59H0dvrZFneEztm.jpg"
+    },
+    {
+      "id": 243224,
+      "title": "凡人修仙传",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 6.8,
+      "release_date": "2025-07-27",
+      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     }
   ],
   "popular_movies": [
