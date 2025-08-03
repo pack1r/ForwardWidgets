@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-04 05:43:03",
+  "last_updated": "2025-08-04 05:54:48",
   "today_global": [
     {
       "id": 1100988,
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.3,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队*",
       "type": "movie",
@@ -332,6 +321,17 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.3,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
       "id": 980477,
