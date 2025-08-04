@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-05 06:28:56",
+  "last_updated": "2025-08-05 06:50:40",
   "today_global": [
     {
       "id": 1100988,
@@ -13,17 +13,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
-    },
-    {
       "id": 2122,
       "title": "乡巴佬希尔一家的幸福生活",
       "type": "tv",
@@ -33,6 +22,17 @@
       "overview": "《King of the Hill 》是美国动画情景喜剧，由 Mike Judge和Greg Daniels导演和编剧。于1997年1月12日至2010年5月6日在福克斯FOX电视台发行。一共十三季，259集。\n\n故事聚焦在美国Texas州（美国第二大州德克萨斯州，简称德州。南部与墨西哥接壤。）的阿伦镇（Arlen）上虚构的希尔一家。\n\n它试图用保持现实的方法，在日常生活中的常规和世俗方面寻求幽默，并对一些时事和社会现象进行调侃，但相较于《恶搞之家/Family Guy》和《南方公园/South Park》等其他长寿动画，出发点更加实际及老成。\n\n这个节目成为福克斯历史上最长的系列节目之一（位于《辛普森一家/The Simpsons》与《恶搞之家/Family Guy》之后，在动画系列节目中长度排第三位），并且是历史上持续时间第二长的动画情景喜剧。\n\n2007年被“ 时代”杂志评选为有史以来100大电视节目之一。King of the Hill 赢得了两个艾美奖，并获得七项提名。",
       "poster_url": "https://image.tmdb.org/t/p/original/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/r2TbC6zlaJRPEcVO2WQAVgMFHXJ.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
     },
     {
       "id": 196890,
@@ -90,17 +90,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u2ctOiURF9hL3hmXmEMHxcVPVrQ.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.5,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
-    },
-    {
       "id": 241388,
       "title": "瓦坎达之眼",
       "type": "tv",
@@ -110,6 +99,17 @@
       "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
       "poster_url": "https://image.tmdb.org/t/p/original/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
+    },
+    {
+      "id": 755898,
+      "title": "世界大战",
+      "type": "movie",
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
       "id": 1078605,
@@ -145,6 +145,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/j6dJMrLhTUhtYolUcHSFcOlO134.jpg"
     },
     {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+    },
+    {
       "id": 1125257,
       "title": "辣妈辣妹2",
       "type": "movie",
@@ -176,17 +187,6 @@
       "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
       "poster_url": "https://image.tmdb.org/t/p/original/pdxIPBNGxOI3dspvsJJPjeOv5Y8.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/tQCR4JFvd23PWdHUWCnNqDCee50.jpg"
-    },
-    {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     },
     {
       "id": 986056,
@@ -246,17 +246,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
-    {
       "id": 196890,
       "title": "战酋",
       "type": "tv",
@@ -268,15 +257,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
+      "id": 1061474,
+      "title": "超人",
       "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.5,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
       "id": 241388,
@@ -290,6 +279,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
+    },
+    {
       "id": 980477,
       "title": "哪吒之魔童闹海",
       "type": "movie",
@@ -301,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
     },
     {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
       "id": 1071585,
       "title": "梅根2.0",
       "type": "movie",
@@ -321,6 +310,17 @@
       "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
       "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+    },
+    {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
       "id": 1263256,
@@ -411,17 +411,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
       "id": 1242011,
       "title": "同甘共苦",
       "type": "movie",
@@ -433,15 +422,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u2ctOiURF9hL3hmXmEMHxcVPVrQ.jpg"
     },
     {
-      "id": 90802,
-      "title": "睡魔",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
-      "rating": 7.9,
-      "release_date": "2022-08-05",
-      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 2122,
+      "title": "乡巴佬希尔一家的幸福生活",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 7.4,
+      "release_date": "1997-01-12",
+      "overview": "《King of the Hill 》是美国动画情景喜剧，由 Mike Judge和Greg Daniels导演和编剧。于1997年1月12日至2010年5月6日在福克斯FOX电视台发行。一共十三季，259集。\n\n故事聚焦在美国Texas州（美国第二大州德克萨斯州，简称德州。南部与墨西哥接壤。）的阿伦镇（Arlen）上虚构的希尔一家。\n\n它试图用保持现实的方法，在日常生活中的常规和世俗方面寻求幽默，并对一些时事和社会现象进行调侃，但相较于《恶搞之家/Family Guy》和《南方公园/South Park》等其他长寿动画，出发点更加实际及老成。\n\n这个节目成为福克斯历史上最长的系列节目之一（位于《辛普森一家/The Simpsons》与《恶搞之家/Family Guy》之后，在动画系列节目中长度排第三位），并且是历史上持续时间第二长的动画情景喜剧。\n\n2007年被“ 时代”杂志评选为有史以来100大电视节目之一。King of the Hill 赢得了两个艾美奖，并获得七项提名。",
+      "poster_url": "https://image.tmdb.org/t/p/original/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r2TbC6zlaJRPEcVO2WQAVgMFHXJ.jpg"
     }
   ],
   "popular_movies": [
