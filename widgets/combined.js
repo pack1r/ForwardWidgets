@@ -1,6 +1,6 @@
 // =============UserScript=============
 // @name         影视聚合查询组件
-// @version      1.3.0
+// @version      1.3.1
 // @description  聚合查询豆瓣/TMDB/IMDB/BGM影视数据
 // @author       阿米诺斯
 // =============UserScript=============
