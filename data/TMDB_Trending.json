@@ -1,16 +1,27 @@
 {
-  "last_updated": "2025-08-06 03:33:23",
+  "last_updated": "2025-08-06 03:53:30",
   "today_global": [
     {
       "id": 1234821,
       "title": "侏罗纪世界：重生",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
+      "rating": 6.3,
       "release_date": "2025-07-01",
       "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
       "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
+      "id": 1205515,
+      "title": "对不起，宝贝",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 6.9,
+      "release_date": "2025-06-27",
+      "overview": "Agnes身上发生了一些不好的事情。但生活还在继续......至少对她身边的每个人来说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qkQgX1RXfSNoSxTexlP4ZDxPn2n.jpg"
     },
     {
       "id": 1100988,
@@ -35,15 +46,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
     },
     {
-      "id": 1205515,
-      "title": "对不起，宝贝",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 6.9,
-      "release_date": "2025-06-27",
-      "overview": "Agnes身上发生了一些不好的事情。但生活还在继续......至少对她身边的每个人来说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qkQgX1RXfSNoSxTexlP4ZDxPn2n.jpg"
+      "id": 119051,
+      "title": "Wednesday",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•喜剧",
+      "rating": 8.4,
+      "release_date": "2022-11-23",
+      "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pdxIPBNGxOI3dspvsJJPjeOv5Y8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tQCR4JFvd23PWdHUWCnNqDCee50.jpg"
     },
     {
       "id": 296834,
@@ -57,15 +68,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     },
     {
-      "id": 119051,
-      "title": "Wednesday",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•喜剧",
-      "rating": 8.4,
-      "release_date": "2022-11-23",
-      "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pdxIPBNGxOI3dspvsJJPjeOv5Y8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tQCR4JFvd23PWdHUWCnNqDCee50.jpg"
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.9,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     },
     {
       "id": 2122,
@@ -101,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1125257,
-      "title": "辣妈辣妹2",
-      "type": "movie",
-      "genreTitle": "奇幻•喜剧•家庭",
-      "rating": 7.9,
-      "release_date": "2025-08-06",
-      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
-    },
-    {
       "id": 755898,
       "title": "世界大战",
       "type": "movie",
@@ -121,6 +121,17 @@
       "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
       "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
     },
     {
       "id": 1242011,
@@ -145,26 +156,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
+      "id": 241388,
+      "title": "瓦坎达之眼",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 6.8,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 5.5,
+      "release_date": "2025-08-01",
+      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
+      "poster_url": "https://image.tmdb.org/t/p/original/f6srVogCnFabP2Kgb5xLcL3Y02N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
       "id": 1087192,
@@ -178,15 +178,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 241388,
-      "title": "瓦坎达之眼",
+      "id": 196890,
+      "title": "战酋",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 5.5,
-      "release_date": "2025-08-01",
-      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f6srVogCnFabP2Kgb5xLcL3Y02N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
+      "genreTitle": "剧情",
+      "rating": 6.7,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     },
     {
       "id": 1307078,
@@ -200,29 +211,29 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5cyeQBasdfiadiIFPhEc4MpXWi0.jpg"
     },
     {
-      "id": 235351,
-      "title": "金庸武侠世界",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 7.6,
-      "release_date": "2024-06-17",
-      "overview": "该系列剧分为一个核心主线故事《铁血丹心》，四个创新人物篇章《东邪西毒》《南帝北丐》《华山论剑》《九阴真经》。《铁血丹心》讲述了郭靖背负家仇闯入江湖，一路历经奇情奇遇，在黄蓉的帮助下，最终成长为为国为民的侠之大者的故事。南宋末年，金兵入侵，朝廷奸臣当道。平民义士郭啸天、杨铁心两家指腹为婚，后为金兵所害。全真教道士丘处机与江南七怪定下赌约：分别寻找杨、郭后人并传授他们武功，于十八年后在醉仙楼比试高低。郭靖、杨康分别在江南七怪与丘处机的教养下长大成人。 18年后，郭靖奉师命南下，与“东邪”黄药师之女黄蓉一见如故，彼此倾心，但两人的情感却一波三折。“西毒”欧阳锋为侄儿欧阳克求娶黄蓉，郭靖历经三番比试最终获胜，奈何五位师父被害于桃花岛，引得二人误会分离。 另一边，杨康贪恋富贵，认金人作父。一场无心的比武招亲，令他与杨铁心义女穆念慈有情相恋，却执迷不悟，三番四次加害郭靖、黄蓉等江湖义士，助金人夺取《武穆遗书》，最终难逃惨死嘉兴铁枪庙中的命运。 郭靖随黄蓉行万里路，遍识天下武林高人，武功日见提升，终于得报杀父深仇，消师门积怨，夺《武穆遗书》，率大军西征，承亡母之教，上华山论剑，救襄阳国难。 一代天骄终陨落，昔日纯朴憨厚、木讷愚钝的挽弓少年也长成顶天立地的男儿，毅然扛起破碎山河……",
-      "poster_url": "https://image.tmdb.org/t/p/original/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5xI6VJiezeNVgbmnzdxGpORHkTC.jpg"
-    },
-    {
-      "id": 196890,
-      "title": "战酋",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.7,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     }
   ],
   "week_global_all": [
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.3,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
     {
       "id": 1100988,
       "title": "惊变28年",
@@ -233,17 +244,6 @@
       "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
       "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
       "id": 296834,
@@ -268,6 +268,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg"
     },
     {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
+    },
+    {
+      "id": 241388,
+      "title": "瓦坎达之眼",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 5.5,
+      "release_date": "2025-08-01",
+      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
+      "poster_url": "https://image.tmdb.org/t/p/original/f6srVogCnFabP2Kgb5xLcL3Y02N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
+    },
+    {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
@@ -290,28 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 241388,
-      "title": "瓦坎达之眼",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 5.5,
-      "release_date": "2025-08-01",
-      "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f6srVogCnFabP2Kgb5xLcL3Y02N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t3OylNqPDnjddtM5cZP6TnoXVDp.jpg"
-    },
-    {
       "id": 196890,
       "title": "战酋",
       "type": "tv",
@@ -321,17 +321,6 @@
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 6.8,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
       "id": 755898,
@@ -345,17 +334,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
-      "id": 235351,
-      "title": "金庸武侠世界",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 7.6,
-      "release_date": "2024-06-17",
-      "overview": "该系列剧分为一个核心主线故事《铁血丹心》，四个创新人物篇章《东邪西毒》《南帝北丐》《华山论剑》《九阴真经》。《铁血丹心》讲述了郭靖背负家仇闯入江湖，一路历经奇情奇遇，在黄蓉的帮助下，最终成长为为国为民的侠之大者的故事。南宋末年，金兵入侵，朝廷奸臣当道。平民义士郭啸天、杨铁心两家指腹为婚，后为金兵所害。全真教道士丘处机与江南七怪定下赌约：分别寻找杨、郭后人并传授他们武功，于十八年后在醉仙楼比试高低。郭靖、杨康分别在江南七怪与丘处机的教养下长大成人。 18年后，郭靖奉师命南下，与“东邪”黄药师之女黄蓉一见如故，彼此倾心，但两人的情感却一波三折。“西毒”欧阳锋为侄儿欧阳克求娶黄蓉，郭靖历经三番比试最终获胜，奈何五位师父被害于桃花岛，引得二人误会分离。 另一边，杨康贪恋富贵，认金人作父。一场无心的比武招亲，令他与杨铁心义女穆念慈有情相恋，却执迷不悟，三番四次加害郭靖、黄蓉等江湖义士，助金人夺取《武穆遗书》，最终难逃惨死嘉兴铁枪庙中的命运。 郭靖随黄蓉行万里路，遍识天下武林高人，武功日见提升，终于得报杀父深仇，消师门积怨，夺《武穆遗书》，率大军西征，承亡母之教，上华山论剑，救襄阳国难。 一代天骄终陨落，昔日纯朴憨厚、木讷愚钝的挽弓少年也长成顶天立地的男儿，毅然扛起破碎山河……",
-      "poster_url": "https://image.tmdb.org/t/p/original/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5xI6VJiezeNVgbmnzdxGpORHkTC.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -365,6 +343,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1078605,
+      "title": "武器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 8.0,
+      "release_date": "2025-08-06",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
     },
     {
       "id": 1307078,
@@ -387,17 +376,6 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 1078605,
-      "title": "武器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 8.0,
-      "release_date": "2025-08-06",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
     },
     {
       "id": 1087192,
@@ -433,6 +411,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     },
     {
+      "id": 1242011,
+      "title": "同甘共苦",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 7.8,
+      "release_date": "2025-07-28",
+      "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
+      "poster_url": "https://image.tmdb.org/t/p/original/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
+    },
+    {
       "id": 842924,
       "title": "查克的一生",
       "type": "movie",
@@ -442,6 +431,17 @@
       "overview": "　　影片根据史蒂芬·金的同名短片小说改编，以三幕倒叙的方式，讲述查尔斯·克兰兹的一生，以他39岁因脑瘤去世为开端，以他在闹鬼的房子里度过的童年时光为结尾。",
       "poster_url": "https://image.tmdb.org/t/p/original/2nbnPVh2OIRK3sbwBM4Kxpyxavi.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zHbH1WyTbJhp59H0dvrZFneEztm.jpg"
+    },
+    {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.9,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     }
   ],
   "popular_movies": [
