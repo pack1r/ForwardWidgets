@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07 18:57:23",
+  "last_updated": "2025-08-07 19:26:23",
   "today_global": [
     {
       "id": 119051,
@@ -17,7 +17,7 @@
       "title": "致命劫持",
       "type": "movie",
       "genreTitle": "动作•喜剧•犯罪",
-      "rating": 5.9,
+      "rating": 6.0,
       "release_date": "2025-07-27",
       "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
       "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
@@ -200,17 +200,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -220,6 +209,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     }
   ],
   "week_global_all": [
@@ -250,7 +250,7 @@
       "title": "致命劫持",
       "type": "movie",
       "genreTitle": "动作•喜剧•犯罪",
-      "rating": 5.9,
+      "rating": 6.0,
       "release_date": "2025-07-27",
       "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
       "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
@@ -323,17 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
-      "id": 1307078,
-      "title": "爱在牛津的一年",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.3,
-      "release_date": "2025-07-31",
-      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5cyeQBasdfiadiIFPhEc4MpXWi0.jpg"
-    },
-    {
       "id": 1035259,
       "title": "新白头神探",
       "type": "movie",
@@ -343,17 +332,6 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 617126,
@@ -367,15 +345,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 196890,
-      "title": "战酋",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.7,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 1078605,
@@ -387,6 +365,28 @@
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
+    },
+    {
+      "id": 1307078,
+      "title": "爱在牛津的一年",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.3,
+      "release_date": "2025-07-31",
+      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5cyeQBasdfiadiIFPhEc4MpXWi0.jpg"
+    },
+    {
+      "id": 196890,
+      "title": "战酋",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.7,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 1242011,
@@ -411,6 +411,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 7.6,
+      "release_date": "2025-07-24",
+      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
       "id": 296834,
       "title": "华山论剑",
       "type": "tv",
@@ -431,17 +442,6 @@
       "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
       "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 7.6,
-      "release_date": "2025-07-24",
-      "overview": "坏蛋联盟正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
     }
   ],
   "popular_movies": [
