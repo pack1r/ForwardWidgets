@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07 19:26:23",
+  "last_updated": "2025-08-07 19:45:02",
   "today_global": [
     {
       "id": 119051,
@@ -90,6 +90,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jfUOhM0Xz4yOCWLFpdw1M1fft0V.jpg"
     },
     {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.9,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
+    },
+    {
       "id": 980477,
       "title": "哪吒之魔童闹海",
       "type": "movie",
@@ -101,15 +112,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
-      "id": 1125257,
-      "title": "辣妈辣妹2",
+      "id": 617126,
+      "title": "神奇4侠：初露锋芒",
       "type": "movie",
-      "genreTitle": "奇幻•喜剧•家庭",
-      "rating": 7.9,
-      "release_date": "2025-08-06",
-      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 296834,
@@ -143,17 +154,6 @@
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇4侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 541671,
@@ -211,15 +211,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "id": 240686,
+      "title": "锦月如歌",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 0.0,
+      "release_date": "2025-08-06",
+      "overview": "该剧改编自人气小说《重生之女将星》，为保家族爵位，何家长女何晏被迫戴上面具，扮做何家嫡长子“何如非”。少年时何晏于贤昌馆初识天之骄子肖珏，后为摆脱家族命运，毅然离开学馆，奔赴沙场。多年后何晏荣归故里，却因兄长何如非回归被家族设计，何晏大难不死后转换身份，化身城门校尉女儿禾晏，女扮男装前往掖州投军，立志拿回属于自己的一切。禾晏结交了温润如玉的楚昭，更是与肖珏再次重逢。可肖珏怀疑禾晏是奸细，处处针对，反复试探，禾晏死抱肖珏大腿，并以掖州卫第一的成绩向肖珏证明了自己的能力。二人历经孙家事件、季阳王女事件、润都守城之战，几经生死，互通心意。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zHy4pWFdJLzR4AkKcelpr20R3tN.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xzq6qyR75d50OvXZjUWHJVtm8Ui.jpg"
     }
   ],
   "week_global_all": [
@@ -301,6 +301,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
+      "id": 617126,
+      "title": "神奇4侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
       "id": 755898,
       "title": "世界大战",
       "type": "movie",
@@ -332,17 +343,6 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇4侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 7451,
@@ -411,6 +411,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.9,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
+    },
+    {
       "id": 1175942,
       "title": "坏蛋联盟2",
       "type": "movie",
@@ -431,17 +442,6 @@
       "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
       "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
-    },
-    {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     }
   ],
   "popular_movies": [
