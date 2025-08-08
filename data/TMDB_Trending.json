@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08 22:00:46",
+  "last_updated": "2025-08-08 22:42:06",
   "today_global": [
     {
       "id": 1234821,
@@ -28,7 +28,7 @@
       "title": "武器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 7.8,
+      "rating": 7.9,
       "release_date": "2025-08-06",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
@@ -79,17 +79,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -101,26 +90,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 1125257,
@@ -134,15 +112,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 1061474,
@@ -156,6 +134,50 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+    },
+    {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•犯罪",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
+    },
+    {
       "id": 240411,
       "title": "胆大党",
       "type": "tv",
@@ -165,6 +187,17 @@
       "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
       "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
+    },
+    {
+      "id": 1513598,
+      "title": "不翼而飞：世纪大劫案",
+      "type": "movie",
+      "genreTitle": "纪录•犯罪",
+      "rating": 8.0,
+      "release_date": "2025-08-07",
+      "overview": "2003年的安特卫普，坚不可摧的钻石中心遭到一伙窃贼洗劫。这起全球最大劫案之一的幕后黑手是谁？他们又是如何得逞的？",
+      "poster_url": "https://image.tmdb.org/t/p/original/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xIuAXZOjnELpc3tSpue4tryooGD.jpg"
     },
     {
       "id": 755898,
@@ -187,39 +220,6 @@
       "overview": "该书以主角辰南寻找万年前爱人雨馨、追索神魔灭亡遗秘的行迹为线索，引出浩茫六道、天地棋局，演绎出一部充满热血、壮烈、凄美的传奇，道说出无数英雄佳人的传说，并对人性、社会、生命等元素进行了些许探讨。",
       "poster_url": "https://image.tmdb.org/t/p/original/x5SGUqZxnXi58GYHBv6APJL5R2c.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8wdi8kFYt3cuzN8w037uhobPsyP.jpg"
-    },
-    {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
-    },
-    {
-      "id": 1155281,
-      "title": "封神第二部：战火西岐",
-      "type": "movie",
-      "genreTitle": "动作•奇幻•战争",
-      "rating": 6.2,
-      "release_date": "2025-01-29",
-      "overview": "姜子牙、姬发带队坚守西岐，家园保卫战一触即发！邓婵玉、闻仲奉商王殷寿之命，率魔家四将等殷商大军征伐西岐，西岐一方得殷郊、雷震子、杨戬、哪吒等相助，更聚全民之力守卫家园。兵戈相对、法术交锋，两大阵营掀起强强对决，关于“封神榜” 的争夺正在继续......",
-      "poster_url": "https://image.tmdb.org/t/p/original/5bBgvH3hTxlANUsLP1ov0lEKmJp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jfUOhM0Xz4yOCWLFpdw1M1fft0V.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "动作•喜剧•犯罪",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     }
   ],
   "week_global_all": [
@@ -250,7 +250,7 @@
       "title": "武器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 7.8,
+      "rating": 7.9,
       "release_date": "2025-08-06",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
@@ -268,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.9,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
       "id": 196890,
       "title": "战酋",
       "type": "tv",
@@ -288,6 +277,17 @@
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+    },
+    {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.9,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
     },
     {
       "id": 980477,
@@ -334,17 +334,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
       "id": 1035259,
       "title": "新白头神探",
       "type": "movie",
@@ -356,6 +345,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     },
     {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -365,6 +365,39 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.1,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
+    },
+    {
+      "id": 1242011,
+      "title": "同甘共苦",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 7.6,
+      "release_date": "2025-07-28",
+      "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
+      "poster_url": "https://image.tmdb.org/t/p/original/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 1307078,
@@ -400,48 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
+      "id": 1071585,
+      "title": "梅根2.0",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 1125257,
-      "title": "辣妈辣妹2",
-      "type": "movie",
-      "genreTitle": "奇幻•喜剧•家庭",
-      "rating": 7.1,
-      "release_date": "2025-08-06",
-      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
-    },
-    {
-      "id": 1242011,
-      "title": "同甘共苦",
-      "type": "movie",
-      "genreTitle": "恐怖",
+      "genreTitle": "动作•科幻•惊悚",
       "rating": 7.6,
-      "release_date": "2025-07-28",
-      "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
-      "poster_url": "https://image.tmdb.org/t/p/original/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
-    },
-    {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     }
   ],
   "popular_movies": [
