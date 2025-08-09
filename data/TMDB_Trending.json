@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-10 07:42:20",
+  "last_updated": "2025-08-10 07:54:23",
   "today_global": [
     {
       "id": 1234821,
@@ -17,7 +17,7 @@
       "title": "武器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-08-06",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
@@ -134,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -154,6 +143,17 @@
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 2190,
@@ -250,7 +250,7 @@
       "title": "武器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-08-06",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
@@ -323,17 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
       "id": 196890,
       "title": "战酋",
       "type": "tv",
@@ -343,6 +332,17 @@
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 1035259,
