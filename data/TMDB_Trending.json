@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09 12:44:14",
+  "last_updated": "2025-08-09 12:59:37",
   "today_global": [
     {
       "id": 1234821,
@@ -68,6 +68,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
     },
     {
+      "id": 207484,
+      "title": "古战场传奇：吾血之亲",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.5,
+      "release_date": "2025-08-08",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
+    },
+    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -90,17 +101,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
-      "id": 207484,
-      "title": "古战场传奇：吾血之亲",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.5,
-      "release_date": "2025-08-08",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -116,7 +116,7 @@
       "title": "辣妈辣妹2",
       "type": "movie",
       "genreTitle": "奇幻•喜剧•家庭",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-08-06",
       "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
       "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.5,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
-    },
-    {
       "id": 1513598,
       "title": "不翼而飞：世纪大劫案",
       "type": "movie",
@@ -198,6 +187,17 @@
       "overview": "2003年的安特卫普，坚不可摧的钻石中心遭到一伙窃贼洗劫。这起全球最大劫案之一的幕后黑手是谁？他们又是如何得逞的？",
       "poster_url": "https://image.tmdb.org/t/p/original/8ZEggzGFBllYdra4NwsfvCxXxbH.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/xIuAXZOjnELpc3tSpue4tryooGD.jpg"
+    },
+    {
+      "id": 755898,
+      "title": "世界大战",
+      "type": "movie",
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
       "id": 986056,
