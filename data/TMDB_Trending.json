@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-10 05:53:30",
+  "last_updated": "2025-08-10 06:22:15",
   "today_global": [
     {
       "id": 1234821,
@@ -101,17 +101,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 1513598,
-      "title": "不翼而飞：世纪大劫案",
-      "type": "movie",
-      "genreTitle": "纪录•犯罪",
-      "rating": 8.3,
-      "release_date": "2025-08-07",
-      "overview": "2003年的安特卫普，坚不可摧的钻石中心遭到一伙窃贼洗劫。这起全球最大劫案之一的幕后黑手是谁？他们又是如何得逞的？",
-      "poster_url": "https://image.tmdb.org/t/p/original/8ZEggzGFBllYdra4NwsfvCxXxbH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xIuAXZOjnELpc3tSpue4tryooGD.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -123,37 +112,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 1280444,
-      "title": "冻土潜行",
+      "id": 1513598,
+      "title": "不翼而飞：世纪大劫案",
       "type": "movie",
-      "genreTitle": "科幻•剧情•惊悚",
-      "rating": 5.8,
+      "genreTitle": "纪录•犯罪",
+      "rating": 8.3,
       "release_date": "2025-08-07",
-      "overview": "露西有了新老公、新家和新宝宝，但旧日的鬼魂却不肯放过她。她试图帮助那些饱受折磨的灵魂摆脱痛苦，重新开始生活，却很快发现这些鬼魂根本不需要她的帮助。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg"
-    },
-    {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.4,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
-    },
-    {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.7,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+      "overview": "2003年的安特卫普，坚不可摧的钻石中心遭到一伙窃贼洗劫。这起全球最大劫案之一的幕后黑手是谁？他们又是如何得逞的？",
+      "poster_url": "https://image.tmdb.org/t/p/original/8ZEggzGFBllYdra4NwsfvCxXxbH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xIuAXZOjnELpc3tSpue4tryooGD.jpg"
     },
     {
       "id": 196890,
@@ -167,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
-    },
-    {
       "id": 617126,
       "title": "神奇四侠：初露锋芒",
       "type": "movie",
@@ -189,15 +145,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
+      "id": 2190,
+      "title": "南方公园",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+      "genreTitle": "动画•喜剧",
+      "rating": 8.4,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
+    },
+    {
+      "id": 1280444,
+      "title": "冻土潜行",
+      "type": "movie",
+      "genreTitle": "科幻•剧情•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-08-07",
+      "overview": "露西有了新老公、新家和新宝宝，但旧日的鬼魂却不肯放过她。她试图帮助那些饱受折磨的灵魂摆脱痛苦，重新开始生活，却很快发现这些鬼魂根本不需要她的帮助。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
+    },
+    {
+      "id": 1061474,
+      "title": "超人",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.7,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
       "id": 1035259,
@@ -211,15 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     },
     {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 755898,
+      "title": "世界大战",
       "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     }
   ],
   "week_global_all": [
@@ -250,7 +250,7 @@
       "title": "武器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-08-06",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
@@ -301,6 +301,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -312,15 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+      "id": 196890,
+      "title": "战酋",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.6,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 980477,
@@ -334,26 +345,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
+      "id": 986056,
+      "title": "雷霆特攻队*",
       "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 196890,
-      "title": "战酋",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.6,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 1035259,
@@ -400,6 +400,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
       "id": 1242011,
       "title": "同甘共苦",
       "type": "movie",
@@ -420,17 +431,6 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
-    },
-    {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 1125257,
