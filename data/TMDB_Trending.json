@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-10 02:57:19",
+  "last_updated": "2025-08-10 03:20:56",
   "today_global": [
     {
       "id": 1234821,
@@ -90,17 +90,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xIuAXZOjnELpc3tSpue4tryooGD.jpg"
     },
     {
-      "id": 1280444,
-      "title": "冻土潜行",
-      "type": "movie",
-      "genreTitle": "科幻•剧情•惊悚",
-      "rating": 5.8,
-      "release_date": "2025-08-07",
-      "overview": "露西有了新老公、新家和新宝宝，但旧日的鬼魂却不肯放过她。她试图帮助那些饱受折磨的灵魂摆脱痛苦，重新开始生活，却很快发现这些鬼魂根本不需要她的帮助。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队*",
       "type": "movie",
@@ -112,15 +101,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+      "id": 1280444,
+      "title": "冻土潜行",
+      "type": "movie",
+      "genreTitle": "科幻•剧情•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-08-07",
+      "overview": "露西有了新老公、新家和新宝宝，但旧日的鬼魂却不肯放过她。她试图帮助那些饱受折磨的灵魂摆脱痛苦，重新开始生活，却很快发现这些鬼魂根本不需要她的帮助。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg"
     },
     {
       "id": 196890,
@@ -134,15 +123,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
-      "id": 870028,
-      "title": "会计刺客2",
-      "type": "movie",
-      "genreTitle": "悬疑•犯罪•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-04-23",
-      "overview": "克里斯蒂安·沃尔夫（本·阿弗莱克 Ben Affleck 饰）具有破解复杂难题的天赋。当一位旧识惨遭谋杀，并留下一条“去找会计师”的神秘讯息后，沃尔夫不得不开始追查此案。当他发现得用更极端手段时，沃尔夫找了他久未连络、同时是名顶尖杀手的弟弟布莱斯顿（乔·博恩瑟 Jon Bernthal 饰）合作。兄弟俩与美国财政部副局长玛莉贝丝·麦迪纳（辛希亚·阿戴-罗宾森 Cynthia Addai-Robinson 饰）联手，一起揭露这桩致命阴谋，却让他们成为冷血杀手集团的目标，这群杀手无所不用其极也要掩盖秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qY8gDFoRncaKh0B7e9wjT5wdrAv.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/u3PM6P0hX3YzoamIU7q3I4hlNBI.jpg"
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 7451,
@@ -154,17 +143,6 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
       "id": 980477,
@@ -189,15 +167,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
+      "id": 870028,
+      "title": "会计刺客2",
       "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+      "genreTitle": "悬疑•犯罪•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-04-23",
+      "overview": "克里斯蒂安·沃尔夫（本·阿弗莱克 Ben Affleck 饰）具有破解复杂难题的天赋。当一位旧识惨遭谋杀，并留下一条“去找会计师”的神秘讯息后，沃尔夫不得不开始追查此案。当他发现得用更极端手段时，沃尔夫找了他久未连络、同时是名顶尖杀手的弟弟布莱斯顿（乔·博恩瑟 Jon Bernthal 饰）合作。兄弟俩与美国财政部副局长玛莉贝丝·麦迪纳（辛希亚·阿戴-罗宾森 Cynthia Addai-Robinson 饰）联手，一起揭露这桩致命阴谋，却让他们成为冷血杀手集团的目标，这群杀手无所不用其极也要掩盖秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qY8gDFoRncaKh0B7e9wjT5wdrAv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/u3PM6P0hX3YzoamIU7q3I4hlNBI.jpg"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
       "id": 296834,
@@ -211,15 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
       "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.7,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 7.0,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     }
   ],
   "week_global_all": [
@@ -246,15 +246,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8jJbUX5LlIy6fk82d7grNFJeorY.jpg"
     },
     {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
+      "id": 1078605,
+      "title": "武器",
       "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.8,
+      "release_date": "2025-08-06",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
     },
     {
       "id": 1106289,
@@ -268,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
-      "id": 1078605,
-      "title": "武器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 7.8,
-      "release_date": "2025-08-06",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
-    },
-    {
       "id": 1100988,
       "title": "惊变28年",
       "type": "movie",
@@ -288,6 +277,17 @@
       "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
       "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
+    },
+    {
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
       "id": 1087192,
@@ -323,26 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.5,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 1035259,
@@ -356,26 +345,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     },
     {
-      "id": 870028,
-      "title": "会计刺客2",
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
       "type": "movie",
-      "genreTitle": "悬疑•犯罪•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-04-23",
-      "overview": "克里斯蒂安·沃尔夫（本·阿弗莱克 Ben Affleck 饰）具有破解复杂难题的天赋。当一位旧识惨遭谋杀，并留下一条“去找会计师”的神秘讯息后，沃尔夫不得不开始追查此案。当他发现得用更极端手段时，沃尔夫找了他久未连络、同时是名顶尖杀手的弟弟布莱斯顿（乔·博恩瑟 Jon Bernthal 饰）合作。兄弟俩与美国财政部副局长玛莉贝丝·麦迪纳（辛希亚·阿戴-罗宾森 Cynthia Addai-Robinson 饰）联手，一起揭露这桩致命阴谋，却让他们成为冷血杀手集团的目标，这群杀手无所不用其极也要掩盖秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qY8gDFoRncaKh0B7e9wjT5wdrAv.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/u3PM6P0hX3YzoamIU7q3I4hlNBI.jpg"
+      "genreTitle": "科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 755898,
+      "title": "世界大战",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
       "id": 986056,
@@ -389,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 870028,
+      "title": "会计刺客2",
+      "type": "movie",
+      "genreTitle": "悬疑•犯罪•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-04-23",
+      "overview": "克里斯蒂安·沃尔夫（本·阿弗莱克 Ben Affleck 饰）具有破解复杂难题的天赋。当一位旧识惨遭谋杀，并留下一条“去找会计师”的神秘讯息后，沃尔夫不得不开始追查此案。当他发现得用更极端手段时，沃尔夫找了他久未连络、同时是名顶尖杀手的弟弟布莱斯顿（乔·博恩瑟 Jon Bernthal 饰）合作。兄弟俩与美国财政部副局长玛莉贝丝·麦迪纳（辛希亚·阿戴-罗宾森 Cynthia Addai-Robinson 饰）联手，一起揭露这桩致命阴谋，却让他们成为冷血杀手集团的目标，这群杀手无所不用其极也要掩盖秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qY8gDFoRncaKh0B7e9wjT5wdrAv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/u3PM6P0hX3YzoamIU7q3I4hlNBI.jpg"
+    },
+    {
       "id": 241388,
       "title": "瓦坎达之眼",
       "type": "tv",
@@ -398,6 +398,17 @@
       "overview": "Marvel 动画全新动作历险剧集《瓦干达之眼》讲述勇敢的瓦干达战士们的冒险事迹。 故事发生在世界各地，英雄们不顾危险从敌人手中取回振金神器。",
       "poster_url": "https://image.tmdb.org/t/p/original/f6srVogCnFabP2Kgb5xLcL3Y02N.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg"
+    },
+    {
+      "id": 1307078,
+      "title": "爱在牛津的一年",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.3,
+      "release_date": "2025-07-31",
+      "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gzvmYHGD7Rn6IhyY6w89k9MF0bT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/a1OrRCGUFdtt2icChuAqsNdwQBT.jpg"
     },
     {
       "id": 1242011,
@@ -411,17 +422,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
     },
     {
-      "id": 552524,
-      "title": "星际宝贝史迪奇",
-      "type": "movie",
-      "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.3,
-      "release_date": "2025-05-17",
-      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
-    },
-    {
       "id": 1125257,
       "title": "辣妈辣妹2",
       "type": "movie",
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     },
     {
-      "id": 93405,
-      "title": "鱿鱼游戏",
+      "id": 2190,
+      "title": "南方公园",
       "type": "tv",
-      "genreTitle": "动作冒险•悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2021-09-17",
-      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+      "genreTitle": "动画•喜剧",
+      "rating": 8.4,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     }
   ],
   "popular_movies": [
