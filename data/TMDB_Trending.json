@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09 19:40:17",
+  "last_updated": "2025-08-09 19:52:22",
   "today_global": [
     {
       "id": 1234821,
@@ -13,17 +13,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4f2csu7KZ6tXhlmRWGEmBpFZetP.jpg"
     },
     {
-      "id": 1106289,
-      "title": "致命劫持",
-      "type": "movie",
-      "genreTitle": "动作•喜剧•犯罪",
-      "rating": 6.7,
-      "release_date": "2025-07-27",
-      "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
-    },
-    {
       "id": 119051,
       "title": "Wednesday",
       "type": "tv",
@@ -33,6 +22,17 @@
       "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
       "poster_url": "https://image.tmdb.org/t/p/original/pPqyWNopqeDlZxFKMBNl2A4nvSM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8jJbUX5LlIy6fk82d7grNFJeorY.jpg"
+    },
+    {
+      "id": 1106289,
+      "title": "致命劫持",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•犯罪",
+      "rating": 6.7,
+      "release_date": "2025-07-27",
+      "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
       "id": 1078605,
@@ -145,6 +145,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/qs0V1rhIo98gKXimKKduybzMgGi.jpg"
     },
     {
+      "id": 755898,
+      "title": "世界大战",
+      "type": "movie",
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
+    },
+    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -165,17 +176,6 @@
       "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
       "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
-    },
-    {
-      "id": 755898,
-      "title": "世界大战",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.5,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
       "id": 1319895,
@@ -257,17 +257,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.9,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
       "id": 1078605,
       "title": "武器",
       "type": "movie",
@@ -277,6 +266,17 @@
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
+    },
+    {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.9,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
     },
     {
       "id": 980477,
@@ -290,17 +290,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
-      "id": 196890,
-      "title": "战酋",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.6,
-      "release_date": "2025-07-31",
-      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
-    },
-    {
       "id": 207484,
       "title": "古战场传奇：吾血之亲",
       "type": "tv",
@@ -310,6 +299,17 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
+    },
+    {
+      "id": 196890,
+      "title": "战酋",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.6,
+      "release_date": "2025-07-31",
+      "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l0zifgjRtBUk6uNnO5DnV1zk2RD.jpg"
     },
     {
       "id": 1087192,
@@ -378,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     },
     {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -400,15 +411,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+      "id": 296834,
+      "title": "华山论剑",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.4,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     },
     {
       "id": 1136867,
@@ -431,17 +442,6 @@
       "overview": "平凡少年韩立出生贫困，为了让家人过上更好的生活，自愿前去七玄门参加入门考核，最终被墨大夫收入门下。墨大夫一开始对韩立悉心培养、传授医术，让韩立对他非常感激，但随着一同入门的弟子张铁失踪，韩立才发现了墨大夫的真面目。墨大夫试图夺舍韩立，最终却被韩立反杀。通过墨大夫的遗书韩立得知了一个全新世界：修仙界的存在。在帮助七玄门抵御外敌之后，韩立离开了七玄门，前去墨大夫的家中寻找暖阳宝玉解毒，并帮助墨家人打败了敌人。通过墨大夫之女墨彩环的口中得知太南小会地址，韩立为追寻修仙人的足迹决定前往太南小会，拜别家人后，韩立来到太南谷，结识了一众修仙人士，正式展开了自己的修仙之旅。",
       "poster_url": "https://image.tmdb.org/t/p/original/3m1UaMLgmpj6krNaQwTpftYFsnz.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qs0V1rhIo98gKXimKKduybzMgGi.jpg"
-    },
-    {
-      "id": 296834,
-      "title": "华山论剑",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 6.4,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     }
   ],
   "popular_movies": [
