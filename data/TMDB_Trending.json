@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12 12:43:11",
+  "last_updated": "2025-08-12 12:59:04",
   "today_global": [
     {
       "id": 1078605,
@@ -101,6 +101,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
+      "id": 1087192,
+      "title": "新·驯龙高手",
+      "type": "movie",
+      "genreTitle": "奇幻•家庭•动作",
+      "rating": 8.0,
+      "release_date": "2025-06-06",
+      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tkmibNA1BOyUD6g5EM9fASJfpxx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
+    },
+    {
       "id": 1100988,
       "title": "惊变28年",
       "type": "movie",
@@ -134,17 +145,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2TF4AoyiONiEdk04eJOSvDWQHVG.jpg"
     },
     {
-      "id": 1087192,
-      "title": "新·驯龙高手",
-      "type": "movie",
-      "genreTitle": "奇幻•家庭•动作",
-      "rating": 8.0,
-      "release_date": "2025-06-06",
-      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tkmibNA1BOyUD6g5EM9fASJfpxx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
-    },
-    {
       "id": 1242011,
       "title": "同甘共苦",
       "type": "movie",
@@ -167,17 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
-      "id": 296834,
-      "title": "华山论剑",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 6.9,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
-    },
-    {
       "id": 1071585,
       "title": "梅根2.0",
       "type": "movie",
@@ -187,6 +176,28 @@
       "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
       "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+    },
+    {
+      "id": 243224,
+      "title": "凡人修仙传",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 7.0,
+      "release_date": "2025-07-27",
+      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+    },
+    {
+      "id": 296834,
+      "title": "华山论剑",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情",
+      "rating": 6.9,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     },
     {
       "id": 1241470,
@@ -200,26 +211,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.0,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 7.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     }
   ],
   "week_global_all": [
@@ -268,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.9,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
       "id": 1087192,
       "title": "新·驯龙高手",
       "type": "movie",
@@ -288,6 +277,17 @@
       "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
       "poster_url": "https://image.tmdb.org/t/p/original/tkmibNA1BOyUD6g5EM9fASJfpxx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
+    },
+    {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.9,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
     },
     {
       "id": 980477,
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.3,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ru2odGJCvsz5D68FiE1Mt2aHkzQ.jpg"
-    },
-    {
       "id": 1125257,
       "title": "辣妈辣妹2",
       "type": "movie",
@@ -334,15 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     },
     {
-      "id": 296834,
-      "title": "华山论剑",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 6.9,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
+      "id": 755898,
+      "title": "世界大战",
+      "type": "movie",
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.3,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ru2odGJCvsz5D68FiE1Mt2aHkzQ.jpg"
     },
     {
       "id": 617126,
@@ -356,6 +345,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
+      "id": 296834,
+      "title": "华山论剑",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情",
+      "rating": 6.9,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
+    },
+    {
       "id": 207484,
       "title": "古战场传奇：吾血之亲",
       "type": "tv",
@@ -365,17 +365,6 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 7.0,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
     },
     {
       "id": 243224,
@@ -389,17 +378,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
-    },
-    {
       "id": 1242011,
       "title": "同甘共苦",
       "type": "movie",
@@ -409,6 +387,28 @@
       "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
       "poster_url": "https://image.tmdb.org/t/p/original/6OlWLe4ohPQYrLFIFBPwD8BtO.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.0,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
       "id": 259909,
@@ -422,17 +422,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
       "id": 1071585,
       "title": "梅根2.0",
       "type": "movie",
@@ -442,6 +431,17 @@
       "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
       "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     }
   ],
   "popular_movies": [
