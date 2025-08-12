@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-08-12 19:52:58",
+  "last_updated": "2025-08-12 20:50:04",
   "today_global": [
+    {
+      "id": 1078605,
+      "title": "武器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.7,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
+    },
     {
       "id": 1234821,
       "title": "侏罗纪世界：重生",
@@ -22,28 +33,6 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/n8tuqPTlxYjAz4WtX8E6Ky4pgiG.jpg"
-    },
-    {
-      "id": 1078605,
-      "title": "武器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 7.7,
-      "release_date": "2025-08-04",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
-    },
-    {
-      "id": 936108,
-      "title": "魔法蓝精灵",
-      "type": "movie",
-      "genreTitle": "动画•家庭•奇幻",
-      "rating": 5.8,
-      "release_date": "2025-07-05",
-      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
     },
     {
       "id": 119051,
@@ -68,6 +57,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/20vNpx2FIcx2IWFEnyJkMnc9JWm.jpg"
     },
     {
+      "id": 936108,
+      "title": "魔法蓝精灵",
+      "type": "movie",
+      "genreTitle": "动画•家庭•奇幻",
+      "rating": 5.8,
+      "release_date": "2025-07-05",
+      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
+    },
+    {
       "id": 243224,
       "title": "凡人修仙传",
       "type": "tv",
@@ -88,28 +88,6 @@
       "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
       "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
-    },
-    {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.9,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
-      "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
       "id": 1087192,
@@ -134,26 +112,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
+      "id": 1007734,
+      "title": "Nobody 2",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 8.2,
+      "release_date": "2025-08-13",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/7bSxFIz5bV451z7IiYyelWgOQCr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fPezuCUB4cWnkA1qVBYR3cbk94O.jpg"
     },
     {
-      "id": 106449,
-      "title": "凡人修仙传",
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "genreTitle": "犯罪•剧情",
       "rating": 9.0,
-      "release_date": "2020-07-25",
-      "overview": "平凡少年韩立出生贫困，为了让家人过上更好的生活，自愿前去七玄门参加入门考核，最终被墨大夫收入门下。墨大夫一开始对韩立悉心培养、传授医术，让韩立对他非常感激，但随着一同入门的弟子张铁失踪，韩立才发现了墨大夫的真面目。墨大夫试图夺舍韩立，最终却被韩立反杀。通过墨大夫的遗书韩立得知了一个全新世界：修仙界的存在。在帮助七玄门抵御外敌之后，韩立离开了七玄门，前去墨大夫的家中寻找暖阳宝玉解毒，并帮助墨家人打败了敌人。通过墨大夫之女墨彩环的口中得知太南小会地址，韩立为追寻修仙人的足迹决定前往太南小会，拜别家人后，韩立来到太南谷，结识了一众修仙人士，正式展开了自己的修仙之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3m1UaMLgmpj6krNaQwTpftYFsnz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qs0V1rhIo98gKXimKKduybzMgGi.jpg"
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 617126,
@@ -167,59 +156,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 296834,
-      "title": "华山论剑",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+    },
+    {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
       "rating": 6.9,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "id": 1242011,
+      "title": "同甘共苦",
       "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.1,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.7,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.7,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队*",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
+      "genreTitle": "恐怖",
       "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+      "release_date": "2025-07-28",
+      "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6OlWLe4ohPQYrLFIFBPwD8BtO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
+    },
+    {
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
+      "type": "movie",
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
+    },
+    {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.2,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
+    },
+    {
+      "id": 81723,
+      "title": "镀金时代",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.7,
+      "release_date": "2022-01-24",
+      "overview": "镀金时代是经济上经历剧变的时期，在新旧钱财来来去去之际，伴随而来的是日益严重的贫富不均。在这变化莫测的时代背景下，本故事始于1882年，年轻的玛丽安·布鲁克是联邦军将领之女，在父亲过世后成了孤儿并搬到纽约的爱格·凡瑞恩和艾达·布鲁克姑姑家。在她身边的还有位才华洋溢，名叫佩姬·史考特的黑人女性。玛丽安不经意地被卷入了姑姑与邻居的社交争斗中。前者是继承大量遗产的名门后代，后者则是坐拥巨额财富且冷酷无情的铁路大亨与其野心勃勃的妻子，乔治与宝莎·罗素。在这新旧交替之际，玛丽安是会循着旧传统的规矩，或是开创新的道路呢？",
+      "poster_url": "https://image.tmdb.org/t/p/original/4zXlBCc1rNTDtrfMCBFIGKWlwnC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2TF4AoyiONiEdk04eJOSvDWQHVG.jpg"
     }
   ],
   "week_global_all": [
@@ -268,28 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
     },
     {
-      "id": 648878,
-      "title": "爱丁顿",
-      "type": "movie",
-      "genreTitle": "西部•喜剧•犯罪",
-      "rating": 6.6,
-      "release_date": "2025-07-16",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/n8tuqPTlxYjAz4WtX8E6Ky4pgiG.jpg"
-    },
-    {
-      "id": 936108,
-      "title": "魔法蓝精灵",
-      "type": "movie",
-      "genreTitle": "动画•家庭•奇幻",
-      "rating": 5.8,
-      "release_date": "2025-07-05",
-      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
-    },
-    {
       "id": 1100988,
       "title": "惊变28年",
       "type": "movie",
@@ -299,17 +277,6 @@
       "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
       "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 7.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
       "id": 1087192,
@@ -323,59 +290,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
-      "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
-    },
-    {
-      "id": 157239,
-      "title": "异形：地球",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 9.2,
-      "release_date": "2025-08-12",
-      "overview": "讲述电影《异形》三十年前的故事，探索地球上维兰德·汤谷公司的崛起。\n\n一艘神秘的宇航飞行器坠毁在地球，一名年轻女子（西德尼·钱德勒 饰）与一支杂牌军团有了重大发现，他们将直接面临这个星球最可怕的威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/10tTnlAvk0gEXSv43Sd1S6UQFtR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/20vNpx2FIcx2IWFEnyJkMnc9JWm.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
+      "id": 1071585,
+      "title": "梅根2.0",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g9ntKauqKSemVbGIATw0PPiyI3C.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.7,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
       "id": 617126,
@@ -389,15 +334,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 296834,
-      "title": "华山论剑",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 6.9,
-      "release_date": "2025-07-26",
-      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
+      "id": 1061474,
+      "title": "超人",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.7,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+    },
+    {
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "奇幻•喜剧•家庭",
+      "rating": 7.2,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vqyUDa958hD7vQoRk09zCEJYApS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/99ij6koKEKozsehmIbO07cC2B4k.jpg"
     },
     {
       "id": 207484,
@@ -411,15 +378,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.7,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1242011,
+      "title": "同甘共苦",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 7.4,
+      "release_date": "2025-07-28",
+      "overview": "　　搬到农村已经考验了一对夫妇关系的极限，一场超自然的邂逅开始了他们爱情、生活和肉体的极端转变。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6OlWLe4ohPQYrLFIFBPwD8BtO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fU6QVWHTFmWrLT96vFWfUm3rFCJ.jpg"
+    },
+    {
+      "id": 296834,
+      "title": "华山论剑",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情",
+      "rating": 6.9,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。《九阴真经》单元讲述了海商之女梅若华，少时遭奸人灭门，自此背负血海深仇。她因缘际会拜师桃花岛，从此改名梅超风，并与师兄陈玄风暗生情愫。梅超风一心想修习绝世武功复仇，误以为黄药师私藏《九阴真经》不愿传授，梅陈二人情根深种，定情盟誓，决定携手盗取经书，叛逃出岛。二人练成九阴白骨爪，黑风双煞，一战成名，却注定无法长相厮守。《东邪西毒》单元讲述了黄药师、欧阳锋，两个初涉江湖之怪人，一个逍遥近似仙，一个天真如孩童，亦敌亦友，亦正亦邪，他们用自己的规则打破江湖秩序，掀起一场云谲波诡的乱世纷争。《南帝北丐》单元讲述了逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，“一阳指”对上“降龙十八掌”，石破天惊 ！《五绝争锋》单元讲述了绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经“活地图”，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l3NH7OEFR7vAOjSaVFlxEWyMAHr.jpg"
     },
     {
       "id": 755898,
@@ -442,6 +431,17 @@
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/58mF9Fx3HnOGHnNNYcCu7IHsfO1.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     }
   ],
   "popular_movies": [
