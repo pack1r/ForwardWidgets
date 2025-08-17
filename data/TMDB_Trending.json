@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-17 10:08:05",
+  "last_updated": "2025-08-17 20:48:21",
   "today_global": [
     {
       "id": 1061474,
@@ -13,17 +13,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1254624,
-      "title": "黑夜终至",
-      "type": "movie",
-      "genreTitle": "惊悚•剧情•犯罪",
-      "rating": 5.8,
-      "release_date": "2025-08-15",
-      "overview": "改编自威利·弗劳廷所著同名小说，讲述一个女人为拯救家庭、防止家人被驱逐出家族的房子，冒着一切风险踏上一夜的惊险旅程，在波特兰的犯罪圈里筹集资金，期间她被迫直面自己黑暗的过去，最终获得自由。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1rIfeKSJzCKVlyOygVLgxI6wETk.jpg"
-    },
-    {
       "id": 157239,
       "title": "异形：地球",
       "type": "tv",
@@ -35,15 +24,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
     },
     {
+      "id": 1254624,
+      "title": "黑夜终至",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情•犯罪",
+      "rating": 5.9,
+      "release_date": "2025-08-15",
+      "overview": "改编自威利·弗劳廷所著同名小说，讲述一个女人为拯救家庭、防止家人被驱逐出家族的房子，冒着一切风险踏上一夜的惊险旅程，在波特兰的犯罪圈里筹集资金，期间她被迫直面自己黑暗的过去，最终获得自由。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6jIfZDw7zMl186nMx4QBWMIiJEa.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1rIfeKSJzCKVlyOygVLgxI6wETk.jpg"
+    },
+    {
       "id": 1078605,
-      "title": "武器",
+      "title": "凶器",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
       "rating": 7.6,
       "release_date": "2025-08-04",
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/original/7mmEEgmuT5NSJEDsDbfa1J0NdBl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mkXVodQeRdfZnWbhYlN6eRNPx5G.jpg"
     },
     {
       "id": 1234821,
@@ -68,17 +68,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 936108,
-      "title": "魔法蓝精灵",
-      "type": "movie",
-      "genreTitle": "动画•家庭•奇幻",
-      "rating": 5.9,
-      "release_date": "2025-07-05",
-      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/p77dVuTzUilZS3qKd0gYsxCUHFy.jpg"
-    },
-    {
       "id": 106449,
       "title": "凡人修仙传",
       "type": "tv",
@@ -99,6 +88,39 @@
       "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
       "poster_url": "https://image.tmdb.org/t/p/original/pPqyWNopqeDlZxFKMBNl2A4nvSM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8jJbUX5LlIy6fk82d7grNFJeorY.jpg"
+    },
+    {
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
+    },
+    {
+      "id": 936108,
+      "title": "魔法蓝精灵",
+      "type": "movie",
+      "genreTitle": "动画•家庭•奇幻",
+      "rating": 5.9,
+      "release_date": "2025-07-05",
+      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/p77dVuTzUilZS3qKd0gYsxCUHFy.jpg"
+    },
+    {
+      "id": 537921,
+      "title": "雄狗狗大冒险",
+      "type": "movie",
+      "genreTitle": "动画•喜剧",
+      "rating": 6.7,
+      "release_date": "2025-08-13",
+      "overview": "得知自己要被绝育后，一只狗只有 24 小时时间，和兄弟们抓紧完成一场毫无顾忌的终极冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9jpCvt6jrCKMCf3OCfZ0bM5mur3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zKk6w3gD1vMtNbdJxuQPWLz7E3t.jpg"
     },
     {
       "id": 227114,
@@ -123,6 +145,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 207468,
+      "title": "怪兽8号",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2024-04-13",
+      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
+    },
+    {
       "id": 648878,
       "title": "爱丁顿",
       "type": "movie",
@@ -132,17 +165,6 @@
       "overview": "2020年的5月，新墨西哥州爱丁顿小镇的治安官与市长发生冲突，点燃了居民之间的火药桶，有一对夫妻被困在此处。",
       "poster_url": "https://image.tmdb.org/t/p/original/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/whIvADtmrx0OgRGqeC7FmrxKibt.jpg"
-    },
-    {
-      "id": 537921,
-      "title": "雄狗狗大冒险",
-      "type": "movie",
-      "genreTitle": "动画•喜剧",
-      "rating": 6.6,
-      "release_date": "2025-08-13",
-      "overview": "得知自己要被绝育后，一只狗只有 24 小时时间，和兄弟们抓紧完成一场毫无顾忌的终极冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9jpCvt6jrCKMCf3OCfZ0bM5mur3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zKk6w3gD1vMtNbdJxuQPWLz7E3t.jpg"
     },
     {
       "id": 259909,
@@ -156,70 +178,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
+      "id": 1007734,
+      "title": "小人物2",
       "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.2,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 207468,
-      "title": "怪兽8号",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2024-04-13",
-      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
+      "genreTitle": "动作•喜剧•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-08-13",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/q87G2n1jE6THotwwjMv9sdrN6J8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fPezuCUB4cWnkA1qVBYR3cbk94O.jpg"
     },
     {
       "id": 1151031,
       "title": "复活她",
       "type": "movie",
       "genreTitle": "恐怖",
-      "rating": 7.4,
+      "rating": 7.5,
       "release_date": "2025-05-28",
       "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ocCNYIYWzIUV91YZYzDZ1cAQOPT.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.2,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uG6gjm1GnDaXI5eTQhiwQ0mkPAM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 1484453,
-      "title": "Snoopy Presents: A Summer Musical",
-      "type": "movie",
-      "genreTitle": "动画•家庭",
-      "rating": 8.0,
-      "release_date": "2025-08-14",
-      "overview": "伴随着音乐的旋律以及弥漫在空气中的欢乐氛围，查理·布朗和他的小伙伴开启人生最后一年的夏令营之旅，但从未参加过露营的的莎莉却不知该何去何从。而当得知营地可能面临关闭的危机，他们毅然决定组建乐队进行拯救，以期在未来能有更多的孩子在这里留下自己特别的回忆。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b6pE1nafw0PQVx11hMPtQycu3bz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gwuj4gh4cljezwOX7u7TNI6kFDS.jpg"
-    },
-    {
-      "id": 215995,
-      "title": "烟火寻凶",
+      "id": 1405,
+      "title": "嗜血法医",
       "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 5.7,
-      "release_date": "2025-06-26",
-      "overview": "一名纵火调查员勉为其难与一名警探合作，他们分秒必争要阻止两名纵火犯，却引发一场充满秘密与猜忌的病态游戏。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ePz5xt7tmYRgj4u1H2wT40mwP9b.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twCHZ8rHglTQpNCOp3kJPwR9cbn.jpg"
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 8.2,
+      "release_date": "2006-10-01",
+      "overview": "主角德克斯特·摩根（Dexter Morgan，迈克尔·C·霍尔饰）幼时目睹母亲被谋杀，造成永久性的心灵创伤，令到他长大后有杀人倾向。他当警察的养父哈利·摩根（Harry Morgan）发现后，决定训练德克斯特只杀那些穷凶极恶的人，好为社会除害。哈利亦教晓德克斯特怎样消灭证据，让他不会被警方拘捕，而德克斯特最后则进入迈阿密大都会警局工作，成为他们的血迹喷溅分析师。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aEja2B4A8RO86TJDuSzbPjGzaxV.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yogaYXqv4LJXep7lk8YDg4PmcDZ.jpg"
+    },
+    {
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     }
   ],
   "week_global_all": [
@@ -246,17 +246,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
     },
     {
-      "id": 1078605,
-      "title": "武器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 7.6,
-      "release_date": "2025-08-04",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
-    },
-    {
       "id": 1234821,
       "title": "侏罗纪世界：重生",
       "type": "movie",
@@ -266,6 +255,17 @@
       "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
       "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/n5qvpe67j8ar7fyIPRkwogE80Ul.jpg"
+    },
+    {
+      "id": 1078605,
+      "title": "凶器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.6,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7mmEEgmuT5NSJEDsDbfa1J0NdBl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mkXVodQeRdfZnWbhYlN6eRNPx5G.jpg"
     },
     {
       "id": 119051,
@@ -279,15 +279,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8jJbUX5LlIy6fk82d7grNFJeorY.jpg"
     },
     {
-      "id": 1254624,
-      "title": "黑夜终至",
+      "id": 980477,
+      "title": "哪吒之魔童闹海",
       "type": "movie",
-      "genreTitle": "惊悚•剧情•犯罪",
-      "rating": 5.8,
-      "release_date": "2025-08-15",
-      "overview": "改编自威利·弗劳廷所著同名小说，讲述一个女人为拯救家庭、防止家人被驱逐出家族的房子，冒着一切风险踏上一夜的惊险旅程，在波特兰的犯罪圈里筹集资金，期间她被迫直面自己黑暗的过去，最终获得自由。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1rIfeKSJzCKVlyOygVLgxI6wETk.jpg"
+      "genreTitle": "动画•奇幻•冒险",
+      "rating": 8.0,
+      "release_date": "2025-01-29",
+      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
     },
     {
       "id": 227114,
@@ -301,6 +301,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7OD4gNJxBNqZI7OuHRhobhCRLcY.jpg"
     },
     {
+      "id": 648878,
+      "title": "爱丁顿",
+      "type": "movie",
+      "genreTitle": "西部•喜剧•犯罪",
+      "rating": 6.6,
+      "release_date": "2025-07-16",
+      "overview": "2020年的5月，新墨西哥州爱丁顿小镇的治安官与市长发生冲突，点燃了居民之间的火药桶，有一对夫妻被困在此处。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/whIvADtmrx0OgRGqeC7FmrxKibt.jpg"
+    },
+    {
+      "id": 537921,
+      "title": "雄狗狗大冒险",
+      "type": "movie",
+      "genreTitle": "动画•喜剧",
+      "rating": 6.7,
+      "release_date": "2025-08-13",
+      "overview": "得知自己要被绝育后，一只狗只有 24 小时时间，和兄弟们抓紧完成一场毫无顾忌的终极冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9jpCvt6jrCKMCf3OCfZ0bM5mur3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zKk6w3gD1vMtNbdJxuQPWLz7E3t.jpg"
+    },
+    {
       "id": 936108,
       "title": "魔法蓝精灵",
       "type": "movie",
@@ -312,15 +334,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/p77dVuTzUilZS3qKd0gYsxCUHFy.jpg"
     },
     {
-      "id": 648878,
-      "title": "爱丁顿",
+      "id": 1254624,
+      "title": "黑夜终至",
       "type": "movie",
-      "genreTitle": "西部•喜剧•犯罪",
-      "rating": 6.6,
-      "release_date": "2025-07-16",
-      "overview": "2020年的5月，新墨西哥州爱丁顿小镇的治安官与市长发生冲突，点燃了居民之间的火药桶，有一对夫妻被困在此处。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/whIvADtmrx0OgRGqeC7FmrxKibt.jpg"
+      "genreTitle": "惊悚•剧情•犯罪",
+      "rating": 5.9,
+      "release_date": "2025-08-15",
+      "overview": "改编自威利·弗劳廷所著同名小说，讲述一个女人为拯救家庭、防止家人被驱逐出家族的房子，冒着一切风险踏上一夜的惊险旅程，在波特兰的犯罪圈里筹集资金，期间她被迫直面自己黑暗的过去，最终获得自由。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6jIfZDw7zMl186nMx4QBWMIiJEa.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1rIfeKSJzCKVlyOygVLgxI6wETk.jpg"
     },
     {
       "id": 1087192,
@@ -334,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.2,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -356,15 +367,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 537921,
-      "title": "雄狗狗大冒险",
+      "id": 541671,
+      "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
-      "genreTitle": "动画•喜剧",
-      "rating": 6.6,
-      "release_date": "2025-08-13",
-      "overview": "得知自己要被绝育后，一只狗只有 24 小时时间，和兄弟们抓紧完成一场毫无顾忌的终极冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9jpCvt6jrCKMCf3OCfZ0bM5mur3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zKk6w3gD1vMtNbdJxuQPWLz7E3t.jpg"
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.4,
+      "release_date": "2025-06-04",
+      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+      "poster_url": "https://image.tmdb.org/t/p/original/5RuBsGKMmMwxsLkhdQ5CJdeBgar.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
       "id": 37854,
@@ -389,59 +411,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.8,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r7syGYtELCSj1vWn5tELF1vtaW4.jpg"
-    },
-    {
-      "id": 980477,
-      "title": "哪吒之魔童闹海",
-      "type": "movie",
-      "genreTitle": "动画•奇幻•冒险",
-      "rating": 8.0,
-      "release_date": "2025-01-29",
-      "overview": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？ 申公豹放出被囚的四龙王，东海龙王敖光表示“我若出战，就让陈塘关鸡犬不留”，哪吒为了守卫陈塘关将与四海龙王大打出手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zOrFOYMqlJPxG1ea5OkL7fp2fkk.jpg"
-    },
-    {
-      "id": 207484,
-      "title": "古战场传奇：吾血之亲",
+      "id": 133748,
+      "title": "烈火战车",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 9.3,
-      "release_date": "2025-08-08",
+      "genreTitle": "动作冒险•喜剧",
+      "rating": 7.8,
+      "release_date": "2023-07-27",
+      "overview": "麦凯饰演无名氏，一个对过去毫无记忆的送奶工，他得到了一个过上更好生活的机会——将一个神秘的包裹运送到后末世世界的荒原上。\n\n他和跟班——一个好战的偷车贼在这条道路上面临各种威胁：野蛮的掠夺者、精神错乱开冰激凌卡车的小丑等。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7NAll7asGoVeIpcZkF2lyJByCCi.jpg"
+    },
+    {
+      "id": 1007734,
+      "title": "小人物2",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-08-13",
       "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/x2CoL8T1sCS3AkeMhcWDqnQ6I8d.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/original/q87G2n1jE6THotwwjMv9sdrN6J8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fPezuCUB4cWnkA1qVBYR3cbk94O.jpg"
     },
     {
-      "id": 106449,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-07-25",
-      "overview": "平凡少年韩立出生贫困，为了让家人过上更好的生活，自愿前去七玄门参加入门考核，最终被墨大夫收入门下。墨大夫一开始对韩立悉心培养、传授医术，让韩立对他非常感激，但随着一同入门的弟子张铁失踪，韩立才发现了墨大夫的真面目。墨大夫试图夺舍韩立，最终却被韩立反杀。通过墨大夫的遗书韩立得知了一个全新世界：修仙界的存在。在帮助七玄门抵御外敌之后，韩立离开了七玄门，前去墨大夫的家中寻找暖阳宝玉解毒，并帮助墨家人打败了敌人。通过墨大夫之女墨彩环的口中得知太南小会地址，韩立为追寻修仙人的足迹决定前往太南小会，拜别家人后，韩立来到太南谷，结识了一众修仙人士，正式展开了自己的修仙之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3m1UaMLgmpj6krNaQwTpftYFsnz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qs0V1rhIo98gKXimKKduybzMgGi.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 7.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.2,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uG6gjm1GnDaXI5eTQhiwQ0mkPAM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     }
   ],
   "popular_movies": [
@@ -457,17 +457,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-02",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/n5qvpe67j8ar7fyIPRkwogE80Ul.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -479,11 +468,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-02",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/n5qvpe67j8ar7fyIPRkwogE80Ul.jpg"
+    },
+    {
       "id": 1241470,
       "title": "太空杀路",
       "type": "movie",
       "genreTitle": "科幻•动作•恐怖",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2025-07-25",
       "overview": "在这部电影中，一队特种部队突击队员在执行任务的过程中被一艘神秘的宇宙飞船绑架。当他们在飞船上醒来时，很快发现自己正在被一个无情的外星种族追捕。",
       "poster_url": "https://image.tmdb.org/t/p/original/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
@@ -501,17 +501,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rIA80h7plU21PIK9zzZZpXviZOA.jpg"
     },
     {
-      "id": 1185528,
-      "title": "射雕英雄传：侠之大者",
-      "type": "movie",
-      "genreTitle": "动作•剧情•历史",
-      "rating": 6.5,
-      "release_date": "2025-01-29",
-      "overview": "恩怨情仇的江湖，权势角力的战乱时代，郭靖（肖战 饰）童年离别家乡，逐渐炼就可改变局面和命运的庞大力量。虽受高人赏识和器重，得传天下绝世武功“九阴真经”和“降龙十八掌”，却惹来各方嫉忌，成为众矢之的。  　　郭靖，不亢不卑，怀赤子之心，与黄蓉（庄达菲 饰）在铁骑箭雨和硝烟旌旗中，力挽狂澜，保护南宋边关。  　　雕海苍穹，勇者无惧，侠之大者，力拔山河，成就武林传说。  　　本片主要改编自金庸同名原著第34至40章。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xZmUHiZlzuU3FuD9EE5wdZpNc95.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6DdR61MKx28uLU5rb5c8L5C9D1W.jpg"
-    },
-    {
       "id": 1311031,
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
@@ -527,7 +516,7 @@
       "title": "暴力接管",
       "type": "movie",
       "genreTitle": "动作•喜剧•惊悚",
-      "rating": 7.3,
+      "rating": 7.6,
       "release_date": "2025-08-08",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
@@ -545,6 +534,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
+      "id": 1185528,
+      "title": "射雕英雄传：侠之大者",
+      "type": "movie",
+      "genreTitle": "动作•剧情•历史",
+      "rating": 6.5,
+      "release_date": "2025-01-29",
+      "overview": "恩怨情仇的江湖，权势角力的战乱时代，郭靖（肖战 饰）童年离别家乡，逐渐炼就可改变局面和命运的庞大力量。虽受高人赏识和器重，得传天下绝世武功“九阴真经”和“降龙十八掌”，却惹来各方嫉忌，成为众矢之的。  　　郭靖，不亢不卑，怀赤子之心，与黄蓉（庄达菲 饰）在铁骑箭雨和硝烟旌旗中，力挽狂澜，保护南宋边关。  　　雕海苍穹，勇者无惧，侠之大者，力拔山河，成就武林传说。  　　本片主要改编自金庸同名原著第34至40章。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xZmUHiZlzuU3FuD9EE5wdZpNc95.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6DdR61MKx28uLU5rb5c8L5C9D1W.jpg"
+    },
+    {
+      "id": 1285247,
+      "title": "刺杀敢死队",
+      "type": "movie",
+      "genreTitle": "战争•动作",
+      "rating": 5.7,
+      "release_date": "2024-07-05",
+      "overview": "在诺曼底登陆期间，一群美国士兵接到命令，将一名法国抵抗运动成员偷运到敌后，暗杀一个高价值的纳粹目标。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oUzLjO3Lo6yP6bJJ052FbVJwbw3.jpg"
+    },
+    {
       "id": 1106289,
       "title": "致命劫持",
       "type": "movie",
@@ -554,28 +565,6 @@
       "overview": "一次例行的现金押运任务突然变得危机四伏，各方面都迥异的装甲卡车司机罗塞尔 和特拉维斯 被冷酷无情的罪犯伏击，这些罪犯由精明的幕后主使佐伊 领导。随着混乱局面的爆发，这对本不合拍的搭档必须在危险和性格冲突中周旋应对，度过这状况不断失控的糟糕的一天。",
       "poster_url": "https://image.tmdb.org/t/p/original/wz43lNee1VWcaP3GA6bCTzzoFzp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/u7Vv9t970paVKJ75B8Dgl28kaVF.jpg"
-    },
-    {
-      "id": 1285247,
-      "title": "刺杀敢死队",
-      "type": "movie",
-      "genreTitle": "战争•动作",
-      "rating": 5.6,
-      "release_date": "2024-07-05",
-      "overview": "在诺曼底登陆期间，一群美国士兵接到命令，将一名法国抵抗运动成员偷运到敌后，暗杀一个高价值的纳粹目标。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oUzLjO3Lo6yP6bJJ052FbVJwbw3.jpg"
-    },
-    {
-      "id": 1078605,
-      "title": "武器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 7.7,
-      "release_date": "2025-08-04",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6gPW0QD0JncCqVJLLKJn3s8cDNC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cmNgqZemULu6WNltiYAnkKbLAl2.jpg"
     },
     {
       "id": 1155281,
@@ -589,11 +578,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jfUOhM0Xz4yOCWLFpdw1M1fft0V.jpg"
     },
     {
+      "id": 1078605,
+      "title": "凶器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.6,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7mmEEgmuT5NSJEDsDbfa1J0NdBl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mkXVodQeRdfZnWbhYlN6eRNPx5G.jpg"
+    },
+    {
       "id": 986206,
       "title": "夜间屠杀",
       "type": "movie",
       "genreTitle": "动作•恐怖•爱情",
-      "rating": 5.8,
+      "rating": 5.9,
       "release_date": "2025-07-29",
       "overview": "一个狼人博主遇到了一个迷人的花花公子，他隐藏着自己的神秘秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/w0wjPQKhlqisSbylf1sWZiNyc2h.jpg",
