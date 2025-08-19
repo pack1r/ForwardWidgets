@@ -66,6 +66,8 @@ def get_image_url(path, size="original"):
 
 def get_best_title_backdrop(image_data):
     backdrops = image_data.get("backdrops", [])
+    if not backdrops:
+        return None
     
     def get_priority_score(backdrop):
         lang = backdrop.get("iso_639_1")
