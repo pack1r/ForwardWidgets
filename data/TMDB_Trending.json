@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 09:43:58",
+  "last_updated": "2025-09-12 20:44:29",
   "today_global": [
     {
       "id": 1078605,
@@ -13,26 +13,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
     },
     {
-      "id": 253376,
-      "title": "女朋友",
+      "id": 110492,
+      "title": "和平使者",
       "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.2,
-      "release_date": "2025-09-10",
-      "overview": "劳拉拥有一切：光鲜亮丽的事业、深爱她的丈夫，以及她最珍贵的儿子丹尼尔。但当丹尼尔带回女友切蕊时，一切开始失控。这场紧张的初次见面之后，劳拉愈发坚信切蕊有所隐瞒。究竟是切蕊心机深重、想攀高枝，还是劳拉自己多疑？真相，其实取决于视角。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1DrUYhdTLMdTmeXTeX81YTlMYkn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3EOlIqLkQU9mUhMo9cHOQtVkwPy.jpg"
-    },
-    {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 8.2,
+      "release_date": "2022-01-13",
+      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
     },
     {
       "id": 119051,
@@ -46,15 +35,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg"
     },
     {
-      "id": 263034,
-      "title": "赴山海",
+      "id": 93740,
+      "title": "Foundation",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 10.0,
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.7,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 1007734,
+      "title": "小人物2",
+      "type": "movie",
+      "genreTitle": "动作•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-08-13",
+      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+    },
+    {
+      "id": 1321439,
+      "title": "乌龙巴黎梦",
+      "type": "movie",
+      "genreTitle": "喜剧•爱情",
+      "rating": 3.0,
       "release_date": "2025-09-11",
-      "overview": "一名酷爱武侠小说却被现实磨平棱角的咸鱼肖明明，以小说男主角萧秋水的视角游历了一次武林世界，从武力低微、热血冲动的少年剑客，最终成长为有情有义、守护家国的大侠。此后肖明明在工作之余也不忘创作，在小说中继续传递人心因义而聚的信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jOEKN1yCpbTwuVCN4RxLCVHEn8c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg"
+      "overview": "道恩以为自己要参加的约会节目在法国巴黎，但其实是在德克萨斯州的巴黎。她想好了退出计划，结果却与一名牛仔单身汉擦出火花。",
+      "poster_url": "https://image.tmdb.org/t/p/original/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i8QHgJKnsd8csNBo8fH9wYW2Y9E.jpg"
+    },
+    {
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
+    },
+    {
+      "id": 253376,
+      "title": "女朋友",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.2,
+      "release_date": "2025-09-10",
+      "overview": "劳拉拥有一切：光鲜亮丽的事业、深爱她的丈夫，以及她最珍贵的儿子丹尼尔。但当丹尼尔带回女友切蕊时，一切开始失控。这场紧张的初次见面之后，劳拉愈发坚信切蕊有所隐瞒。究竟是切蕊心机深重、想攀高枝，还是劳拉自己多疑？真相，其实取决于视角。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1DrUYhdTLMdTmeXTeX81YTlMYkn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3EOlIqLkQU9mUhMo9cHOQtVkwPy.jpg"
+    },
+    {
+      "id": 1428213,
+      "title": "反派学院",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 8.0,
+      "release_date": "2025-09-10",
+      "overview": "在餐馆工作的女子被一台神秘的电视机传送到了荧幕反派就读的学校，让她找到了新的生活目标——以及报复自己死对头的方式。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uiW2ff73RZzPABKtnjW5wmt43CU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7noJpeZSMJhYHMHtmjdl89y5qQ.jpg"
     },
     {
       "id": 231727,
@@ -68,6 +123,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jxMGYoHzPt0dcg3DUZp91fpmwkI.jpg"
     },
     {
+      "id": 263034,
+      "title": "赴山海",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 6.5,
+      "release_date": "2025-09-11",
+      "overview": "一名酷爱武侠小说却被现实磨平棱角的咸鱼肖明明，以小说男主角萧秋水的视角游历了一次武林世界，从武力低微、热血冲动的少年剑客，最终成长为有情有义、守护家国的大侠。此后肖明明在工作之余也不忘创作，在小说中继续传递人心因义而聚的信念。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jOEKN1yCpbTwuVCN4RxLCVHEn8c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg"
+    },
+    {
       "id": 157239,
       "title": "异形：地球",
       "type": "tv",
@@ -79,15 +145,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
     },
     {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
+      "id": 1061474,
+      "title": "超人",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.5,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nMINzENxx1VNCjhFWe61PSTt9HT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
+    },
+    {
+      "id": 283390,
+      "title": "就是爱不到的单身女子恋习志",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
+      "genreTitle": "喜剧",
+      "rating": 0.0,
+      "release_date": "2025-09-11",
+      "overview": "约炮、网恋以及各种乱七八糟的男人 — 约会对阿曼达来说并不容易。尽管被马尔默一半的人甩过，但她仍未放弃。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ja3riOwvG7fv7FZ56uoVSxlZTQE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aDtw3J83Mq1ZiaUkpvxtVEJR81o.jpg"
     },
     {
       "id": 1038392,
@@ -105,33 +182,11 @@
       "title": "黑色丽人",
       "type": "tv",
       "genreTitle": "剧情",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2024-10-24",
       "overview": "泰勒·派瑞的《黑色丽人》讲述两个过着截然不同生活的女人的故事：金蜜在被母亲赶出家门后努力谋生，玛洛莉则经营着一家成功的企业，她们宛如平行线的人生意外交会，从此纠缠不清。",
       "poster_url": "https://image.tmdb.org/t/p/original/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kKep27Lh3Gi78cy0xHGTVsoGsQp.jpg"
-    },
-    {
-      "id": 1428213,
-      "title": "反派学院",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 8.0,
-      "release_date": "2025-09-11",
-      "overview": "在餐馆工作的女子被一台神秘的电视机传送到了荧幕反派就读的学校，让她找到了新的生活目标——以及报复自己死对头的方式。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uiW2ff73RZzPABKtnjW5wmt43CU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7noJpeZSMJhYHMHtmjdl89y5qQ.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "白头神探：智斗灭世狂人",
-      "type": "movie",
-      "genreTitle": "动作•喜剧•犯罪",
-      "rating": 6.7,
-      "release_date": "2025-07-30",
-      "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f0E39SyFwzHmSdTZNMbd69XpSdz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uWXXseKtGwvqGTVJ1P9QEkuqlS.jpg"
     },
     {
       "id": 7451,
@@ -145,81 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 283390,
-      "title": "就是爱不到的单身女子恋习志",
+      "id": 224414,
+      "title": "你和其余的一切",
       "type": "tv",
-      "genreTitle": "喜剧",
-      "rating": 0.0,
-      "release_date": "2025-09-11",
-      "overview": "约炮、网恋以及各种乱七八糟的男人 — 约会对阿曼达来说并不容易。尽管被马尔默一半的人甩过，但她仍未放弃。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ja3riOwvG7fv7FZ56uoVSxlZTQE.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aDtw3J83Mq1ZiaUkpvxtVEJR81o.jpg"
+      "genreTitle": "剧情",
+      "rating": 10.0,
+      "release_date": "2025-09-12",
+      "overview": "从少年时期到长大成人，这对彼此温暖又摩擦不断的好友渐行渐远 — 直到其中一人受托陪伴对方度过生命最后的时光。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ks2OIkDh3rOfTMjH08MdnSQxbst.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nMINzENxx1VNCjhFWe61PSTt9HT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
-    },
-    {
-      "id": 110492,
-      "title": "和平使者",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 8.2,
-      "release_date": "2022-01-13",
-      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
-    },
-    {
-      "id": 223326,
-      "title": "暴风圈",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 9.0,
-      "release_date": "2025-09-10",
-      "overview": "当一位总统候选人遭遇企图暗杀事件，前外交官徐闻柱将深入调查他的过去，揭露一场流氓国家、安全机构和机密情报的跨国阴谋，威胁着朝鲜半岛的稳定。徐闻柱的生命时刻处于危险之中，一位名叫白山湖的神秘佣兵挺身而出救了她。但是对他一无所知的闻柱真的能信任他吗？",
-      "poster_url": "https://image.tmdb.org/t/p/original/nxOU3uB2px0FAyYYhWg0g7tY11E.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9imXbIg5ojdg9wJySU5WfgymgdA.jpg"
-    },
-    {
-      "id": 1149504,
-      "title": "亲爱的，别！",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 5.9,
-      "release_date": "2025-08-21",
-      "overview": "　　讲述小镇私家侦探哈尼·奥多纳休（玛格丽特·库里 Margaret Qualley 饰），深入调查一系列与一座神秘教堂有关的离奇死亡事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lDG49CPoPgohATMoG97yOdL2I4b.jpg"
-    },
-    {
-      "id": 246485,
-      "title": "少女之死",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-09-10",
-      "overview": "这部剧集讲述了巴拉德罗姐妹如何建立了青楼帝国，并在 20 世纪 60 年代的墨西哥成为残酷的杀人犯。改编自豪尔赫·伊瓦尔根戈伊蒂亚的小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg"
-    },
-    {
-      "id": 1151031,
-      "title": "复活她",
-      "type": "movie",
-      "genreTitle": "恐怖",
-      "rating": 7.4,
-      "release_date": "2025-05-28",
-      "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ocCNYIYWzIUV91YZYzDZ1cAQOPT.jpg"
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 8.6,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/poj4MwpZtNAX0k2Zugt15SMw4lR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     }
   ],
   "week_global_all": [
@@ -246,6 +246,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg"
     },
     {
+      "id": 110492,
+      "title": "和平使者",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 8.2,
+      "release_date": "2022-01-13",
+      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
+    },
+    {
+      "id": 1007734,
+      "title": "小人物2",
+      "type": "movie",
+      "genreTitle": "动作•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-08-13",
+      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
+    },
+    {
       "id": 1038392,
       "title": "招魂4：终章",
       "type": "movie",
@@ -268,17 +290,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rjOVhuk1RJUapbcEmgW7097WuF4.jpg"
     },
     {
-      "id": 1035259,
-      "title": "白头神探：智斗灭世狂人",
-      "type": "movie",
-      "genreTitle": "动作•喜剧•犯罪",
-      "rating": 6.7,
-      "release_date": "2025-07-30",
-      "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f0E39SyFwzHmSdTZNMbd69XpSdz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uWXXseKtGwvqGTVJ1P9QEkuqlS.jpg"
-    },
-    {
       "id": 157239,
       "title": "异形：地球",
       "type": "tv",
@@ -290,15 +301,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
     },
     {
-      "id": 1007734,
-      "title": "小人物2",
+      "id": 1035259,
+      "title": "白头神探：智斗灭世狂人",
       "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-08-13",
-      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
+      "genreTitle": "动作•喜剧•犯罪",
+      "rating": 6.8,
+      "release_date": "2025-07-30",
+      "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
+      "poster_url": "https://image.tmdb.org/t/p/original/d3D0oteN3YkcLRXqOs284yYFWQk.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFDXmUIlzSJHXuKPGb4UTDN2JjK.jpg"
     },
     {
       "id": 1061474,
@@ -312,15 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
-      "id": 110492,
-      "title": "和平使者",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 8.2,
-      "release_date": "2022-01-13",
-      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
+      "id": 1119878,
+      "title": "冰路营救2：复仇",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•剧情",
+      "rating": 6.5,
+      "release_date": "2025-06-27",
+      "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sP5Xokw5dmj15X4H9TwMwiW6SIh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/RonHAhsJW3SVpszpJYxumXDMCk.jpg"
     },
     {
       "id": 1311031,
@@ -332,6 +343,28 @@
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tz3S4zLDPHV3aWSV194ZmXMq5P1.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 8.6,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/poj4MwpZtNAX0k2Zugt15SMw4lR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 228305,
@@ -356,37 +389,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rncLZoEdrS6lj8kNCya4ACu2tbh.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGSZwzqgvILqZJTH2AXoG6jNX7n.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
-    },
-    {
-      "id": 1119878,
-      "title": "冰路营救2：复仇",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•剧情",
-      "rating": 6.6,
-      "release_date": "2025-06-27",
-      "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sP5Xokw5dmj15X4H9TwMwiW6SIh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/RonHAhsJW3SVpszpJYxumXDMCk.jpg"
-    },
-    {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
+      "id": 37854,
+      "title": "航海王",
       "type": "tv",
-      "genreTitle": "犯罪•剧情•悬疑",
+      "genreTitle": "动作冒险•喜剧•动画",
       "rating": 8.7,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/poj4MwpZtNAX0k2Zugt15SMw4lR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
       "id": 7451,
@@ -400,48 +411,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oENoeLrzYENACC8Uf756eiFuFX5.jpg"
-    },
-    {
-      "id": 107113,
-      "title": "大楼里只有谋杀",
+      "id": 211684,
+      "title": "行尸走肉：达里尔·迪克森",
       "type": "tv",
-      "genreTitle": "喜剧•悬疑•犯罪",
-      "rating": 8.5,
-      "release_date": "2021-08-31",
-      "overview": "这部剧讲述了三个彼此陌生的人在纽约市公寓楼调查一个邻居的神秘死亡时，他们都对真实的犯罪事件十分感兴趣，突然发现自己陷入一个犯罪事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uiYWVLaUNmaKEYELbcEvr7gmrGh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wW4mkolyKTHhopFXwlMCJB72kwh.jpg"
+      "genreTitle": "Sci-Fi & Fantasy•动作冒险•剧情",
+      "rating": 8.1,
+      "release_date": "2023-09-10",
+      "overview": "达里尔·迪克森醒来后发现自己身处法国的海岸，但他不知道自己为何会出现在该地。他随后便踏上旅途，一边调查他来到法国的原因，一边寻找回家的路。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rzBzemvzpNuEGacbPFITnbgUTXj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rC6uXYUetQ6jK3Yxn34BsJijbLG.jpg"
     },
     {
-      "id": 1149504,
-      "title": "亲爱的，别！",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 5.9,
-      "release_date": "2025-08-21",
-      "overview": "　　讲述小镇私家侦探哈尼·奥多纳休（玛格丽特·库里 Margaret Qualley 饰），深入调查一系列与一座神秘教堂有关的离奇死亡事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lDG49CPoPgohATMoG97yOdL2I4b.jpg"
-    },
-    {
-      "id": 253941,
-      "title": "报社",
+      "id": 93740,
+      "title": "Foundation",
       "type": "tv",
-      "genreTitle": "喜剧",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.7,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 253376,
+      "title": "女朋友",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
       "rating": 7.2,
-      "release_date": "2025-09-04",
-      "overview": "曾记录登德米福林斯克兰顿分部的摄制组正在寻找新的拍摄对象，结果发现了一家历史悠久的中西部报社，以及正努力重振报业的出版人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qNKynDcVVsOQPQpC3I41ZCLZpKw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ms7LHYbtl7bH7UHX2SkWh6UQ7f3.jpg"
+      "release_date": "2025-09-10",
+      "overview": "劳拉拥有一切：光鲜亮丽的事业、深爱她的丈夫，以及她最珍贵的儿子丹尼尔。但当丹尼尔带回女友切蕊时，一切开始失控。这场紧张的初次见面之后，劳拉愈发坚信切蕊有所隐瞒。究竟是切蕊心机深重、想攀高枝，还是劳拉自己多疑？真相，其实取决于视角。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1DrUYhdTLMdTmeXTeX81YTlMYkn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3EOlIqLkQU9mUhMo9cHOQtVkwPy.jpg"
     }
   ],
   "popular_movies": [
@@ -450,7 +450,7 @@
       "title": "世界大战",
       "type": "movie",
       "genreTitle": "科幻•惊悚",
-      "rating": 4.4,
+      "rating": 4.3,
       "release_date": "2025-07-29",
       "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
       "poster_url": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
@@ -483,7 +483,7 @@
       "title": "小人物2",
       "type": "movie",
       "genreTitle": "动作•惊悚",
-      "rating": 7.2,
+      "rating": 7.3,
       "release_date": "2025-08-13",
       "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
       "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
@@ -497,8 +497,8 @@
       "rating": 6.8,
       "release_date": "2025-07-30",
       "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aaI9Ea98krD3zCEGWXRlqoSLFtg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uWXXseKtGwvqGTVJ1P9QEkuqlS.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/original/d3D0oteN3YkcLRXqOs284yYFWQk.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFDXmUIlzSJHXuKPGb4UTDN2JjK.jpg"
     },
     {
       "id": 1051486,
@@ -516,7 +516,7 @@
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
       "genreTitle": "动画•动作•奇幻",
-      "rating": 7.3,
+      "rating": 7.4,
       "release_date": "2025-07-18",
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
@@ -534,6 +534,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
+      "id": 1369679,
+      "title": "Get Fast",
+      "type": "movie",
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 5.6,
+      "release_date": "2024-12-12",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/2MZBpW0bfQNJdWPCDM7OZetem1L.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iKqRtrNCMDH5qcGyWoFPJ9tCwed.jpg"
+    },
+    {
       "id": 911430,
       "title": "F1：狂飙飞车",
       "type": "movie",
@@ -543,28 +554,6 @@
       "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
       "poster_url": "https://image.tmdb.org/t/p/original/sGSZwzqgvILqZJTH2AXoG6jNX7n.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
-    },
-    {
-      "id": 1369679,
-      "title": "Get Fast",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 5.2,
-      "release_date": "2024-12-12",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/2MZBpW0bfQNJdWPCDM7OZetem1L.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iKqRtrNCMDH5qcGyWoFPJ9tCwed.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-02",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oENoeLrzYENACC8Uf756eiFuFX5.jpg"
     },
     {
       "id": 575265,
@@ -578,15 +567,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yHTzCiPZdn8sp6s4R33G19CgRR1.jpg"
     },
     {
-      "id": 1242434,
-      "title": "天国与地狱",
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•剧情",
-      "rating": 5.9,
-      "release_date": "2025-08-14",
-      "overview": "影片松散改编自黑泽明同名经典电影，原著是爱德华·伯恩斯的小说《King's Ransom》，聚焦贫富阶级之间的对立与冲突，讲述一名唱片公司高管在处理复杂的工作时，得知绑匪将他司机的儿子误认为他自己的儿子而将其绑走，要求巨额赎金，陷入了两难境地。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xMwGBFnOdwdlwuS8gz1IyrxEuMX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rjOVhuk1RJUapbcEmgW7097WuF4.jpg"
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-02",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oENoeLrzYENACC8Uf756eiFuFX5.jpg"
     },
     {
       "id": 1119878,
@@ -600,15 +589,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/RonHAhsJW3SVpszpJYxumXDMCk.jpg"
     },
     {
-      "id": 1242011,
-      "title": "同甘共苦",
+      "id": 1242434,
+      "title": "天国与地狱",
       "type": "movie",
-      "genreTitle": "恐怖•爱情",
-      "rating": 7.1,
-      "release_date": "2025-09-19",
-      "overview": "　　多年情侣蒂姆和米莉为了挽回渐淡的感情，决定抛开朋友和工作搬到陌生乡村开启全新的二人世界。然而新生活不如想象中那般美好，两人却卷入了一场超自然力量的恐怖漩涡。身体及意识渐渐变得不受控制，当他们的心愈远，肉体却愈贴愈近，肌肤甚至开始无缝结合……。",
-      "poster_url": "https://image.tmdb.org/t/p/original/80zYgv9aUUxKcL2AqtATVe4PQMI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bQ7flFeoWuXuuOtJbAZcQqv3joL.jpg"
+      "genreTitle": "惊悚•犯罪•剧情",
+      "rating": 5.9,
+      "release_date": "2025-08-14",
+      "overview": "影片松散改编自黑泽明同名经典电影，原著是爱德华·伯恩斯的小说《King's Ransom》，聚焦贫富阶级之间的对立与冲突，讲述一名唱片公司高管在处理复杂的工作时，得知绑匪将他司机的儿子误认为他自己的儿子而将其绑走，要求巨额赎金，陷入了两难境地。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xMwGBFnOdwdlwuS8gz1IyrxEuMX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rjOVhuk1RJUapbcEmgW7097WuF4.jpg"
+    },
+    {
+      "id": 803796,
+      "title": "K-POP：猎魔女团",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•奇幻",
+      "rating": 8.3,
+      "release_date": "2025-06-20",
+      "overview": "K-pop 超级明星鲁米、米拉和佐伊如果不是在座无虚席的体育场举办演唱会，就是在利用自己的秘密力量保护粉丝们免受超自然威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kjb9FFNItBc4awWPCrbp7hDLtni.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg"
     }
   ]
 }
