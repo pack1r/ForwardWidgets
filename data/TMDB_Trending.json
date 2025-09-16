@@ -1,16 +1,27 @@
 {
-  "last_updated": "2025-09-16 09:44:57",
+  "last_updated": "2025-09-16 20:48:45",
   "today_global": [
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "id": 615,
+      "title": "飞出个未来",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
+      "rating": 8.4,
+      "release_date": "1999-03-28",
+      "overview": "Fry是一名生活在20世纪的送货员，他工作不顺心，生活不如意，是个彻头彻尾的失败者。机缘巧合下，他被时光机器送到了1000年后的未来，也就是公元3000年！在光怪陆离的未来世界，他遇到了独眼女外星人Leela，Leela要给他植入职业芯片，好让他能在未来生活下去，而他的新职业居然也是送货员。Fry遂逃离出去，路上遇到了机器人Bender。Leela在追捕他们的过程中，也放弃了自己不喜欢的职业，连同Fry一起，成为了职业逃亡者。三人搭乘了星际宇宙飞船，成为星际快递公司的船员，而Fry的新工作，就是负责为宇宙的各个地方送快递，也就是说，他还是个送货员。  就这样，送货员Fry，船长Leela，机器人Bender穿梭于宇宙之中，展开了妙趣横生的31世纪星际快递冒险之旅。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aRkoaAzki6vuDnKkcmnmvmR3eGd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f0Tm9EdOKMl0h9u3mwkJMOlmQnb.jpg"
+    },
+    {
+      "id": 1007734,
+      "title": "小人物2",
       "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hbsDRvRt7RSSPBwNNGpWnim4Ez6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+      "genreTitle": "动作•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-08-13",
+      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
     },
     {
       "id": 1078605,
@@ -31,74 +42,19 @@
       "rating": 7.5,
       "release_date": "2025-07-09",
       "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？\r 　　影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nMINzENxx1VNCjhFWe61PSTt9HT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/oM3GLJzlWHsLoYyta3S8CiS9DN6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
-      "id": 1038392,
-      "title": "招魂4：终章",
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
-      "genreTitle": "恐怖",
-      "rating": 6.7,
-      "release_date": "2025-09-03",
-      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。\r 　　这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/29aMn7MwBNZS6tuKDsb2eKLSdHg.jpg"
-    },
-    {
-      "id": 615,
-      "title": "飞出个未来",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
-      "rating": 8.4,
-      "release_date": "1999-03-28",
-      "overview": "Fry是一名生活在20世纪的送货员，他工作不顺心，生活不如意，是个彻头彻尾的失败者。机缘巧合下，他被时光机器送到了1000年后的未来，也就是公元3000年！在光怪陆离的未来世界，他遇到了独眼女外星人Leela，Leela要给他植入职业芯片，好让他能在未来生活下去，而他的新职业居然也是送货员。Fry遂逃离出去，路上遇到了机器人Bender。Leela在追捕他们的过程中，也放弃了自己不喜欢的职业，连同Fry一起，成为了职业逃亡者。三人搭乘了星际宇宙飞船，成为星际快递公司的船员，而Fry的新工作，就是负责为宇宙的各个地方送快递，也就是说，他还是个送货员。  就这样，送货员Fry，船长Leela，机器人Bender穿梭于宇宙之中，展开了妙趣横生的31世纪星际快递冒险之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aRkoaAzki6vuDnKkcmnmvmR3eGd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f0Tm9EdOKMl0h9u3mwkJMOlmQnb.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "白头神探：智斗灭世狂人",
-      "type": "movie",
-      "genreTitle": "喜剧•动作•犯罪",
-      "rating": 6.7,
-      "release_date": "2025-07-30",
-      "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aaI9Ea98krD3zCEGWXRlqoSLFtg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dFDXmUIlzSJHXuKPGb4UTDN2JjK.jpg"
-    },
-    {
-      "id": 1007734,
-      "title": "小人物2",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 7.3,
-      "release_date": "2025-08-13",
-      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
-    },
-    {
-      "id": 119051,
-      "title": "Wednesday",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•喜剧",
-      "rating": 8.4,
-      "release_date": "2022-11-23",
-      "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tKPZy6BVWBjcIMr39cGNZ0zB3ko.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg"
-    },
-    {
-      "id": 228305,
-      "title": "特遣任务",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 5.3,
-      "release_date": "2025-09-07",
-      "overview": "联邦调查局探员汤姆·布兰迪斯（马克·鲁法洛 饰）率领一支特遣队来到费城郊区的劳工阶级住宅区，想要终结近来发生的一连串毒窟劫案；身为幕后主使的罗比·普伦德格拉斯特（汤姆·派福瑞 饰）则一边策划抢劫，一边应对自己支离破碎的家庭。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wLSCr8pFQCt2CphL0GLRa85UBJW.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.7,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hbsDRvRt7RSSPBwNNGpWnim4Ez6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 7451,
@@ -112,6 +68,39 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 934456,
+      "title": "Americana",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•犯罪",
+      "rating": 6.8,
+      "release_date": "2025-08-15",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/FgViA2C8C3iYxuDvdxAd4VsCiR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tH2egD21l5FPlPivUGUVbofts4K.jpg"
+    },
+    {
+      "id": 228305,
+      "title": "特遣任务",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 5.3,
+      "release_date": "2025-09-07",
+      "overview": "联邦调查局探员汤姆·布兰迪斯（马克·鲁法洛 饰）率领一支特遣队来到费城郊区的劳工阶级住宅区，想要终结近来发生的一连串毒窟劫案；身为幕后主使的罗比·普伦德格拉斯特（汤姆·派福瑞 饰）则一边策划抢劫，一边应对自己支离破碎的家庭。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wLSCr8pFQCt2CphL0GLRa85UBJW.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "白头神探：智斗灭世狂人",
+      "type": "movie",
+      "genreTitle": "喜剧•动作•犯罪",
+      "rating": 6.7,
+      "release_date": "2025-07-30",
+      "overview": "白头神探的儿子小弗兰克（连姆·尼森 Liam Neeson 饰）即将上演最无厘头的一次“营救”行动。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aaI9Ea98krD3zCEGWXRlqoSLFtg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFDXmUIlzSJHXuKPGb4UTDN2JjK.jpg"
+    },
+    {
       "id": 157239,
       "title": "异形：地球",
       "type": "tv",
@@ -123,43 +112,65 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
     },
     {
+      "id": 1038392,
+      "title": "招魂4：终章",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 6.6,
+      "release_date": "2025-09-03",
+      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。\r 　　这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
+    },
+    {
       "id": 1321439,
       "title": "乌龙巴黎梦",
       "type": "movie",
       "genreTitle": "爱情•喜剧",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2025-09-11",
       "overview": "道恩以为自己要参加的约会节目在法国巴黎，但其实是在德克萨斯州的巴黎。她想好了退出计划，结果却与一名牛仔单身汉擦出火花。",
       "poster_url": "https://image.tmdb.org/t/p/original/jFKVG3o0f8gt2pmVEUA6er6NYBI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/AfVbO6gt3XGBksxpwJmJvTP2EXg.jpg"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
-      "type": "tv",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.6,
-      "release_date": "2025-03-25",
-      "overview": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tQzeJx3V4eseIwrqoqspIhrd2WD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/abNhgGy0lbe2HBfa7EyyNfOzZHN.jpg"
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oENoeLrzYENACC8Uf756eiFuFX5.jpg"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
+      "id": 1088166,
+      "title": "传话人",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.5,
+      "release_date": "2025-08-21",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/qRlLxlxUTjkIZ4rWo9c4WinL5D8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/p638B93KDbby7FxuEI1MtoHHhjZ.jpg"
+    },
+    {
+      "id": 119051,
+      "title": "Wednesday",
       "type": "tv",
-      "genreTitle": "剧情•喜剧",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•喜剧",
       "rating": 8.4,
-      "release_date": "2020-08-14",
-      "overview": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "poster_url": "https://image.tmdb.org/t/p/original/4heF8RihtkN67AhvnT7kWfrCl7t.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5pK444voLpKDBYB19e2DxN2g6iz.jpg"
+      "release_date": "2022-11-23",
+      "overview": "星期三·亚当斯聪明、爱挖苦人，内心有点死气沉沉。在调查一起连环杀人案时，她在奈弗莫尔学院结识了新朋友，也遇见了新对手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tKPZy6BVWBjcIMr39cGNZ0zB3ko.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg"
     },
     {
       "id": 604079,
       "title": "死亡竞走",
       "type": "movie",
-      "genreTitle": "科幻•惊悚",
+      "genreTitle": "惊悚•恐怖",
       "rating": 7.1,
       "release_date": "2025-09-10",
       "overview": "",
@@ -167,15 +178,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
     },
     {
-      "id": 249042,
-      "title": "Adolescence",
+      "id": 1399,
+      "title": "权力的游戏",
       "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.8,
-      "release_date": "2025-03-13",
-      "overview": "一名 13 岁少年被控谋杀同学，他的家人、治疗师和负责此案的警探都想探查事情真相。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nhiy3fHOxBRiQpQGK7WHogdMHga.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rG4bjGAe4q30UUjo1YwiyGbQae9.jpg"
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 8.5,
+      "release_date": "2011-04-17",
+      "overview": "维斯特洛大陆边境处发现远古传说中早已灭绝的生物，危险也渐渐靠近这里。危情一触即发，整个王国看似平和的表面下却是波涛暗涌。权高位重的拜拉席恩家族、勇敢善良的史塔克家族、企图谋取王位的坦格利安家族、有着不可告人秘密的兰尼斯特家族。这些家族各怀鬼胎，这个国家将会陷入一场混战.....",
+      "poster_url": "https://image.tmdb.org/t/p/original/wr3myG67UJC6SGJaRYFwIYIm0Uu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bqHiox7OWLpztfVgR3MF6B7Hzxc.jpg"
     },
     {
       "id": 250307,
@@ -189,15 +200,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
-      "id": 110492,
-      "title": "和平使者",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 8.2,
-      "release_date": "2022-01-13",
-      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.8,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/c74TdFM1eiT3UEBwivbG1YocZvU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shSQ6I4bzPyqs1N2IIt2dXCBZ3i.jpg"
     },
     {
       "id": 911430,
@@ -209,17 +220,6 @@
       "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
       "poster_url": "https://image.tmdb.org/t/p/original/tz3S4zLDPHV3aWSV194ZmXMq5P1.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.7,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     }
   ],
   "week_global_all": [
@@ -239,7 +239,7 @@
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
       "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2025-07-18",
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/hbsDRvRt7RSSPBwNNGpWnim4Ez6.jpg",
@@ -250,11 +250,22 @@
       "title": "招魂4：终章",
       "type": "movie",
       "genreTitle": "恐怖",
-      "rating": 6.7,
+      "rating": 6.6,
       "release_date": "2025-09-03",
       "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。\r 　　这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
       "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/29aMn7MwBNZS6tuKDsb2eKLSdHg.jpg"
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
+    },
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oENoeLrzYENACC8Uf756eiFuFX5.jpg"
     },
     {
       "id": 157239,
@@ -266,6 +277,28 @@
       "overview": "一艘神秘的飞船坠毁在地球，一名年轻女子和一群形形色色的战术士兵发现了一个攸关命运的秘密，让他们与地球最大的威胁正面对抗。当坠毁回收队的成员在残骸中寻找生还者时，他们遇到了比他们想象中更可怕的神秘掠食生命体。随着这个新威胁的浮现，搜救队必须为生存而战，而他们如何处理这一发现，可能会改变他们所知的地球。",
       "poster_url": "https://image.tmdb.org/t/p/original/hKu7x3R3FncoCFyk1fTXvu7xR5a.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/wR5DQh8kZvQfuggSD4vLyMkgPbv.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1007734,
+      "title": "小人物2",
+      "type": "movie",
+      "genreTitle": "动作•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-08-13",
+      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
     },
     {
       "id": 119051,
@@ -286,7 +319,7 @@
       "rating": 7.5,
       "release_date": "2025-07-09",
       "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？\r 　　影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nMINzENxx1VNCjhFWe61PSTt9HT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/oM3GLJzlWHsLoYyta3S8CiS9DN6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
@@ -301,59 +334,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dFDXmUIlzSJHXuKPGb4UTDN2JjK.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 1321439,
+      "title": "乌龙巴黎梦",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 604079,
-      "title": "死亡竞走",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 7.1,
-      "release_date": "2025-09-10",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/1RSI8TEueajZeeLlxXtOcU4J6DE.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "type": "tv",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.4,
-      "release_date": "2020-08-14",
-      "overview": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "poster_url": "https://image.tmdb.org/t/p/original/4heF8RihtkN67AhvnT7kWfrCl7t.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5pK444voLpKDBYB19e2DxN2g6iz.jpg"
-    },
-    {
-      "id": 1007734,
-      "title": "小人物2",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 7.3,
-      "release_date": "2025-08-13",
-      "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qLndYGKEBD4dZAOtgoC7BDElA8j.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/v9BsRiXVvyeTWQN4DgdToiPkHhi.jpg"
-    },
-    {
-      "id": 253376,
-      "title": "女朋友",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.2,
-      "release_date": "2025-09-10",
-      "overview": "劳拉拥有一切：光鲜亮丽的事业、深爱她的丈夫，以及她最珍贵的儿子丹尼尔。但当丹尼尔带回女友切蕊时，一切开始失控。这场紧张的初次见面之后，劳拉愈发坚信切蕊有所隐瞒。究竟是切蕊心机深重、想攀高枝，还是劳拉自己多疑？真相，其实取决于视角。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1DrUYhdTLMdTmeXTeX81YTlMYkn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3EOlIqLkQU9mUhMo9cHOQtVkwPy.jpg"
+      "genreTitle": "爱情•喜剧",
+      "rating": 6.8,
+      "release_date": "2025-09-11",
+      "overview": "道恩以为自己要参加的约会节目在法国巴黎，但其实是在德克萨斯州的巴黎。她想好了退出计划，结果却与一名牛仔单身汉擦出火花。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jFKVG3o0f8gt2pmVEUA6er6NYBI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/AfVbO6gt3XGBksxpwJmJvTP2EXg.jpg"
     },
     {
       "id": 228305,
@@ -367,15 +356,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
+      "id": 1399,
+      "title": "权力的游戏",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 8.5,
+      "release_date": "2011-04-17",
+      "overview": "维斯特洛大陆边境处发现远古传说中早已灭绝的生物，危险也渐渐靠近这里。危情一触即发，整个王国看似平和的表面下却是波涛暗涌。权高位重的拜拉席恩家族、勇敢善良的史塔克家族、企图谋取王位的坦格利安家族、有着不可告人秘密的兰尼斯特家族。这些家族各怀鬼胎，这个国家将会陷入一场混战.....",
+      "poster_url": "https://image.tmdb.org/t/p/original/wr3myG67UJC6SGJaRYFwIYIm0Uu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bqHiox7OWLpztfVgR3MF6B7Hzxc.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
       "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tz3S4zLDPHV3aWSV194ZmXMq5P1.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
+      "genreTitle": "科幻•冒险",
+      "rating": 7.2,
+      "release_date": "2025-07-23",
+      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 604079,
+      "title": "死亡竞走",
+      "type": "movie",
+      "genreTitle": "惊悚•恐怖",
+      "rating": 7.1,
+      "release_date": "2025-09-10",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/1RSI8TEueajZeeLlxXtOcU4J6DE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
     },
     {
       "id": 1149504,
@@ -389,26 +400,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/lDG49CPoPgohATMoG97yOdL2I4b.jpg"
     },
     {
-      "id": 110492,
-      "title": "和平使者",
+      "id": 253376,
+      "title": "女朋友",
       "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 8.2,
-      "release_date": "2022-01-13",
-      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
-    },
-    {
-      "id": 615,
-      "title": "飞出个未来",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
-      "rating": 8.4,
-      "release_date": "1999-03-28",
-      "overview": "Fry是一名生活在20世纪的送货员，他工作不顺心，生活不如意，是个彻头彻尾的失败者。机缘巧合下，他被时光机器送到了1000年后的未来，也就是公元3000年！在光怪陆离的未来世界，他遇到了独眼女外星人Leela，Leela要给他植入职业芯片，好让他能在未来生活下去，而他的新职业居然也是送货员。Fry遂逃离出去，路上遇到了机器人Bender。Leela在追捕他们的过程中，也放弃了自己不喜欢的职业，连同Fry一起，成为了职业逃亡者。三人搭乘了星际宇宙飞船，成为星际快递公司的船员，而Fry的新工作，就是负责为宇宙的各个地方送快递，也就是说，他还是个送货员。  就这样，送货员Fry，船长Leela，机器人Bender穿梭于宇宙之中，展开了妙趣横生的31世纪星际快递冒险之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aRkoaAzki6vuDnKkcmnmvmR3eGd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f0Tm9EdOKMl0h9u3mwkJMOlmQnb.jpg"
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.2,
+      "release_date": "2025-09-10",
+      "overview": "劳拉拥有一切：光鲜亮丽的事业、深爱她的丈夫，以及她最珍贵的儿子丹尼尔。但当丹尼尔带回女友切蕊时，一切开始失控。这场紧张的初次见面之后，劳拉愈发坚信切蕊有所隐瞒。究竟是切蕊心机深重、想攀高枝，还是劳拉自己多疑？真相，其实取决于视角。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1DrUYhdTLMdTmeXTeX81YTlMYkn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3EOlIqLkQU9mUhMo9cHOQtVkwPy.jpg"
     },
     {
       "id": 93740,
@@ -422,26 +422,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
-      "id": 1321439,
-      "title": "乌龙巴黎梦",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧",
-      "rating": 6.9,
-      "release_date": "2025-09-11",
-      "overview": "道恩以为自己要参加的约会节目在法国巴黎，但其实是在德克萨斯州的巴黎。她想好了退出计划，结果却与一名牛仔单身汉擦出火花。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jFKVG3o0f8gt2pmVEUA6er6NYBI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/AfVbO6gt3XGBksxpwJmJvTP2EXg.jpg"
+      "id": 110492,
+      "title": "和平使者",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 8.2,
+      "release_date": "2022-01-13",
+      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
     },
     {
-      "id": 541671,
-      "title": "疾速追杀：芭蕾杀姬",
+      "id": 329,
+      "title": "侏罗纪公园",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-06-04",
-      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rncLZoEdrS6lj8kNCya4ACu2tbh.jpg"
+      "genreTitle": "冒险•科幻",
+      "rating": 8.0,
+      "release_date": "1993-06-11",
+      "overview": "哈蒙德立志要建立一个非同寻常的公园：恐龙将是这个公园的主角。他把众多科学家收归旗下，利用琥珀里面困住的远古蚊子体内的血液，提取出恐龙的基因信息，利用这些信息培育繁殖恐龙。结果如愿以偿，他把怒布拉岛建立成了一个恐龙公园，坚信可以从中赚取大钱。然而，科学家们则忧心忡忡。不幸的事情果然发生了。虽然公园有电脑系统管理，但却因为被员工破坏而造成了无法挽救的失控：所有的恐龙逃出了控制区，人们纷纷逃窜却逃不过恐龙的魔爪。恐龙自相残杀，人们亦死难无数，最后幸存者寥寥，只得四人逃出生天。怒布拉岛上空弥漫着恐怖的气息。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3lc4BtWBIWHFln1YMhzjj3DwL4g.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fGqcJq5mbGFSoVaybFJzYl3bggi.jpg"
     }
   ],
   "popular_movies": [
@@ -450,7 +450,7 @@
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
       "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2025-07-18",
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/hbsDRvRt7RSSPBwNNGpWnim4Ez6.jpg",
@@ -487,7 +487,7 @@
       "release_date": "2025-09-03",
       "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。\r 　　这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
       "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/29aMn7MwBNZS6tuKDsb2eKLSdHg.jpg"
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
     },
     {
       "id": 506763,
@@ -552,7 +552,7 @@
       "rating": 7.5,
       "release_date": "2025-07-11",
       "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？\r 　　影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nMINzENxx1VNCjhFWe61PSTt9HT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/oM3GLJzlWHsLoYyta3S8CiS9DN6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
