@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "Jable",
   description: "获取 Jable 视频",
   author: "nibiru",
-  site: "https://jable.tv/",
+  site: "https://netflav5.com/",
   version: "1.0.9",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
@@ -1162,7 +1162,7 @@ WidgetMetadata = {
 async function search(params = {}) {
   const keyword = encodeURIComponent(params.keyword || "");
   
-  let url = `https://jable.tv/search/${keyword}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q=${keyword}`;
+  let url = `https://netflav5.com/search/${keyword}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q=${keyword}`;
   
   if (params.sort_by) {
     url += `&sort_by=${params.sort_by}`;
