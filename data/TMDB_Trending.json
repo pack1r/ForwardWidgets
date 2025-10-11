@@ -1,38 +1,38 @@
 {
-  "last_updated": "2025-10-11 09:43:00",
+  "last_updated": "2025-10-11 20:41:48",
   "today_global": [
     {
       "id": 1290879,
       "title": "10号舱里的女人",
       "type": "movie",
       "genreTitle": "悬疑•剧情•惊悚",
-      "rating": 6.7,
+      "rating": 5.8,
       "release_date": "2025-10-09",
       "overview": "改编自露丝·韦尔的同名畅销小说。一名旅游记者被派去报道一艘豪华游艇的下水仪式，她在夜深人静时目睹一名乘客被抛入海中，但没人相信她的故事，因为经查明船上所有人都在。随着船驶过荒凉的北海，她冒着生命危险固执地寻找答案。",
       "poster_url": "https://image.tmdb.org/t/p/original/f5U6D5PUufniC7t88EkpRJBzpGi.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/joqamrkYmAOZt2GGGjZaONH409R.jpg"
     },
     {
-      "id": 221079,
-      "title": "失序边缘",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2025-10-09",
-      "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
-    },
-    {
       "id": 1251717,
       "title": "恶毒",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.2,
+      "rating": 6.1,
       "release_date": "2025-09-19",
       "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
       "poster_url": "https://image.tmdb.org/t/p/original/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+    },
+    {
+      "id": 221079,
+      "title": "失序边缘",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.8,
+      "release_date": "2025-10-09",
+      "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
     },
     {
       "id": 110492,
@@ -61,11 +61,33 @@
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.8,
+      "rating": 6.9,
       "release_date": "2025-10-08",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
+    },
+    {
+      "id": 1484640,
+      "title": "游向我心",
+      "type": "movie",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.0,
+      "release_date": "2025-09-25",
+      "overview": "在一个不平静的夏天，一名佣人和她照顾的小女孩关系变得非常亲近，直到她们不同世界的差异引发悲剧性的转折。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7xqg8fHdB7Iz9fP4Gl8UGXGA38d.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5gkH4bkBwqbtSRrgSJSFpDvoNk.jpg"
+    },
+    {
+      "id": 286801,
+      "title": "怪物：艾德·盖恩的故事",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-10-03",
+      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
     },
     {
       "id": 7451,
@@ -79,28 +101,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
-    },
-    {
-      "id": 1484640,
-      "title": "游向我心",
-      "type": "movie",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.0,
-      "release_date": "2025-09-25",
-      "overview": "在一个不平静的夏天，一名佣人和她照顾的小女孩关系变得非常亲近，直到她们不同世界的差异引发悲剧性的转折。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7xqg8fHdB7Iz9fP4Gl8UGXGA38d.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg"
-    },
-    {
       "id": 278009,
       "title": "权欲阶梯",
       "type": "tv",
@@ -112,70 +112,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/tiDVZL3INFjGTbcGhRnLnmmNtKE.jpg"
     },
     {
-      "id": 225647,
-      "title": "军靴男孩",
-      "type": "tv",
-      "genreTitle": "喜剧•剧情•War & Politics",
-      "rating": 8.0,
-      "release_date": "2025-10-09",
-      "overview": "一时冲动加入美国海军陆战队后，一名被霸凌的青少年在背景各异的新兵中找到了新目标和意想不到的兄弟情谊。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5pFIfkjI3AHjW7BUMbHU5XYpfnK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7a78G7fisRp9N9upjyX5b3GNRNI.jpg"
-    },
-    {
       "id": 1277988,
       "title": "可拉米洛",
       "type": "movie",
       "genreTitle": "喜剧•剧情•家庭",
-      "rating": 6.4,
+      "rating": 6.2,
       "release_date": "2025-10-08",
       "overview": "在这部暖心的剧情片中，一名前途无量的厨师在得知重大诊断结果后，籍着一只毛茸茸的狗朋友的帮助找到了希望与欢乐。",
       "poster_url": "https://image.tmdb.org/t/p/original/ur3H6g9xmrLQX2Ioh9z3P904ZSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/c2dPK558peXs9QzacwzHYQqqS2r.jpg"
     },
     {
+      "id": 1236470,
+      "title": "火烧天堂镇",
+      "type": "movie",
+      "genreTitle": "剧情•悬疑•惊悚",
+      "rating": 7.1,
+      "release_date": "2025-09-19",
+      "overview": "改编自真实事件，讲述一名意志坚定的司机父亲在猛烈的野火中拼死救援一位尽责的老师与她的学生们。",
+      "poster_url": "https://image.tmdb.org/t/p/original/42W0xcmRGCyao1LCZu48qMtMkLH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iDmz3D653Wgh7VOsLRtW2tbuoZM.jpg"
+    },
+    {
       "id": 1352755,
       "title": "需要维护的爱",
       "type": "movie",
       "genreTitle": "爱情•喜剧",
-      "rating": 5.5,
+      "rating": 5.8,
       "release_date": "2025-10-07",
       "overview": "查莉被迫重新评估她的全女性机修店，无意中向她的网络知己博尔倾诉了心事。结果发现，博尔竟然是她现实生活中的商业竞争对手，她们的关系在职业竞争中如花绽放。",
       "poster_url": "https://image.tmdb.org/t/p/original/4ucHX1WYnRQQmx3wRvb5lDNPXKb.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/bZdnRFWwAj4JGLDkrusdGy8vmSW.jpg"
     },
     {
-      "id": 249551,
-      "title": "从前有个刺客",
+      "id": 281011,
+      "title": "宇宙Marry Me?",
       "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 5.7,
-      "release_date": "2025-10-08",
-      "overview": "1504 年的法国，一名冷血刺客带着关系疏远的女儿一路逃亡，对抗凶险的敌人与邪恶势力，为女儿保驾护航。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bLJfyXKHFnL8J9Hu9MaLK5TZToF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg"
-    },
-    {
-      "id": 986097,
-      "title": "王者",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 5.7,
-      "release_date": "2025-09-18",
-      "overview": "“为了达到伟大，你愿意牺牲什么？”一个新人职业球员的梦想和潜力，因为接受一个荣誉满身的老将的指导，而变成一场可怕、荒唐的噩梦。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eC958HujFtJSdSaNdRlN4i6XXs7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rd90m7YsuUr7o41nyu3JRxu9RkO.jpg"
-    },
-    {
-      "id": 252135,
-      "title": "回魂计",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情•悬疑",
-      "rating": 8.3,
-      "release_date": "2025-10-09",
-      "overview": "以一宗诈骗绑架案为引线，两位失去女儿的母亲因仇恨结盟，在神秘力量的协助下，竟将凶手复活、施以酷刑，只为亲手惩罚。她们在复仇与救赎之间愈陷愈深，不仅对抗谎言与操控的危险世界，更被迫面对友谊与道德的撕裂。当真相逐步揭开，复仇究竟能带来慰藉，还是吞噬她们最后的希望？",
-      "poster_url": "https://image.tmdb.org/t/p/original/ukoPA4WnfIlApNtc7AF5TTLhouy.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7capkYpEGBZ6gJxesEz2T2H1F1l.jpg"
+      "genreTitle": "喜剧•剧情",
+      "rating": 6.0,
+      "release_date": "2025-10-10",
+      "overview": "讲述了以「假结婚真领房」为主轴，讲述一名刚与未婚夫解除婚约的女子，却意外中奖获得豪华新婚房的爆笑故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cCtRbXTpENO0QoMtaLwTrayovM6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uNrNSVKe4kkPChb1Nzu8gGmTDJM.jpg"
     },
     {
       "id": 617126,
@@ -189,37 +167,59 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
+      "id": 1218925,
+      "title": "电锯人 - 剧场版：蕾塞篇",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 8.6,
+      "release_date": "2025-09-19",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/mnauEV7WyvI5zVDvqqBRswNPyfO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.2,
-      "release_date": "2021-10-21",
-      "overview": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shs0WhDI7KF7LzUUhWpw0bOpjEp.jpg"
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.8,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/sCJ70nokIKWUD9RNktjk838HdDu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "id": 225647,
+      "title": "军靴男孩",
+      "type": "tv",
+      "genreTitle": "喜剧•剧情•War & Politics",
+      "rating": 8.0,
+      "release_date": "2025-10-09",
+      "overview": "一时冲动加入美国海军陆战队后，一名被霸凌的青少年在背景各异的新兵中找到了新目标和意想不到的兄弟情谊。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oQMochEzP6LY4qnHY7BoUvJf2sX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/czjUiDz5c8blqgM0Z4tRkcCesK0.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
+      "id": 249551,
+      "title": "从前有个刺客",
+      "type": "tv",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 5.7,
+      "release_date": "2025-10-08",
+      "overview": "1504 年的法国，一名冷血刺客带着关系疏远的女儿一路逃亡，对抗凶险的敌人与邪恶势力，为女儿保驾护航。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bLJfyXKHFnL8J9Hu9MaLK5TZToF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg"
+    },
+    {
+      "id": 1217602,
+      "title": "伦敦呼叫",
       "type": "movie",
-      "genreTitle": "动作•剧情",
+      "genreTitle": "动作•犯罪•喜剧",
       "rating": 7.8,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5f0SkrD6VUn34fUe4NDkda9bFdb.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
+      "release_date": "2025-09-18",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iWskzH9Xm1ID3lqfiLjoyYI0hdE.jpg"
     }
   ],
   "week_global_all": [
@@ -239,7 +239,7 @@
       "title": "怪物：艾德·盖恩的故事",
       "type": "tv",
       "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
+      "rating": 7.5,
       "release_date": "2025-10-03",
       "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
       "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
@@ -261,7 +261,7 @@
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.8,
+      "rating": 6.9,
       "release_date": "2025-10-08",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
@@ -301,15 +301,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kP2xXRCPMPbYU80potDmhC76i2D.jpg"
     },
     {
-      "id": 155,
-      "title": "蝙蝠侠：黑暗骑士",
+      "id": 1290879,
+      "title": "10号舱里的女人",
       "type": "movie",
-      "genreTitle": "剧情•动作•犯罪",
-      "rating": 8.5,
-      "release_date": "2008-07-16",
-      "overview": "从亲眼目睹父母被杀的阴影中走出来的蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰），在戈登警长（加里·奥德曼 Gary Oldman 饰）和检察官哈维（艾伦·艾克哈特 Aaron Eckhart 饰）的帮助下，无后顾之忧地满世界奔波，与罪犯们做着永无休止的争斗，哥谭市的犯罪率也以惊人的速度持续下降。但在哥谭这个科技与污秽并存的城市，平静不可能维持得太久，很快新一轮的混乱就席卷了整个城市，人们再度被恐慌笼罩，而这一切混乱的源头正是小丑（希斯·莱杰 Heath Ledger 饰）。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xUX0sVHmukGTYLTyqmSF5hpktOU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t41ic4OxC1XKQbvyoADhUS7hjPo.jpg"
+      "genreTitle": "悬疑•剧情•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-10-09",
+      "overview": "改编自露丝·韦尔的同名畅销小说。一名旅游记者被派去报道一艘豪华游艇的下水仪式，她在夜深人静时目睹一名乘客被抛入海中，但没人相信她的故事，因为经查明船上所有人都在。随着船驶过荒凉的北海，她冒着生命危险固执地寻找答案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/f5U6D5PUufniC7t88EkpRJBzpGi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/joqamrkYmAOZt2GGGjZaONH409R.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.2,
+      "release_date": "2025-07-23",
+      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
       "id": 986097,
@@ -334,39 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
-      "id": 1290879,
-      "title": "10号舱里的女人",
-      "type": "movie",
-      "genreTitle": "悬疑•剧情•惊悚",
-      "rating": 6.7,
-      "release_date": "2025-10-09",
-      "overview": "改编自露丝·韦尔的同名畅销小说。一名旅游记者被派去报道一艘豪华游艇的下水仪式，她在夜深人静时目睹一名乘客被抛入海中，但没人相信她的故事，因为经查明船上所有人都在。随着船驶过荒凉的北海，她冒着生命危险固执地寻找答案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f5U6D5PUufniC7t88EkpRJBzpGi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/joqamrkYmAOZt2GGGjZaONH409R.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.2,
-      "release_date": "2025-07-23",
-      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5f0SkrD6VUn34fUe4NDkda9bFdb.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
-    },
-    {
       "id": 1125257,
       "title": "辣妈辣妹2",
       "type": "movie",
@@ -376,17 +365,6 @@
       "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
       "poster_url": "https://image.tmdb.org/t/p/original/18W2sgKbvuh0g6sodyQBcAxOkEH.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/wrTv1SuNERpNHH3uhjBUGIK0diu.jpg"
-    },
-    {
-      "id": 228689,
-      "title": "许愿吧，精灵",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•喜剧•剧情",
-      "rating": 7.2,
-      "release_date": "2025-10-03",
-      "overview": "沉睡千年后苏醒的精灵邂逅了个性有如冰山的新主人嘉盈，随着三个愿望引发一连串的冲突，这对主仆就在混乱却感人的魔法风暴中，携手谱写出一段既甜蜜又充满笑声的动人恋曲。",
-      "poster_url": "https://image.tmdb.org/t/p/original/94cP8WFvq3ViPnEnojU5u1d5TiM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg"
     },
     {
       "id": 1218925,
@@ -400,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5f0SkrD6VUn34fUe4NDkda9bFdb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
+    },
+    {
       "id": 1242404,
       "title": "史蒂夫校长",
       "type": "movie",
@@ -411,15 +400,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/58MD9aLpYJLGV1FrwXgiAjIqVBa.jpg"
     },
     {
-      "id": 157336,
-      "title": "星际穿越",
-      "type": "movie",
-      "genreTitle": "冒险•剧情•科幻",
+      "id": 228689,
+      "title": "许愿吧，精灵",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•喜剧•剧情",
+      "rating": 7.2,
+      "release_date": "2025-10-03",
+      "overview": "沉睡千年后苏醒的精灵邂逅了个性有如冰山的新主人嘉盈，随着三个愿望引发一连串的冲突，这对主仆就在混乱却感人的魔法风暴中，携手谱写出一段既甜蜜又充满笑声的动人恋曲。",
+      "poster_url": "https://image.tmdb.org/t/p/original/94cP8WFvq3ViPnEnojU5u1d5TiM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg"
+    },
+    {
+      "id": 120089,
+      "title": "间谍过家家",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•动作冒险",
       "rating": 8.5,
-      "release_date": "2014-11-05",
-      "overview": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前 NASA 宇航员库珀（马修·麦康纳 Matthew McConaughey 饰）接连在女儿墨菲（麦肯吉·弗依 Mackenzie Foy 饰）的书房发现奇怪的重力场现象，随即得知在某个未知区域内前 NASA 成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA 借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授（迈克尔·凯恩 Michael Caine 饰）的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德（安妮·海瑟薇 Anne Hathaway 饰）、罗米利（大卫·吉雅西 David Gyasi 饰）、多伊尔（韦斯·本特利 Wes Bentley 饰）搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zq8j3XRJDVqNhiRMensg2uTkYrd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/NerBrEnSwyOWKwhsgoZrjTBaLM.jpg"
+      "release_date": "2022-04-09",
+      "overview": "为了潜入名校，西国能力最强的间谍“黄昏”被下令组建家庭。但是，他的“女儿”居然是能够读取他人内心的超能力者！“妻子”是暗杀者？互相隐藏了真实身份的新家庭，面临考验与世界危机的痛快家庭喜剧就此展开！",
+      "poster_url": "https://image.tmdb.org/t/p/original/lxxWe2u4NHMqzooIe1czHDvzjXl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/271dk4LLCQTLg1QbUfvXwWsp98L.jpg"
     },
     {
       "id": 63926,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
+      "id": 1245993,
+      "title": "偷天盗日",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
-      "release_date": "2025-07-09",
-      "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？ 影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iTil24OZutt1bNTsbnc1YI04kuw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
+      "genreTitle": "犯罪•惊悚•喜剧",
+      "rating": 7.0,
+      "release_date": "2025-08-26",
+      "overview": "　　汉克·汤普森因帮邻居照看宠物猫而卷入致命旋涡。天降横财竟成死亡通缉令，被黑帮各派追杀的他开启逃亡之旅，面对步步紧逼的围剿，他必须使出浑身解数，只为活到真相大白那一刻……。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7MISPCoRs5njvoouFjIW7rVVcKN.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kjdbOaGGYQHT177IbQjR9OyvUOB.jpg"
     }
   ],
   "popular_movies": [
@@ -461,7 +461,7 @@
       "title": "消失的公主",
       "type": "movie",
       "genreTitle": "动作•冒险",
-      "rating": 7.5,
+      "rating": 5.8,
       "release_date": "2025-10-16",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
