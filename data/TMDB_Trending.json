@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-10-13 20:49:49",
+  "last_updated": "2025-10-14 09:47:57",
   "today_global": [
+    {
+      "id": 271267,
+      "title": "椅子公司",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 8.5,
+      "release_date": "2025-10-12",
+      "overview": "一名男子在工作中遭遇尴尬事件后，发现自己正在调查一场牵涉甚广的阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xZgftEXZXTM47k2rZlXo8kr8HZF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qrSb9S6qEueaSPqshxN2fzAfkVg.jpg"
+    },
     {
       "id": 63926,
       "title": "一拳超人",
@@ -28,33 +39,11 @@
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2025-10-08",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
-    },
-    {
-      "id": 1251717,
-      "title": "恶毒",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.0,
-      "release_date": "2025-09-19",
-      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tmGNUqn7zv7o9S8ScbxdahaLQGk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
-    },
-    {
-      "id": 271267,
-      "title": "椅子公司",
-      "type": "tv",
-      "genreTitle": "喜剧",
-      "rating": 8.5,
-      "release_date": "2025-10-12",
-      "overview": "一名男子在工作中遭遇尴尬事件后，发现自己正在调查一场牵涉甚广的阴谋。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wMR0lkkuqbjb2wLRmXKo2DahCwX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qrSb9S6qEueaSPqshxN2fzAfkVg.jpg"
     },
     {
       "id": 1038392,
@@ -68,6 +57,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
     },
     {
+      "id": 1251717,
+      "title": "恶毒",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.1,
+      "release_date": "2025-09-19",
+      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tmGNUqn7zv7o9S8ScbxdahaLQGk.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/exGOMQ24q1fFf5Hjs2ud0GAA0Z2.jpg"
+    },
+    {
+      "id": 286801,
+      "title": "怪物：艾德·盖恩的故事",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-10-03",
+      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+    },
+    {
       "id": 110492,
       "title": "和平使者",
       "type": "tv",
@@ -79,15 +90,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
     },
     {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
+      "id": 228305,
+      "title": "特遣任务",
       "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 5.6,
+      "release_date": "2025-09-07",
+      "overview": "联邦调查局探员汤姆·布兰迪斯（马克·鲁法洛 饰）率领一支特遣队来到费城郊区的劳工阶级住宅区，想要终结近来发生的一连串毒窟劫案；身为幕后主使的罗比·普伦德格拉斯特（汤姆·派福瑞 饰）则一边策划抢劫，一边应对自己支离破碎的家庭。",
+      "poster_url": "https://image.tmdb.org/t/p/original/4NG7R2K780lbqwa5PUMZS6osQiu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
+    },
+    {
+      "id": 157336,
+      "title": "星际穿越",
+      "type": "movie",
+      "genreTitle": "冒险•剧情•科幻",
+      "rating": 8.5,
+      "release_date": "2014-11-05",
+      "overview": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前 NASA 宇航员库珀（马修·麦康纳 Matthew McConaughey 饰）接连在女儿墨菲（麦肯吉·弗依 Mackenzie Foy 饰）的书房发现奇怪的重力场现象，随即得知在某个未知区域内前 NASA 成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA 借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授（迈克尔·凯恩 Michael Caine 饰）的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德（安妮·海瑟薇 Anne Hathaway 饰）、罗米利（大卫·吉雅西 David Gyasi 饰）、多伊尔（韦斯·本特利 Wes Bentley 饰）搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
+      "poster_url": "https://image.tmdb.org/t/p/original/zq8j3XRJDVqNhiRMensg2uTkYrd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/NerBrEnSwyOWKwhsgoZrjTBaLM.jpg"
     },
     {
       "id": 575265,
@@ -123,81 +145,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 1396,
-      "title": "绝命毒师",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 8.9,
-      "release_date": "2008-01-20",
-      "overview": "新墨西哥州的高中化学老师沃尔特·H·怀特是拮据家庭的唯一经济来源。他大半生安分守己，兢兢业业，却在50岁生日之际突然得知自己罹患肺癌晚期的噩耗，原本便不甚顺意的人生顿时雪上加霜。为了保障怀孕的妻子斯凯勒和残疾的儿子小沃特能在自己死后衣食无忧，沃尔特决意铤而走险。他主动找到曾经的学生、而今的毒贩小混混杰西·平克曼谈合作，并运用娴熟高超的化学技术提炼出高纯度冰毒交给后者贩售。孰料事态的发展却在平克曼带回毒品供销商疯狂小八及其表弟后急转直下，沃尔特的人生也由此彻底步向失控。他被迫开始了教书与制毒的双重生活，逐渐坠落至万劫不复的深渊。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9tfFl11jL5fBA2qtxRxro7yW8Fh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2TAZVsYn5mEMz4A48JnKwXnOOPs.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
+      "id": 1197137,
+      "title": "黑色电话2",
       "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.1,
-      "release_date": "2025-07-23",
-      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-10-15",
+      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bTuEMzaDMuXt3m0KxqKtlEfYEJ8.jpg"
     },
     {
-      "id": 228305,
-      "title": "特遣任务",
+      "id": 37854,
+      "title": "航海王",
       "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 5.6,
-      "release_date": "2025-09-07",
-      "overview": "联邦调查局探员汤姆·布兰迪斯（马克·鲁法洛 饰）率领一支特遣队来到费城郊区的劳工阶级住宅区，想要终结近来发生的一连串毒窟劫案；身为幕后主使的罗比·普伦德格拉斯特（汤姆·派福瑞 饰）则一边策划抢劫，一边应对自己支离破碎的家庭。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4NG7R2K780lbqwa5PUMZS6osQiu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 1125257,
-      "title": "辣妈辣妹2",
+      "id": 911430,
+      "title": "F1：狂飙飞车",
       "type": "movie",
-      "genreTitle": "喜剧•奇幻•家庭",
-      "rating": 7.0,
-      "release_date": "2025-08-06",
-      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
-      "poster_url": "https://image.tmdb.org/t/p/original/18W2sgKbvuh0g6sodyQBcAxOkEH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wrTv1SuNERpNHH3uhjBUGIK0diu.jpg"
-    },
-    {
-      "id": 301693,
-      "title": "Sahtekarlar",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 0.0,
-      "release_date": "2025-10-12",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bOLlvP1VHUyISkAiEb4FerbwHxM.jpg"
-    },
-    {
-      "id": 157336,
-      "title": "星际穿越",
-      "type": "movie",
-      "genreTitle": "冒险•剧情•科幻",
-      "rating": 8.5,
-      "release_date": "2014-11-05",
-      "overview": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前 NASA 宇航员库珀（马修·麦康纳 Matthew McConaughey 饰）接连在女儿墨菲（麦肯吉·弗依 Mackenzie Foy 饰）的书房发现奇怪的重力场现象，随即得知在某个未知区域内前 NASA 成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA 借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授（迈克尔·凯恩 Michael Caine 饰）的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德（安妮·海瑟薇 Anne Hathaway 饰）、罗米利（大卫·吉雅西 David Gyasi 饰）、多伊尔（韦斯·本特利 Wes Bentley 饰）搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zq8j3XRJDVqNhiRMensg2uTkYrd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/NerBrEnSwyOWKwhsgoZrjTBaLM.jpg"
-    },
-    {
-      "id": 280946,
-      "title": "台风商社",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.0,
-      "release_date": "2025-10-11",
-      "overview": "此剧讲述1997年亚洲金融风暴时，彻底遭遇破产危机却选择迎头而上的中小企业「台风商社」，为了挽救「台风商社」而努力的青年社长强太风（李俊昊 饰）与家人、员工共同艰辛奋斗的成长故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/irqsyAPZuvI4dOsPZvnnCpfhRDe.jpg"
+      "genreTitle": "动作•剧情",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5f0SkrD6VUn34fUe4NDkda9bFdb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
     },
     {
       "id": 1061474,
@@ -211,15 +189,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+      "id": 436969,
+      "title": "X特遣队：全员集结",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•冒险",
+      "rating": 7.5,
+      "release_date": "2021-06-06",
+      "overview": "被关押在美梦监狱的自杀小队成员获得一项可以减轻刑罚的新任务，前往南美洲的科多·马提斯岛国，摧毁纳粹时期遗留的约顿海姆监狱和实验室，它当前用于关押该国的政治犯并施行人体实验。执行任务期间，自杀小队遭遇巨型外星生物——海星斯塔罗，并与它发生冲突。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pjvtoWEki8x5DMI9YhgvFyq6XCp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rVwe70pxwygdt4metZOEISbaChn.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.1,
+      "release_date": "2025-07-23",
+      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1078605,
+      "title": "凶器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.4,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7mmEEgmuT5NSJEDsDbfa1J0NdBl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
     }
   ],
   "week_global_all": [
@@ -239,22 +239,11 @@
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2025-10-08",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
-    },
-    {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
     },
     {
       "id": 1290879,
@@ -268,6 +257,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/joqamrkYmAOZt2GGGjZaONH409R.jpg"
     },
     {
+      "id": 286801,
+      "title": "怪物：艾德·盖恩的故事",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-10-03",
+      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+    },
+    {
       "id": 110492,
       "title": "和平使者",
       "type": "tv",
@@ -277,17 +277,6 @@
       "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
       "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
-    },
-    {
-      "id": 1125257,
-      "title": "辣妈辣妹2",
-      "type": "movie",
-      "genreTitle": "喜剧•奇幻•家庭",
-      "rating": 7.0,
-      "release_date": "2025-08-06",
-      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
-      "poster_url": "https://image.tmdb.org/t/p/original/18W2sgKbvuh0g6sodyQBcAxOkEH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wrTv1SuNERpNHH3uhjBUGIK0diu.jpg"
     },
     {
       "id": 7451,
@@ -312,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
     },
     {
-      "id": 249551,
-      "title": "从前有个刺客",
-      "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 6.9,
-      "release_date": "2025-10-08",
-      "overview": "1504 年的法国，一名冷血刺客带着关系疏远的女儿一路逃亡，对抗凶险的敌人与邪恶势力，为女儿保驾护航。",
-      "poster_url": "https://image.tmdb.org/t/p/original/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg"
-    },
-    {
       "id": 221079,
       "title": "失序边缘",
       "type": "tv",
@@ -332,6 +310,17 @@
       "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
       "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.1,
+      "release_date": "2025-07-23",
+      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 986097,
@@ -356,50 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/iDmz3D653Wgh7VOsLRtW2tbuoZM.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 7.1,
-      "release_date": "2025-07-23",
-      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aCsNBcRkhoujIuKQ36VIBSKPU56.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 1396,
-      "title": "绝命毒师",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 8.9,
-      "release_date": "2008-01-20",
-      "overview": "新墨西哥州的高中化学老师沃尔特·H·怀特是拮据家庭的唯一经济来源。他大半生安分守己，兢兢业业，却在50岁生日之际突然得知自己罹患肺癌晚期的噩耗，原本便不甚顺意的人生顿时雪上加霜。为了保障怀孕的妻子斯凯勒和残疾的儿子小沃特能在自己死后衣食无忧，沃尔特决意铤而走险。他主动找到曾经的学生、而今的毒贩小混混杰西·平克曼谈合作，并运用娴熟高超的化学技术提炼出高纯度冰毒交给后者贩售。孰料事态的发展却在平克曼带回毒品供销商疯狂小八及其表弟后急转直下，沃尔特的人生也由此彻底步向失控。他被迫开始了教书与制毒的双重生活，逐渐坠落至万劫不复的深渊。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9tfFl11jL5fBA2qtxRxro7yW8Fh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2TAZVsYn5mEMz4A48JnKwXnOOPs.jpg"
-    },
-    {
-      "id": 941109,
-      "title": "脏局",
-      "type": "movie",
-      "genreTitle": "犯罪",
-      "rating": 6.6,
-      "release_date": "2025-09-30",
-      "overview": "在沙恩·布莱克执导的动作惊悚片《脏局》中，职业大盗帕克与格罗菲尔德、善及一众身怀绝技的同伙，精心策划了盗贼生涯中最大的一票，却因一笔横财意外卷入了与纽约黑帮的生死博弈。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4qY8VSqHWTTbdk2XtGEzBGeS2Gg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kP2xXRCPMPbYU80potDmhC76i2D.jpg"
-    },
-    {
-      "id": 1251717,
-      "title": "恶毒",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.0,
-      "release_date": "2025-09-19",
-      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tmGNUqn7zv7o9S8ScbxdahaLQGk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
-    },
-    {
       "id": 1054867,
       "title": "一战再战",
       "type": "movie",
@@ -422,26 +367,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
     },
     {
-      "id": 225634,
-      "title": "Monsters: The Lyle and Erik Menendez Story",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.6,
-      "release_date": "2024-09-19",
-      "overview": "　　该剧改编自1996年，一对兄弟杀害亲生父母何西·梅内德斯与凯蒂·梅内德斯的真实罪案。检方指控他们觊觎庞大家族财富，兄弟俩却声称他们受尽父母身心虐待与性侵，出于恐惧才会犯下滔天大罪，他们仍在服无期徒刑，终身不得假释，时至今日仍坚持当初的证词。",
-      "poster_url": "https://image.tmdb.org/t/p/original/AeY3ZbcWeJbiACFbRj6DkmRJJuP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/u0d52C7vtLT21L7E1U8P9IptBSv.jpg"
+      "id": 1125257,
+      "title": "辣妈辣妹2",
+      "type": "movie",
+      "genreTitle": "喜剧•奇幻•家庭",
+      "rating": 7.0,
+      "release_date": "2025-08-06",
+      "overview": "　　多年以后，在泰丝和安娜经历了一场身份危机之后，安娜如今有了一个女儿和一个未来的继女。在两家人合并时面临的挑战中，泰丝和安娜发现，雷电或许会再次降临。",
+      "poster_url": "https://image.tmdb.org/t/p/original/18W2sgKbvuh0g6sodyQBcAxOkEH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wrTv1SuNERpNHH3uhjBUGIK0diu.jpg"
     },
     {
-      "id": 1218925,
-      "title": "电锯人 - 剧场版：蕾塞篇",
+      "id": 1061474,
+      "title": "超人",
       "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 8.6,
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.4,
+      "release_date": "2025-07-09",
+      "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？ 影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
+      "poster_url": "https://image.tmdb.org/t/p/original/iTil24OZutt1bNTsbnc1YI04kuw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
+    },
+    {
+      "id": 1078605,
+      "title": "凶器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.4,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7mmEEgmuT5NSJEDsDbfa1J0NdBl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
+    },
+    {
+      "id": 941109,
+      "title": "脏局",
+      "type": "movie",
+      "genreTitle": "犯罪",
+      "rating": 6.6,
+      "release_date": "2025-09-30",
+      "overview": "在沙恩·布莱克执导的动作惊悚片《脏局》中，职业大盗帕克与格罗菲尔德、善及一众身怀绝技的同伙，精心策划了盗贼生涯中最大的一票，却因一笔横财意外卷入了与纽约黑帮的生死博弈。",
+      "poster_url": "https://image.tmdb.org/t/p/original/4qY8VSqHWTTbdk2XtGEzBGeS2Gg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kP2xXRCPMPbYU80potDmhC76i2D.jpg"
+    },
+    {
+      "id": 155,
+      "title": "蝙蝠侠：黑暗骑士",
+      "type": "movie",
+      "genreTitle": "剧情•动作•犯罪",
+      "rating": 8.5,
+      "release_date": "2008-07-16",
+      "overview": "从亲眼目睹父母被杀的阴影中走出来的蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰），在戈登警长（加里·奥德曼 Gary Oldman 饰）和检察官哈维（艾伦·艾克哈特 Aaron Eckhart 饰）的帮助下，无后顾之忧地满世界奔波，与罪犯们做着永无休止的争斗，哥谭市的犯罪率也以惊人的速度持续下降。但在哥谭这个科技与污秽并存的城市，平静不可能维持得太久，很快新一轮的混乱就席卷了整个城市，人们再度被恐慌笼罩，而这一切混乱的源头正是小丑（希斯·莱杰 Heath Ledger 饰）。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xUX0sVHmukGTYLTyqmSF5hpktOU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t41ic4OxC1XKQbvyoADhUS7hjPo.jpg"
+    },
+    {
+      "id": 575265,
+      "title": "碟中谍8：最终清算",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "超级人工智能“智体”即将引爆全球核弹危机，把世界推向毁灭边缘。而伊森·亨特和他的IMF小队在上次行动中遭遇重创，团队濒临分崩离析。虽然伊森已获得关闭“智体”的钥匙，但要彻底消灭“智体”，完成这一拯救全人类的终极任务，仍需要IMF小队齐心协力突破重重困难。他们不仅要面对全知全能又无影无形的“智体”与其手下盖布瑞尔的百般阻拦，还要解决来自过去的种种恩怨。每个抉择都关乎信念与命运，等待伊森和IMF小队的，究竟是怎样的结局？",
+      "poster_url": "https://image.tmdb.org/t/p/original/x5wNw81Rek3lyA4pPEMJheKh6Nb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yHTzCiPZdn8sp6s4R33G19CgRR1.jpg"
+    },
+    {
+      "id": 1251717,
+      "title": "恶毒",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.1,
       "release_date": "2025-09-19",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/mnauEV7WyvI5zVDvqqBRswNPyfO.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
+      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tmGNUqn7zv7o9S8ScbxdahaLQGk.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/exGOMQ24q1fFf5Hjs2ud0GAA0Z2.jpg"
     }
   ],
   "popular_movies": [
@@ -479,17 +479,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/oONJjK4HIJSf6OrNNLBSg2Bt1X7.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
-      "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.4,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9RLZ48UeVpICPWa7jK2pZPOp2Ve.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
-    },
-    {
       "id": 1311031,
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
@@ -501,15 +490,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 793387,
-      "title": "神圣之夜：恶魔猎人",
+      "id": 755898,
+      "title": "世界大战",
       "type": "movie",
-      "genreTitle": "动作•奇幻•恐怖",
-      "rating": 6.5,
-      "release_date": "2025-06-13",
-      "overview": "影片讲述狩猎恶魔的黑暗解决师“神圣之夜”团队与崇拜邪恶的犯罪集团对抗的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fKJUmyU8oUWa6Ug8lSNRASui8ac.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/36d9JRCpUczO2AH9Qr3BB7KfBEj.jpg"
+      "genreTitle": "科幻•惊悚",
+      "rating": 4.3,
+      "release_date": "2025-07-29",
+      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9RLZ48UeVpICPWa7jK2pZPOp2Ve.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
       "id": 1186350,
@@ -521,6 +510,17 @@
       "overview": "　　影片以主角 Marco 的视角展开，他曾误入歧途成为黑帮成员，但内心深处一直保留着善良的本质。故事中，Marco 所在的城市出现了一系列危害社会安全的恶性事件，警方在调查过程中发现这些事件与黑帮的非法活动有千丝万缕的联系。Marco 在经历了一些事情后，开始反思自己的生活和选择。当他发现黑帮的阴谋可能会给城市里无辜的人们带来巨大灾难时，他决定挺身而出。他利用自己对黑帮内部情况的了解，开始暗中协助警方收集证据。在这个过程中，Marco 遭遇了来自黑帮内部的怀疑和追杀，那些曾经的 “兄弟” 对他反目成仇，给他设下了重重陷阱。但 Marco 没有放弃，他与警方紧密合作，同时也在努力保护那些被黑帮威胁的普通市民。强调了正义和救赎的力量。",
       "poster_url": "https://image.tmdb.org/t/p/original/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/edGNFMik98aRNKh0NWehjnbclC0.jpg"
+    },
+    {
+      "id": 793387,
+      "title": "神圣之夜：恶魔猎人",
+      "type": "movie",
+      "genreTitle": "动作•奇幻•恐怖",
+      "rating": 6.5,
+      "release_date": "2025-06-13",
+      "overview": "影片讲述狩猎恶魔的黑暗解决师“神圣之夜”团队与崇拜邪恶的犯罪集团对抗的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fKJUmyU8oUWa6Ug8lSNRASui8ac.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/36d9JRCpUczO2AH9Qr3BB7KfBEj.jpg"
     },
     {
       "id": 941109,
@@ -597,7 +597,7 @@
       "release_date": "2025-09-19",
       "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
       "poster_url": "https://image.tmdb.org/t/p/original/tmGNUqn7zv7o9S8ScbxdahaLQGk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+      "title_backdrop": "https://image.tmdb.org/t/p/original/exGOMQ24q1fFf5Hjs2ud0GAA0Z2.jpg"
     },
     {
       "id": 1328803,
