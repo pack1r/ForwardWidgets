@@ -1,49 +1,82 @@
 {
-  "last_updated": "2025-10-18 09:43:43",
+  "last_updated": "2025-10-18 20:43:04",
   "today_global": [
     {
-      "id": 1156594,
-      "title": "是我们的错",
+      "id": 1275151,
+      "title": "她行走于黑暗中",
       "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 8.0,
-      "release_date": "2025-10-15",
-      "overview": "尼克和诺亚的关系正处于最美好的时刻。然而，这对恋人似乎再也无法回到从前。一系列事件将接踵而至，让他们最终明白彼此是否真正适合对方。或者，相反地，他们会发现最好的选择是分道扬镳，即便要忘记如此深刻的爱或抹去烙印在心上的记忆是那么困难。爱并非总是足够，而原谅有时也不足以修复一切。他们能否放下过去，重新开始呢？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vYTif7Io5juo4ASAgDdESKn6lSy.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dPLgmvYXYMvVW1wWpZrJfayIcqq.jpg"
+      "genreTitle": "剧情•惊悚",
+      "rating": 5.9,
+      "release_date": "2025-10-03",
+      "overview": "　　影片灵感源自对埃塔组织最重要的一次卧底行动，这次行动成为西班牙反恐斗争的转折点。\r 　　该片以20世纪90年代至21世纪初为背景，讲述了年轻的国民警卫队女警阿马娅在恐怖组织内部卧底十余年，寻找隐藏在法国南部的秘密武器库的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/u0hhSRvKRWmdZHsb9kDaRxGOgI1.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l2Fk70FTuBPDx32gTsVUrRvF8jC.jpg"
     },
     {
       "id": 927254,
       "title": "蠢特夫妇",
       "type": "movie",
       "genreTitle": "动画•喜剧•家庭",
-      "rating": 7.8,
+      "rating": 7.7,
       "release_date": "2025-10-17",
       "overview": "改编自罗尔德·达尔的同名儿童小说，蠢特夫妇是世界上最卑鄙、恶臭、下流的人，他们恰巧经营着世上最恶心、危险、愚蠢的游乐园Twitlandia。当他们在生活的城镇崛起掌权时，两个勇敢的孤儿和一群神奇的动物挺身而出，被迫变得像蠢特夫妇一样狡猾，以拯救这座城市。",
       "poster_url": "https://image.tmdb.org/t/p/original/39BQ64G31EGKS629sn1Za3kVldh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9tI7huO9xuGp3RjDGuTYfjqfeHA.jpg"
     },
     {
-      "id": 1275151,
-      "title": "她行走于黑暗中",
+      "id": 1156594,
+      "title": "是我们的错",
       "type": "movie",
-      "genreTitle": "剧情•惊悚",
-      "rating": 6.1,
-      "release_date": "2025-10-03",
-      "overview": "　　影片灵感源自对埃塔组织最重要的一次卧底行动，这次行动成为西班牙反恐斗争的转折点。\r 　　该片以20世纪90年代至21世纪初为背景，讲述了年轻的国民警卫队女警阿马娅在恐怖组织内部卧底十余年，寻找隐藏在法国南部的秘密武器库的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/u0hhSRvKRWmdZHsb9kDaRxGOgI1.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3WeLWstzJlvl6L6KOPzT2VBOaNC.jpg"
+      "genreTitle": "爱情•剧情",
+      "rating": 8.1,
+      "release_date": "2025-10-15",
+      "overview": "尼克和诺亚的关系正处于最美好的时刻。然而，这对恋人似乎再也无法回到从前。一系列事件将接踵而至，让他们最终明白彼此是否真正适合对方。或者，相反地，他们会发现最好的选择是分道扬镳，即便要忘记如此深刻的爱或抹去烙印在心上的记忆是那么困难。爱并非总是足够，而原谅有时也不足以修复一切。他们能否放下过去，重新开始呢？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vYTif7Io5juo4ASAgDdESKn6lSy.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dPLgmvYXYMvVW1wWpZrJfayIcqq.jpg"
     },
     {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.3,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zdsOOY2Blbvf7ZZvmykQzZ8Hl1f.jpg"
+      "id": 1296404,
+      "title": "凶降喜讯",
+      "type": "movie",
+      "genreTitle": "惊悚•喜剧•历史",
+      "rating": 7.0,
+      "release_date": "2025-09-05",
+      "overview": "　　一架民用客机在飞行途中突然遭到劫持，地面上的救援团队立即展开行动，试图拯救机上的人质。与此同时，一个神秘的天才人物提出了一项疯狂的计划，企图让被劫持的飞机改道降落在首尔。在这场与时间赛跑的救援行动中，各方势力斗智斗勇，冲突不断升级。而一项秘密行动也在暗中悄然展开，为整个事件增添了更多未知的变数。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9zUYgt86795SijI0cmSRplDp0ZJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/w5E75gF48xNfKXmBIsbWhiINwsi.jpg"
+    },
+    {
+      "id": 1327769,
+      "title": "27夜",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.0,
+      "release_date": "2025-09-19",
+      "overview": "一名女子因行事不羁被女儿们送去精神病诊所，一位专家必须判断她是病了，还是只是想享受生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vL30XM7OUaECBV3YKR1KN1P68Ym.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg"
+    },
+    {
+      "id": 1197137,
+      "title": "黑色电话2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•剧情",
+      "rating": 7.0,
+      "release_date": "2025-10-15",
+      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+    },
+    {
+      "id": 1400782,
+      "title": "完美邻居",
+      "type": "movie",
+      "genreTitle": "纪录•剧情•惊悚",
+      "rating": 5.4,
+      "release_date": "2025-10-10",
+      "overview": "　　佛罗里达州一起看似微不足道的邻里纠纷升级为致命暴力。警察的执法记录仪视频和调查性采访揭示了佛罗里达“不退让法”带来的后果。在一个普通的美国家庭社区，孩子们互相玩耍，生活井然有序，然而其中一位女性却总是将任何冲突都视为需要报警处理的攻击行为。一位当地“凯伦”（Karen，指特权阶层中颐指气使的白人女性）令人讨厌的行为，逐渐被揭露为更加黑暗和令人发指的真相。导演吉塔·甘德比尔（Geeta Gandbhir）通过巧妙地呈现真实画面讲述了一个独特的美国故事，让事件本身以令人恐惧的清晰度为自己发声。然而，问题依然存在：正义能否得到伸张？还是那个本应用于保护一部分人免受另一部分人侵害的法律体系，会介入并为不可饶恕的行为开脱？《完美邻居》是对一起恐怖事件的深刻剖析，它对与那些可能住在隔壁的“怪物”共同生活的挑战有着深远的意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6sUUl2zUUw6IyW3J2zB2KGJys3d.jpg"
     },
     {
       "id": 575265,
@@ -57,37 +90,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yHTzCiPZdn8sp6s4R33G19CgRR1.jpg"
     },
     {
-      "id": 1296404,
-      "title": "凶降喜讯",
-      "type": "movie",
-      "genreTitle": "惊悚•喜剧•历史",
-      "rating": 5.5,
-      "release_date": "2025-09-05",
-      "overview": "　　一架民用客机在飞行途中突然遭到劫持，地面上的救援团队立即展开行动，试图拯救机上的人质。与此同时，一个神秘的天才人物提出了一项疯狂的计划，企图让被劫持的飞机改道降落在首尔。在这场与时间赛跑的救援行动中，各方势力斗智斗勇，冲突不断升级。而一项秘密行动也在暗中悄然展开，为整个事件增添了更多未知的变数。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9zUYgt86795SijI0cmSRplDp0ZJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/w5E75gF48xNfKXmBIsbWhiINwsi.jpg"
+      "id": 221079,
+      "title": "失序边缘",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 7.9,
+      "release_date": "2025-10-09",
+      "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
     },
     {
-      "id": 1327769,
-      "title": "二十七个夜晚",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.0,
-      "release_date": "2025-09-19",
-      "overview": "一名女子因行事不羁被女儿们送去精神病诊所，一位专家必须判断她是病了，还是只是想享受生活。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vL30XM7OUaECBV3YKR1KN1P68Ym.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg"
-    },
-    {
-      "id": 1197137,
-      "title": "黑色电话2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 7.0,
-      "release_date": "2025-10-15",
-      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+      "id": 2190,
+      "title": "南方公园",
+      "type": "tv",
+      "genreTitle": "动画•喜剧",
+      "rating": 8.3,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zdsOOY2Blbvf7ZZvmykQzZ8Hl1f.jpg"
     },
     {
       "id": 533533,
@@ -101,17 +123,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
     },
     {
-      "id": 1400782,
-      "title": "完美邻居",
-      "type": "movie",
-      "genreTitle": "纪录•剧情•惊悚",
-      "rating": 4.5,
-      "release_date": "2025-10-10",
-      "overview": "　　佛罗里达州一起看似微不足道的邻里纠纷升级为致命暴力。警察的执法记录仪视频和调查性采访揭示了佛罗里达“不退让法”带来的后果。在一个普通的美国家庭社区，孩子们互相玩耍，生活井然有序，然而其中一位女性却总是将任何冲突都视为需要报警处理的攻击行为。一位当地“凯伦”（Karen，指特权阶层中颐指气使的白人女性）令人讨厌的行为，逐渐被揭露为更加黑暗和令人发指的真相。导演吉塔·甘德比尔（Geeta Gandbhir）通过巧妙地呈现真实画面讲述了一个独特的美国故事，让事件本身以令人恐惧的清晰度为自己发声。然而，问题依然存在：正义能否得到伸张？还是那个本应用于保护一部分人免受另一部分人侵害的法律体系，会介入并为不可饶恕的行为开脱？《完美邻居》是对一起恐怖事件的深刻剖析，它对与那些可能住在隔壁的“怪物”共同生活的挑战有着深远的意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6sUUl2zUUw6IyW3J2zB2KGJys3d.jpg"
-    },
-    {
       "id": 203857,
       "title": "头号外交官",
       "type": "tv",
@@ -123,22 +134,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/s5KaidPKwFkCM7BvZALVQ7yjbI4.jpg"
     },
     {
-      "id": 221079,
-      "title": "失序边缘",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 7.9,
-      "release_date": "2025-10-09",
-      "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
+      "id": 617126,
+      "title": "神奇四侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 7.1,
+      "release_date": "2025-07-23",
+      "overview": "故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mLLRlXftxQl7vagEqHKbk73a7ZC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 1072699,
       "title": "重返虎穴2",
       "type": "movie",
       "genreTitle": "动作•犯罪•惊悚",
-      "rating": 7.0,
+      "rating": 6.5,
       "release_date": "2025-10-14",
       "overview": "厮杀过后，狂怒帮的新头目阿金开始统领这支残暴又强大的黑帮，并将目标转向了境外。",
       "poster_url": "https://image.tmdb.org/t/p/original/l7ZTDFtAgmuyHGdI1GSQiX4WGL1.jpg",
@@ -156,15 +167,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
     },
     {
-      "id": 1038392,
-      "title": "招魂4：终章",
+      "id": 1241921,
+      "title": "绮梦之旅",
       "type": "movie",
-      "genreTitle": "恐怖",
-      "rating": 7.0,
-      "release_date": "2025-09-03",
-      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
+      "genreTitle": "爱情•奇幻•剧情",
+      "rating": 6.4,
+      "release_date": "2025-09-17",
+      "overview": "机缘巧合下相遇的莎拉和大卫意外穿过时空之门，踏上充满奇幻色彩的冒险之旅。旅程中两人重历了各自生命中至关重要的时刻，而他们的未来是否会因此改写？",
+      "poster_url": "https://image.tmdb.org/t/p/original/kQpxBpe8z806IsQK2UupTf84PEE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cwYIijfKraOJdP7y7c3aZXcIhYT.jpg"
     },
     {
       "id": 7451,
@@ -182,53 +193,53 @@
       "title": "余光珍爱",
       "type": "movie",
       "genreTitle": "剧情•爱情•奇幻",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2025-10-15",
       "overview": "在一连串死亡事件发生的同时，一位老妇人重温与其神秘不老恋人的旧日情缘，而一名探长正一步步揭开他们隐藏的黑暗秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/a0Nyuk4UHr2dSqlQ8YZQdNWDX0b.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/OCNoxTB6sqZXmiazkZYyUA6Iz7.jpg"
     },
     {
-      "id": 202577,
-      "title": "毒海狂涛",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.2,
-      "release_date": "2023-05-26",
-      "overview": "一艘装载可卡因的船只在家乡岛屿附近沉没，爱德华多将此视为值得冒险的良机：不仅可以赚钱，还能让无法实现的梦想成真。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qVctWsGgjvp22khSEM6UpSS3gNx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9giXGozxEOvSIqpTWpOLZ2xzLe.jpg"
-    },
-    {
-      "id": 1241921,
-      "title": "绮梦之旅",
+      "id": 1038392,
+      "title": "招魂4：终章",
       "type": "movie",
-      "genreTitle": "爱情•奇幻•剧情",
-      "rating": 6.3,
-      "release_date": "2025-09-17",
-      "overview": "机缘巧合下相遇的莎拉和大卫意外穿过时空之门，踏上充满奇幻色彩的冒险之旅。旅程中两人重历了各自生命中至关重要的时刻，而他们的未来是否会因此改写？",
-      "poster_url": "https://image.tmdb.org/t/p/original/kQpxBpe8z806IsQK2UupTf84PEE.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cwYIijfKraOJdP7y7c3aZXcIhYT.jpg"
+      "genreTitle": "恐怖",
+      "rating": 7.0,
+      "release_date": "2025-09-03",
+      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
     },
     {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+      "id": 1010756,
+      "title": "陌生人：第二章",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 5.4,
+      "release_date": "2025-09-25",
+      "overview": "当《陌生人》得知他们的受害者之一玛雅尚在人世，便再度归来，要将未竟之事斩草除根。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bRlXi6jDdGkffgERNHCYEvkJE0M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5I4FXrbMJ4LbA8oRlki9VWW1XPB.jpg"
     }
   ],
   "week_global_all": [
+    {
+      "id": 1078605,
+      "title": "凶器",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.4,
+      "release_date": "2025-08-04",
+      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yNm9xjdkBeVriMrD9fcCSHrSFax.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
+    },
     {
       "id": 1156594,
       "title": "是我们的错",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 8.0,
+      "rating": 8.1,
       "release_date": "2025-10-15",
       "overview": "尼克和诺亚的关系正处于最美好的时刻。然而，这对恋人似乎再也无法回到从前。一系列事件将接踵而至，让他们最终明白彼此是否真正适合对方。或者，相反地，他们会发现最好的选择是分道扬镳，即便要忘记如此深刻的爱或抹去烙印在心上的记忆是那么困难。爱并非总是足够，而原谅有时也不足以修复一切。他们能否放下过去，重新开始呢？",
       "poster_url": "https://image.tmdb.org/t/p/original/vYTif7Io5juo4ASAgDdESKn6lSy.jpg",
@@ -268,6 +279,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yHTzCiPZdn8sp6s4R33G19CgRR1.jpg"
     },
     {
+      "id": 1251717,
+      "title": "恶毒",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 5.9,
+      "release_date": "2025-09-19",
+      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eTuyYUNYux6FGq5hxvSPzdG9h5F.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/exGOMQ24q1fFf5Hjs2ud0GAA0Z2.jpg"
+    },
+    {
       "id": 1038392,
       "title": "招魂4：终章",
       "type": "movie",
@@ -277,50 +299,6 @@
       "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
       "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
-    },
-    {
-      "id": 110492,
-      "title": "和平使者",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 8.2,
-      "release_date": "2022-01-13",
-      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
-    },
-    {
-      "id": 1197137,
-      "title": "黑色电话2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 7.0,
-      "release_date": "2025-10-15",
-      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
-    },
-    {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
-    },
-    {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.3,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zdsOOY2Blbvf7ZZvmykQzZ8Hl1f.jpg"
     },
     {
       "id": 157336,
@@ -345,6 +323,50 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 106646,
+      "title": "华尔街之狼",
+      "type": "movie",
+      "genreTitle": "犯罪•剧情•喜剧",
+      "rating": 8.0,
+      "release_date": "2013-12-25",
+      "overview": "在危机四伏的投资界，掌管史崔顿·奥克蒙公司的乔丹·贝尔福特生活侈靡、实力雄厚。1987年，22岁的乔丹进入罗斯柴尔德公司，从接线员做起，在高级经纪人马克指点下，进入了股票经纪人充满毒品和欲望的世界，半年后因“黑色星期一”，乔丹转投靠贩卖“便士股票”的小公司，凭借巧舌如簧获得成功，与邻居唐尼和一班朋友另立门户，游走在灰色地带获利颇丰，获称“华尔街之狼”，然而，FBI已经开始留意他。",
+      "poster_url": "https://image.tmdb.org/t/p/original/e98lcYAxVpYxWvi6lmmiItZDmB0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ooHqvEGe5NqtAAHDDOruATtfXrf.jpg"
+    },
+    {
+      "id": 286801,
+      "title": "怪物：艾德·盖恩的故事",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.4,
+      "release_date": "2025-10-03",
+      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+    },
+    {
+      "id": 110492,
+      "title": "和平使者",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 8.2,
+      "release_date": "2022-01-13",
+      "overview": "和平使者被救回去之后原以为自己获得了自由，结果却被安排执行新的任务——蝴蝶计划。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pExFtsyucEcsBgKrpCDJpYjfy3U.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mcdBbEH39OKPIFo0iM3Q1nuHRz8.jpg"
+    },
+    {
+      "id": 1197137,
+      "title": "黑色电话2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•剧情",
+      "rating": 7.0,
+      "release_date": "2025-10-15",
+      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+    },
+    {
       "id": 221079,
       "title": "失序边缘",
       "type": "tv",
@@ -367,6 +389,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
     },
     {
+      "id": 436969,
+      "title": "X特遣队：全员集结",
+      "type": "movie",
+      "genreTitle": "动作•喜剧•冒险",
+      "rating": 7.5,
+      "release_date": "2021-06-06",
+      "overview": "被关押在美梦监狱的自杀小队成员获得一项可以减轻刑罚的新任务，前往南美洲的科多·马提斯岛国，摧毁纳粹时期遗留的约顿海姆监狱和实验室，它当前用于关押该国的政治犯并施行人体实验。执行任务期间，自杀小队遭遇巨型外星生物——海星斯塔罗，并与它发生冲突。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pjvtoWEki8x5DMI9YhgvFyq6XCp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rVwe70pxwygdt4metZOEISbaChn.jpg"
+    },
+    {
       "id": 617126,
       "title": "神奇四侠：初露锋芒",
       "type": "movie",
@@ -378,70 +411,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 1078605,
-      "title": "凶器",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 7.4,
-      "release_date": "2025-08-04",
-      "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yNm9xjdkBeVriMrD9fcCSHrSFax.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
-    },
-    {
       "id": 1241921,
       "title": "绮梦之旅",
       "type": "movie",
       "genreTitle": "爱情•奇幻•剧情",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2025-09-17",
       "overview": "机缘巧合下相遇的莎拉和大卫意外穿过时空之门，踏上充满奇幻色彩的冒险之旅。旅程中两人重历了各自生命中至关重要的时刻，而他们的未来是否会因此改写？",
       "poster_url": "https://image.tmdb.org/t/p/original/kQpxBpe8z806IsQK2UupTf84PEE.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/cwYIijfKraOJdP7y7c3aZXcIhYT.jpg"
     },
     {
-      "id": 205715,
-      "title": "V世代",
+      "id": 2190,
+      "title": "南方公园",
       "type": "tv",
-      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
-      "rating": 7.7,
-      "release_date": "2023-09-28",
-      "overview": "《黑袍纠察队》衍生剧《V世代》是一部以美国唯一的超级英雄学院为背景的惊心动魄的新剧集。这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l05sqkFQov4zGlUSZ7K2tmLMjja.jpg"
+      "genreTitle": "动画•喜剧",
+      "rating": 8.3,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zdsOOY2Blbvf7ZZvmykQzZ8Hl1f.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
+      "id": 1010756,
+      "title": "陌生人：第二章",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.4,
-      "release_date": "2025-07-09",
-      "overview": "当超人（大卫·科伦斯韦 饰）被卷入国内外多重冲突时，他保护人类的行为遭到质疑。而他显露的弱点，也趁机被科技巨擘、阴谋大师莱克斯·卢瑟（尼古拉斯·霍尔特 饰）利用，准备一举铲除超人。《星球日报》勇敢无畏的记者露易丝·莱恩（瑞秋·布罗斯纳安 饰）能否联手大都会的其他超能力者，以及超人忠诚的伙伴超狗小氪，在卢瑟彻底毁灭超人前拯救他？ 影片讲述了超人在两个身份之间自我和解的成长之旅，他既是来自氪星的卡尔-艾尔，也是在堪萨斯小镇长大的克拉克·肯特，他选择怀抱无私信念，将自身的强大力量用于守护人类。在这个将“善良”视作过时的世界里，他以人性之善为指引，坚定践行“真理、正义与更美好的明天”的永恒信念。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iTil24OZutt1bNTsbnc1YI04kuw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f1E8DUFWpDkf1BMjJgNsX78T0A9.jpg"
-    },
-    {
-      "id": 671,
-      "title": "哈利·波特与魔法石",
-      "type": "movie",
-      "genreTitle": "冒险•奇幻",
-      "rating": 7.9,
-      "release_date": "2001-11-16",
-      "overview": "哈利·波特是一个孤儿，从小寄养在姨妈家，受尽欺凌。但就在哈利11岁生日的时候，他意外收到了霍格沃茨学院的入学通知书。哈利从该学院派来接他的巨人海格口中得知，这是一间魔法学院，并得知了自己的身世，原来哈利的父母都是伟大的魔法师，在对付伏地魔的战斗中双双献身，唯有哈利幸免于难。哈利进入霍格沃茨后，表现出了超乎想象的飞行天赋，得到麦格教授的推荐进入了格兰芬多的魁地奇球队。另一方面，哈利发现霍格沃茨学院内有一股黑暗势力似乎在暗暗滋长，揭开谜团的关键就在有凶恶的三头犬守护的房间内。哈利、罗恩和赫敏三个好朋友决定探个究竟。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4oglmTTSAZb9FSO3IFuMK8F7qQ3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nF8OU1e88on5cK66gYGZaKVAwMz.jpg"
-    },
-    {
-      "id": 1399,
-      "title": "权力的游戏",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
-      "rating": 8.5,
-      "release_date": "2011-04-17",
-      "overview": "维斯特洛大陆边境处发现远古传说中早已灭绝的生物，危险也渐渐靠近这里。危情一触即发，整个王国看似平和的表面下却是波涛暗涌。权高位重的拜拉席恩家族、勇敢善良的史塔克家族、企图谋取王位的坦格利安家族、有着不可告人秘密的兰尼斯特家族。这些家族各怀鬼胎，这个国家将会陷入一场混战.....",
-      "poster_url": "https://image.tmdb.org/t/p/original/2fZTfbMuspCrtzLtaUzjWbFW3vT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bqHiox7OWLpztfVgR3MF6B7Hzxc.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 5.4,
+      "release_date": "2025-09-25",
+      "overview": "当《陌生人》得知他们的受害者之一玛雅尚在人世，便再度归来，要将未竟之事斩草除根。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bRlXi6jDdGkffgERNHCYEvkJE0M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5I4FXrbMJ4LbA8oRlki9VWW1XPB.jpg"
     }
   ],
   "popular_movies": [
@@ -450,11 +450,22 @@
       "title": "是我们的错",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 8.0,
+      "rating": 8.2,
       "release_date": "2025-10-15",
       "overview": "尼克和诺亚的关系正处于最美好的时刻。然而，这对恋人似乎再也无法回到从前。一系列事件将接踵而至，让他们最终明白彼此是否真正适合对方。或者，相反地，他们会发现最好的选择是分道扬镳，即便要忘记如此深刻的爱或抹去烙印在心上的记忆是那么困难。爱并非总是足够，而原谅有时也不足以修复一切。他们能否放下过去，重新开始呢？",
       "poster_url": "https://image.tmdb.org/t/p/original/vYTif7Io5juo4ASAgDdESKn6lSy.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dPLgmvYXYMvVW1wWpZrJfayIcqq.jpg"
+    },
+    {
+      "id": 1072699,
+      "title": "重返虎穴2",
+      "type": "movie",
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 6.5,
+      "release_date": "2025-10-14",
+      "overview": "厮杀过后，狂怒帮的新头目阿金开始统领这支残暴又强大的黑帮，并将目标转向了境外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/l7ZTDFtAgmuyHGdI1GSQiX4WGL1.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg"
     },
     {
       "id": 1038392,
@@ -468,22 +479,11 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
     },
     {
-      "id": 1072699,
-      "title": "重返虎穴2",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 7.0,
-      "release_date": "2025-10-14",
-      "overview": "厮杀过后，狂怒帮的新头目阿金开始统领这支残暴又强大的黑帮，并将目标转向了境外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/l7ZTDFtAgmuyHGdI1GSQiX4WGL1.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg"
-    },
-    {
       "id": 755898,
       "title": "世界大战",
       "type": "movie",
       "genreTitle": "科幻•惊悚",
-      "rating": 4.3,
+      "rating": 4.4,
       "release_date": "2025-07-29",
       "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
       "poster_url": "https://image.tmdb.org/t/p/original/9RLZ48UeVpICPWa7jK2pZPOp2Ve.jpg",
@@ -589,15 +589,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kP2xXRCPMPbYU80potDmhC76i2D.jpg"
     },
     {
-      "id": 1251717,
-      "title": "恶毒",
+      "id": 1010756,
+      "title": "陌生人：第二章",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.0,
-      "release_date": "2025-09-19",
-      "overview": "影片围绕着一个女人展开，当她意外地收到一个神秘的木箱时，她的日常生活发生了险恶的转折。她没有意识到它所蕴含的黑暗力量，很快发现了盒子和即将到来的生命威胁之间的不祥联系。随着盒子向她发出令人不寒而栗的最后通牒——要么采购三件特定物品，要么屈服于致命的命运，展开的 叙述愈演愈烈。随着每一个转折，女人都踏上了一段悬疑的旅程，与时间赛跑，揭开邪恶力量背后的秘密，并在危险的生存之路上航行。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eTuyYUNYux6FGq5hxvSPzdG9h5F.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/exGOMQ24q1fFf5Hjs2ud0GAA0Z2.jpg"
+      "rating": 5.3,
+      "release_date": "2025-09-25",
+      "overview": "当《陌生人》得知他们的受害者之一玛雅尚在人世，便再度归来，要将未竟之事斩草除根。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bRlXi6jDdGkffgERNHCYEvkJE0M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5I4FXrbMJ4LbA8oRlki9VWW1XPB.jpg"
     },
     {
       "id": 1257009,
