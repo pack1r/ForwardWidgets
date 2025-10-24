@@ -1,38 +1,27 @@
 {
-  "last_updated": "2025-10-24 09:46:22",
+  "last_updated": "2025-10-24 20:51:35",
   "today_global": [
     {
       "id": 1306525,
       "title": "长生血战",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 5.7,
+      "rating": 6.3,
       "release_date": "2025-10-22",
       "overview": "一个关系不和的家庭经营着一家知名的草药公司。公司老板试图创新，研制一种新药水，结果却引发了丧尸疫情。",
       "poster_url": "https://image.tmdb.org/t/p/original/k1Fkw79eBYy0KTmAvI5ANtPdsRY.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/w3h3XA14tlKfQXazDLTFUJkwyRK.jpg"
     },
     {
-      "id": 604079,
-      "title": "死亡竞走",
+      "id": 1290159,
+      "title": "炸裂白宫",
       "type": "movie",
-      "genreTitle": "惊悚•科幻•恐怖",
-      "rating": 6.9,
-      "release_date": "2025-09-10",
-      "overview": "　　在一个未来的反乌托邦社会中，政府举办的残酷的死亡游戏——“死亡竞走”。这是一场没有终点的竞走比赛，参赛者是100名被挑选出来的年轻人。任何落后或走不动的人，会在三次警告后被立即处决，直到剩下最后一个。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kwK17FjV8PhxJ3z2QajW0z8Prgz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
-    },
-    {
-      "id": 245827,
-      "title": "拉撒路",
-      "type": "tv",
-      "genreTitle": "悬疑",
-      "rating": 6.5,
-      "release_date": "2025-10-22",
-      "overview": "法医精神病学家乔尔·拉撒路在父亲离奇身亡后，被迫面对心中埋藏多年的恶梦。起初，他以为父亲的死是自杀，但很快便卷入层层谋杀阴谋，并透过一连串已故熟人的离奇幻象，展开一场与时间赛跑的缉凶行动。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6tTDjWJfPkcYfotG7g7o4g1Xs5z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3JC1cGw9Absw6bx8yKtqdxoOe0M.jpg"
+      "genreTitle": "战争•惊悚",
+      "rating": 6.7,
+      "release_date": "2025-10-02",
+      "overview": "　　来源不明的一颗导弹朝着美国发射，谁该负责？又该如何应对？一场分秒必争的角力就此展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3gs75oVYmKlt2Q9keluLQWG7d5B.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3bbVCUsw6evuzLkR1r81Y8vHKqe.jpg"
     },
     {
       "id": 250923,
@@ -46,26 +35,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dfNzaRHV1joArH6eCYxF7e61PjA.jpg"
     },
     {
-      "id": 247756,
-      "title": "怪物",
-      "type": "tv",
-      "genreTitle": "犯罪•悬疑•剧情",
-      "rating": 4.5,
-      "release_date": "2025-10-22",
-      "overview": "根据真实案件改编，1968年至1985年间，活跃在佛罗伦萨的连环杀手杀害了14名受害者，受害者通常是在郊外发生亲密关系的年轻情侣，该案至今未破。17 年的恐怖，震惊了整整一代人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9tuv0kHfVEfNJaqXUld646y1g0I.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zXAJWl0oubQ5eUdEFUm6z5gPLAY.jpg"
-    },
-    {
-      "id": 205715,
-      "title": "V世代",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
-      "rating": 7.7,
-      "release_date": "2023-09-28",
-      "overview": "《黑袍纠察队》衍生剧《V世代》是一部以美国唯一的超级英雄学院为背景的惊心动魄的新剧集。这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l05sqkFQov4zGlUSZ7K2tmLMjja.jpg"
+      "id": 604079,
+      "title": "死亡竞走",
+      "type": "movie",
+      "genreTitle": "惊悚•科幻•恐怖",
+      "rating": 6.9,
+      "release_date": "2025-09-10",
+      "overview": "　　在一个未来的反乌托邦社会中，政府举办的残酷的死亡游戏——“死亡竞走”。这是一场没有终点的竞走比赛，参赛者是100名被挑选出来的年轻人。任何落后或走不动的人，会在三次警告后被立即处决，直到剩下最后一个。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kwK17FjV8PhxJ3z2QajW0z8Prgz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
     },
     {
       "id": 1267905,
@@ -79,17 +57,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xhCi9Utt5wzPlaaKS4pl5FhxjVH.jpg"
     },
     {
-      "id": 1362315,
-      "title": "推动摇篮的手",
-      "type": "movie",
-      "genreTitle": "惊悚",
-      "rating": 6.4,
-      "release_date": "2025-10-21",
-      "overview": "影片翻拍自1992年的同名恐怖片。\r 　　Caitlin（玛丽·伊丽莎白·温斯特德 Mary Elizabeth Winstead 饰） 聘请到一位似乎完美的新保姆 Polly（麦卡·梦露 Maika Monroe 饰）以为从此可以安心，殊不知保姆暗藏心机……一切幸福，原来只是噩梦的开始。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w2NtYTf86gIBhjrJCHiXGYv18fA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tteTm9eypuEh2lqGJYZXdKEt8i8.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -99,6 +66,39 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 247756,
+      "title": "佛罗伦萨杀人魔",
+      "type": "tv",
+      "genreTitle": "犯罪•悬疑•剧情",
+      "rating": 4.8,
+      "release_date": "2025-10-22",
+      "overview": "根据真实案件改编，1968年至1985年间，活跃在佛罗伦萨的连环杀手杀害了14名受害者，受害者通常是在郊外发生亲密关系的年轻情侣，该案至今未破。17 年的恐怖，震惊了整整一代人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/PNyfg07Se1sHKeW45dFB3HHw6e.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zXAJWl0oubQ5eUdEFUm6z5gPLAY.jpg"
+    },
+    {
+      "id": 245827,
+      "title": "拉撒路",
+      "type": "tv",
+      "genreTitle": "悬疑",
+      "rating": 6.5,
+      "release_date": "2025-10-22",
+      "overview": "法医精神病学家乔尔·拉撒路在父亲离奇身亡后，被迫面对心中埋藏多年的恶梦。起初，他以为父亲的死是自杀，但很快便卷入层层谋杀阴谋，并透过一连串已故熟人的离奇幻象，展开一场与时间赛跑的缉凶行动。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6tTDjWJfPkcYfotG7g7o4g1Xs5z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3JC1cGw9Absw6bx8yKtqdxoOe0M.jpg"
+    },
+    {
+      "id": 205715,
+      "title": "V世代",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
+      "rating": 7.7,
+      "release_date": "2023-09-28",
+      "overview": "《黑袍纠察队》衍生剧《V世代》是一部以美国唯一的超级英雄学院为背景的惊心动魄的新剧集。这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l05sqkFQov4zGlUSZ7K2tmLMjja.jpg"
     },
     {
       "id": 1235746,
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q45Gan0K2N5dNNh1jzoJWxArQlA.jpg"
     },
     {
-      "id": 1327862,
-      "title": "为你遗憾",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.5,
-      "release_date": "2025-10-22",
-      "overview": "　　一宗牵涉两条人命的严重交通意外，揭开了令人震惊的秘密；一对母女被迫面对家族的伤痕，探索爱的定义，并重新认识彼此。  　　影片改编自《爱情，到此为止》原作者科琳·胡佛的同名畅销小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/75EjcPb8oVexrVUY3md0ZjCbHeR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/amcOpAGkcTEZqmUG1LNM2gYGCam.jpg"
-    },
-    {
       "id": 1218925,
       "title": "电锯人 - 剧场版：蕾塞篇",
       "type": "movie",
@@ -134,48 +123,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
-      "id": 1197137,
-      "title": "黑色电话2",
+      "id": 1422096,
+      "title": "好狗狗",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 7.4,
-      "release_date": "2025-10-15",
-      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+      "rating": 7.1,
+      "release_date": "2025-10-01",
+      "overview": "　　一部由狗狗担任主角的恐怖片。 小狗印第跟随他的主人和挚友托德踏上了一段新的旅途，离开城市生活，搬到了乡下一栋空置已久的旧宅。然而搬进家后，印第却立刻被充满空阔角落的不详气息所困扰。一只死去已久的狗的魂灵现身，向印第发出若有若无的警告，而前任房主惨死的景象更是突然浮现在它面前。当托德渐渐屈服于萦绕房子的黑暗力量，印第必须与来自死亡的恶灵搏斗，保护它挚爱的人类。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gUk0Tzo9iL4RUiQaYo6AkcNcA9d.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pzr6mKfsG08ClS6wmUCKg5V3oWv.jpg"
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
+      "id": 1144107,
+      "title": "罗小黑战记 2",
       "type": "movie",
-      "genreTitle": "剧情•恐怖•科幻",
-      "rating": 8.7,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/olmud8EBCJUSSVkDw0r4KyLjRig.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pBjg8hOYhFD26TXmNmVL25xvXpF.jpg"
+      "genreTitle": "动画•奇幻•动作",
+      "rating": 8.3,
+      "release_date": "2025-07-18",
+      "overview": "　　小黑跟师父无限在村里过着安宁日子，他也渐渐适应了人类世界的生活。两年后，妖灵会馆突然被袭击，无限和小黑接到任务前往会馆。小黑能否经受住这突如其来的考验？面对意想不到的敌人，小黑又会做出怎样的选择……",
+      "poster_url": "https://image.tmdb.org/t/p/original/mG100a5DAdQYly72YwPjstrKiet.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dHjAdJcst9DKZZG1vXe6Y8HlCI5.jpg"
     },
     {
-      "id": 507244,
-      "title": "余烬夺宝",
+      "id": 1362315,
+      "title": "推动摇篮的手",
       "type": "movie",
-      "genreTitle": "科幻•动作•喜剧",
+      "genreTitle": "惊悚•恐怖",
       "rating": 6.1,
-      "release_date": "2025-08-20",
-      "overview": "在一场巨大的太阳耀斑摧毁了地球东半球之后，一名大胆的寻宝者受雇前往欧洲去寻找《蒙娜丽莎》，却发现这个世界更需要的是英雄，而非一幅画。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pq7v8yZAS38PcGDSGIAmkQnUZkf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/w7JCEAMCafn3C1DHE3Yn6QpdecM.jpg"
+      "release_date": "2025-10-21",
+      "overview": "影片翻拍自1992年的同名恐怖片。\r 　　Caitlin（玛丽·伊丽莎白·温斯特德 Mary Elizabeth Winstead 饰） 聘请到一位似乎完美的新保姆 Polly（麦卡·梦露 Maika Monroe 饰）以为从此可以安心，殊不知保姆暗藏心机……一切幸福，原来只是噩梦的开始。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w2NtYTf86gIBhjrJCHiXGYv18fA.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tteTm9eypuEh2lqGJYZXdKEt8i8.jpg"
     },
     {
-      "id": 1419027,
-      "title": "攻击鬼魂13号",
+      "id": 1327862,
+      "title": "为你遗憾",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.5,
-      "release_date": "2025-06-13",
-      "overview": "欺负人是不好，可是如果从你活着的时候就欺负你，直到你死了变成鬼，还不停的欺负你……被欺负到死，他们还怎么活下去？",
-      "poster_url": "https://image.tmdb.org/t/p/original/beBUaewkS1ytANQJ5F2UXIo0Wty.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rC6ldrOrQGcCqgMOvAUV2Mi1Iw1.jpg"
+      "genreTitle": "爱情•剧情",
+      "rating": 6.9,
+      "release_date": "2025-10-22",
+      "overview": "　　一宗牵涉两条人命的严重交通意外，揭开了令人震惊的秘密；一对母女被迫面对家族的伤痕，探索爱的定义，并重新认识彼此。  　　影片改编自《爱情，到此为止》原作者科琳·胡佛的同名畅销小说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/75EjcPb8oVexrVUY3md0ZjCbHeR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/amcOpAGkcTEZqmUG1LNM2gYGCam.jpg"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.2,
+      "release_date": "2021-10-21",
+      "overview": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shs0WhDI7KF7LzUUhWpw0bOpjEp.jpg"
+    },
+    {
+      "id": 1080365,
+      "title": "OG复仇记",
+      "type": "movie",
+      "genreTitle": "动作•惊悚",
+      "rating": 5.6,
+      "release_date": "2025-09-24",
+      "overview": "在日本接受战斗训练的男子本以为流亡生活可以平平淡淡，却因一场风波被迫回到孟买，拯救他发誓守护的人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tidtibESNT6ADt53PPX74tHB9oV.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2evzYDomcne2X4UCeafjb4SD7tI.jpg"
     },
     {
       "id": 617126,
@@ -189,37 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 533533,
-      "title": "创：战神",
+      "id": 1330421,
+      "title": "骨湖",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-10-08",
-      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
+      "genreTitle": "恐怖•惊悚•悬疑",
+      "rating": 5.2,
+      "release_date": "2025-10-02",
+      "overview": "　　一对情侣在僻静的湖畔庄园享受浪漫假期，却因被迫与一对神秘又迷人的情侣共用这栋豪宅而彻底被打乱。在这个充满暗黑幽默和情色诱惑的恐怖故事中，一场梦幻之旅逐渐陷入充斥着欲望、谎言与操控的噩梦迷宫——不仅骇人的秘密被层层揭开，更引发了一场血雨腥风的生存之战。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/168dp7vy3kwOehcMpFaLOfB52NV.jpg"
     },
     {
-      "id": 927254,
-      "title": "蠢特夫妇",
+      "id": 1062722,
+      "title": "Frankenstein",
       "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.6,
+      "genreTitle": "剧情•恐怖•科幻",
+      "rating": 8.8,
       "release_date": "2025-10-17",
-      "overview": "改编自罗尔德·达尔的同名儿童小说，蠢特夫妇是世界上最卑鄙、恶臭、下流的人，他们恰巧经营着世上最恶心、危险、愚蠢的游乐园Twitlandia。当他们在生活的城镇崛起掌权时，两个勇敢的孤儿和一群神奇的动物挺身而出，被迫变得像蠢特夫妇一样狡猾，以拯救这座城市。",
-      "poster_url": "https://image.tmdb.org/t/p/original/39BQ64G31EGKS629sn1Za3kVldh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9tI7huO9xuGp3RjDGuTYfjqfeHA.jpg"
-    },
-    {
-      "id": 1080365,
-      "title": "OG复仇记",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 5.6,
-      "release_date": "2025-09-24",
-      "overview": "在日本接受战斗训练的男子本以为流亡生活可以平平淡淡，却因一场风波被迫回到孟买，拯救他发誓守护的人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yHyvS4OMq8oij11Co9CbeMqLUo2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2evzYDomcne2X4UCeafjb4SD7tI.jpg"
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/olmud8EBCJUSSVkDw0r4KyLjRig.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pBjg8hOYhFD26TXmNmVL25xvXpF.jpg"
     }
   ],
   "week_global_all": [
@@ -235,15 +235,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kCKJCoqJbzeK4ySQQwpwYz7fgLQ.jpg"
     },
     {
-      "id": 927254,
-      "title": "蠢特夫妇",
+      "id": 250923,
+      "title": "天作不合的我们",
+      "type": "tv",
+      "genreTitle": "喜剧•剧情",
+      "rating": 7.5,
+      "release_date": "2024-09-26",
+      "overview": "一名不可知论者性爱播客主播与一名刚刚恢复单身的拉比坠入爱河。然而，面对迥然不同的生活方式和爱管闲事的家人，两人的恋情能否经受住考验？",
+      "poster_url": "https://image.tmdb.org/t/p/original/kPrEbhxzl7bjeJUEL2DJw3P9aCJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dfNzaRHV1joArH6eCYxF7e61PjA.jpg"
+    },
+    {
+      "id": 1290159,
+      "title": "炸裂白宫",
       "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.6,
-      "release_date": "2025-10-17",
-      "overview": "改编自罗尔德·达尔的同名儿童小说，蠢特夫妇是世界上最卑鄙、恶臭、下流的人，他们恰巧经营着世上最恶心、危险、愚蠢的游乐园Twitlandia。当他们在生活的城镇崛起掌权时，两个勇敢的孤儿和一群神奇的动物挺身而出，被迫变得像蠢特夫妇一样狡猾，以拯救这座城市。",
-      "poster_url": "https://image.tmdb.org/t/p/original/39BQ64G31EGKS629sn1Za3kVldh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9tI7huO9xuGp3RjDGuTYfjqfeHA.jpg"
+      "genreTitle": "战争•惊悚",
+      "rating": 6.7,
+      "release_date": "2025-10-02",
+      "overview": "　　来源不明的一颗导弹朝着美国发射，谁该负责？又该如何应对？一场分秒必争的角力就此展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3gs75oVYmKlt2Q9keluLQWG7d5B.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3bbVCUsw6evuzLkR1r81Y8vHKqe.jpg"
     },
     {
       "id": 1267905,
@@ -257,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xhCi9Utt5wzPlaaKS4pl5FhxjVH.jpg"
     },
     {
-      "id": 205715,
-      "title": "V世代",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
-      "rating": 7.7,
-      "release_date": "2023-09-28",
-      "overview": "《黑袍纠察队》衍生剧《V世代》是一部以美国唯一的超级英雄学院为背景的惊心动魄的新剧集。这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l05sqkFQov4zGlUSZ7K2tmLMjja.jpg"
-    },
-    {
       "id": 1156594,
       "title": "是我们的错",
       "type": "movie",
@@ -279,15 +279,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dPLgmvYXYMvVW1wWpZrJfayIcqq.jpg"
     },
     {
-      "id": 1197137,
-      "title": "黑色电话2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 7.4,
-      "release_date": "2025-10-15",
-      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+      "id": 205715,
+      "title": "V世代",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
+      "rating": 7.7,
+      "release_date": "2023-09-28",
+      "overview": "《黑袍纠察队》衍生剧《V世代》是一部以美国唯一的超级英雄学院为背景的惊心动魄的新剧集。这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l05sqkFQov4zGlUSZ7K2tmLMjja.jpg"
     },
     {
       "id": 7451,
@@ -301,37 +301,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 533533,
-      "title": "创：战神",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-10-08",
-      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
-    },
-    {
-      "id": 1038392,
-      "title": "招魂4：终章",
-      "type": "movie",
-      "genreTitle": "恐怖",
-      "rating": 7.0,
-      "release_date": "2025-09-03",
-      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
-    },
-    {
-      "id": 1306525,
-      "title": "长生血战",
+      "id": 1197137,
+      "title": "黑色电话2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 5.7,
-      "release_date": "2025-10-22",
-      "overview": "一个关系不和的家庭经营着一家知名的草药公司。公司老板试图创新，研制一种新药水，结果却引发了丧尸疫情。",
-      "poster_url": "https://image.tmdb.org/t/p/original/k1Fkw79eBYy0KTmAvI5ANtPdsRY.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/w3h3XA14tlKfQXazDLTFUJkwyRK.jpg"
+      "rating": 7.3,
+      "release_date": "2025-10-15",
+      "overview": "　　布伦屋热门恐怖片《黑色电话》续集《黑色电话2》定档2025年6月27日北美上映，阵容和剧情暂未曝光。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ssEH6ukQ4WKP5j3iXnp7uJSdjq5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
+    },
+    {
+      "id": 927254,
+      "title": "蠢特夫妇",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 6.6,
+      "release_date": "2025-10-17",
+      "overview": "改编自罗尔德·达尔的同名儿童小说，蠢特夫妇是世界上最卑鄙、恶臭、下流的人，他们恰巧经营着世上最恶心、危险、愚蠢的游乐园Twitlandia。当他们在生活的城镇崛起掌权时，两个勇敢的孤儿和一群神奇的动物挺身而出，被迫变得像蠢特夫妇一样狡猾，以拯救这座城市。",
+      "poster_url": "https://image.tmdb.org/t/p/original/39BQ64G31EGKS629sn1Za3kVldh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9tI7huO9xuGp3RjDGuTYfjqfeHA.jpg"
     },
     {
       "id": 617126,
@@ -345,6 +334,39 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
+      "id": 1038392,
+      "title": "招魂4：终章",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 7.0,
+      "release_date": "2025-09-03",
+      "overview": "故事设定在1986年，即《招魂3》的五年后。沃伦夫妇因艾德在第三部中经历恶灵事件而突发心脏病，已正式退休，不再从事驱魔工作。他们仍会到大学巡回演讲，但连这类机会也在逐渐减少。一些事件最终还是让他们重返战场。这次的核心案件，是沃伦夫妇生涯中最著名的一起事件之一：斯莫尔家族闹鬼案。据“新英格兰通灵研究协会”（由艾德与洛琳的现实中的女儿朱迪和女婿托尼·斯佩拉负责运营）称，1970年代，珍妮特与杰克·斯莫尔搬入宾夕法尼亚州西皮特斯顿查斯街上的一套复式住宅。随后数年，包括他们的女儿与杰克的父母在内的家人纷纷声称经历了超自然现象，从怪味、怪声到鬼魂骚扰等。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uYqkcZ6CdYjtndhrg2s43wEdc7k.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hCP9sV9j985KYTehf97JTZQhJlu.jpg"
+    },
+    {
+      "id": 701387,
+      "title": "拯救地球",
+      "type": "movie",
+      "genreTitle": "喜剧•科幻•惊悚",
+      "rating": 8.0,
+      "release_date": "2025-10-23",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/wDrk1KsJUfL2bS33dBrexKWvhRZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/stq0EbHFJxVFdaC3saery03UZIG.jpg"
+    },
+    {
+      "id": 1306525,
+      "title": "长生血战",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.3,
+      "release_date": "2025-10-22",
+      "overview": "一个关系不和的家庭经营着一家知名的草药公司。公司老板试图创新，研制一种新药水，结果却引发了丧尸疫情。",
+      "poster_url": "https://image.tmdb.org/t/p/original/k1Fkw79eBYy0KTmAvI5ANtPdsRY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/w3h3XA14tlKfQXazDLTFUJkwyRK.jpg"
+    },
+    {
       "id": 228305,
       "title": "特遣任务",
       "type": "tv",
@@ -356,37 +378,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bwzERPU6WzK3oG8YzAgYQRlwxaV.jpg"
     },
     {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.3,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zdsOOY2Blbvf7ZZvmykQzZ8Hl1f.jpg"
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/F4AJdovZycduKPfyematVHhSpx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
     },
     {
-      "id": 286801,
-      "title": "怪物：艾德·盖恩的故事",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-03",
-      "overview": "连续杀人魔、盗墓贼、心理变态，在 1950 年代威斯康星州乡间冰冻的原野中，看似友善温和的艾德·盖恩静静隐居在一座朽坏的农场，他的屋子里藏着血腥骇人的秘密，足以彻底改写“美国梦魇”的定义。在孤独、精神疾病，以及对母亲的强烈执着驱使下，盖恩犯下令人发指的罪行，一种全新的怪物就此诞生。他影响了好莱坞数十年，更可说是现代恐怖的原型。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8TKeJMG8T2adWb1SB23d2Sv6Yi6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cldtjBMTV4PIXmhcYrY7a4CTJtb.jpg"
+      "id": 1062722,
+      "title": "Frankenstein",
+      "type": "movie",
+      "genreTitle": "剧情•恐怖•科幻",
+      "rating": 8.8,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/olmud8EBCJUSSVkDw0r4KyLjRig.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pBjg8hOYhFD26TXmNmVL25xvXpF.jpg"
     },
     {
-      "id": 63926,
-      "title": "一拳超人",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.4,
-      "release_date": "2015-10-05",
-      "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活……",
-      "poster_url": "https://image.tmdb.org/t/p/original/fHO4ssyUOO1FTJmy7Q3ofbCE8XS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
+      "id": 1218925,
+      "title": "电锯人 - 剧场版：蕾塞篇",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 8.2,
+      "release_date": "2025-09-19",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/mnauEV7WyvI5zVDvqqBRswNPyfO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
       "id": 575265,
@@ -400,26 +422,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yHTzCiPZdn8sp6s4R33G19CgRR1.jpg"
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "type": "movie",
-      "genreTitle": "剧情•恐怖•科幻",
-      "rating": 8.7,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/olmud8EBCJUSSVkDw0r4KyLjRig.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pBjg8hOYhFD26TXmNmVL25xvXpF.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
+      "id": 63926,
+      "title": "一拳超人",
       "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+      "genreTitle": "动画•喜剧•动作冒险",
+      "rating": 8.4,
+      "release_date": "2015-10-05",
+      "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活……",
+      "poster_url": "https://image.tmdb.org/t/p/original/fHO4ssyUOO1FTJmy7Q3ofbCE8XS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
     },
     {
       "id": 1078605,
@@ -431,17 +442,6 @@
       "overview": "　　同一个班上除了一名孩子外，其余所有孩子在同一天晚上的同一时间神秘失踪，这让整个社区开始怀疑究竟是谁或什么导致了他们的失踪。",
       "poster_url": "https://image.tmdb.org/t/p/original/yNm9xjdkBeVriMrD9fcCSHrSFax.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dMsDzm3SbOfEaJXXcHhc9qNFA25.jpg"
-    },
-    {
-      "id": 1235746,
-      "title": "冬日之死",
-      "type": "movie",
-      "genreTitle": "惊悚",
-      "rating": 7.0,
-      "release_date": "2025-09-23",
-      "overview": "一名孤身穿越明尼苏达北境雪原的女子，意外撞破少女绑架现场。百里荒原杳无人烟，暴雪割断通讯网络，她成为深陷绝境的少女唯一生机。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hnhRmdPWuy2imyg9w3VuSx6Ba5E.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q45Gan0K2N5dNNh1jzoJWxArQlA.jpg"
     }
   ],
   "popular_movies": [
@@ -501,6 +501,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/uWIpSRVkaofixcWwSkZwi7e7OqN.jpg"
     },
     {
+      "id": 1305717,
+      "title": "狩猎场",
+      "type": "movie",
+      "genreTitle": "动作•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-05-16",
+      "overview": "克洛伊·马维诺为了给孩子们寻找庇护，不顾一切地逃离了与黑手党有染的丈夫，在一个名叫杰克的隐居流浪汉家的小屋里找到了栖身之所。然而，随着丈夫的追随者们逐渐逼近她，她发现杰克才是他们最大的敌人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg"
+    },
+    {
       "id": 861451,
       "title": "喋血杀机",
       "type": "movie",
@@ -521,17 +532,6 @@
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/aXwPa8NKNUhXNfUMLLNBkwmEBOH.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 1305717,
-      "title": "狩猎场",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-05-16",
-      "overview": "克洛伊·马维诺为了给孩子们寻找庇护，不顾一切地逃离了与黑手党有染的丈夫，在一个名叫杰克的隐居流浪汉家的小屋里找到了栖身之所。然而，随着丈夫的追随者们逐渐逼近她，她发现杰克才是他们最大的敌人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg"
     },
     {
       "id": 1038392,
@@ -578,6 +578,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
     },
     {
+      "id": 1306525,
+      "title": "长生血战",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 5.7,
+      "release_date": "2025-10-22",
+      "overview": "一个关系不和的家庭经营着一家知名的草药公司。公司老板试图创新，研制一种新药水，结果却引发了丧尸疫情。",
+      "poster_url": "https://image.tmdb.org/t/p/original/k1Fkw79eBYy0KTmAvI5ANtPdsRY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/w3h3XA14tlKfQXazDLTFUJkwyRK.jpg"
+    },
+    {
       "id": 1156593,
       "title": "你的过错",
       "type": "movie",
@@ -598,17 +609,6 @@
       "overview": "当《陌生人》得知他们的受害者之一玛雅尚在人世，便再度归来，要将未竟之事斩草除根。",
       "poster_url": "https://image.tmdb.org/t/p/original/bRlXi6jDdGkffgERNHCYEvkJE0M.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/5I4FXrbMJ4LbA8oRlki9VWW1XPB.jpg"
-    },
-    {
-      "id": 927254,
-      "title": "蠢特夫妇",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.6,
-      "release_date": "2025-10-17",
-      "overview": "改编自罗尔德·达尔的同名儿童小说，蠢特夫妇是世界上最卑鄙、恶臭、下流的人，他们恰巧经营着世上最恶心、危险、愚蠢的游乐园Twitlandia。当他们在生活的城镇崛起掌权时，两个勇敢的孤儿和一群神奇的动物挺身而出，被迫变得像蠢特夫妇一样狡猾，以拯救这座城市。",
-      "poster_url": "https://image.tmdb.org/t/p/original/39BQ64G31EGKS629sn1Za3kVldh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9tI7huO9xuGp3RjDGuTYfjqfeHA.jpg"
     }
   ]
 }
