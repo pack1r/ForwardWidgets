@@ -1,17 +1,6 @@
 {
-  "last_updated": "2025-11-10 09:59:55",
+  "last_updated": "2025-11-10 20:52:33",
   "today_global": [
-    {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "type": "movie",
-      "genreTitle": "剧情•恐怖•科幻",
-      "rating": 8.0,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wXjNt2xNGaMuOpI98OefVCknbGx.jpg"
-    },
     {
       "id": 7451,
       "title": "极限特工",
@@ -24,15 +13,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 11395,
-      "title": "圣诞老人",
+      "id": 1062722,
+      "title": "Frankenstein",
       "type": "movie",
-      "genreTitle": "奇幻•剧情•喜剧",
-      "rating": 6.5,
-      "release_date": "1994-11-11",
-      "overview": "斯科特（蒂姆·艾伦 Tim Allen 饰）拥有一段失败的婚姻，离婚之后，儿子查理（艾力克·洛伊德 Eric Lloyd 饰）跟着母亲劳拉（温迪·古逊 Wendy Crewson 饰）生活。探视日很快就到了，斯科特兴致勃勃的准备去享受和儿子之间相处的短暂时光，但正当他准备出门之时，却发现有一个人在他家的屋顶上鬼鬼祟祟的不知道干着什么。斯科特一声大喝吓得屋顶上的人跌落下来，这时斯科特才震惊的发现，这个人居然是圣诞老人。  斯科特令圣诞老人无法工作，为了赎罪，他只能代替他成为新的圣诞老人，就这样，和查理一起，斯科特来到了圣诞老人的大本营，在这里，斯科特必须学习如何成为一名合格的圣诞老人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xAgAtehCu5uqjLJD2r0I4SUajXK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/SuE3jFBtnXS6SiyHFmLJp2wesO.jpg"
+      "genreTitle": "剧情•恐怖•科幻",
+      "rating": 8.0,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wXjNt2xNGaMuOpI98OefVCknbGx.jpg"
     },
     {
       "id": 225171,
@@ -57,6 +46,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
+      "id": 211089,
+      "title": "唐朝诡事录",
+      "type": "tv",
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.2,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/u1jhOe8iwuRZfE6wd5YYqtVLidg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+    },
+    {
+      "id": 305243,
+      "title": "唐朝诡事录之长安",
+      "type": "tv",
+      "genreTitle": "动作冒险•悬疑",
+      "rating": 8.0,
+      "release_date": "2025-11-08",
+      "overview": "《唐朝诡事录之长安》‌是古装悬疑单元探案剧，为《唐朝诡事录》系列的第三部作品。该剧由巨兴茂（《打狗棍》）执导，杨旭文（《射雕英雄传》、《半暖时光》）、杨志刚（《火蓝刀锋》、《打狗棍》）领衔主演。 该剧主要讲述了先天二年夏秋之交，天子虽已登基，但大长公主势力更盛，长安局势阴晴难定。卢凌风和苏无名，奉命带着由裴喜君、费鸡师、樱桃和薛环组成的探案小队，以护送康国所献金桃的名义重返长安。繁华的长安，卢凌风复职雍州司法参军，苏无名则被授予一个特殊的官职，同时叫费鸡师出任酥山店掌柜，并将店铺设置成全长安的暗探情报中心。卢苏二人推出新政，开启环城探案模式，深入长安各坊，接触到了更广泛的百姓和民生，也借此避开了天子与大长公主的争斗。在历经康国的金桃、成佛寺的哭声、白泽的踪迹、食尾蛇、解忧店等多宗疑案后，最终长安的风云汇聚到事关朝堂的盛世马球案。卢凌风和苏无名，不得不直面这个刀光剑影的秋天以及各自的命运，并为此付出了沉重的代价。即使历经风雨，但他们终究在万年长安大观盛唐，护佑百姓的初心始终没有改变。",
+      "poster_url": "https://image.tmdb.org/t/p/original/l5TGXqcpHxrHXuGOR0BTaojAOqs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g3oOSOKyKESVs4Ay5P1aFsBX7WG.jpg"
+    },
+    {
       "id": 1114967,
       "title": "捍卫天使",
       "type": "movie",
@@ -68,59 +79,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fiHhRBBJLnLhmnCxqFrwZBAZx2.jpg"
     },
     {
-      "id": 211089,
-      "title": "唐朝诡事录",
-      "type": "tv",
-      "genreTitle": "悬疑•犯罪•剧情",
-      "rating": 8.1,
-      "release_date": "2022-09-27",
-      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
-      "poster_url": "https://image.tmdb.org/t/p/original/u1jhOe8iwuRZfE6wd5YYqtVLidg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
-    },
-    {
-      "id": 1197137,
-      "title": "黑色电话2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 7.3,
-      "release_date": "2025-10-15",
-      "overview": "在逃离“掳童怪”的四年后，芬尼·布莱克依然难以从那段被囚禁的经历中恢复。妹妹格温在梦中开始接到来自那部黑色电话的来电，并看见三个男孩在冬令营中被神秘人跟踪的可怕景象。兄妹俩决定揭开真相，直面那个在死后变得更为强大、也与他们命运纠缠得愈发紧密的杀手。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kMo1mRFnSDId6mj0Jvqh22RNS6S.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
-    },
-    {
-      "id": 1571470,
-      "title": "耗子帮：猎魔人传说",
-      "type": "movie",
-      "genreTitle": "奇幻•剧情•冒险",
-      "rating": 4.9,
-      "release_date": "2025-10-29",
-      "overview": "为了完成大胆的劫盗行动，六个社会边缘的亡命之徒必须挑战以前从没做过的事：信任彼此，还有一个落魄的猎魔人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vAHCe8mWfPW6Um7ugRss1tqKCyT.jpg"
-    },
-    {
       "id": 200875,
       "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
       "genreTitle": "悬疑•剧情",
-      "rating": 7.9,
+      "rating": 8.0,
       "release_date": "2025-10-26",
       "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
       "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/6KBpIWkCKfl5U0s1FyQpG53p7Fn.jpg"
-    },
-    {
-      "id": 272418,
-      "title": "罗宾汉",
-      "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 8.1,
-      "release_date": "2025-11-02",
-      "overview": "在12世纪的英格兰，撒克逊人生活在诺曼人残酷的统治之下。其中就包括洛克斯利的罗伯特，他的父亲是一位护林员，他的家族被剥夺了祖传的家园，他的父亲也被诺丁汉郡长处决，他的生活从此破碎。罗伯特拥有一把长弓，他从悲痛中走出来，最终走向反抗，他的命运永远与玛丽安交织在一起，玛丽安是一位在对家族的忠诚和对他的爱之间左右为难的贵妇。随着紧张局势的加剧，罗伯召集了一群不法之徒——他们几乎没有共同点，但都拥有撒克逊血统，并且渴望反抗暴政。在舍伍德森林，他们与腐败和不公抗争，激怒了郡长、男爵和诺曼王室。最初的复仇之举最终演变成了更伟大的事业：罗宾汉的传奇，他象征着反抗，而他的抗争将决定英格兰的命运。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/anIW4Zlzsd38VuOYGlMAo3PWvF7.jpg"
     },
     {
       "id": 153312,
@@ -134,26 +101,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sxoIItiW2rHZOCdeyHjE1YjbtOG.jpg"
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg"
-    },
-    {
-      "id": 299778,
-      "title": "藤本树 17-26",
-      "type": "tv",
-      "genreTitle": "动画•剧情•喜剧",
-      "rating": 9.2,
-      "release_date": "2025-11-08",
-      "overview": "本系列动画选集由六间动画工作室、七位导演改编《电锯人》作者藤本树的早期短篇作品，内容涵盖藤本树于17岁至26岁期间的创作，其中包括他首次投稿参赛的漫画作品。青春爱恋、混乱、疯狂，以及人与人之间的情感纠葛，本系列将带您一一领略生动又精采的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w5uWQriJWDXS65tEFegE1K8x9ho.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zJDsLhJG6MOWk4b1kZA1VSM36nY.jpg"
+      "id": 1197137,
+      "title": "黑色电话2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-10-15",
+      "overview": "在逃离“掳童怪”的四年后，芬尼·布莱克依然难以从那段被囚禁的经历中恢复。妹妹格温在梦中开始接到来自那部黑色电话的来电，并看见三个男孩在冬令营中被神秘人跟踪的可怕景象。兄妹俩决定揭开真相，直面那个在死后变得更为强大、也与他们命运纠缠得愈发紧密的杀手。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kMo1mRFnSDId6mj0Jvqh22RNS6S.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
     },
     {
       "id": 37854,
@@ -167,37 +123,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 271885,
-      "title": "你旁观的罪",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情•悬疑",
-      "rating": 8.7,
-      "release_date": "2025-11-07",
-      "overview": "　　为了逃离饱受虐待的婚姻，两名女子策划了一起谋杀。不料，一位不速之客扬言要揭露她们的计划，并毁掉她们的世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/x92xajQ7Qcs5e7kcJkoCNJXccYi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/z4CO3bYVc26RJiWVsUI9zGAluIb.jpg"
-    },
-    {
-      "id": 305243,
-      "title": "唐朝诡事录之长安",
-      "type": "tv",
-      "genreTitle": "动作冒险•悬疑",
-      "rating": 0.0,
-      "release_date": "2025-11-08",
-      "overview": "《唐朝诡事录之长安》‌是古装悬疑单元探案剧，为《唐朝诡事录》系列的第三部作品。该剧由巨兴茂（《打狗棍》）执导，杨旭文（《射雕英雄传》、《半暖时光》）、杨志刚（《火蓝刀锋》、《打狗棍》）领衔主演。 该剧主要讲述了先天二年夏秋之交，天子虽已登基，但大长公主势力更盛，长安局势阴晴难定。卢凌风和苏无名，奉命带着由裴喜君、费鸡师、樱桃和薛环组成的探案小队，以护送康国所献金桃的名义重返长安。繁华的长安，卢凌风复职雍州司法参军，苏无名则被授予一个特殊的官职，同时叫费鸡师出任酥山店掌柜，并将店铺设置成全长安的暗探情报中心。卢苏二人推出新政，开启环城探案模式，深入长安各坊，接触到了更广泛的百姓和民生，也借此避开了天子与大长公主的争斗。在历经康国的金桃、成佛寺的哭声、白泽的踪迹、食尾蛇、解忧店等多宗疑案后，最终长安的风云汇聚到事关朝堂的盛世马球案。卢凌风和苏无名，不得不直面这个刀光剑影的秋天以及各自的命运，并为此付出了沉重的代价。即使历经风雨，但他们终究在万年长安大观盛唐，护佑百姓的初心始终没有改变。",
-      "poster_url": "https://image.tmdb.org/t/p/original/l5TGXqcpHxrHXuGOR0BTaojAOqs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g3oOSOKyKESVs4Ay5P1aFsBX7WG.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇四侠：初露锋芒",
+      "id": 1571470,
+      "title": "耗子帮：猎魔人传说",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.1,
-      "release_date": "2025-07-23",
-      "overview": "神奇先生、隐形女、霹雳火和石头人面对来自宇宙级威胁“行星吞噬者”及其使者“银影侠”对地球上所有生灵的威胁，四人必须在家庭羁绊与英雄使命间抉择，挺身而出接受这个前所未有的严峻挑战。更令人措手不及的是，这场关乎地球存亡的危机竟与他们有着意想不到的关联。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mLLRlXftxQl7vagEqHKbk73a7ZC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+      "genreTitle": "奇幻•剧情•冒险",
+      "rating": 4.9,
+      "release_date": "2025-10-29",
+      "overview": "为了完成大胆的劫盗行动，六个社会边缘的亡命之徒必须挑战以前从没做过的事：信任彼此，还有一个落魄的猎魔人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vAHCe8mWfPW6Um7ugRss1tqKCyT.jpg"
     },
     {
       "id": 71912,
@@ -211,15 +145,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
     },
     {
-      "id": 63926,
-      "title": "一拳超人",
+      "id": 272418,
+      "title": "罗宾汉",
       "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.4,
-      "release_date": "2015-10-05",
-      "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活……",
-      "poster_url": "https://image.tmdb.org/t/p/original/fHO4ssyUOO1FTJmy7Q3ofbCE8XS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
+      "genreTitle": "剧情•动作冒险",
+      "rating": 8.1,
+      "release_date": "2025-11-02",
+      "overview": "在12世纪的英格兰，撒克逊人生活在诺曼人残酷的统治之下。其中就包括洛克斯利的罗伯特，他的父亲是一位护林员，他的家族被剥夺了祖传的家园，他的父亲也被诺丁汉郡长处决，他的生活从此破碎。罗伯特拥有一把长弓，他从悲痛中走出来，最终走向反抗，他的命运永远与玛丽安交织在一起，玛丽安是一位在对家族的忠诚和对他的爱之间左右为难的贵妇。随着紧张局势的加剧，罗伯召集了一群不法之徒——他们几乎没有共同点，但都拥有撒克逊血统，并且渴望反抗暴政。在舍伍德森林，他们与腐败和不公抗争，激怒了郡长、男爵和诺曼王室。最初的复仇之举最终演变成了更伟大的事业：罗宾汉的传奇，他象征着反抗，而他的抗争将决定英格兰的命运。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/anIW4Zlzsd38VuOYGlMAo3PWvF7.jpg"
+    },
+    {
+      "id": 271885,
+      "title": "你旁观的罪",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 8.6,
+      "release_date": "2025-11-07",
+      "overview": "　　为了逃离饱受虐待的婚姻，两名女子策划了一起谋杀。不料，一位不速之客扬言要揭露她们的计划，并毁掉她们的世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/x92xajQ7Qcs5e7kcJkoCNJXccYi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/z4CO3bYVc26RJiWVsUI9zGAluIb.jpg"
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+    },
+    {
+      "id": 1561969,
+      "title": "巴拉穆拉诡影",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 6.2,
+      "release_date": "2025-11-06",
+      "overview": "　　一名警察在调查一起儿童失踪案件时，逐步揭开了隐藏在巴拉穆拉小镇的黑暗秘密。随着调查深入，他发现案件背后牵涉到一个神秘的邪教组织，以及一系列无法用常理解释的灵异现象。他的家人也逐渐卷入其中，小镇的祥和表象开始崩塌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2raITTyjXVUcsbJ7lJAQt8HzjDK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xpwNQAlF110ZWzY8T8fc1ii1k8C.jpg"
+    },
+    {
+      "id": 299778,
+      "title": "藤本树 17-26",
+      "type": "tv",
+      "genreTitle": "动画•剧情•喜剧",
+      "rating": 9.2,
+      "release_date": "2025-11-08",
+      "overview": "本系列动画选集由六间动画工作室、七位导演改编《电锯人》作者藤本树的早期短篇作品，内容涵盖藤本树于17岁至26岁期间的创作，其中包括他首次投稿参赛的漫画作品。青春爱恋、混乱、疯狂，以及人与人之间的情感纠葛，本系列将带您一一领略生动又精采的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w5uWQriJWDXS65tEFegE1K8x9ho.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zJDsLhJG6MOWk4b1kZA1VSM36nY.jpg"
+    },
+    {
+      "id": 425274,
+      "title": "惊天魔盗团3",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.2,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/h02rwSwl41w646xeF7VJo5lnRDA.jpg"
+    },
+    {
+      "id": 250670,
+      "title": "贵族高中：我们之间的鸿沟",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.3,
+      "release_date": "2024-05-09",
+      "overview": "露比无意中目睹了麦克斯顿霍尔私立高中一个爆炸性的秘密，傲慢的百万富翁继承人詹姆斯博福被迫跟这个聪明敏锐的优秀学生杠上了，试图封住她的嘴，但他们的过招让他懊恼不已。他们火药味十足的针锋相对，意外地点燃了火花…",
+      "poster_url": "https://image.tmdb.org/t/p/original/eBQ3iqNu6b76XrhwN1OQE9AfM02.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/n3ekogAscgyzyZ66gvEu61conDW.jpg"
     }
   ],
   "week_global_all": [
@@ -239,7 +239,7 @@
       "title": "Pluribus",
       "type": "tv",
       "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 9.1,
+      "rating": 9.0,
       "release_date": "2025-11-06",
       "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/pGl5oc6dN6DKWDGgDPbeplxxPS6.jpg",
@@ -261,7 +261,7 @@
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2025-11-05",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
@@ -272,22 +272,11 @@
       "title": "黑色电话2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 7.3,
+      "rating": 7.2,
       "release_date": "2025-10-15",
       "overview": "在逃离“掳童怪”的四年后，芬尼·布莱克依然难以从那段被囚禁的经历中恢复。妹妹格温在梦中开始接到来自那部黑色电话的来电，并看见三个男孩在冬令营中被神秘人跟踪的可怕景象。兄妹俩决定揭开真相，直面那个在死后变得更为强大、也与他们命运纠缠得愈发紧密的杀手。",
       "poster_url": "https://image.tmdb.org/t/p/original/kMo1mRFnSDId6mj0Jvqh22RNS6S.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/twxHdrJa7ZSAgiD2TD7OMs4nPKb.jpg"
-    },
-    {
-      "id": 11395,
-      "title": "圣诞老人",
-      "type": "movie",
-      "genreTitle": "奇幻•剧情•喜剧",
-      "rating": 6.5,
-      "release_date": "1994-11-11",
-      "overview": "斯科特（蒂姆·艾伦 Tim Allen 饰）拥有一段失败的婚姻，离婚之后，儿子查理（艾力克·洛伊德 Eric Lloyd 饰）跟着母亲劳拉（温迪·古逊 Wendy Crewson 饰）生活。探视日很快就到了，斯科特兴致勃勃的准备去享受和儿子之间相处的短暂时光，但正当他准备出门之时，却发现有一个人在他家的屋顶上鬼鬼祟祟的不知道干着什么。斯科特一声大喝吓得屋顶上的人跌落下来，这时斯科特才震惊的发现，这个人居然是圣诞老人。  斯科特令圣诞老人无法工作，为了赎罪，他只能代替他成为新的圣诞老人，就这样，和查理一起，斯科特来到了圣诞老人的大本营，在这里，斯科特必须学习如何成为一名合格的圣诞老人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xAgAtehCu5uqjLJD2r0I4SUajXK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/SuE3jFBtnXS6SiyHFmLJp2wesO.jpg"
     },
     {
       "id": 1114967,
@@ -312,37 +301,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vAHCe8mWfPW6Um7ugRss1tqKCyT.jpg"
     },
     {
-      "id": 200875,
-      "title": "小丑回魂：欢迎来到德里镇",
+      "id": 211089,
+      "title": "唐朝诡事录",
       "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2025-10-26",
-      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6KBpIWkCKfl5U0s1FyQpG53p7Fn.jpg"
-    },
-    {
-      "id": 760329,
-      "title": "粉碎机",
-      "type": "movie",
-      "genreTitle": "历史•剧情",
-      "rating": 6.5,
-      "release_date": "2025-10-01",
-      "overview": "聚焦UFC传奇人物马克·克尔在职业生涯巅峰时期的生活，他对自己产生质疑，与生活和人际关系作斗争，与此同时，马克的女友Dawn Staple也努力在他混乱矛盾的世界里找到自己的位置。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wV6g7xW8nfUj37hlC07fRyCjQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8pEFxrRnqW04Q1hCdDjPKEd9tFL.jpg"
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.2,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/u1jhOe8iwuRZfE6wd5YYqtVLidg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
     },
     {
       "id": 71912,
@@ -356,15 +323,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
     },
     {
-      "id": 211089,
-      "title": "唐朝诡事录",
+      "id": 200875,
+      "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
-      "genreTitle": "悬疑•犯罪•剧情",
-      "rating": 8.1,
-      "release_date": "2022-09-27",
-      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
-      "poster_url": "https://image.tmdb.org/t/p/original/u1jhOe8iwuRZfE6wd5YYqtVLidg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+      "genreTitle": "悬疑•剧情",
+      "rating": 8.0,
+      "release_date": "2025-10-26",
+      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6KBpIWkCKfl5U0s1FyQpG53p7Fn.jpg"
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+    },
+    {
+      "id": 1561969,
+      "title": "巴拉穆拉诡影",
+      "type": "movie",
+      "genreTitle": "恐怖",
+      "rating": 6.2,
+      "release_date": "2025-11-06",
+      "overview": "　　一名警察在调查一起儿童失踪案件时，逐步揭开了隐藏在巴拉穆拉小镇的黑暗秘密。随着调查深入，他发现案件背后牵涉到一个神秘的邪教组织，以及一系列无法用常理解释的灵异现象。他的家人也逐渐卷入其中，小镇的祥和表象开始崩塌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2raITTyjXVUcsbJ7lJAQt8HzjDK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xpwNQAlF110ZWzY8T8fc1ii1k8C.jpg"
+    },
+    {
+      "id": 760329,
+      "title": "粉碎机",
+      "type": "movie",
+      "genreTitle": "历史•剧情",
+      "rating": 6.5,
+      "release_date": "2025-10-01",
+      "overview": "聚焦UFC传奇人物马克·克尔在职业生涯巅峰时期的生活，他对自己产生质疑，与生活和人际关系作斗争，与此同时，马克的女友Dawn Staple也努力在他混乱矛盾的世界里找到自己的位置。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wV6g7xW8nfUj37hlC07fRyCjQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8pEFxrRnqW04Q1hCdDjPKEd9tFL.jpg"
     },
     {
       "id": 272418,
@@ -378,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/anIW4Zlzsd38VuOYGlMAo3PWvF7.jpg"
     },
     {
+      "id": 271885,
+      "title": "你旁观的罪",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 8.6,
+      "release_date": "2025-11-07",
+      "overview": "　　为了逃离饱受虐待的婚姻，两名女子策划了一起谋杀。不料，一位不速之客扬言要揭露她们的计划，并毁掉她们的世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/x92xajQ7Qcs5e7kcJkoCNJXccYi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/z4CO3bYVc26RJiWVsUI9zGAluIb.jpg"
+    },
+    {
       "id": 617126,
       "title": "神奇四侠：初露锋芒",
       "type": "movie",
@@ -389,48 +400,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 271885,
-      "title": "你旁观的罪",
+      "id": 37854,
+      "title": "航海王",
       "type": "tv",
-      "genreTitle": "犯罪•剧情•悬疑",
+      "genreTitle": "动作冒险•喜剧•动画",
       "rating": 8.7,
-      "release_date": "2025-11-07",
-      "overview": "　　为了逃离饱受虐待的婚姻，两名女子策划了一起谋杀。不料，一位不速之客扬言要揭露她们的计划，并毁掉她们的世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/x92xajQ7Qcs5e7kcJkoCNJXccYi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/z4CO3bYVc26RJiWVsUI9zGAluIb.jpg"
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 701387,
-      "title": "拯救地球",
-      "type": "movie",
-      "genreTitle": "科幻•犯罪",
-      "rating": 7.6,
-      "release_date": "2025-10-23",
-      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg"
+      "id": 250670,
+      "title": "贵族高中：我们之间的鸿沟",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.3,
+      "release_date": "2024-05-09",
+      "overview": "露比无意中目睹了麦克斯顿霍尔私立高中一个爆炸性的秘密，傲慢的百万富翁继承人詹姆斯博福被迫跟这个聪明敏锐的优秀学生杠上了，试图封住她的嘴，但他们的过招让他懊恼不已。他们火药味十足的针锋相对，意外地点燃了火花…",
+      "poster_url": "https://image.tmdb.org/t/p/original/eBQ3iqNu6b76XrhwN1OQE9AfM02.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/n3ekogAscgyzyZ66gvEu61conDW.jpg"
     },
     {
       "id": 245219,
       "title": "雷殛元首",
       "type": "tv",
       "genreTitle": "剧情•犯罪",
-      "rating": 8.3,
+      "rating": 8.1,
       "release_date": "2025-11-06",
       "overview": "改编自詹姆斯·加菲尔德和查尔斯·吉托两人之间比小说更精彩离奇的真实故事，讲述詹姆斯当上了美国第 20 任总统六个月后，被向来最支持他的查尔斯刺杀。",
       "poster_url": "https://image.tmdb.org/t/p/original/fFXIzuSMQ9zSCOJtAkNDuJDzHVW.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/msrMvALBcBkb80R62t9bagRFspW.jpg"
-    },
-    {
-      "id": 239385,
-      "title": "操控游戏",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.3,
-      "release_date": "2025-11-05",
-      "overview": "原本过着平凡生活的朴台仲，突然被冠上莫须有的罪名并锒铛入狱。在发现一切都是由安耀翰一手策划后，他决定展开复仇，一场激烈的对决就此展开！",
-      "poster_url": "https://image.tmdb.org/t/p/original/5WDNTTaxA9f3dp6XCBy6zqeImfc.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/78qM10pXWzY9ykASvvNO2Woy2Ld.jpg"
     }
   ],
   "popular_movies": [
@@ -472,7 +472,7 @@
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2025-11-07",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
@@ -505,7 +505,7 @@
       "title": "三级警戒",
       "type": "movie",
       "genreTitle": "动作•喜剧",
-      "rating": 7.2,
+      "rating": 7.1,
       "release_date": "2025-09-12",
       "overview": "　　影片的故事围绕一位名叫Randy的急救员展开。由于工作强度大，他长期处于过度劳累和精疲力竭的状态。在他工作的最后一天，他的主管安排了一位名叫Jessica的学生跟随他实习。Randy和他的老搭档Mike一起，带着Jessica踏上了看似普通却又充满挑战的24小时轮班旅程。",
       "poster_url": "https://image.tmdb.org/t/p/original/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
