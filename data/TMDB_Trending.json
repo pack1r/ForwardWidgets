@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01 10:21:57",
+  "last_updated": "2025-12-01 20:54:18",
   "today_global": [
     {
       "id": 66732,
@@ -24,11 +24,33 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
     },
     {
+      "id": 1180831,
+      "title": "山怪巨魔2",
+      "type": "movie",
+      "genreTitle": "奇幻•动作•冒险",
+      "rating": 5.0,
+      "release_date": "2025-11-30",
+      "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nrtw9SkIxtL0zc6XfxjgzgP7wm4.jpg"
+    },
+    {
+      "id": 200875,
+      "title": "小丑回魂：欢迎来到德里镇",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
+      "rating": 8.1,
+      "release_date": "2025-10-26",
+      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
+    },
+    {
       "id": 701387,
       "title": "拯救地球",
       "type": "movie",
       "genreTitle": "犯罪•科幻",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2025-10-23",
       "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
       "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
@@ -57,26 +79,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 200875,
-      "title": "小丑回魂：欢迎来到德里镇",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 8.1,
-      "release_date": "2025-10-26",
-      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
-    },
-    {
-      "id": 157741,
-      "title": "石油天王",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+      "id": 1246049,
+      "title": "德古拉",
+      "type": "movie",
+      "genreTitle": "恐怖•奇幻•爱情",
+      "rating": 7.0,
+      "release_date": "2025-07-30",
+      "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
     },
     {
       "id": 1062722,
@@ -101,39 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
-      "id": 155,
-      "title": "蝙蝠侠：黑暗骑士",
-      "type": "movie",
-      "genreTitle": "剧情•动作•犯罪",
-      "rating": 8.5,
-      "release_date": "2008-07-16",
-      "overview": "从亲眼目睹父母被杀的阴影中走出来的蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰），在戈登警长（加里·奥德曼 Gary Oldman 饰）和检察官哈维（艾伦·艾克哈特 Aaron Eckhart 饰）的帮助下，无后顾之忧地满世界奔波，与罪犯们做着永无休止的争斗，哥谭市的犯罪率也以惊人的速度持续下降。但在哥谭这个科技与污秽并存的城市，平静不可能维持得太久，很快新一轮的混乱就席卷了整个城市，人们再度被恐慌笼罩，而这一切混乱的源头正是小丑（希斯·莱杰 Heath Ledger 饰）。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xUX0sVHmukGTYLTyqmSF5hpktOU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t41ic4OxC1XKQbvyoADhUS7hjPo.jpg"
-    },
-    {
-      "id": 157336,
-      "title": "星际穿越",
-      "type": "movie",
-      "genreTitle": "冒险•剧情•科幻",
-      "rating": 8.5,
-      "release_date": "2014-11-05",
-      "overview": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前 NASA 宇航员库珀（马修·麦康纳 Matthew McConaughey 饰）接连在女儿墨菲（麦肯吉·弗依 Mackenzie Foy 饰）的书房发现奇怪的重力场现象，随即得知在某个未知区域内前 NASA 成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA 借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授（迈克尔·凯恩 Michael Caine 饰）的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德（安妮·海瑟薇 Anne Hathaway 饰）、罗米利（大卫·吉雅西 David Gyasi 饰）、多伊尔（韦斯·本特利 Wes Bentley 饰）搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zq8j3XRJDVqNhiRMensg2uTkYrd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/NerBrEnSwyOWKwhsgoZrjTBaLM.jpg"
-    },
-    {
-      "id": 1246049,
-      "title": "德古拉",
-      "type": "movie",
-      "genreTitle": "恐怖•奇幻•爱情",
-      "rating": 7.0,
-      "release_date": "2025-07-30",
-      "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "type": "tv",
@@ -145,15 +123,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 1054867,
-      "title": "一战再战",
+      "id": 1299655,
+      "title": "蓝月亮",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "genreTitle": "剧情",
+      "rating": 6.9,
+      "release_date": "2025-10-17",
+      "overview": "1943年3月31日晚，在传奇性的萨尔迪酒吧里，著名的歌词作家洛伦茨·哈特独自面对着他破碎的自信心。就在同一时刻，他的前合作伙伴理查德·罗杰斯却正在庆祝他们昔日合作的延续——具有里程碑意义的音乐剧《俄克拉荷马！》的盛大首演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f4xPT2d9MIuGHbDqHd9xsRvN9M7.jpg"
     },
     {
       "id": 329,
@@ -167,48 +145,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fGqcJq5mbGFSoVaybFJzYl3bggi.jpg"
     },
     {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 157741,
+      "title": "石油天王",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2024-11-17",
+      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+    },
+    {
+      "id": 999075,
+      "title": "左撇子女孩",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 7.6,
+      "release_date": "2025-09-17",
+      "overview": "一位单亲母亲带着两个女儿在乡下生活数年后重返台北，在热闹的夜市摆起小吃摊。面对新环境，三人以各自的方式努力适应，既要维持生计又要守护家庭完整。当传统观念根深蒂固的外祖父禁止左撇子小孙女使用\"恶魔之手\"后，这个三代同堂家庭深埋的秘密开始逐渐浮出水面。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zTjbC92LLeO3Va5HfuAL7QGy0eH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ga8zaNwZnqdloS3aQCco5qPZG5N.jpg"
+    },
+    {
+      "id": 1668,
+      "title": "老友记",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 8.4,
+      "release_date": "1994-09-22",
+      "overview": "莫妮卡、钱德勒、瑞秋、菲比、乔伊和罗斯是彼此最好的朋友，一起走过十年岁月的点点滴滴。虽然老友们各有各的性格特点，也会有矛盾和争执，但对于彼此，他们永远\"be there for you\"。故事开始在Central Perk咖啡馆里，婚礼上落荒而逃的瑞秋闯进来寻找老同学莫妮卡。莫妮卡的哥哥刚刚离婚，而他从小暗恋的人正是这个落跑新娘瑞秋。瑞秋在莫妮卡家住了下来，决定真正的步入社会，于是在其他老友的帮助下她上路了，从二十多岁初入社会，到三十多岁成家立业，他们一走就是十年。十年间风风雨雨，在嬉笑怒骂中，在离别团聚中，他们向我们讲述着友情、爱情还有生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3SS00ajNciI1NTzL6NpW5GxlAU4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg"
+    },
+    {
+      "id": 211089,
+      "title": "唐朝诡事录",
+      "type": "tv",
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.4,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
       "id": 1550797,
-      "title": "Prep & Landing: The Snowball Protocol",
+      "title": "圣诞前夜：雪球协议",
       "type": "movie",
       "genreTitle": "动画",
-      "rating": 8.0,
+      "rating": 8.1,
       "release_date": "2025-11-27",
-      "overview": "",
+      "overview": "圣诞精灵兰尼和韦恩的佳节任务搞砸了，两人顿时慌了手脚。韦恩以为自己会被圣诞老人盯上，惹上大麻烦，还不小心把其他欢乐的乌龙糗事全说了出来。",
       "poster_url": "https://image.tmdb.org/t/p/original/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/p6Twi7UnxM1TfS3viOCC9fTIHRv.jpg"
-    },
-    {
-      "id": 1575796,
-      "title": "Survivor Series: WarGames",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 7.8,
-      "release_date": "2025-11-29",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/egcSpChghaTiYXonNds5bdi3aiW.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/efYc7KHJUQE45MXCrzNQ6kSs15V.jpg"
-    },
-    {
-      "id": 425274,
-      "title": "惊天魔盗团3",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•悬疑",
-      "rating": 6.3,
-      "release_date": "2025-11-12",
-      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h02rwSwl41w646xeF7VJo5lnRDA.jpg"
-    },
-    {
-      "id": 1363123,
-      "title": "家庭计划2",
-      "type": "movie",
-      "genreTitle": "动作•喜剧",
-      "rating": 6.7,
-      "release_date": "2025-11-11",
-      "overview": "告别杀手生涯的丹，这次圣诞节只想陪孩子们共度美好时光。当发现女儿另有计划时，他安排全家去伦敦旅行，此时却有一名意外的敌人盯上他们一家。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3BoNVD6edBhWpdFzxSdZ2PtmD4I.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sYwunHAEOQuuAbTc7WKnjdSu9fx.jpg"
     }
   ],
   "week_global_all": [
@@ -239,7 +250,7 @@
       "title": "拯救地球",
       "type": "movie",
       "genreTitle": "犯罪•科幻",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2025-10-23",
       "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
       "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
@@ -257,6 +268,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
+      "id": 1299655,
+      "title": "蓝月亮",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 6.9,
+      "release_date": "2025-10-17",
+      "overview": "1943年3月31日晚，在传奇性的萨尔迪酒吧里，著名的歌词作家洛伦茨·哈特独自面对着他破碎的自信心。就在同一时刻，他的前合作伙伴理查德·罗杰斯却正在庆祝他们昔日合作的延续——具有里程碑意义的音乐剧《俄克拉荷马！》的盛大首演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/f4xPT2d9MIuGHbDqHd9xsRvN9M7.jpg"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "type": "tv",
@@ -266,17 +288,6 @@
       "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
-    },
-    {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-11-05",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
       "id": 200875,
@@ -290,26 +301,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
+    },
+    {
+      "id": 211089,
+      "title": "唐朝诡事录",
+      "type": "tv",
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.4,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+    },
+    {
       "id": 1218762,
       "title": "偷心响叮当",
       "type": "movie",
       "genreTitle": "爱情•犯罪•喜剧",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2025-11-25",
       "overview": "　　影片讲述了一个在“平安夜”发生的抢劫故事。机智的零售员工索菲亚和运气不佳的修理工尼克都打算在圣诞节期间抢劫伦敦一家臭名昭著的百货公司。当他们发现各自锁定的目标相一致后，原本是竞争关系的两人，被迫结成了不太稳定的同盟。随着行动的推进，他们各自的秘密被揭开，而彼此间的感情也逐渐加深，这让他们之间的关系和整个抢劫计划都充满了变数。",
       "poster_url": "https://image.tmdb.org/t/p/original/uV559niXlg7eqAnKgOmMFJLpzhh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/xlzoGqZENfvI3MDBkctrna2qtX.jpg"
-    },
-    {
-      "id": 1241983,
-      "title": "火车梦",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.3,
-      "release_date": "2025-11-05",
-      "overview": "根据丹尼斯·约翰逊备受喜爱的中篇小说改编，生动地描绘了罗伯特·格兰尼尔的人生，他是一位伐木工和铁路工人，在20世纪初快速变化的美国，他过着意想不到的深刻而美好的生活。",
-      "poster_url": "https://image.tmdb.org/t/p/original/koXjBzWUTfaATD4ReuR9FNOnbhg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4ScTB6ScjY1OONxmPRBXeMzTBdQ.jpg"
     },
     {
       "id": 1363123,
@@ -323,48 +345,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sYwunHAEOQuuAbTc7WKnjdSu9fx.jpg"
     },
     {
-      "id": 155,
-      "title": "蝙蝠侠：黑暗骑士",
+      "id": 1241983,
+      "title": "火车梦",
       "type": "movie",
-      "genreTitle": "剧情•动作•犯罪",
-      "rating": 8.5,
-      "release_date": "2008-07-16",
-      "overview": "从亲眼目睹父母被杀的阴影中走出来的蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰），在戈登警长（加里·奥德曼 Gary Oldman 饰）和检察官哈维（艾伦·艾克哈特 Aaron Eckhart 饰）的帮助下，无后顾之忧地满世界奔波，与罪犯们做着永无休止的争斗，哥谭市的犯罪率也以惊人的速度持续下降。但在哥谭这个科技与污秽并存的城市，平静不可能维持得太久，很快新一轮的混乱就席卷了整个城市，人们再度被恐慌笼罩，而这一切混乱的源头正是小丑（希斯·莱杰 Heath Ledger 饰）。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xUX0sVHmukGTYLTyqmSF5hpktOU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t41ic4OxC1XKQbvyoADhUS7hjPo.jpg"
-    },
-    {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
-    },
-    {
-      "id": 106646,
-      "title": "华尔街之狼",
-      "type": "movie",
-      "genreTitle": "犯罪•剧情•喜剧",
-      "rating": 8.0,
-      "release_date": "2013-12-25",
-      "overview": "在危机四伏的投资界，掌管史崔顿·奥克蒙公司的乔丹·贝尔福特生活侈靡、实力雄厚。1987年，22岁的乔丹进入罗斯柴尔德公司，从接线员做起，在高级经纪人马克指点下，进入了股票经纪人充满毒品和欲望的世界，半年后因“黑色星期一”，乔丹转投靠贩卖“便士股票”的小公司，凭借巧舌如簧获得成功，与邻居唐尼和一班朋友另立门户，游走在灰色地带获利颇丰，获称“华尔街之狼”，然而，FBI已经开始留意他。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9RJ2WU0ZZhu5eishs7cXRyJ5gCx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ooHqvEGe5NqtAAHDDOruATtfXrf.jpg"
-    },
-    {
-      "id": 1327862,
-      "title": "为你遗憾",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 7.1,
-      "release_date": "2025-10-22",
-      "overview": "　　一宗牵涉两条人命的严重交通意外，揭开了令人震惊的秘密；一对母女被迫面对家族的伤痕，探索爱的定义，并重新认识彼此。  　　影片改编自《爱情，到此为止》原作者科琳·胡佛的同名畅销小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/75EjcPb8oVexrVUY3md0ZjCbHeR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5XPdSsmeIwaqWJRduVcV2D8OwXS.jpg"
+      "genreTitle": "剧情",
+      "rating": 7.3,
+      "release_date": "2025-11-05",
+      "overview": "根据丹尼斯·约翰逊备受喜爱的中篇小说改编，生动地描绘了罗伯特·格兰尼尔的人生，他是一位伐木工和铁路工人，在20世纪初快速变化的美国，他过着意想不到的深刻而美好的生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/koXjBzWUTfaATD4ReuR9FNOnbhg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4ScTB6ScjY1OONxmPRBXeMzTBdQ.jpg"
     },
     {
       "id": 425274,
@@ -378,26 +367,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/h02rwSwl41w646xeF7VJo5lnRDA.jpg"
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
+      "id": 1054867,
+      "title": "一战再战",
       "type": "movie",
-      "genreTitle": "剧情•奇幻•恐怖",
-      "rating": 7.8,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
-    },
-    {
-      "id": 1299655,
-      "title": "蓝月亮",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.0,
-      "release_date": "2025-10-17",
-      "overview": "1943年3月31日晚，在传奇性的萨尔迪酒吧里，著名的歌词作家洛伦茨·哈特独自面对着他破碎的自信心。就在同一时刻，他的前合作伙伴理查德·罗杰斯却正在庆祝他们昔日合作的延续——具有里程碑意义的音乐剧《俄克拉荷马！》的盛大首演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f4xPT2d9MIuGHbDqHd9xsRvN9M7.jpg"
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
       "id": 7451,
@@ -411,15 +389,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 1419406,
-      "title": "捕风追影",
+      "id": 1327862,
+      "title": "为你遗憾",
       "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.3,
-      "release_date": "2025-08-16",
-      "overview": "一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕......",
-      "poster_url": "https://image.tmdb.org/t/p/original/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/va9BcW9AK2iWIgixB3UGXeptb8.jpg"
+      "genreTitle": "爱情•剧情",
+      "rating": 7.0,
+      "release_date": "2025-10-22",
+      "overview": "　　一宗牵涉两条人命的严重交通意外，揭开了令人震惊的秘密；一对母女被迫面对家族的伤痕，探索爱的定义，并重新认识彼此。  　　影片改编自《爱情，到此为止》原作者科琳·胡佛的同名畅销小说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/75EjcPb8oVexrVUY3md0ZjCbHeR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5XPdSsmeIwaqWJRduVcV2D8OwXS.jpg"
     },
     {
       "id": 1246049,
@@ -431,6 +409,39 @@
       "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
       "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
+    },
+    {
+      "id": 1668,
+      "title": "老友记",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 8.4,
+      "release_date": "1994-09-22",
+      "overview": "莫妮卡、钱德勒、瑞秋、菲比、乔伊和罗斯是彼此最好的朋友，一起走过十年岁月的点点滴滴。虽然老友们各有各的性格特点，也会有矛盾和争执，但对于彼此，他们永远\"be there for you\"。故事开始在Central Perk咖啡馆里，婚礼上落荒而逃的瑞秋闯进来寻找老同学莫妮卡。莫妮卡的哥哥刚刚离婚，而他从小暗恋的人正是这个落跑新娘瑞秋。瑞秋在莫妮卡家住了下来，决定真正的步入社会，于是在其他老友的帮助下她上路了，从二十多岁初入社会，到三十多岁成家立业，他们一走就是十年。十年间风风雨雨，在嬉笑怒骂中，在离别团聚中，他们向我们讲述着友情、爱情还有生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3SS00ajNciI1NTzL6NpW5GxlAU4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg"
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "type": "movie",
+      "genreTitle": "剧情•奇幻•恐怖",
+      "rating": 7.8,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
+    },
+    {
+      "id": 106646,
+      "title": "华尔街之狼",
+      "type": "movie",
+      "genreTitle": "犯罪•剧情•喜剧",
+      "rating": 8.0,
+      "release_date": "2013-12-25",
+      "overview": "在危机四伏的投资界，掌管史崔顿·奥克蒙公司的乔丹·贝尔福特生活侈靡、实力雄厚。1987年，22岁的乔丹进入罗斯柴尔德公司，从接线员做起，在高级经纪人马克指点下，进入了股票经纪人充满毒品和欲望的世界，半年后因“黑色星期一”，乔丹转投靠贩卖“便士股票”的小公司，凭借巧舌如簧获得成功，与邻居唐尼和一班朋友另立门户，游走在灰色地带获利颇丰，获称“华尔街之狼”，然而，FBI已经开始留意他。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9RJ2WU0ZZhu5eishs7cXRyJ5gCx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ooHqvEGe5NqtAAHDDOruATtfXrf.jpg"
     }
   ],
   "popular_movies": [
@@ -472,7 +483,7 @@
       "title": "改造",
       "type": "movie",
       "genreTitle": "科幻•动作",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2025-09-18",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
@@ -534,6 +545,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/1iJmIAj7mMrx7pO80AzboHkEzCu.jpg"
     },
     {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-11-07",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
+    },
+    {
       "id": 1246049,
       "title": "德古拉",
       "type": "movie",
@@ -576,17 +598,6 @@
       "overview": "四罐致命的VX神经毒气落入了缅甸一名国际军火商的手中。中央情报局的一名新招募的特工向一名已经在当地的特工交付了一台高科技探测设备。",
       "poster_url": "https://image.tmdb.org/t/p/original/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9vnC5Mof5qWOmsPZufw62Yid5NN.jpg"
-    },
-    {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-11-07",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
       "id": 755898,
