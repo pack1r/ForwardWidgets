@@ -1,38 +1,27 @@
 {
-  "last_updated": "2025-12-05 09:59:45",
+  "last_updated": "2025-12-05 20:52:29",
   "today_global": [
     {
       "id": 223300,
       "title": "弃徒",
       "type": "tv",
-      "genreTitle": "剧情•西部",
-      "rating": 5.3,
+      "genreTitle": "西部•剧情",
+      "rating": 4.9,
       "release_date": "2025-12-04",
       "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
       "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
     },
     {
-      "id": 1261825,
-      "title": "佳节愉快",
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
       "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.3,
-      "release_date": "2025-12-02",
-      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
-      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.4,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gbOJy0sxjD99TODdXQ9b35tw45r.jpg"
     },
     {
       "id": 533533,
@@ -46,15 +35,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q57Mrxy0u7XRa5xPrPjM78ccdFV.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
+      "id": 1069905,
+      "title": "影星杰·凯利",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.5,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gbOJy0sxjD99TODdXQ9b35tw45r.jpg"
+      "genreTitle": "剧情•喜剧",
+      "rating": 5.0,
+      "release_date": "2025-11-12",
+      "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k9IvavCGXvYM0ClZVTTJB1OfR8k.jpg"
+    },
+    {
+      "id": 240459,
+      "title": "斯巴达克斯：亚述家族",
+      "type": "tv",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 1.0,
+      "release_date": "2025-12-05",
+      "overview": "该剧为原版的后续和拓展，如果《斯巴达克斯：复仇》第二季的结尾，Ashur（尼克·塔拉贝 Nick E. Tarabay 饰）没有死在维苏威山，如果他因为帮助罗马人杀掉斯巴达克斯并终结奴隶反叛而被赠与了曾属于巴蒂塔斯的角斗士学院，会怎么样？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
+    },
+    {
+      "id": 1261825,
+      "title": "佳节愉快",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.3,
+      "release_date": "2025-12-02",
+      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
+      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
     },
     {
       "id": 1084242,
@@ -68,26 +90,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
     },
     {
-      "id": 1441563,
-      "title": "我的秘密圣诞老人",
-      "type": "movie",
-      "genreTitle": "喜剧•爱情",
-      "rating": 6.6,
-      "release_date": "2025-12-02",
-      "overview": "一位单身母亲需要工作，一个滑雪度假村需要圣诞老人。泰勒假扮成圣诞老人，她能否骗过迷人的酒店继承人，拿到这份工作？",
-      "poster_url": "https://image.tmdb.org/t/p/original/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mIfsxQE4VWkKqzkPAb4jIpT4eFn.jpg"
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 1180831,
-      "title": "山怪巨魔2",
-      "type": "movie",
-      "genreTitle": "动作•奇幻•惊悚",
-      "rating": 6.9,
-      "release_date": "2025-11-30",
-      "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
+      "id": 209110,
+      "title": "认罪之罪",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 0.0,
+      "release_date": "2025-12-05",
+      "overview": "　　美术老师安允秀（全度妍饰）原本过着平静的生活，但在结婚十周年之际却成为丈夫遇害案的唯一嫌疑人，人生瞬间陷入绝境。此时，身份神秘且患有精神疾病的慕恩（金高银饰）主动靠近她，自称能看透他人的杀意，并愿意为安允秀承担罪责，但提出了一个危险的交换条件。北部地方检察厅实力最强的检察官白东勋（朴海秀饰），他以自身信念和组织名誉为赌注，决心揭开安允秀和慕恩背后的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tq3OXIPLuHSRK6llBNm2GtMMe2l.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jlszdLPIqFiGXTGNP2ZWp63f2a8.jpg"
     },
     {
       "id": 701387,
@@ -101,15 +123,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+      "id": 1180831,
+      "title": "山怪巨魔2",
+      "type": "movie",
+      "genreTitle": "动作•奇幻•惊悚",
+      "rating": 6.9,
+      "release_date": "2025-11-30",
+      "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
+    },
+    {
+      "id": 1441563,
+      "title": "我的秘密圣诞老人",
+      "type": "movie",
+      "genreTitle": "喜剧•爱情",
+      "rating": 7.0,
+      "release_date": "2025-12-02",
+      "overview": "一位单身母亲需要工作，一个滑雪度假村需要圣诞老人。泰勒假扮成圣诞老人，她能否骗过迷人的酒店继承人，拿到这份工作？",
+      "poster_url": "https://image.tmdb.org/t/p/original/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mIfsxQE4VWkKqzkPAb4jIpT4eFn.jpg"
     },
     {
       "id": 83533,
@@ -123,6 +156,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
     },
     {
+      "id": 1439112,
+      "title": "神探忠犬：狼之城",
+      "type": "movie",
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 4.5,
+      "release_date": "2025-11-13",
+      "overview": "　　杰克·罗瑟曾是一名警犬训导员，因服役期间的创伤后应激障碍（PTSD）而饱受折磨，如今他努力与家人及退役警犬伙伴过着平静安宁的生活。然而，一场残酷的暴力袭击瞬间打破了这份宁静——一个残忍无情的帮派将他们锁定为目标。为了保护所爱之人，杰克与他的新警犬搭档“阿戈斯”深入罪恶滋生的黑暗世界，在那里，他不仅要面对腐败官员、揭开危险的毒品走私网络，更要直面自己内心的恶魔。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zXuBWKfUquvBDHFngZzphb2qRUX.jpg"
+    },
+    {
       "id": 1242419,
       "title": "屋顶人",
       "type": "movie",
@@ -132,28 +176,6 @@
       "overview": "　　一名前美国陆军游骑兵兼生活困顿的父亲，因走投无路而开始抢劫麦当劳餐厅，他通过在屋顶上凿洞潜入行窃，因此得名“屋顶人”。他被捕入狱后越狱，在一家玩具反斗城商场内秘密藏身长达六个月，神不知鬼不觉地生存下来，同时策划下一步行动。然而，当他爱上一位被他无法抗拒的魅力所吸引的单身母亲时，他的双重生活开始逐渐暴露。随着过往的阴影步步逼近，一场扣人心弦、充满悬念的猫鼠游戏就此展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jZeCb4V7C6LLymabvnXheKHjPpx.jpg"
-    },
-    {
-      "id": 967941,
-      "title": "魔法坏女巫2",
-      "type": "movie",
-      "genreTitle": "奇幻•冒险•爱情",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
-      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
-    },
-    {
-      "id": 1439112,
-      "title": "Muzzle: City of Wolves",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 4.6,
-      "release_date": "2025-11-13",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jUSfucwuJXp8QADKXAclOtrO8c.jpg"
     },
     {
       "id": 1242898,
@@ -167,48 +189,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
-      "id": 628847,
-      "title": "青出于蓝",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.2,
-      "release_date": "2025-11-14",
-      "overview": "一名美国缉毒局卧底特工和他的搭档与一群大胆且令人意想不到的窃贼展开了一场猫捉老鼠的游戏——这些窃贼竟是他们叛逆的青少年子女，这些孩子开始从一个危险的贩毒集团那里行窃，还运用了他们父母的策略和绝密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4HcT50CvtUtyorKrgkstJfPZwYj.jpg"
-    },
-    {
-      "id": 239385,
-      "title": "操控游戏",
+      "id": 221079,
+      "title": "失序边缘",
       "type": "tv",
       "genreTitle": "犯罪•剧情",
-      "rating": 8.7,
-      "release_date": "2025-11-05",
-      "overview": "原本过着平凡生活的朴台仲，突然被冠上莫须有的罪名并锒铛入狱。在发现一切都是由安耀翰一手策划后，他决定展开复仇，一场激烈的对决就此展开！",
-      "poster_url": "https://image.tmdb.org/t/p/original/5WDNTTaxA9f3dp6XCBy6zqeImfc.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6t1xH2qAeqqqQdiNBk1KwSWYl4M.jpg"
+      "rating": 7.4,
+      "release_date": "2025-10-09",
+      "overview": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/x0RosYC6GrhRhkHMGjIwNcNOH84.jpg"
     },
     {
-      "id": 1576166,
-      "title": "真情未语",
+      "id": 967941,
+      "title": "魔法坏女巫2",
       "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 0.0,
-      "release_date": "2025-12-04",
-      "overview": "一位年轻的传教士发现自己已故父亲保守多年的秘密，于是从菲律宾前往西班牙去寻找父亲的禁忌之爱。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qKuos4fGcntgeXXgR3NAmTU0kOU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t5hj8vAyAh1mxAMoPhcTyTfphMb.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
       "id": 256226,
@@ -218,7 +218,7 @@
       "rating": 8.8,
       "release_date": "2025-11-06",
       "overview": "本剧讲述女演员白雅珍隐藏自己伤痕累累的过去，透过操纵人心和欺骗手段攀上顶峰的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nbKhuvwTXcYCkHpOj8M2IgT3HrW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/a6EkylRV9VFKlQax3i80vLW95Pp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/wrP05wyzyrxwsaicfVx7VMqHgEu.jpg"
     }
   ],
@@ -283,7 +283,7 @@
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2025-12-03",
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
@@ -301,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 967941,
-      "title": "魔法坏女巫2",
-      "type": "movie",
-      "genreTitle": "奇幻•冒险•爱情",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
-      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
-    },
-    {
       "id": 1242898,
       "title": "铁血战士：杀戮之地",
       "type": "movie",
@@ -321,39 +310,6 @@
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
-    },
-    {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 0.0,
-      "release_date": "2025-12-17",
-      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
-    },
-    {
-      "id": 1261825,
-      "title": "佳节愉快",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.3,
-      "release_date": "2025-12-02",
-      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
-      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
-    },
-    {
-      "id": 223300,
-      "title": "弃徒",
-      "type": "tv",
-      "genreTitle": "剧情•西部",
-      "rating": 5.3,
-      "release_date": "2025-12-04",
-      "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
     },
     {
       "id": 1246049,
@@ -367,6 +323,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
     },
     {
+      "id": 1261825,
+      "title": "佳节愉快",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.3,
+      "release_date": "2025-12-02",
+      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
+      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
+    },
+    {
       "id": 200875,
       "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
@@ -378,26 +345,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
+      "id": 83533,
+      "title": "阿凡达：火与烬",
       "type": "movie",
-      "genreTitle": "剧情•奇幻•恐怖",
-      "rating": 7.8,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 0.0,
+      "release_date": "2025-12-17",
+      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
     },
     {
-      "id": 1218762,
-      "title": "偷心响叮当",
+      "id": 967941,
+      "title": "魔法坏女巫2",
       "type": "movie",
-      "genreTitle": "爱情•犯罪•喜剧",
-      "rating": 6.1,
-      "release_date": "2025-11-25",
-      "overview": "　　影片讲述了一个在“平安夜”发生的抢劫故事。机智的零售员工索菲亚和运气不佳的修理工尼克都打算在圣诞节期间抢劫伦敦一家臭名昭著的百货公司。当他们发现各自锁定的目标相一致后，原本是竞争关系的两人，被迫结成了不太稳定的同盟。随着行动的推进，他们各自的秘密被揭开，而彼此间的感情也逐渐加深，这让他们之间的关系和整个抢劫计划都充满了变数。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uV559niXlg7eqAnKgOmMFJLpzhh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xlzoGqZENfvI3MDBkctrna2qtX.jpg"
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+    },
+    {
+      "id": 1069905,
+      "title": "影星杰·凯利",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 5.0,
+      "release_date": "2025-11-12",
+      "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k9IvavCGXvYM0ClZVTTJB1OfR8k.jpg"
+    },
+    {
+      "id": 223300,
+      "title": "弃徒",
+      "type": "tv",
+      "genreTitle": "西部•剧情",
+      "rating": 4.9,
+      "release_date": "2025-12-04",
+      "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
     },
     {
       "id": 7451,
@@ -411,6 +400,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 812583,
+      "title": "利刃出鞘：亡者归来",
+      "type": "movie",
+      "genreTitle": "喜剧•悬疑•犯罪",
+      "rating": 8.0,
+      "release_date": "2025-11-26",
+      "overview": "　　《利刃出鞘》系列第三部，黑暗程度更胜以往。\r 　　大侦探布兰科再度出马，调查他有生以来最危险的案子。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hU7kY7YXE62ILeshnk64jYw3N8O.jpg"
+    },
+    {
+      "id": 1327862,
+      "title": "为你遗憾",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 7.1,
+      "release_date": "2025-10-22",
+      "overview": "　　一宗牵涉两条人命的严重交通意外，揭开了令人震惊的秘密；一对母女被迫面对家族的伤痕，探索爱的定义，并重新认识彼此。  　　影片改编自《爱情，到此为止》原作者科琳·胡佛的同名畅销小说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aaaHzAKC3IPd4M21dGvxrqoR7rO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5XPdSsmeIwaqWJRduVcV2D8OwXS.jpg"
+    },
+    {
       "id": 37854,
       "title": "航海王",
       "type": "tv",
@@ -422,26 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     },
     {
-      "id": 425274,
-      "title": "惊天魔盗团3",
+      "id": 1062722,
+      "title": "Frankenstein",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•悬疑",
-      "rating": 6.3,
-      "release_date": "2025-11-12",
-      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h02rwSwl41w646xeF7VJo5lnRDA.jpg"
-    },
-    {
-      "id": 1242419,
-      "title": "屋顶人",
-      "type": "movie",
-      "genreTitle": "犯罪•喜剧•剧情",
-      "rating": 7.2,
-      "release_date": "2025-10-08",
-      "overview": "　　一名前美国陆军游骑兵兼生活困顿的父亲，因走投无路而开始抢劫麦当劳餐厅，他通过在屋顶上凿洞潜入行窃，因此得名“屋顶人”。他被捕入狱后越狱，在一家玩具反斗城商场内秘密藏身长达六个月，神不知鬼不觉地生存下来，同时策划下一步行动。然而，当他爱上一位被他无法抗拒的魅力所吸引的单身母亲时，他的双重生活开始逐渐暴露。随着过往的阴影步步逼近，一场扣人心弦、充满悬念的猫鼠游戏就此展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jZeCb4V7C6LLymabvnXheKHjPpx.jpg"
+      "genreTitle": "剧情•奇幻•恐怖",
+      "rating": 7.8,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
     }
   ],
   "popular_movies": [
@@ -472,7 +472,7 @@
       "title": "山怪巨魔2",
       "type": "movie",
       "genreTitle": "动作•奇幻•惊悚",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-11-30",
       "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
       "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
