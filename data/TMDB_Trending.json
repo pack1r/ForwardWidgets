@@ -1,338 +1,6 @@
 {
-  "last_updated": "2025-12-06 20:48:14",
+  "last_updated": "2025-12-08 10:00:47",
   "today_global": [
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 0.0,
-      "release_date": "2025-12-19",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 79744,
-      "title": "菜鸟老警",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情•喜剧",
-      "rating": 8.5,
-      "release_date": "2018-10-16",
-      "overview": "　　Alexi Hawley执笔﹑Liz Friedlander导演的ABC警察剧《菜鸟老警 The Rookie》过去被直接预订成剧，由《灵书妙探 Castle》男主Nathan Fillion主演。《菜鸟老警》根据真人真事改编，Nathan Fillion饰演主角John Nolan，他是洛杉矶警局里最老的菜鸟警察。John离开了舒适的小城镇，来到洛杉矶追求自己的警察梦；此刻他身边的其他菜鸟都是二十出头，被上司认为只是遇上中年危机的主角，得跟年轻的同伴一样应付这个危险﹑滑稽﹑不可预测的世界。《黑暗物质 Dark Matter》主演Melissa O’Neil饰演女主 - 洛杉矶菜鸟警察Lucy Chen，将会与John有感情发展。Afton Williamson饰演刚被提升为训练警官的Talia Bishop，第一个被指派给她训练的就是菜鸟John﹑ Eric Winter饰演咄咄逼人的训练警官Tim Bradford﹑Richard T. Jones饰演警长Wade Grey，身为警局监管警官的他与John成了死对头。Titus Makin饰演热心的菜鸟Jackson West警官，他父亲是洛杉矶警局的高层指挥官。Alyssa Diaz饰演希望当上警探的训练警官Angela，不过当Jackson West被指派给她时倒成了麻烦，因为他的父亲可是对警局有发言权。Mercedes Mason饰演警监Zoe Andersen，主角那自信无礼的指挥警官。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iBQAVRztoczadNeniccP7NRXVRL.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3DChAVaTEBsW5l2hllwPsXlJlTI.jpg"
-    },
-    {
-      "id": 1290821,
-      "title": "庇护所",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 0.0,
-      "release_date": "2026-01-29",
-      "overview": "　　隐居孤岛的前特工迈克尔·梅森意外救下神秘小女孩，引来疑似政府组织的全面追杀。被迫重拾杀手技能的他，一路护送女孩逃亡，逐步揭开她背后的惊人秘密。在生死围堵中，梅森必须直面黑暗过去，以孤身之力对抗强大势力，决意以命守护唯一的希望。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4hUNZDse1tV6tuMym8F5QQSvKnN.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg"
-    },
-    {
-      "id": 282471,
-      "title": "克莱尔和贝尔",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 9.0,
-      "release_date": "2025-10-27",
-      "overview": "由Mine Media出品，改编自《铁锈味的雨滴》作者KA9ESAMA同名小说。\n\n《Clairebell》是一部充满情感张力的监狱爱情故事，讲述命运将不幸的女孩Bell送入监狱，她为了生存艰难挣扎。就在最黑暗的时刻，女囚犯Claire伸出了援助之手，从此两人结下了深刻的羁绊。这段相遇不仅让这片冷酷的土地重新焕发了一丝光辉，更渐渐发展成了一段动人的爱情。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vytkrWR9TWThsgGiin8boRJwWXA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vFQKFUtXGyuWf44v2WPHcAOhq5s.jpg"
-    },
-    {
-      "id": 281013,
-      "title": "一吻爆炸",
-      "type": "tv",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.4,
-      "release_date": "2025-11-12",
-      "overview": "以轻快幽默的爱情故事为主线，讲述单身女高多林（安恩真 饰）假扮成妈妈身分、隐瞒真相进入公司打工，却意外与暗恋她的团队主管孔志赫（张基龙 饰）卷入一连串职场浪漫插曲。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iVZPgJymzHN0LiMXw4dWf2V7P5w.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9ONuNpCPVrKf0tsBf9v5Bi5Ggp1.jpg"
-    },
-    {
-      "id": 1266127,
-      "title": "准备好了没：我来了",
-      "type": "movie",
-      "genreTitle": "恐怖•喜剧",
-      "rating": 0.0,
-      "release_date": "2026-04-08",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/jVozkVVBitcSht83XmoOTTBqzNa.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sJAzq4IvgohP9nVzijCH6lovX3e.jpg"
-    },
-    {
-      "id": 256721,
-      "title": "咔嗒咔嗒",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.7,
-      "release_date": "2025-07-06",
-      "overview": "犯罪者的子孙们居住的贫民窟。边界另一边的人将这边的人蔑称为“族民”，并歧视着。孤儿少年路德，和养父雷格特一同居住在贫民窟里，依靠超乎常人的身体素质为武器谋生。可是在某天，被扣上了莫名其妙的罪名，被打落至贫民窟的人们所畏惧的“奈落”里。在奈落里，和“清洁工”恩琴相遇的路德窥见了这个世界的真实，并发现了自己那能够赋予物品生命的力量。不管世界强成什么样唯有自己的价值不可为他人所左右。敌人是“常识”“权力”“偏见歧视”的超绝怒涛战斗动作剧开幕！一切都是为了改变这“狗屎一般的世界”——！！",
-      "poster_url": "https://image.tmdb.org/t/p/original/66S7aHihelhdzUqArxpoFJKgLMT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sSA8AFJitrS6z3fd6D1avHSgXak.jpg"
-    },
-    {
-      "id": 240459,
-      "title": "斯巴达克斯：亚述家族",
-      "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 5.1,
-      "release_date": "2025-12-05",
-      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
-    },
-    {
-      "id": 1368166,
-      "title": "家弑服务",
-      "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 0.0,
-      "release_date": "2025-12-19",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
-      "id": 1272837,
-      "title": "惊变28年2：白骨圣殿",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 0.0,
-      "release_date": "2026-01-14",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
-    },
-    {
-      "id": 1069905,
-      "title": "影星杰·凯利",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 6.4,
-      "release_date": "2025-11-12",
-      "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9f4fOKEc7uPodf7m4yM4o7Ub3Zh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pZc47DYloGB1Mcc6zYIXRjMVdF3.jpg"
-    },
-    {
-      "id": 63926,
-      "title": "一拳超人",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.4,
-      "release_date": "2015-10-05",
-      "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活……",
-      "poster_url": "https://image.tmdb.org/t/p/original/fHO4ssyUOO1FTJmy7Q3ofbCE8XS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
-    },
-    {
-      "id": 223300,
-      "title": "弃徒",
-      "type": "tv",
-      "genreTitle": "西部•剧情",
-      "rating": 5.1,
-      "release_date": "2025-12-04",
-      "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
-    },
-    {
-      "id": 231100,
-      "title": "Hudutsuz Sevda",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪•肥皂剧",
-      "rating": 8.9,
-      "release_date": "2023-09-21",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/1BQSLOIvjnBzrxkXjX9R0JfHTWI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h7Ae8wji793vSYfCqS4AYkvXEqD.jpg"
-    },
-    {
-      "id": 1180831,
-      "title": "山怪巨魔2",
-      "type": "movie",
-      "genreTitle": "动作•奇幻•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-11-30",
-      "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
-    },
-    {
-      "id": 209110,
-      "title": "认罪之罪",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 8.5,
-      "release_date": "2025-12-05",
-      "overview": "　　美术老师安允秀（全度妍饰）原本过着平静的生活，但在结婚十周年之际却成为丈夫遇害案的唯一嫌疑人，人生瞬间陷入绝境。此时，身份神秘且患有精神疾病的慕恩（金高银饰）主动靠近她，自称能看透他人的杀意，并愿意为安允秀承担罪责，但提出了一个危险的交换条件。北部地方检察厅实力最强的检察官白东勋（朴海秀饰），他以自身信念和组织名誉为赌注，决心揭开安允秀和慕恩背后的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tq3OXIPLuHSRK6llBNm2GtMMe2l.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jlszdLPIqFiGXTGNP2ZWp63f2a8.jpg"
-    },
-    {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
-    },
-    {
-      "id": 219246,
-      "title": "苦尽柑来遇见你",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-03-07",
-      "overview": "人称“干练的反抗者”的吴爱纯与绰号“固执的钢铁心”的梁宽植在济州岛经历四季更迭，谱出一段多姿多采的冒险人生，其中有挫败也有成功，更证明了爱能通过时间的考验。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ru98SmLQvKR8MMiqjpBXSfimZ0C.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uTtdSAnWl0i6RBJStz8Gxnph9mx.jpg"
-    },
-    {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.7,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9egkYIBkJiI2jajspkEmneXaLSh.jpg"
-    }
-  ],
-  "week_global_all": [
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 0.0,
-      "release_date": "2025-12-19",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 282471,
-      "title": "克莱尔和贝尔",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 9.0,
-      "release_date": "2025-10-27",
-      "overview": "由Mine Media出品，改编自《铁锈味的雨滴》作者KA9ESAMA同名小说。\n\n《Clairebell》是一部充满情感张力的监狱爱情故事，讲述命运将不幸的女孩Bell送入监狱，她为了生存艰难挣扎。就在最黑暗的时刻，女囚犯Claire伸出了援助之手，从此两人结下了深刻的羁绊。这段相遇不仅让这片冷酷的土地重新焕发了一丝光辉，更渐渐发展成了一段动人的爱情。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vytkrWR9TWThsgGiin8boRJwWXA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vFQKFUtXGyuWf44v2WPHcAOhq5s.jpg"
-    },
-    {
-      "id": 281013,
-      "title": "一吻爆炸",
-      "type": "tv",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.4,
-      "release_date": "2025-11-12",
-      "overview": "以轻快幽默的爱情故事为主线，讲述单身女高多林（安恩真 饰）假扮成妈妈身分、隐瞒真相进入公司打工，却意外与暗恋她的团队主管孔志赫（张基龙 饰）卷入一连串职场浪漫插曲。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iVZPgJymzHN0LiMXw4dWf2V7P5w.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9ONuNpCPVrKf0tsBf9v5Bi5Ggp1.jpg"
-    },
-    {
-      "id": 1290821,
-      "title": "庇护所",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 0.0,
-      "release_date": "2026-01-29",
-      "overview": "　　隐居孤岛的前特工迈克尔·梅森意外救下神秘小女孩，引来疑似政府组织的全面追杀。被迫重拾杀手技能的他，一路护送女孩逃亡，逐步揭开她背后的惊人秘密。在生死围堵中，梅森必须直面黑暗过去，以孤身之力对抗强大势力，决意以命守护唯一的希望。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4hUNZDse1tV6tuMym8F5QQSvKnN.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg"
-    },
-    {
-      "id": 256721,
-      "title": "咔嗒咔嗒",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.7,
-      "release_date": "2025-07-06",
-      "overview": "犯罪者的子孙们居住的贫民窟。边界另一边的人将这边的人蔑称为“族民”，并歧视着。孤儿少年路德，和养父雷格特一同居住在贫民窟里，依靠超乎常人的身体素质为武器谋生。可是在某天，被扣上了莫名其妙的罪名，被打落至贫民窟的人们所畏惧的“奈落”里。在奈落里，和“清洁工”恩琴相遇的路德窥见了这个世界的真实，并发现了自己那能够赋予物品生命的力量。不管世界强成什么样唯有自己的价值不可为他人所左右。敌人是“常识”“权力”“偏见歧视”的超绝怒涛战斗动作剧开幕！一切都是为了改变这“狗屎一般的世界”——！！",
-      "poster_url": "https://image.tmdb.org/t/p/original/66S7aHihelhdzUqArxpoFJKgLMT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sSA8AFJitrS6z3fd6D1avHSgXak.jpg"
-    },
-    {
-      "id": 1368166,
-      "title": "家弑服务",
-      "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 0.0,
-      "release_date": "2025-12-19",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
-      "id": 63926,
-      "title": "一拳超人",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.4,
-      "release_date": "2015-10-05",
-      "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活……",
-      "poster_url": "https://image.tmdb.org/t/p/original/fHO4ssyUOO1FTJmy7Q3ofbCE8XS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg"
-    },
-    {
-      "id": 1266127,
-      "title": "准备好了没：我来了",
-      "type": "movie",
-      "genreTitle": "恐怖•喜剧",
-      "rating": 0.0,
-      "release_date": "2026-04-08",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/jVozkVVBitcSht83XmoOTTBqzNa.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sJAzq4IvgohP9nVzijCH6lovX3e.jpg"
-    },
-    {
-      "id": 231100,
-      "title": "Hudutsuz Sevda",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪•肥皂剧",
-      "rating": 8.9,
-      "release_date": "2023-09-21",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/1BQSLOIvjnBzrxkXjX9R0JfHTWI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h7Ae8wji793vSYfCqS4AYkvXEqD.jpg"
-    },
-    {
-      "id": 219246,
-      "title": "苦尽柑来遇见你",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-03-07",
-      "overview": "人称“干练的反抗者”的吴爱纯与绰号“固执的钢铁心”的梁宽植在济州岛经历四季更迭，谱出一段多姿多采的冒险人生，其中有挫败也有成功，更证明了爱能通过时间的考验。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ru98SmLQvKR8MMiqjpBXSfimZ0C.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uTtdSAnWl0i6RBJStz8Gxnph9mx.jpg"
-    },
     {
       "id": 66732,
       "title": "Stranger Things",
@@ -345,15 +13,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+      "id": 1069905,
+      "title": "影星杰·凯利",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 5.9,
+      "release_date": "2025-11-14",
+      "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9f4fOKEc7uPodf7m4yM4o7Ub3Zh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pZc47DYloGB1Mcc6zYIXRjMVdF3.jpg"
     },
     {
       "id": 533533,
@@ -370,12 +38,89 @@
       "id": 1084242,
       "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
+      "genreTitle": "动画•喜剧•冒险",
       "rating": 7.7,
       "release_date": "2025-11-26",
       "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
+    },
+    {
+      "id": 240459,
+      "title": "斯巴达克斯：亚述家族",
+      "type": "tv",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 5.9,
+      "release_date": "2025-12-05",
+      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.4,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+    },
+    {
+      "id": 701387,
+      "title": "拯救地球",
+      "type": "movie",
+      "genreTitle": "科幻•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-10-23",
+      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+    },
+    {
+      "id": 209110,
+      "title": "认罪之罪",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 7.2,
+      "release_date": "2025-12-05",
+      "overview": "　　美术老师安允秀（全度妍饰）原本过着平静的生活，但在结婚十周年之际却成为丈夫遇害案的唯一嫌疑人，人生瞬间陷入绝境。此时，身份神秘且患有精神疾病的慕恩（金高银饰）主动靠近她，自称能看透他人的杀意，并愿意为安允秀承担罪责，但提出了一个危险的交换条件。北部地方检察厅实力最强的检察官白东勋（朴海秀饰），他以自身信念和组织名誉为赌注，决心揭开安允秀和慕恩背后的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tq3OXIPLuHSRK6llBNm2GtMMe2l.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jlszdLPIqFiGXTGNP2ZWp63f2a8.jpg"
+    },
+    {
+      "id": 281005,
+      "title": "等待京道",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 0.0,
+      "release_date": "2025-12-06",
+      "overview": "二十多岁时，李炅焘与徐智祐曾两度深陷热恋，却最终分道扬镳。十年后，两人作为报导不伦丑闻的记者与丑闻主角的妻子再次面对面。在三十岁后半重逢的两人虽已不再年轻，唯有爱情却依然鲜明。炅焘现在要努力向她与自己证明，他依旧深爱着她。",
+      "poster_url": "https://image.tmdb.org/t/p/original/69UH3A6JlsaHseqDviu9YtfjvyG.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q9J7tmLQoV5P35foKBaLTpikCOi.jpg"
+    },
+    {
+      "id": 1261825,
+      "title": "佳节愉快",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.0,
+      "release_date": "2025-12-02",
+      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
+      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
     },
     {
       "id": 1180831,
@@ -389,15 +134,149 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
     },
     {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
+    },
+    {
+      "id": 967941,
+      "title": "魔法坏女巫2",
+      "type": "movie",
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.8,
+      "release_date": "2025-11-19",
+      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+    },
+    {
+      "id": 157741,
+      "title": "石油天王",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2024-11-17",
+      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+    },
+    {
+      "id": 1392796,
+      "title": "小屁孩日记：虎爸的最后通牒",
+      "type": "movie",
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 7.2,
+      "release_date": "2025-12-04",
+      "overview": "本片改编自杰夫肯尼全球热卖系列作品第三集，葛瑞赫夫雷在《小屁孩日记4：老爸别逼我》中再度把全家拖下水，演出一场令人忍俊不住的闹剧。当个性闲散悠闲的葛瑞发现自己无法达到父亲对自己过高的期待，开始感受到必须振作起来的压力。发生一连串的爆笑惊险场面后，葛瑞的爸爸对他下了最后通牒，要他做出彻底的改变。本片由麦特丹纳执导（《三骑士传奇》），由杰夫肯尼担任编剧和制片。《小屁孩日记4：老爸别逼我》，由亚伦哈里斯（《律师无限耆》）为葛瑞赫夫雷配音，法兰克赫夫雷则由克里斯达玛托普拉斯（《矽谷群瞎传》）配音。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xkMFNcXO4SAQ1DFdH11hciaDJv7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2NpXU0U8pdC520welMVx6Pu0esc.jpg"
+    },
+    {
+      "id": 200875,
+      "title": "小丑回魂：欢迎来到德里镇",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
+      "rating": 8.2,
+      "release_date": "2025-10-26",
+      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
       "rating": 8.7,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9egkYIBkJiI2jajspkEmneXaLSh.jpg"
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+    },
+    {
+      "id": 76479,
+      "title": "黑袍纠察队",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.4,
+      "release_date": "2019-07-25",
+      "overview": "这是一个超能力者和普通人共存的世界，祖国人、火车头、深海、梅芙女王、透明人和玄色隶属于全球最大的超级英雄公司沃特集团，在帮助政府惩奸除恶维护世界和平的同时，他们也以偶像的身份帮助公司赚取了难以计数的利润。休伊是一个平凡的男孩，她的女友死于一场意外，而这场意外的制造者正是火车头。休伊不愿意接受沃特公司潦草的致歉和赔偿，决定替女友报仇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2ArT8b0jI1oDWnlPdC3cPyhOEEI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/A5kLEslYD3IJrSnnEZL0TfQAQlJ.jpg"
+    }
+  ],
+  "week_global_all": [
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.5,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q57Mrxy0u7XRa5xPrPjM78ccdFV.jpg"
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
+      "id": 1180831,
+      "title": "山怪巨魔2",
+      "type": "movie",
+      "genreTitle": "动作•奇幻•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-11-30",
+      "overview": "一头危险的新巨怪在家园里大肆破坏，诺拉、安德烈亚斯和克里斯少校开启迄今最危险的任务。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hWUD73m3UKhLalaGDTcwsk8P27b.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
+    },
+    {
+      "id": 1069905,
+      "title": "影星杰·凯利",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 5.9,
+      "release_date": "2025-11-14",
+      "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9f4fOKEc7uPodf7m4yM4o7Ub3Zh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pZc47DYloGB1Mcc6zYIXRjMVdF3.jpg"
     },
     {
       "id": 701387,
@@ -415,11 +294,88 @@
       "title": "斯巴达克斯：亚述家族",
       "type": "tv",
       "genreTitle": "剧情•动作冒险",
-      "rating": 5.1,
+      "rating": 5.9,
       "release_date": "2025-12-05",
       "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.4,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+    },
+    {
+      "id": 1261825,
+      "title": "佳节愉快",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.0,
+      "release_date": "2025-12-02",
+      "overview": "每逢假日，克莱尔克劳斯特都是凝聚这个混乱而可爱的家庭的粘合剂。然而今年，她为家人安排了一场特别的外出活动，家人却犯了一个致命错误，把她一个人落在了家里。忍无可忍的她感觉未得到应有的感激，一气之下踏上了属于自己的即兴冒险。当家人手忙脚乱地找她时，克莱尔却意外发现了偏离计划的圣诞节的独特魔力。",
+      "poster_url": "https://image.tmdb.org/t/p/original/unDUIDiULwG2s7fsGIrBFEf6aXb.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lvuont4qKPCj8ozQzXsLcAFTAVP.jpg"
+    },
+    {
+      "id": 223300,
+      "title": "弃徒",
+      "type": "tv",
+      "genreTitle": "西部•剧情",
+      "rating": 5.3,
+      "release_date": "2025-12-04",
+      "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+    },
+    {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+    },
+    {
+      "id": 209110,
+      "title": "认罪之罪",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 7.2,
+      "release_date": "2025-12-05",
+      "overview": "　　美术老师安允秀（全度妍饰）原本过着平静的生活，但在结婚十周年之际却成为丈夫遇害案的唯一嫌疑人，人生瞬间陷入绝境。此时，身份神秘且患有精神疾病的慕恩（金高银饰）主动靠近她，自称能看透他人的杀意，并愿意为安允秀承担罪责，但提出了一个危险的交换条件。北部地方检察厅实力最强的检察官白东勋（朴海秀饰），他以自身信念和组织名誉为赌注，决心揭开安允秀和慕恩背后的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/tq3OXIPLuHSRK6llBNm2GtMMe2l.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jlszdLPIqFiGXTGNP2ZWp63f2a8.jpg"
     },
     {
       "id": 200875,
@@ -429,33 +385,66 @@
       "rating": 8.2,
       "release_date": "2025-10-26",
       "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dUjBCp7VI88xsQAjVg2Pl0I2whl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
-      "id": 223300,
-      "title": "弃徒",
-      "type": "tv",
-      "genreTitle": "西部•剧情",
-      "rating": 5.1,
-      "release_date": "2025-12-04",
-      "overview": "故事讲述了一群多元化的边缘家庭在19世纪50年代的俄勒冈州追寻他们的“天命”，然而，一股贪婪土地的腐败势力试图将他们驱逐。这些被遗弃的灵魂——那些生活在社会边缘的迷失者——联合起来组成一个家庭，共同抗争。在这场血腥的过程中，“正义”被拉伸到超越法律的界限。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mfJz8kOjFmYoLT2m4YQfwDC1P80.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yExbpOGgyhyAa3SVvO7hMfRJget.jpg"
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 0.0,
+      "release_date": "2025-12-17",
+      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
+    },
+    {
+      "id": 1441563,
+      "title": "我的秘密圣诞老人",
+      "type": "movie",
+      "genreTitle": "喜剧•爱情",
+      "rating": 6.6,
+      "release_date": "2025-12-02",
+      "overview": "一位单身母亲需要工作，一个滑雪度假村需要圣诞老人。泰勒假扮成圣诞老人，她能否骗过迷人的酒店继承人，拿到这份工作？",
+      "poster_url": "https://image.tmdb.org/t/p/original/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mIfsxQE4VWkKqzkPAb4jIpT4eFn.jpg"
+    },
+    {
+      "id": 967941,
+      "title": "魔法坏女巫2",
+      "type": "movie",
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.8,
+      "release_date": "2025-11-19",
+      "overview": "　　自从艾芙芭（辛西娅·埃里沃 饰）与格琳达（爱莉安娜·格兰德 饰）分道扬镳、形同陌路之后，各自承受她们做出的抉择所带来的后果。\r 　　被冠上“西方坏女巫”恶名的艾芙芭遭到放逐后，隐居在奥兹国树林深处，但是却仍然为被噤声的动物争取自由而奋斗，并且迫切地想要揭露她所知道关于奥兹国大巫师（杰夫· 高布伦 饰）的真相。\r 　　与此同时，格琳达已经成为奥兹国光鲜亮丽的良善象征，她住在翡翠城皇宫中， 享受她的响亮名声和超高人气所带来的明星光环与特权。在莫里贝尔夫人（杨紫琼 饰）的安排下，格琳达成为奥兹国人民眼中充满粉红泡泡的安抚力量，并且让他们相信奥兹国在大巫师的统治之下一切都很好。\r 　　当格琳达的明星光环越来越闪亮，她也准备和费耶罗王子（乔纳森·贝利 饰）举行一场盛大的婚礼，但是她却一直受到她和艾芙芭分开后的阴影所纠缠。她试图促成艾芙芭与大巫师之间的和解，然而她所有的努力都以失败告终，使得艾芙芭和格琳达的关系越来越疏远。她们的关系决裂所造成的影响，将彻底改变博克（伊森·斯莱特 饰）与费耶罗的命运，也将威胁到艾芙芭的妹妹涅莎萝丝（玛丽莎·博德 饰）的安危，而一名来自堪萨斯州的少女也将闯入奥兹国，彻底翻转他们的世界。\r 　　当一群愤怒的民众揭竿而起，打算对抗西方坏女巫，格琳达和艾芙芭就必须最后一次携手合作。当她们的友情成为改变她们未来的关键，她们就必须以真心诚意和无比的同理心真正了解彼此，并且改变自己，也让整个奥兹国变得更美好。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 1246049,
+      "title": "德古拉",
+      "type": "movie",
+      "genreTitle": "恐怖•奇幻•爱情",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
     }
   ],
   "popular_movies": [
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
-    },
     {
       "id": 533533,
       "title": "创：战神",
@@ -479,48 +468,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg"
     },
     {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
+    },
+    {
       "id": 1083637,
       "title": "神秘森林传说: 第一章",
       "type": "movie",
       "genreTitle": "动作•剧情•奇幻",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-10-01",
       "overview": "在Kadamba统治期间，虚构的邦格拉封地统治者Vijayendra国王在冒险进入神秘的坎塔拉森林时遇到了最后的命运。目睹这一幕，他的儿子拉贾谢卡拉封锁了他们的王国边界。后来，库拉什卡拉王子通过一场残酷的大屠杀重新开放了他们。主人公Berme为了追求繁荣，跨越了鸿沟，点燃了王国与自然之间的信仰、权力和命运的冲突。",
       "poster_url": "https://image.tmdb.org/t/p/original/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/uKD90bLvPXFJw0jChtFPT7Z8TCH.jpg"
-    },
-    {
-      "id": 1246049,
-      "title": "德古拉",
-      "type": "movie",
-      "genreTitle": "恐怖•奇幻•爱情",
-      "rating": 7.1,
-      "release_date": "2025-07-30",
-      "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
-    },
-    {
-      "id": 949709,
-      "title": "危机航线",
-      "type": "movie",
-      "genreTitle": "动作•犯罪",
-      "rating": 6.0,
-      "release_date": "2024-09-29",
-      "overview": "　“有人吗？有……”一条来自高皓军（刘德华 饰）的神秘信息从万米高空传来。一架五星级 A380 超豪华客机在国际首航途中遭遇劫机，国际安保专家高皓军挺身而出与一众暴徒周旋，女儿小军（张子枫 饰）被困机舱，劫匪头目 Mike（屈楚萧 饰）以全机800余人性命为筹码威胁，小军的妈妈傅源（刘涛 饰）也身陷危险之中......机上乘客能否平安降落，这场危机该如何化解？",
-      "poster_url": "https://image.tmdb.org/t/p/original/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1iJmIAj7mMrx7pO80AzboHkEzCu.jpg"
-    },
-    {
-      "id": 1419406,
-      "title": "捕风追影",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.4,
-      "release_date": "2025-08-16",
-      "overview": "一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕......",
-      "poster_url": "https://image.tmdb.org/t/p/original/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5htusrnQhBC4k0kpJYcuVMKz3o5.jpg"
     },
     {
       "id": 1228246,
@@ -534,26 +501,59 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
+      "id": 23527,
+      "title": "第一小队",
+      "type": "movie",
+      "genreTitle": "奇幻•动画•动作",
+      "rating": 6.3,
+      "release_date": "2009-05-13",
+      "overview": "由日本、加拿大、俄罗斯三国携手合作。故事发生在第二次世界大战爆发几天后的东部战线，纳粹德军的党卫队司令官Martin Linz意图唤醒出十二世纪东征十字军的超能力部队，并组成幽灵军团来攻占苏联。片中的五位年轻主角Nadya、Leo、Zena、Marat、Valya是在苏联军队中接受了手术改造的异能士兵，而他们的任务即是尽全力消灭这批幽灵兵团，以击败纳粹司令官的野心。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mh2DUD5iHNs9VR8kxxJ8yVgZD0N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3k1PKmzNEosWFaOR1yC9ZKIYqmm.jpg"
+    },
+    {
+      "id": 1246049,
+      "title": "德古拉",
+      "type": "movie",
+      "genreTitle": "恐怖•奇幻•爱情",
+      "rating": 7.1,
+      "release_date": "2025-07-30",
+      "overview": "故事讲述 15 世纪的弗拉基米尔王子，在爱妻离世后诅咒上帝，最终化作吸血鬼；此后在 19 世纪的伦敦，他遇见了与妻子容貌一模一样的分身，却因执意追寻她而自取毁灭。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gZeZXI3RRBAyOMNgQb5lybiBZLR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dFIZEBL5aMgCKEvvNqx7pdainLb.jpg"
+    },
+    {
+      "id": 1419406,
+      "title": "捕风追影",
+      "type": "movie",
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 6.5,
+      "release_date": "2025-08-16",
+      "overview": "一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕......",
+      "poster_url": "https://image.tmdb.org/t/p/original/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5htusrnQhBC4k0kpJYcuVMKz3o5.jpg"
+    },
+    {
       "id": 1448560,
       "title": "限时营救",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 6.2,
+      "rating": 5.8,
       "release_date": "2025-11-19",
       "overview": "讲述了一支前秘密行动小组重聚，实施一场孤注一掷的抢劫行动，以拯救一名八岁女孩的生命。",
       "poster_url": "https://image.tmdb.org/t/p/original/ckuhePV0ufQwr3jJkARvF6zu4Sx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg"
     },
     {
-      "id": 1033462,
-      "title": "749局",
+      "id": 949709,
+      "title": "危机航线",
       "type": "movie",
-      "genreTitle": "动作•冒险•科幻",
-      "rating": 6.0,
-      "release_date": "2024-10-01",
-      "overview": "　　电影《749局》是导演陆川编剧并执导的最新力作，讲述了一个少年成长冒险的热血故事。影片灵感源于导演陆川军校毕业后在749局的工作经历，有着悬疑紧张的冒险故事，热血澎湃的动作场面，少年成长的故事内核，以及浪漫的情节元素，并集结了一批国内演技出众的青年演员，是一部商业类型与情感元素并重的影片，也是他致敬自己少年和那一代人的一部少年气十足的作品。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg"
+      "genreTitle": "动作•犯罪",
+      "rating": 5.9,
+      "release_date": "2024-09-29",
+      "overview": "　“有人吗？有……”一条来自高皓军（刘德华 饰）的神秘信息从万米高空传来。一架五星级 A380 超豪华客机在国际首航途中遭遇劫机，国际安保专家高皓军挺身而出与一众暴徒周旋，女儿小军（张子枫 饰）被困机舱，劫匪头目 Mike（屈楚萧 饰）以全机800余人性命为筹码威胁，小军的妈妈傅源（刘涛 饰）也身陷危险之中......机上乘客能否平安降落，这场危机该如何化解？",
+      "poster_url": "https://image.tmdb.org/t/p/original/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1iJmIAj7mMrx7pO80AzboHkEzCu.jpg"
     },
     {
       "id": 1242898,
@@ -567,26 +567,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
-      "id": 1309012,
-      "title": "改造",
+      "id": 1033462,
+      "title": "749局",
       "type": "movie",
-      "genreTitle": "科幻•动作",
-      "rating": 6.5,
-      "release_date": "2025-09-18",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ztehOdVRBxiBuK3wmWpOPO01ZHj.jpg"
-    },
-    {
-      "id": 1469354,
-      "title": "越境猎杀",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 7.9,
-      "release_date": "2025-10-20",
-      "overview": "一美国男子，其警员兄弟遭毒贩所害，而毒贩逃往墨西哥——投奔与贩毒集团勾连之叔父处寻求庇护——该男子身负多样执法/军事背景，遂南下越境，誓要复仇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tRdorrIjlybrGsebXOzgF7vRyYy.jpg"
+      "genreTitle": "动作•冒险•科幻",
+      "rating": 6.1,
+      "release_date": "2024-10-01",
+      "overview": "　　电影《749局》是导演陆川编剧并执导的最新力作，讲述了一个少年成长冒险的热血故事。影片灵感源于导演陆川军校毕业后在749局的工作经历，有着悬疑紧张的冒险故事，热血澎湃的动作场面，少年成长的故事内核，以及浪漫的情节元素，并集结了一批国内演技出众的青年演员，是一部商业类型与情感元素并重的影片，也是他致敬自己少年和那一代人的一部少年气十足的作品。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg"
     },
     {
       "id": 755898,
@@ -600,15 +589,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
     },
     {
-      "id": 23527,
-      "title": "第一小队",
+      "id": 1309012,
+      "title": "改造",
       "type": "movie",
-      "genreTitle": "奇幻•动画•动作",
-      "rating": 6.3,
-      "release_date": "2009-05-13",
-      "overview": "由日本、加拿大、俄罗斯三国携手合作。故事发生在第二次世界大战爆发几天后的东部战线，纳粹德军的党卫队司令官Martin Linz意图唤醒出十二世纪东征十字军的超能力部队，并组成幽灵军团来攻占苏联。片中的五位年轻主角Nadya、Leo、Zena、Marat、Valya是在苏联军队中接受了手术改造的异能士兵，而他们的任务即是尽全力消灭这批幽灵兵团，以击败纳粹司令官的野心。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mh2DUD5iHNs9VR8kxxJ8yVgZD0N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3k1PKmzNEosWFaOR1yC9ZKIYqmm.jpg"
+      "genreTitle": "科幻•动作",
+      "rating": 6.4,
+      "release_date": "2025-09-18",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ztehOdVRBxiBuK3wmWpOPO01ZHj.jpg"
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "type": "movie",
+      "genreTitle": "剧情•奇幻•恐怖",
+      "rating": 7.8,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
     }
   ]
 }
