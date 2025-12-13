@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-13 09:56:23",
+  "last_updated": "2025-12-13 20:49:00",
   "today_global": [
     {
       "id": 812583,
-      "title": "利刃出鞘3",
+      "title": "利刃出鞘3：亡者归来",
       "type": "movie",
       "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2025-11-26",
       "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
       "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
@@ -24,37 +24,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/6fDGScbxWTsi6st22tKQRw7dkka.jpg"
     },
     {
-      "id": 279601,
-      "title": "人来宝",
-      "type": "tv",
-      "genreTitle": "喜剧•家庭",
-      "rating": 7.3,
-      "release_date": "2025-12-11",
-      "overview": "特雷弗·宾利（罗温·艾金森 饰）上次在《人来蜂》中照看高科技宅邸，却因为恼人的虫横加捣乱，酿成巨大灾难，这次离开了帮人看家的高压世界来担任学校工友，享受安静一些的生活。此时出现一个高薪工作机会，要他在圣诞期间到奢华伦敦顶楼公寓顾家，这样的诱惑实在令人难以抗拒。没想到学期的最后一天，居然没人来接学校圣诞剧的耶稣宝宝，特雷弗多了一位出乎意料的小同伴。这下他得照看顶楼公寓，还得照顾小宝宝，特雷弗还能享受他期待的平静圣诞吗？又或者这个佳节会就此陷入大乱？",
-      "poster_url": "https://image.tmdb.org/t/p/original/xNmFwRkCZNPoHB8CXeBmAt5QMtk.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3EcomsrV59IFSfA2ZlKeMhagyfC.jpg"
-    },
-    {
       "id": 1379963,
       "title": "轻声告诉我",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 7.5,
+      "rating": 8.3,
       "release_date": "2025-12-11",
       "overview": "一切都在卡米拉的掌控之中：学习、社交生活、她的形象……唯独没想到她的邻居迪比安科兄弟会在离开七年后意外归来。蒂亚戈曾经偷走她的初吻，泰勒曾是她的挚友，但他们的归来将把卡米的世界搅得天翻地覆。他们三人能否走出将他们捆绑在一起的过往？还是说一切将再次分崩离析？",
       "poster_url": "https://image.tmdb.org/t/p/original/vs0FFjYTM2JKpdZ5A0UM2YH4wUD.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/iyr9VnThgqjw58vkuhwhUyOheJQ.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 279601,
+      "title": "人来宝",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+      "genreTitle": "喜剧•家庭",
+      "rating": 7.5,
+      "release_date": "2025-12-11",
+      "overview": "特雷弗·宾利（罗温·艾金森 饰）上次在《人来蜂》中照看高科技宅邸，却因为恼人的虫横加捣乱，酿成巨大灾难，这次离开了帮人看家的高压世界来担任学校工友，享受安静一些的生活。此时出现一个高薪工作机会，要他在圣诞期间到奢华伦敦顶楼公寓顾家，这样的诱惑实在令人难以抗拒。没想到学期的最后一天，居然没人来接学校圣诞剧的耶稣宝宝，特雷弗多了一位出乎意料的小同伴。这下他得照看顶楼公寓，还得照顾小宝宝，特雷弗还能享受他期待的平静圣诞吗？又或者这个佳节会就此陷入大乱？",
+      "poster_url": "https://image.tmdb.org/t/p/original/xNmFwRkCZNPoHB8CXeBmAt5QMtk.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3EcomsrV59IFSfA2ZlKeMhagyfC.jpg"
     },
     {
       "id": 1084242,
@@ -79,15 +68,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
       "id": 1562010,
       "title": "Taylor Swift | The Eras Tour | The Final Show",
       "type": "movie",
       "genreTitle": "音乐",
-      "rating": 7.0,
+      "rating": 6.8,
       "release_date": "2025-12-11",
-      "overview": "本片是一部完整的演唱会电影，在加拿大温哥华拍摄。",
+      "overview": "历时21个月、横跨53座城市、刷新全球巡演票房纪录的音乐史诗，在温哥华的璀璨夜空下迎来终极篇章。这部独家登陆Disney+的纪实电影，完整捕捉了2024年12月8日泰勒·斯威夫特“时代巡演”收官之夜的全部高光，将这场跨越11张专辑的音乐旅程永久定格。\r 影片首次完整呈现《苦难诗社》（The Tortured Poets Department）专辑的现场全纪录，更收录了《Long Live》《New Romantics》等的催泪串烧惊喜曲目，泰勒将歌词改编为“时代终章”的专属致意，引爆全场情感共鸣。从高速公路舞台到数字草地、烟雾环特效的视觉奇观，再到闪耀的定制麦克风与服饰细节，每一帧都复刻了这场视听盛宴的震撼张力。",
       "poster_url": "https://image.tmdb.org/t/p/original/zziixUT6aqMiy3WN3mnOes0SEWi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1LXcQmRnrpcDceX1hyWq8oZkibz.jpg"
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5weFsooOJWsczB8GDPXKH84OQgK.jpg"
     },
     {
       "id": 1255775,
@@ -101,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/awMxonJX6Wbuvpe5OsVf3QAhaiX.jpg"
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
-    },
-    {
       "id": 83533,
       "title": "阿凡达3",
       "type": "movie",
@@ -123,26 +123,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
     },
     {
+      "id": 277752,
+      "title": "暗影之城",
+      "type": "tv",
+      "genreTitle": "犯罪•悬疑",
+      "rating": 8.0,
+      "release_date": "2025-12-12",
+      "overview": "高迪的知名地标“米拉之家”发生了一起骇人听闻的命案，外墙上竟出现一具焦黑的尸体。就在此时，近期因抗命被加泰罗尼亚自治区警察局停职的米洛·马拉特警督刚好回到巴塞罗那复职，于是便与副警督丽贝卡·加里多联手展开调查，不找出凶手绝不罢休。",
+      "poster_url": "https://image.tmdb.org/t/p/original/iefxPSC0ysbiesu0QV3TvV9tFdZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg"
+    },
+    {
+      "id": 240459,
+      "title": "斯巴达克斯：亚述家族",
+      "type": "tv",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 6.1,
+      "release_date": "2025-12-05",
+      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.6,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
+    },
+    {
       "id": 1387382,
       "title": "狩猎季",
       "type": "movie",
       "genreTitle": "动作•剧情•惊悚",
-      "rating": 6.4,
+      "rating": 6.5,
       "release_date": "2025-12-05",
       "overview": "当一位隐居的生存主义者与女儿从河中救起一名神秘的受伤女子后，他们便陷入了一场充满暴力与复仇的致命漩涡，被迫直面残暴的罪犯以求生存。",
       "poster_url": "https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/tTXN5mlKm4W5mdqgo8Y6mo2Bz0t.jpg"
-    },
-    {
-      "id": 200875,
-      "title": "小丑回魂：欢迎来到德里镇",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 8.2,
-      "release_date": "2025-10-26",
-      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
       "id": 254482,
@@ -156,79 +178,57 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/khHpr9W9cZ7mlQGvabC2IeG69pg.jpg"
     },
     {
-      "id": 240459,
-      "title": "斯巴达克斯：亚述家族",
+      "id": 200875,
+      "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 6.0,
-      "release_date": "2025-12-05",
-      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
+      "genreTitle": "剧情•悬疑",
+      "rating": 8.2,
+      "release_date": "2025-10-26",
+      "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
-      "id": 1033148,
-      "title": "去死吧，我的爱",
+      "id": 1352624,
+      "title": "主谋",
       "type": "movie",
-      "genreTitle": "剧情•惊悚",
-      "rating": 6.7,
-      "release_date": "2025-10-06",
-      "overview": "葛蕾丝（珍妮弗劳伦斯 饰）和杰克森（罗伯派汀森 饰）的第一个孩子诞生后，搬回了杰克森的老家蒙大拿州生活，葛蕾丝在这个陌生的环境，面对帮不上忙的丈夫和吵闹的婴儿与狗，她在努力保持理智的同时愈加执着于对爱的追求......。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ybKyrOAldXIivrQ0AS15QWpJFo2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zYCqHKTNeer6B5aJm5qJHlPnmU.jpg"
+      "genreTitle": "剧情•犯罪",
+      "rating": 5.5,
+      "release_date": "2025-10-16",
+      "overview": "在天眼尚未密布，监场保安仍会打瞌睡的二十世纪七十年代，名画大盗就是会光天化日，大剌剌走进美术馆，直接把猎物从墙上取下放入布袋运走。看似儿戏的一切，背后主谋还要是住在市郊、人畜无害的住家男人。凯莉·莱卡特完全弃用好莱坞盗宝片叙事公式，改以其擅长的左翼简约主义镜头，捕捉触犯艺术罪行者的日常生活、双面人的言行处境，以及事件周遭人情冷暖。阿瑟多夫的抽象画作未必是一个借口，但到头来凸显存在荒谬的公路逃亡，俨然为观众添加了不少欣赏和思考的层次。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/u99XCLEdlxIKm2RCzBYXiz71RpL.jpg"
     },
     {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
+      "id": 259886,
+      "title": "陆海之战",
       "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
       "rating": 7.3,
-      "release_date": "2023-12-19",
-      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
+      "release_date": "2025-12-07",
+      "overview": "UNIT-即联合情报特遣部队，在联合国主持下运作的独立情报组织。在隐藏于深海之中的古老生物浮出水面之后，UNIT以及目前的掌门人凯特·莱斯布里奇·斯图尔特必须阻止这群曾经称霸古地球的远古生物卷土重来引发全球性危机。同时在陆地与浪潮的黑暗深处，Sea Salt和Barclay之间的结盟也将在这场史无前例的霸主之战中得到挑战。该剧为《神秘博士》于2005年重启后推出的第四部衍生剧。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fmlam3xNaZOx9XJTo5SoQctkwOv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/syXtlr03vW3yLcTmcyazwMTwGLh.jpg"
     },
     {
-      "id": 1580353,
-      "title": "乌龙绑架党",
+      "id": 945801,
+      "title": "刺杀小说家2",
       "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 7.0,
-      "release_date": "2025-12-06",
-      "overview": "作为父亲的萨坦生意失败，挣扎度日。他决定通过绑架自己父亲还债，却陷入了一个疯狂计划。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eU1iuYCeba88kNYv9KxOFqBE3io.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/Ae00E0rpUIihDrJ1C0HvhufYa5d.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 1407862,
-      "title": "忘我星途",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 6.5,
-      "release_date": "2025-12-02",
-      "overview": "刚刚获得一个重要角色，这位著名演员就莫名其妙地失去了表演能力。随后，他顶着公众压力开启了一段自我发现之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gVufCABbj6NqBYyLaw6eptem28e.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kMGZK18hxu8y2HeNRvF94pkdefq.jpg"
+      "genreTitle": "动作•奇幻",
+      "rating": 6.2,
+      "release_date": "2025-10-01",
+      "overview": "陷人生低谷的小说家路空文（董子健 饰）被巨大的诱惑牵引，导致他自己和书中的角色都陷入了不可逆转的危机。最终小说家找回了信念，与书中人一起拯救了双世界危机。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8m62wFtXGYrmuN8Fvi5Zu1LYphQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1mHTEDRSZ9PersHOTKfYBRXZw89.jpg"
     }
   ],
   "week_global_all": [
     {
       "id": 812583,
-      "title": "利刃出鞘3",
+      "title": "利刃出鞘3：亡者归来",
       "type": "movie",
       "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2025-11-26",
       "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
       "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
@@ -257,6 +257,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
+      "id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
       "id": 1084242,
       "title": "疯狂动物城2",
       "type": "movie",
@@ -268,15 +279,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
+      "id": 1387382,
+      "title": "狩猎季",
+      "type": "movie",
+      "genreTitle": "动作•剧情•惊悚",
+      "rating": 6.5,
+      "release_date": "2025-12-05",
+      "overview": "当一位隐居的生存主义者与女儿从河中救起一名神秘的受伤女子后，他们便陷入了一场充满暴力与复仇的致命漩涡，被迫直面残暴的罪犯以求生存。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tTXN5mlKm4W5mdqgo8Y6mo2Bz0t.jpg"
+    },
+    {
+      "id": 240459,
+      "title": "斯巴达克斯：亚述家族",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，印第安纳州的一个小男孩莫名其妙地消失了。当他的朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+      "genreTitle": "剧情•动作冒险",
+      "rating": 6.1,
+      "release_date": "2025-12-05",
+      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
     },
     {
       "id": 225171,
@@ -290,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 240459,
-      "title": "斯巴达克斯：亚述家族",
-      "type": "tv",
-      "genreTitle": "剧情•动作冒险",
-      "rating": 6.0,
-      "release_date": "2025-12-05",
-      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
-    },
-    {
       "id": 1069905,
       "title": "影星杰·凯利",
       "type": "movie",
@@ -310,6 +321,17 @@
       "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
       "poster_url": "https://image.tmdb.org/t/p/original/9f4fOKEc7uPodf7m4yM4o7Ub3Zh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/82dSryKpmn0AxeQBAUJNvn0RmOG.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达3",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 5.4,
+      "release_date": "2025-12-17",
+      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
     },
     {
       "id": 200875,
@@ -327,33 +349,22 @@
       "title": "人来宝",
       "type": "tv",
       "genreTitle": "喜剧•家庭",
-      "rating": 7.3,
+      "rating": 7.5,
       "release_date": "2025-12-11",
       "overview": "特雷弗·宾利（罗温·艾金森 饰）上次在《人来蜂》中照看高科技宅邸，却因为恼人的虫横加捣乱，酿成巨大灾难，这次离开了帮人看家的高压世界来担任学校工友，享受安静一些的生活。此时出现一个高薪工作机会，要他在圣诞期间到奢华伦敦顶楼公寓顾家，这样的诱惑实在令人难以抗拒。没想到学期的最后一天，居然没人来接学校圣诞剧的耶稣宝宝，特雷弗多了一位出乎意料的小同伴。这下他得照看顶楼公寓，还得照顾小宝宝，特雷弗还能享受他期待的平静圣诞吗？又或者这个佳节会就此陷入大乱？",
       "poster_url": "https://image.tmdb.org/t/p/original/xNmFwRkCZNPoHB8CXeBmAt5QMtk.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3EcomsrV59IFSfA2ZlKeMhagyfC.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达3",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 5.4,
-      "release_date": "2025-12-17",
-      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
-    },
-    {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.4,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+      "id": 259886,
+      "title": "陆海之战",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.3,
+      "release_date": "2025-12-07",
+      "overview": "UNIT-即联合情报特遣部队，在联合国主持下运作的独立情报组织。在隐藏于深海之中的古老生物浮出水面之后，UNIT以及目前的掌门人凯特·莱斯布里奇·斯图尔特必须阻止这群曾经称霸古地球的远古生物卷土重来引发全球性危机。同时在陆地与浪潮的黑暗深处，Sea Salt和Barclay之间的结盟也将在这场史无前例的霸主之战中得到挑战。该剧为《神秘博士》于2005年重启后推出的第四部衍生剧。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fmlam3xNaZOx9XJTo5SoQctkwOv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/syXtlr03vW3yLcTmcyazwMTwGLh.jpg"
     },
     {
       "id": 533533,
@@ -367,15 +378,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
-      "id": 701387,
-      "title": "拯救地球",
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
       "type": "movie",
-      "genreTitle": "科幻•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-10-23",
-      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.4,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 7.3,
+      "release_date": "2023-12-19",
+      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
     },
     {
       "id": 1033148,
@@ -389,11 +411,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zYCqHKTNeer6B5aJm5qJHlPnmU.jpg"
     },
     {
+      "id": 701387,
+      "title": "拯救地球",
+      "type": "movie",
+      "genreTitle": "科幻•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-10-23",
+      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+    },
+    {
       "id": 1242898,
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.3,
+      "rating": 7.4,
       "release_date": "2025-11-05",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
@@ -409,39 +442,6 @@
       "overview": "安娜和拉斯分手后，他们的爱犬莫福变得无精打采，两人不得不开始了一段堪称世上最尴尬的共同养育生活。为了帮助莫福打起精神，拉斯决定带它去佛罗里达州来一场急需的度假，却意外遇到了突然出现的安娜。随着莫福逐渐恢复活力，修复爱犬破碎心灵的过程竟意外地重燃了两人之间久违的火花。",
       "poster_url": "https://image.tmdb.org/t/p/original/84ltW2FwGaLMbRvAnKNlTFlceov.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/awMxonJX6Wbuvpe5OsVf3QAhaiX.jpg"
-    },
-    {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 7.3,
-      "release_date": "2023-12-19",
-      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/viTq6Rfc3Hmv7tCK0jn0P28Lorr.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
     }
   ],
   "popular_movies": [
@@ -457,11 +457,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
+      "id": 798645,
+      "title": "猎杀游戏",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•科幻",
+      "rating": 6.7,
+      "release_date": "2025-12-05",
+      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gYTFq8qMd5B6M554BkfdOcEsA1c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6fDGScbxWTsi6st22tKQRw7dkka.jpg"
+    },
+    {
       "id": 533533,
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.5,
+      "rating": 6.6,
       "release_date": "2025-10-17",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
@@ -483,7 +494,7 @@
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.4,
+      "rating": 6.3,
       "release_date": "2025-12-03",
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
@@ -505,7 +516,7 @@
       "title": "狩猎季",
       "type": "movie",
       "genreTitle": "动作•剧情•惊悚",
-      "rating": 6.0,
+      "rating": 6.5,
       "release_date": "2025-12-05",
       "overview": "当一位隐居的生存主义者与女儿从河中救起一名神秘的受伤女子后，他们便陷入了一场充满暴力与复仇的致命漩涡，被迫直面残暴的罪犯以求生存。",
       "poster_url": "https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
@@ -534,6 +545,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/36B8DfGZcp2Pwsdbnzqpk4w7pbc.jpg"
     },
     {
+      "id": 812583,
+      "title": "利刃出鞘3：亡者归来",
+      "type": "movie",
+      "genreTitle": "惊悚•悬疑•喜剧",
+      "rating": 7.4,
+      "release_date": "2025-11-26",
+      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
+    },
+    {
       "id": 1149167,
       "title": "套现2：大赌客",
       "type": "movie",
@@ -549,22 +571,11 @@
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.3,
+      "rating": 7.4,
       "release_date": "2025-11-07",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
-    },
-    {
-      "id": 798645,
-      "title": "猎杀游戏",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•科幻",
-      "rating": 6.6,
-      "release_date": "2025-12-05",
-      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gYTFq8qMd5B6M554BkfdOcEsA1c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6fDGScbxWTsi6st22tKQRw7dkka.jpg"
     },
     {
       "id": 1033462,
@@ -598,17 +609,6 @@
       "overview": "讲述了一支前秘密行动小组重聚，实施一场孤注一掷的抢劫行动，以拯救一名八岁女孩的生命。",
       "poster_url": "https://image.tmdb.org/t/p/original/ckuhePV0ufQwr3jJkARvF6zu4Sx.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/nv6VRUyrLavYhMhDJ8RWy6Ds2my.jpg"
-    },
-    {
-      "id": 785663,
-      "title": "老亨利",
-      "type": "movie",
-      "genreTitle": "西部•动作•剧情",
-      "rating": 7.3,
-      "release_date": "2021-10-01",
-      "overview": "故事发生在1906年的俄克拉荷马州，亨利（蒂姆·布雷克·尼尔森 Tim Blake Nelson 饰）带着儿子怀亚特（加文·刘易斯 Gavin Lewis 饰）来到这里定居，开始经营农场。早在十年前，亨利的妻子就去世了，这些年来，亨利一直希望自己能够教会怀亚特如何自食其力，亨利的姐夫艾尔（特雷斯·阿德金斯 Trace Adkins 饰）是这个家庭唯一的帮手。  　　一天，亨利在路边遇见了一个受伤的男人科里（斯科特·黑兹 Scott Haze 饰），和他在一起的，还有一把枪和一袋子钱。亨利将科里带回了家，藏起了武器和钱，但很快，他就知道自己惹了麻烦，因为一群自称是警察的人来到了亨利家要讲科里带走，他们正在调查一宗银行抢劫案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3viF5FJZKawgqpMfYOGE9uGocGu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6Jx7dM7HSdnkeChcvbaRCYYkMuK.jpg"
     }
   ]
 }
