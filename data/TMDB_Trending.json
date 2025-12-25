@@ -1,16 +1,27 @@
 {
-  "last_updated": "2025-12-25 10:03:49",
+  "last_updated": "2025-12-25 20:52:49",
   "today_global": [
     {
-      "id": 1259102,
-      "title": "永恒站",
+      "id": 1435092,
+      "title": "再见六月",
       "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
-      "release_date": "2025-11-26",
-      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，他必须在一周内决定往哪里去。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
-      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rIbbUGu2akkGzMXYP5qz7Ur8Swn.jpg"
+      "genreTitle": "剧情",
+      "rating": 7.0,
+      "release_date": "2025-12-12",
+      "overview": "圣诞节前夕，母亲的健康突然出状况，让四名成年子女和他们令人头痛的父亲慌了手脚，面对可能即将发生的失去，家庭气氛也混乱失衡。但聪明的母亲六月处变不惊，以犀利的幽默、坦率的态度和丰沛的爱，安排好自己的人生谢幕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cdYF0lD0S9QYIA5GTMmJsGEoaOX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg"
+    },
+    {
+      "id": 246473,
+      "title": "韩国制造",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 8.0,
+      "release_date": "2025-12-24",
+      "overview": "1970年代的韩国，决心要攀上财富与权力顶峰的白冀兑，过着双重身份的人生，白天是中央情报部课长，晚上则成了危险的生意人。他意志坚决且势不可挡，却碰上一名不屈不挠、不惜一切代价也要扳倒他的正义检察官张健荣。二人之间不断针锋相对，却意外被卷入重大事件。在动荡的时代下，亦敌亦友的他们，又将如何面对这场影响着未来的人生事件？",
+      "poster_url": "https://image.tmdb.org/t/p/original/d2HIxRHlBRVyL74e24oXDeuZq3N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eSeBxsK4r6OWtqQ9m5ImhEZQSV3.jpg"
     },
     {
       "id": 225171,
@@ -24,26 +35,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
+      "id": 1259102,
+      "title": "永恒站",
       "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
-    },
-    {
-      "id": 1435092,
-      "title": "再见六月",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.3,
-      "release_date": "2025-12-12",
-      "overview": "圣诞节前夕，母亲的健康突然出状况，让四名成年子女和他们令人头痛的父亲慌了手脚，面对可能即将发生的失去，家庭气氛也混乱失衡。但聪明的母亲六月处变不惊，以犀利的幽默、坦率的态度和丰沛的爱，安排好自己的人生谢幕。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.0,
+      "release_date": "2025-11-26",
+      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，他必须在一周内决定往哪里去。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rIbbUGu2akkGzMXYP5qz7Ur8Swn.jpg"
     },
     {
       "id": 106379,
@@ -57,15 +57,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg"
     },
     {
-      "id": 246473,
-      "title": "韩国制造",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 8.0,
-      "release_date": "2025-12-24",
-      "overview": "1970年代的韩国，决心要攀上财富与权力顶峰的白冀兑，过着双重身份的人生，白天是中央情报部课长，晚上则成了危险的生意人。他意志坚决且势不可挡，却碰上一名不屈不挠、不惜一切代价也要扳倒他的正义检察官张健荣。二人之间不断针锋相对，却意外被卷入重大事件。在动荡的时代下，亦敌亦友的他们，又将如何面对这场影响着未来的人生事件？",
-      "poster_url": "https://image.tmdb.org/t/p/original/d2HIxRHlBRVyL74e24oXDeuZq3N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg"
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5eVDG1Jkt59mCadrobDxTiolQZ.jpg"
     },
     {
       "id": 66732,
@@ -79,11 +79,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
+      "id": 259537,
+      "title": "剑来",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.8,
+      "release_date": "2024-08-15",
+      "overview": "大千世界，无奇不有。 骊珠洞天中本该有大气运的贫寒少年，因为本命瓷碎裂的缘故，使得机缘临身却难以捉住。基于此，众多大佬纷纷以少年为焦点进行布局，使得少年身边的朋友获得大机缘，而少年却置身风口浪尖之上…",
+      "poster_url": "https://image.tmdb.org/t/p/original/cO6I2iwcTns4SueRM5HyL4fpiX9.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sttw00fFsD9sKprS6VrgJLMlMmz.jpg"
+    },
+    {
       "id": 1228246,
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.3,
+      "rating": 6.5,
       "release_date": "2025-12-03",
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
@@ -112,17 +123,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
     },
     {
-      "id": 1234731,
-      "title": "新狂蟒之灾",
-      "type": "movie",
-      "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.5,
-      "release_date": "2025-12-24",
-      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
-    },
-    {
       "id": 1084242,
       "title": "疯狂动物城2",
       "type": "movie",
@@ -132,6 +132,39 @@
       "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 1234731,
+      "title": "新狂蟒之灾",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 6.6,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
+    },
+    {
+      "id": 798645,
+      "title": "猎杀游戏",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•科幻",
+      "rating": 6.8,
+      "release_date": "2025-11-11",
+      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 1230368,
@@ -149,22 +182,11 @@
       "title": "巨洪",
       "type": "movie",
       "genreTitle": "科幻•冒险•剧情",
-      "rating": 6.0,
+      "rating": 6.1,
       "release_date": "2025-09-18",
       "overview": "影片以地球的最后一天为背景，一场突如其来的巨洪将整座城市淹没，幸存者只能被迫困在逐步下沉的高层公寓，寻找最后的逃生路。",
       "poster_url": "https://image.tmdb.org/t/p/original/8eKL8kVKCtnk8hicXiMpClBAkGS.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/xAzwi0Du6r2x2n0ELyzgwJYpjs7.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 211089,
@@ -189,37 +211,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
-      "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.9,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
       "id": 200875,
       "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
       "genreTitle": "剧情•悬疑",
-      "rating": 8.3,
+      "rating": 8.2,
       "release_date": "2025-10-26",
       "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
       "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
-    },
-    {
-      "id": 1223601,
-      "title": "永生战士2",
-      "type": "movie",
-      "genreTitle": "动作•战争",
-      "rating": 7.5,
-      "release_date": "2025-10-21",
-      "overview": "一名男子回到故乡，准备拆除家人在战争中遇害的房屋，另寻他处重建。凶手是一名红军指挥官，他找到了他，一场残酷的跨国追捕由此展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fId4eJY2ThJuUf2WGTXQuOFLiBi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/s2FPNjxU9LVNzjveW58yEulhEEH.jpg"
     }
   ],
   "week_global_all": [
@@ -250,11 +250,22 @@
       "title": "巨洪",
       "type": "movie",
       "genreTitle": "科幻•冒险•剧情",
-      "rating": 6.0,
+      "rating": 6.1,
       "release_date": "2025-09-18",
       "overview": "影片以地球的最后一天为背景，一场突如其来的巨洪将整座城市淹没，幸存者只能被迫困在逐步下沉的高层公寓，寻找最后的逃生路。",
       "poster_url": "https://image.tmdb.org/t/p/original/8eKL8kVKCtnk8hicXiMpClBAkGS.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/xAzwi0Du6r2x2n0ELyzgwJYpjs7.jpg"
+    },
+    {
+      "id": 812583,
+      "title": "利刃出鞘3：亡者归来",
+      "type": "movie",
+      "genreTitle": "惊悚•悬疑•喜剧",
+      "rating": 7.2,
+      "release_date": "2025-11-26",
+      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
     },
     {
       "id": 225171,
@@ -301,15 +312,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/s2FPNjxU9LVNzjveW58yEulhEEH.jpg"
     },
     {
-      "id": 812583,
-      "title": "利刃出鞘3：亡者归来",
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
       "type": "movie",
-      "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.2,
-      "release_date": "2025-11-26",
-      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.5,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
       "id": 1084242,
@@ -323,59 +334,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
-      "id": 798645,
-      "title": "猎杀游戏",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•科幻",
-      "rating": 6.8,
-      "release_date": "2025-11-11",
-      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
-    },
-    {
       "id": 200875,
       "title": "小丑回魂：欢迎来到德里镇",
       "type": "tv",
       "genreTitle": "剧情•悬疑",
-      "rating": 8.3,
+      "rating": 8.2,
       "release_date": "2025-10-26",
       "overview": "《小丑回魂》系列前传剧集，故事背景设定在1962年，比原版电影的时间线早了27年，深入探索了恐怖小丑潘尼怀斯的起源以及德里镇背后循环发生的恐怖事件。",
       "poster_url": "https://image.tmdb.org/t/p/original/kk0hdltG1EkGNRV8noegSErSZKQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.3,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
-    },
-    {
       "id": 1259102,
       "title": "永恒站",
       "type": "movie",
       "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2025-11-26",
       "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，他必须在一周内决定往哪里去。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
       "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/rIbbUGu2akkGzMXYP5qz7Ur8Swn.jpg"
-    },
-    {
-      "id": 211089,
-      "title": "唐朝诡事录",
-      "type": "tv",
-      "genreTitle": "悬疑•犯罪•剧情",
-      "rating": 8.3,
-      "release_date": "2022-09-27",
-      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
     },
     {
       "id": 7451,
@@ -389,48 +367,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
+      "id": 211089,
+      "title": "唐朝诡事录",
+      "type": "tv",
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.3,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+    },
+    {
+      "id": 798645,
+      "title": "猎杀游戏",
       "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.9,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+      "genreTitle": "动作•惊悚•科幻",
+      "rating": 6.8,
+      "release_date": "2025-11-11",
+      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
+    },
+    {
+      "id": 240459,
+      "title": "斯巴达克斯：亚述家族",
+      "type": "tv",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 6.2,
+      "release_date": "2025-12-05",
+      "overview": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fp1aWbpiIUYR0p6QXiv5TdA4RZS.jpg"
     },
     {
       "id": 1234731,
       "title": "新狂蟒之灾",
       "type": "movie",
       "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.5,
+      "rating": 6.6,
       "release_date": "2025-12-24",
       "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
       "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
     },
     {
-      "id": 1214931,
-      "title": "纽伦堡",
+      "id": 1368166,
+      "title": "家弑服务",
       "type": "movie",
-      "genreTitle": "历史•剧情",
-      "rating": 7.2,
-      "release_date": "2025-11-06",
-      "overview": "　　改编自《纳粹与精神病医生》，聚焦二战结尾，纽伦堡法庭对德国劳工阵线领导人罗伯特·莱伊的审判(其后来在狱中自杀)，以被委任来对纳粹头领们进行评估的美军精神科医生Douglas Kelley的视角展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8l88dZ7XwwiJo0qLJ80RiO8pw5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3GydSc8iIdhEgi9swE3FIzPFPm8.jpg"
+      "genreTitle": "悬疑•惊悚",
+      "rating": 8.0,
+      "release_date": "2025-12-18",
+      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 157741,
-      "title": "石油天王",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.1,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
       "id": 82596,
@@ -505,7 +505,7 @@
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2025-12-03",
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
@@ -571,7 +571,7 @@
       "title": "反悔枪手",
       "type": "movie",
       "genreTitle": "动作•惊悚",
-      "rating": 6.2,
+      "rating": 6.3,
       "release_date": "2025-07-11",
       "overview": "讲述了一名冷酷的杀手在死里逃生后，背叛了自己的帮派，想要寻求救赎，却反而成为了被追杀的目标。",
       "poster_url": "https://image.tmdb.org/t/p/original/x1DP59BiDTm4FsnVFc0lWSeNsA5.jpg",
@@ -604,7 +604,7 @@
       "title": "勇者时刻",
       "type": "movie",
       "genreTitle": "喜剧•动作",
-      "rating": 7.8,
+      "rating": 7.9,
       "release_date": "2025-12-18",
       "overview": "接受社区服务处罚的精神分析师帮助因不忠而心碎的调查员。他们将一同面对危险，并发现重新来过的机会。",
       "poster_url": "https://image.tmdb.org/t/p/original/8ZoDrAbrsSLDVjXsyvOlwjJakUK.jpg",
