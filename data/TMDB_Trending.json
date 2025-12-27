@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27 10:00:38",
+  "last_updated": "2025-12-27 20:50:06",
   "today_global": [
     {
       "id": 66732,
@@ -17,7 +17,7 @@
       "title": "现金英雄",
       "type": "tv",
       "genreTitle": "动作冒险•剧情",
-      "rating": 8.0,
+      "rating": 7.6,
       "release_date": "2025-12-26",
       "overview": "讲述平凡公务员姜常雄（李俊昊 饰）获得与金钱数量成正比的超能力，并用自己的薪水拯救世界，与超级英雄们共同守护普通人日常生活的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/mfXqqVNMHf37YpjYEw4ABPLjkm7.jpg",
@@ -35,17 +35,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy•喜剧",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
-    },
-    {
       "id": 1084242,
       "title": "疯狂动物城2",
       "type": "movie",
@@ -55,6 +44,28 @@
       "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+    },
+    {
+      "id": 1259102,
+      "title": "永恒站",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.0,
+      "release_date": "2025-11-26",
+      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
     },
     {
       "id": 106379,
@@ -68,26 +79,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 1259102,
-      "title": "永恒站",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 6.9,
-      "release_date": "2025-11-26",
-      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
-      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rIbbUGu2akkGzMXYP5qz7Ur8Swn.jpg"
-    },
-    {
       "id": 1234731,
       "title": "新狂蟒之灾",
       "type": "movie",
       "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.5,
+      "rating": 6.7,
       "release_date": "2025-12-24",
       "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
       "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.6,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
       "id": 812583,
@@ -101,15 +123,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1175174,
+      "title": "法克汉姆庄园",
+      "type": "movie",
+      "genreTitle": "喜剧•历史",
+      "rating": 7.8,
+      "release_date": "2025-12-01",
+      "overview": "　　本片对传统的时期剧如《唐顿庄园》和《高斯福德庄园》进行戏谑。这部作品被形容为“延续了《裸枪》系列和《空前绝后满天飞》等经典笑料不断的恶搞喜剧的传统”。 费恩斯·提芬饰演一名新来的搬运工，他与英国一个显赫家族的小女儿（麦肯齐）展开了一段出人意料的关系。同时，达文波特家族内部矛盾不断爆发，由达文波特勋爵和勋爵夫人（沃特斯顿）领导的家族还要面对长女（莱尔德）和她不靠谱的堂弟婚礼惨败的巨大尴尬。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9vNplVaogVEWVIjmYs6aZPKubCC.jpg"
+    },
+    {
+      "id": 301507,
+      "title": "巅峰对决",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2025-11-28",
+      "overview": "该剧以职业冰球联赛为背景，改编自Rachel Reid的同名小说，讲述了肖恩·霍兰德与伊利亚·罗扎诺夫长达八年的复杂关系；两人自17岁相识后，在赛场屡次交锋对抗，私下却因隐秘情愫陷入纠结，最终不得不在竞技荣耀与禁忌情感间作出抉择的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7PesAhRRgoGrDlCYBzWAkF4WR37.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vqJ60vNYuaNWAuYuJzT3Zp5Yxv9.jpg"
     },
     {
       "id": 1317288,
@@ -123,37 +167,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
     },
     {
-      "id": 301507,
-      "title": "巅峰对决",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.6,
-      "release_date": "2025-11-28",
-      "overview": "该剧以职业冰球联赛为背景，改编自Rachel Reid的同名小说，讲述了肖恩·霍兰德与伊利亚·罗扎诺夫长达八年的复杂关系；两人自17岁相识后，在赛场屡次交锋对抗，私下却因隐秘情愫陷入纠结，最终不得不在竞技荣耀与禁忌情感间作出抉择的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7PesAhRRgoGrDlCYBzWAkF4WR37.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vqJ60vNYuaNWAuYuJzT3Zp5Yxv9.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 425274,
+      "title": "惊天魔盗团3",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 1435092,
-      "title": "再见六月",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 6.9,
-      "release_date": "2025-12-12",
-      "overview": "圣诞节前夕，母亲的健康突然出状况，让四名成年子女和他们令人头痛的父亲慌了手脚，面对可能即将发生的失去，家庭气氛也混乱失衡。但聪明的母亲六月处变不惊，以犀利的幽默、坦率的态度和丰沛的爱，安排好自己的人生谢幕。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cdYF0lD0S9QYIA5GTMmJsGEoaOX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg"
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     },
     {
       "id": 1214931,
@@ -167,73 +189,40 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3GydSc8iIdhEgi9swE3FIzPFPm8.jpg"
     },
     {
-      "id": 1175174,
-      "title": "法克汉姆庄园",
+      "id": 1435092,
+      "title": "再见六月",
       "type": "movie",
-      "genreTitle": "喜剧•历史",
-      "rating": 7.3,
-      "release_date": "2025-12-01",
-      "overview": "　　本片对传统的时期剧如《唐顿庄园》和《高斯福德庄园》进行戏谑。这部作品被形容为“延续了《裸枪》系列和《空前绝后满天飞》等经典笑料不断的恶搞喜剧的传统”。 费恩斯·提芬饰演一名新来的搬运工，他与英国一个显赫家族的小女儿（麦肯齐）展开了一段出人意料的关系。同时，达文波特家族内部矛盾不断爆发，由达文波特勋爵和勋爵夫人（沃特斯顿）领导的家族还要面对长女（莱尔德）和她不靠谱的堂弟婚礼惨败的巨大尴尬。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9vNplVaogVEWVIjmYs6aZPKubCC.jpg"
+      "genreTitle": "剧情",
+      "rating": 6.9,
+      "release_date": "2025-12-12",
+      "overview": "圣诞节前夕，母亲的健康突然出状况，让四名成年子女和他们令人头痛的父亲慌了手脚，面对可能即将发生的失去，家庭气氛也混乱失衡。但聪明的母亲六月处变不惊，以犀利的幽默、坦率的态度和丰沛的爱，安排好自己的人生谢幕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cdYF0lD0S9QYIA5GTMmJsGEoaOX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg"
     },
     {
-      "id": 425274,
-      "title": "惊天魔盗团3",
+      "id": 991494,
+      "title": "海绵宝宝：深海大冒险",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•悬疑",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 6.9,
+      "release_date": "2025-12-16",
+      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
+      "id": 1054867,
+      "title": "一战再战",
       "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.8,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
-      "id": 798645,
-      "title": "猎杀游戏",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•科幻",
-      "rating": 6.8,
-      "release_date": "2025-11-11",
-      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
-    },
-    {
-      "id": 982843,
-      "title": "巨洪",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•剧情",
-      "rating": 6.1,
-      "release_date": "2025-09-18",
-      "overview": "影片以地球的最后一天为背景，一场突如其来的巨洪将整座城市淹没，幸存者只能被迫困在逐步下沉的高层公寓，寻找最后的逃生路。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8eKL8kVKCtnk8hicXiMpClBAkGS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xAzwi0Du6r2x2n0ELyzgwJYpjs7.jpg"
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     }
   ],
   "week_global_all": [
-    {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
-    },
     {
       "id": 66732,
       "title": "Stranger Things",
@@ -246,10 +235,21 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy•喜剧",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
       "rating": 8.0,
       "release_date": "2025-11-06",
       "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
@@ -268,15 +268,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 812583,
-      "title": "利刃出鞘3：亡者归来",
+      "id": 1084242,
+      "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.2,
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
       "release_date": "2025-11-26",
-      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 1259102,
+      "title": "永恒站",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.0,
+      "release_date": "2025-11-26",
+      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
     },
     {
       "id": 982843,
@@ -290,6 +301,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xAzwi0Du6r2x2n0ELyzgwJYpjs7.jpg"
     },
     {
+      "id": 812583,
+      "title": "利刃出鞘3：亡者归来",
+      "type": "movie",
+      "genreTitle": "惊悚•悬疑•喜剧",
+      "rating": 7.2,
+      "release_date": "2025-11-26",
+      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q2sNZ2jE9eSqdyEaZIgXdMbttk8.jpg"
+    },
+    {
       "id": 1228246,
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
@@ -299,17 +321,6 @@
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
-    },
-    {
-      "id": 1259102,
-      "title": "永恒站",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 6.9,
-      "release_date": "2025-11-26",
-      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
-      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rIbbUGu2akkGzMXYP5qz7Ur8Swn.jpg"
     },
     {
       "id": 425274,
@@ -323,28 +334,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     },
     {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
-    },
-    {
-      "id": 1234731,
-      "title": "新狂蟒之灾",
-      "type": "movie",
-      "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.5,
-      "release_date": "2025-12-24",
-      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -354,6 +343,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1234731,
+      "title": "新狂蟒之灾",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 6.7,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
     },
     {
       "id": 1223601,
@@ -367,17 +367,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/s2FPNjxU9LVNzjveW58yEulhEEH.jpg"
     },
     {
-      "id": 798645,
-      "title": "猎杀游戏",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•科幻",
-      "rating": 6.8,
-      "release_date": "2025-11-11",
-      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
-    },
-    {
       "id": 1214931,
       "title": "纽伦堡",
       "type": "movie",
@@ -387,6 +376,39 @@
       "overview": "　　改编自《纳粹与精神病医生》，聚焦二战结尾，纽伦堡法庭对德国劳工阵线领导人罗伯特·莱伊的审判(其后来在狱中自杀)，以被委任来对纳粹头领们进行评估的美军精神科医生Douglas Kelley的视角展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/8l88dZ7XwwiJo0qLJ80RiO8pw5A.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3GydSc8iIdhEgi9swE3FIzPFPm8.jpg"
+    },
+    {
+      "id": 308508,
+      "title": "唐诡奇谭",
+      "type": "tv",
+      "genreTitle": "悬疑•动作冒险",
+      "rating": 7.2,
+      "release_date": "2025-12-17",
+      "overview": "盛唐初年，气象万千；夜魅长安，业孽浮屠。光怪陆离之下尽是怪异之事，血雨腥风间暗藏猎杀危局。盛世奇谭，诡案揭幕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ztatj4WzKwdmtJdGT7R9jthwSXY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3gWxPUcEY5e6ADTypGX3bSmy8va.jpg"
+    },
+    {
+      "id": 211089,
+      "title": "唐朝诡事录",
+      "type": "tv",
+      "genreTitle": "悬疑•犯罪•剧情",
+      "rating": 8.3,
+      "release_date": "2022-09-27",
+      "overview": "该剧改编自作家魏风华同名原著，讲述了在繁华的大唐盛世之下发生的一系列奇闻异事，长安金吾卫中郎将卢凌风将与狄公亲传弟子苏无名携手共破诡案，守护苍生，担负起挽救社稷于危急的使命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gzWIS9LsH3DrrA6cHPnXkwOIwSJ.jpg"
+    },
+    {
+      "id": 798645,
+      "title": "猎杀游戏",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•科幻",
+      "rating": 6.8,
+      "release_date": "2025-11-11",
+      "overview": "在近未来的反乌托邦社会，一档电视真人秀《猎杀游戏》以残酷的生存竞赛霸占收视榜首。参赛者必须在职业杀手的猎杀下存活30天，其中的一举一动皆被实时直播给公众，每多活一天便能累积更高额奖金。本·理查兹为拯救重病女儿而孤注一掷，以“最后希望”的身份踏入这场死亡游戏。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vxleCpULOzkJgszhQWnffPXXXu2.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sV9JUF7X1HrhOJYgckqPknP2ae1.jpg"
     },
     {
       "id": 1368166,
@@ -411,33 +433,11 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/oG5ABwXg9GBQGkG3oPrl5XlcjbH.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.0,
-      "release_date": "2025-12-19",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 301507,
-      "title": "巅峰对决",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.6,
-      "release_date": "2025-11-28",
-      "overview": "该剧以职业冰球联赛为背景，改编自Rachel Reid的同名小说，讲述了肖恩·霍兰德与伊利亚·罗扎诺夫长达八年的复杂关系；两人自17岁相识后，在赛场屡次交锋对抗，私下却因隐秘情愫陷入纠结，最终不得不在竞技荣耀与禁忌情感间作出抉择的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7PesAhRRgoGrDlCYBzWAkF4WR37.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vqJ60vNYuaNWAuYuJzT3Zp5Yxv9.jpg"
-    },
-    {
       "id": 238458,
       "title": "现金英雄",
       "type": "tv",
       "genreTitle": "动作冒险•剧情",
-      "rating": 8.0,
+      "rating": 7.6,
       "release_date": "2025-12-26",
       "overview": "讲述平凡公务员姜常雄（李俊昊 饰）获得与金钱数量成正比的超能力，并用自己的薪水拯救世界，与超级英雄们共同守护普通人日常生活的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/mfXqqVNMHf37YpjYEw4ABPLjkm7.jpg",
