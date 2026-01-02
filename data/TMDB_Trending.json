@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01 20:53:57",
+  "last_updated": "2026-01-02 10:06:24",
   "today_global": [
     {
       "id": 66732,
@@ -13,6 +13,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
+      "id": 244244,
+      "title": "危险追逃",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.0,
+      "release_date": "2026-01-01",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg"
+    },
+    {
       "id": 967941,
       "title": "魔法坏女巫2",
       "type": "movie",
@@ -22,39 +33,6 @@
       "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
       "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
-    },
-    {
-      "id": 628847,
-      "title": "青出于蓝",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.5,
-      "release_date": "2025-11-14",
-      "overview": "一名美国缉毒局卧底特工和他的搭档与一群大胆且令人意想不到的窃贼展开了一场猫捉老鼠的游戏——这些窃贼竟是他们叛逆的青少年子女，这些孩子开始从一个危险的贩毒集团那里行窃，还运用了他们父母的策略和绝密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fAjYaSd9DzSaPMa5SAARW4jG1QY.jpg"
-    },
-    {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
-      "rating": 8.2,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
-    },
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 83533,
@@ -68,15 +46,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
-      "id": 1295026,
-      "title": "百米。",
+      "id": 106379,
+      "title": "辐射",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情•Sci-Fi & Fantasy",
+      "rating": 8.2,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 61859,
+      "title": "夜班经理",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑•犯罪",
+      "rating": 7.7,
+      "release_date": "2016-02-21",
+      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
+      "poster_url": "https://image.tmdb.org/t/p/original/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vWfvDESBDiXDojGoAgceRq5HFQH.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "动画•剧情",
-      "rating": 7.1,
-      "release_date": "2025-09-19",
-      "overview": "他，天生就跑得快。此外没有优于他人的地方了，但也觉得只要跑得快就足够了。得以立足于学校、成为交友的桥梁。这便是，这位少年的一切。而与他相遇的，是为了忘掉痛苦而跑步的少年。他跑得并不快，却有热情。被他的热情所感染，随后感受到了兴奋。可、这却是“异常”的开端。“100米”，让一切都变得疯狂。",
-      "poster_url": "https://image.tmdb.org/t/p/original/86XhoDE61sNqLKcuUOOXzgDxoeu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg"
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 83121,
@@ -90,70 +90,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fctgiiT7Qc7UlctSLLspVuKNglI.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
-    },
-    {
-      "id": 1311031,
-      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+      "id": 628847,
+      "title": "青出于蓝",
       "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 812583,
-      "title": "利刃出鞘3：亡者归来",
-      "type": "movie",
-      "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.2,
-      "release_date": "2025-11-26",
-      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
-    },
-    {
-      "id": 244244,
-      "title": "危险追逃",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.0,
-      "release_date": "2026-01-01",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg"
-    },
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.9,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 285166,
-      "title": "泛而不精的我被逐出了勇者队伍",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 7.0,
-      "release_date": "2026-01-04",
-      "overview": "　　“奥伦·杜勒，限你在今天内离开队伍”奥伦因队伍的需要，从剑士，转职成为了并非本职的赋予术士。这样的他在一天突然收到的是，因实力不足而开除的通知。不管是身体素质，还是能使用的魔术都是平均水平，没有什么突出的东西——。而这样的奥伦的优点是，能够将就算是凡人只要努力就能习得的技术，全部都学会——正所谓“泛而不精”。在独自开始重新活动后，奥伦从赋予术士转职回了剑士。不过，赋予术士绝对不是白当的。在勇者队伍时代培养的知识、经验，以及开发出的数个原创魔术，让奥伦成长为了强得脱离常识的剑士……？！",
-      "poster_url": "https://image.tmdb.org/t/p/original/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/swefPajdX6SMpxAdfm3qoaTyZYV.jpg"
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 6.2,
+      "release_date": "2025-11-14",
+      "overview": "一名美国缉毒局卧底特工和他的搭档与一群大胆且令人意想不到的窃贼展开了一场猫捉老鼠的游戏——这些窃贼竟是他们叛逆的青少年子女，这些孩子开始从一个危险的贩毒集团那里行窃，还运用了他们父母的策略和绝密情报。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wKNe1BonauSwiYzm3eQoHRm6OIv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fAjYaSd9DzSaPMa5SAARW4jG1QY.jpg"
     },
     {
       "id": 1368166,
@@ -167,48 +112,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1054867,
-      "title": "一战再战",
+      "id": 812583,
+      "title": "利刃出鞘3：亡者归来",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.5,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "genreTitle": "惊悚•悬疑•喜剧",
+      "rating": 7.2,
+      "release_date": "2025-11-26",
+      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
     },
     {
-      "id": 61859,
-      "title": "夜班经理",
+      "id": 225171,
+      "title": "Pluribus",
       "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.7,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hdCC5N42cXERbzIn6ED7oqTKtkq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oriIaNoqDSF0tqKdmnd2dJvF6CT.jpg"
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 7.9,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
+      "id": 1295026,
+      "title": "百米。",
+      "type": "movie",
+      "genreTitle": "动画•剧情",
       "rating": 7.3,
-      "release_date": "2023-12-19",
-      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
+      "release_date": "2025-09-19",
+      "overview": "他，天生就跑得快。此外没有优于他人的地方了，但也觉得只要跑得快就足够了。得以立足于学校、成为交友的桥梁。这便是，这位少年的一切。而与他相遇的，是为了忘掉痛苦而跑步的少年。他跑得并不快，却有热情。被他的热情所感染，随后感受到了兴奋。可、这却是“异常”的开端。“100米”，让一切都变得疯狂。",
+      "poster_url": "https://image.tmdb.org/t/p/original/86XhoDE61sNqLKcuUOOXzgDxoeu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
+      "id": 1311031,
+      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
       "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.6,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+    },
+    {
+      "id": 285166,
+      "title": "泛而不精的我被逐出了勇者队伍",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 7.0,
+      "release_date": "2026-01-04",
+      "overview": "　　“奥伦·杜勒，限你在今天内离开队伍”奥伦因队伍的需要，从剑士，转职成为了并非本职的赋予术士。这样的他在一天突然收到的是，因实力不足而开除的通知。不管是身体素质，还是能使用的魔术都是平均水平，没有什么突出的东西——。而这样的奥伦的优点是，能够将就算是凡人只要努力就能习得的技术，全部都学会——正所谓“泛而不精”。在独自开始重新活动后，奥伦从赋予术士转职回了剑士。不过，赋予术士绝对不是白当的。在勇者队伍时代培养的知识、经验，以及开发出的数个原创魔术，让奥伦成长为了强得脱离常识的剑士……？！",
+      "poster_url": "https://image.tmdb.org/t/p/original/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/swefPajdX6SMpxAdfm3qoaTyZYV.jpg"
+    },
+    {
+      "id": 290231,
+      "title": "恋爱朝九晚五",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 4.8,
+      "release_date": "2026-01-01",
+      "overview": "在一家大牌内衣公司，工作勤恳的员工与老板迷人的儿子争夺首席执行官的位子，但萌生的爱恋或许会破坏他们的竞争。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qNSFDLDaMhEvDTzOr1FOYeXopQz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qYnIUgr4zUECcpT9MZGNcdgS5bu.jpg"
     },
     {
       "id": 7451,
@@ -220,6 +198,28 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 425274,
+      "title": "惊天魔盗团3",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.6,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     }
   ],
   "week_global_all": [
@@ -261,7 +261,7 @@
       "title": "疯狂动物城2",
       "type": "movie",
       "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2025-11-26",
       "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
@@ -290,28 +290,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.9,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 1259102,
-      "title": "永恒站",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
-      "release_date": "2025-11-26",
-      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
-      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
-    },
-    {
       "id": 812583,
       "title": "利刃出鞘3：亡者归来",
       "type": "movie",
@@ -323,26 +301,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
     },
     {
-      "id": 1234731,
-      "title": "新狂蟒之灾",
+      "id": 1317288,
+      "title": "至尊马蒂",
       "type": "movie",
-      "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.7,
-      "release_date": "2025-12-24",
-      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
-    },
-    {
-      "id": 238458,
-      "title": "现金英雄",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 7.4,
-      "release_date": "2025-12-26",
-      "overview": "讲述平凡公务员姜常雄（李俊昊 饰）获得与金钱数量成正比的超能力，并用自己的薪水拯救世界，与超级英雄们共同守护普通人日常生活的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIQwZleQDWyhwGlnW1O6wUTnIiY.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mPW3sT0MKCDp8VBRhlZbLRLKQ8e.jpg"
+      "genreTitle": "剧情",
+      "rating": 7.9,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7WbCDgiBKdzqKY6FQszTL5D3Du8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
     },
     {
       "id": 1368166,
@@ -356,59 +323,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 1234731,
+      "title": "新狂蟒之灾",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 6.6,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
+      "id": 1259102,
+      "title": "永恒站",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.9,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.1,
+      "release_date": "2025-11-26",
+      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
+      "id": 238458,
+      "title": "现金英雄",
       "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
-    },
-    {
-      "id": 1311031,
-      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
+      "genreTitle": "动作冒险•剧情",
       "rating": 7.5,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "release_date": "2025-12-26",
+      "overview": "讲述平凡公务员姜常雄（李俊昊 饰）获得与金钱数量成正比的超能力，并用自己的薪水拯救世界，与超级英雄们共同守护普通人日常生活的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIQwZleQDWyhwGlnW1O6wUTnIiY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mPW3sT0MKCDp8VBRhlZbLRLKQ8e.jpg"
     },
     {
       "id": 425274,
@@ -422,15 +367,59 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     },
     {
-      "id": 1214931,
-      "title": "纽伦堡",
+      "id": 1054867,
+      "title": "一战再战",
       "type": "movie",
-      "genreTitle": "历史•剧情",
-      "rating": 7.3,
-      "release_date": "2025-11-06",
-      "overview": "　　改编自《纳粹与精神病医生》，聚焦二战结尾，纽伦堡法庭对德国劳工阵线领导人罗伯特·莱伊的审判(其后来在狱中自杀)，以被委任来对纳粹头领们进行评估的美军精神科医生Douglas Kelley的视角展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8l88dZ7XwwiJo0qLJ80RiO8pw5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3GydSc8iIdhEgi9swE3FIzPFPm8.jpg"
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.5,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.6,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+    },
+    {
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
       "id": 701387,
@@ -442,6 +431,17 @@
       "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
       "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.6,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     }
   ],
   "popular_movies": [
@@ -461,7 +461,7 @@
       "title": "巴霍巴利王：史诗",
       "type": "movie",
       "genreTitle": "动作•剧情",
-      "rating": 7.2,
+      "rating": 6.8,
       "release_date": "2025-10-29",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/4sLSorDKKDN944kWngxgQlpdDeg.jpg",
@@ -472,18 +472,29 @@
       "title": "疯狂动物城2",
       "type": "movie",
       "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2025-11-26",
       "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/vmz5Ev5dZGPltYH58wOZhPmxL7Z.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
+      "id": 1131759,
+      "title": "全知读者视角",
+      "type": "movie",
+      "genreTitle": "动作•冒险•奇幻",
+      "rating": 6.7,
+      "release_date": "2025-07-23",
+      "overview": "普通的上班族男主热爱追网漫《灭活法》，直到男主追完小说最后一话，神奇的事情发生了。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oQJG9wtXGzW6hUuyZRi7JpCJpAH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mpdT5sVQMumPcJ3rUS2cb3tOn8M.jpg"
+    },
+    {
       "id": 1228246,
       "title": "玩具熊的五夜惊魂2",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2025-12-03",
       "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
       "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
@@ -501,48 +512,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xAzwi0Du6r2x2n0ELyzgwJYpjs7.jpg"
     },
     {
-      "id": 1131759,
-      "title": "全知读者视角",
-      "type": "movie",
-      "genreTitle": "动作•冒险•奇幻",
-      "rating": 6.7,
-      "release_date": "2025-07-23",
-      "overview": "普通的上班族男主热爱追网漫《灭活法》，直到男主追完小说最后一话，神奇的事情发生了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oQJG9wtXGzW6hUuyZRi7JpCJpAH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/mpdT5sVQMumPcJ3rUS2cb3tOn8M.jpg"
-    },
-    {
-      "id": 1512623,
-      "title": "Risqué",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-08-01",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kVynMSxQK3u7dFeJG4jUqrlkQ8u.jpg"
-    },
-    {
       "id": 1247002,
       "title": "破果",
       "type": "movie",
       "genreTitle": "动作•悬疑•剧情",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2025-04-23",
       "overview": "该片根据同名小说改编，讲述工作果断的60代女莎手「爪角」碰到了一位男性总是给她打造她人生中没有的东西，然后陷入苦恼的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/gXm3vlMB1yAyzMhJkvjZyeYNxwf.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qY9e6jrT08dDigLPeopbtwsjqEa.jpg"
     },
     {
-      "id": 1439112,
-      "title": "神探忠犬：狼之城",
+      "id": 1512623,
+      "title": "Risqué",
       "type": "movie",
-      "genreTitle": "动作•惊悚•悬疑",
-      "rating": 6.8,
-      "release_date": "2025-11-13",
-      "overview": "　　杰克·罗瑟曾是一名警犬训导员，因服役期间的创伤后应激障碍（PTSD）而饱受折磨，如今他努力与家人及退役警犬伙伴过着平静安宁的生活。然而，一场残酷的暴力袭击瞬间打破了这份宁静——一个残忍无情的帮派将他们锁定为目标。为了保护所爱之人，杰克与他的新警犬搭档“阿戈斯”深入罪恶滋生的黑暗世界，在那里，他不仅要面对腐败官员、揭开危险的毒品走私网络，更要直面自己内心的恶魔。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zXuBWKfUquvBDHFngZzphb2qRUX.jpg"
+      "genreTitle": "动作•犯罪•惊悚",
+      "rating": 5.6,
+      "release_date": "2025-08-01",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kVynMSxQK3u7dFeJG4jUqrlkQ8u.jpg"
     },
     {
       "id": 425274,
@@ -554,6 +543,28 @@
       "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
       "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.6,
+      "release_date": "2025-11-14",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+    },
+    {
+      "id": 1439112,
+      "title": "神探忠犬：狼之城",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•悬疑",
+      "rating": 6.8,
+      "release_date": "2025-11-13",
+      "overview": "　　杰克·罗瑟曾是一名警犬训导员，因服役期间的创伤后应激障碍（PTSD）而饱受折磨，如今他努力与家人及退役警犬伙伴过着平静安宁的生活。然而，一场残酷的暴力袭击瞬间打破了这份宁静——一个残忍无情的帮派将他们锁定为目标。为了保护所爱之人，杰克与他的新警犬搭档“阿戈斯”深入罪恶滋生的黑暗世界，在那里，他不仅要面对腐败官员、揭开危险的毒品走私网络，更要直面自己内心的恶魔。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zXuBWKfUquvBDHFngZzphb2qRUX.jpg"
     },
     {
       "id": 755898,
@@ -576,17 +587,6 @@
       "overview": "　　讲述了在大韩民国毒品板块和调查机关之间来回穿梭，围绕震撼毒品世界的内幕“野党”展开的故事。\r 　　姜河那扮演了秘密向国家调查机关提供毒品世界信息的内幕“野党”李江秀的角色。柳海真将饰演出身底层的野心勃勃的检察官具关熙。朴解浚饰演执着的毒品调查队组长吴尚才，他抓住了一次的犯人， 将与柳海真一起形成三角格局，进一步提高剧情的紧张感。",
       "poster_url": "https://image.tmdb.org/t/p/original/jGBkmbKNZNGbLSyM3GEVmfw0lEe.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/5saFYeTrbDTEbUva5c2P5YyqKN5.jpg"
-    },
-    {
-      "id": 1311031,
-      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.6,
-      "release_date": "2025-11-14",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 1223601,
