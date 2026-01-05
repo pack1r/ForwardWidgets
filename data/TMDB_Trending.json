@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 10:22:26",
+  "last_updated": "2026-01-05 20:58:07",
   "today_global": [
     {
       "id": 66732,
@@ -24,15 +24,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
       "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
     },
     {
       "id": 967941,
@@ -46,15 +46,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
-      "id": 249907,
-      "title": "判处勇者刑 刑罚勇者9004队服刑记录",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 9.2,
-      "release_date": "2026-01-03",
-      "overview": "所谓勇者，是世间最为残酷的刑罚。犯下大罪之人被制造为“勇者”，其刑罚便是和魔王战斗。哪怕死了也会被复活起来，无法享受死亡的安宁。被判处勇者刑的前圣骑士团团长赛罗·弗巴茨，率领着由各种性格古怪之人构成的刑罚勇者部队，奔走于战斗的最前线。在残酷的战场上，赛罗与最强的生物兵器之一，剑之“女神”缇欧丽塔相遇了。“在将敌人歼灭之后，要为我献上赞赏……以及抚摸我的头。”为了活下来，以及报复陷害自己的人——赛罗与“女神”订下契约，在这令人绝望的世界中，投身于炽烈的斗争与阴谋的漩涡。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6RriaOG7kanuHjs4unVnXyvFrMv.jpg"
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
       "id": 1084242,
@@ -79,22 +79,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4OvVR0takLMEP7pKssP3QjkOtzj.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 249907,
+      "title": "判处勇者刑 刑罚勇者9004队服刑记录",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 9.2,
+      "release_date": "2026-01-03",
+      "overview": "所谓勇者，是世间最为残酷的刑罚。犯下大罪之人被制造为“勇者”，其刑罚便是和魔王战斗。哪怕死了也会被复活起来，无法享受死亡的安宁。被判处勇者刑的前圣骑士团团长赛罗·弗巴茨，率领着由各种性格古怪之人构成的刑罚勇者部队，奔走于战斗的最前线。在残酷的战场上，赛罗与最强的生物兵器之一，剑之“女神”缇欧丽塔相遇了。“在将敌人歼灭之后，要为我献上赞赏……以及抚摸我的头。”为了活下来，以及报复陷害自己的人——赛罗与“女神”订下契约，在这令人绝望的世界中，投身于炽烈的斗争与阴谋的漩涡。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6RriaOG7kanuHjs4unVnXyvFrMv.jpg"
     },
     {
       "id": 1368166,
       "title": "家弑服务",
       "type": "movie",
       "genreTitle": "悬疑•惊悚",
-      "rating": 7.4,
+      "rating": 7.3,
       "release_date": "2025-12-18",
       "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
@@ -112,59 +112,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧•惊悚",
-      "rating": 7.9,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 157741,
-      "title": "石油天王",
+      "id": 309929,
+      "title": "辉夜大小姐想让我告白 通往大人的阶梯",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
-    },
-    {
-      "id": 229858,
-      "title": "命运／奇异赝品",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 7.9,
-      "release_date": "2024-12-31",
-      "overview": "魔术师与英灵为夺取能如愿所偿的愿望机“圣杯”而展开圣杯战争。日本的第五次圣杯战争结束后的几年，在美国西部的城市雪原市被观测到有新的圣杯战争预兆，集结的魔术师与英灵…… 缺失的职阶，无法被选中的英灵，暗中涌动的国家，为战斗造起来的城市。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kJVYs2p9SlU6YRZ7pJ0fE5mog2S.jpg"
-    },
-    {
-      "id": 812583,
-      "title": "利刃出鞘3：亡者归来",
-      "type": "movie",
-      "genreTitle": "惊悚•悬疑•喜剧",
-      "rating": 7.2,
-      "release_date": "2025-11-26",
-      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
+      "genreTitle": "动画",
+      "rating": 7.5,
+      "release_date": "2025-12-31",
+      "overview": "「每一幕都让人怀念，每一件都是无可替代的重要回忆。」\n\n在汇聚了天才的精英学校——秀知院学园，\n\n在学生会中相遇的副会长四宫辉夜和学生会长白银御行。\n\n经过长时间的恋爱智斗，两人终于开始交往……\n\n岁月流逝，辉夜独自一人在房间里翻看相册。\n\n相册中陈列着她与白银以及秀知院学园伙伴们共度的点点回忆。\n\n每翻开一页，怀旧的情感便涌上心头，辉夜的回忆也随之复苏。",
+      "poster_url": "https://image.tmdb.org/t/p/original/G93qDwQc8qL9IKK5RnummB0D9I.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iROuOr74d0ydpepiQHpkd541TAk.jpg"
     },
     {
       "id": 282946,
@@ -178,48 +134,92 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXeiOUMoho7mHq4KBPAe2I46LDb.jpg"
     },
     {
-      "id": 83121,
-      "title": "辉夜大小姐想让我告白",
+      "id": 225171,
+      "title": "Pluribus",
       "type": "tv",
-      "genreTitle": "喜剧•动画",
-      "rating": 8.5,
-      "release_date": "2019-01-12",
-      "overview": "不论家世还是人品都很优秀!!将来备受期待的人才云集的秀知院学园!!在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而…… 就这样什么都没发生地过了半年!!自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态!?直到恋爱开花结果之前，尽情期待吧!!新感觉“头脑战”恋爱喜剧，开战!!",
-      "poster_url": "https://image.tmdb.org/t/p/original/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fctgiiT7Qc7UlctSLLspVuKNglI.jpg"
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 61859,
-      "title": "夜班经理",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.8,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧•惊悚",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
     },
     {
       "id": 244244,
       "title": "危险追逃",
       "type": "tv",
       "genreTitle": "剧情•悬疑",
-      "rating": 7.3,
+      "rating": 6.6,
       "release_date": "2026-01-01",
       "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/gwUmGEZT7ttPr1xeTa48olZuOgs.jpg"
     },
     {
-      "id": 628847,
-      "title": "青出于蓝",
+      "id": 157741,
+      "title": "石油天王",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2024-11-17",
+      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+    },
+    {
+      "id": 812583,
+      "title": "利刃出鞘3：亡者归来",
       "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.2,
-      "release_date": "2025-11-14",
-      "overview": "一名美国缉毒局卧底特工和他的搭档与一群大胆且令人意想不到的窃贼展开了一场猫捉老鼠的游戏——这些窃贼竟是他们叛逆的青少年子女，这些孩子开始从一个危险的贩毒集团那里行窃，还运用了他们父母的策略和绝密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wKNe1BonauSwiYzm3eQoHRm6OIv.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fAjYaSd9DzSaPMa5SAARW4jG1QY.jpg"
+      "genreTitle": "惊悚•悬疑•喜剧",
+      "rating": 7.2,
+      "release_date": "2025-11-26",
+      "overview": "侦探伯努瓦·布兰克与一名热忱的年轻神父联手，在有着黑暗历史的小镇教会里调查一桩手段完美的罪案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nlQulJ98z4hyCVlIxuAYrNdpyPg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
+    },
+    {
+      "id": 305163,
+      "title": "打工仔的拷问日常",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
+      "rating": 0.0,
+      "release_date": "2026-01-05",
+      "overview": "　　这里是一个拷问合法化的世界。在众多\"拷问承包公司\"中，\"Spiritus株式会社\"是业界顶尖的良心企业，专门以恶人为对象。在此工作的有四名打工仔：无所不能、与谁都能和睦相处的王牌前辈·赛罗；众人憧憬的拷问界传奇·时宇；以及备受期待的新人打工仔——可爱又努力的米克，和认真善良的大学生·休。他们在温馨的职场中，今天也轻松愉快地一同完成工作。此外还有清道夫、清洁工……再加上杀手！？各路欢乐又可靠的专业人士纷纷登场。与个性十足的伙伴们共度的每一天，意外令人感到舒适惬意——略显黑暗的工作喜剧，开工啦☆",
+      "poster_url": "https://image.tmdb.org/t/p/original/3bnxhdmtqZ8TiVYaOlobjk1s3J8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fhESapQOE9S0WeVz7llWuPpnWMk.jpg"
+    },
+    {
+      "id": 281161,
+      "title": "贵族转生 ～得天眷顾一出生就获得最强力量～",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 6.0,
+      "release_date": "2026-01-08",
+      "overview": "　转生为最强贵族，在异世界无双！！\n\n　　诺亚是有着生为皇帝第十三个儿子这种娘胎里带出来的地位外挂，加之天生等级就是∞，加之，有着能够把追随自己的人呢的技能加为自己的技能这一开挂能力的世界最强6岁小孩。\n\n　　因为他的皇位继承顺序很靠后，所以在自己的领地里随心所欲地生活着。\n\n　　不过，公平聪慧的诺亚，在年少的6岁时，就帮助了要被卖掉的女仆及被威胁的歌姬，更是成功让水之魔剑利维坦追随了自己。在每天自由地生活时就将最强的力量，最强的部下纳入手中。\n\n　　就在这时，决定要与迄今为止的顺序及等级无关，而是从王子当中“公平地”决出皇位继承者。\n\n　　有着满溢智慧和开挂技能的最强贵族诺亚率领部下奔走于世界的异世界贵族转生奇幻故事！！",
+      "poster_url": "https://image.tmdb.org/t/p/original/hNzGfrWuofXtorimdZMI1musY8H.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7fTVryWMrAFgsdlFIUHI4E6oZlE.jpg"
     }
   ],
   "week_global_all": [
@@ -268,17 +268,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
-    },
-    {
       "id": 106379,
       "title": "辐射",
       "type": "tv",
@@ -288,6 +277,39 @@
       "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
       "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.3,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bUEp1MbnmdqkgO3F2MtB6W2Mzc4.jpg"
+    },
+    {
+      "id": 1368166,
+      "title": "家弑服务",
+      "type": "movie",
+      "genreTitle": "悬疑•惊悚",
+      "rating": 7.3,
+      "release_date": "2025-12-18",
+      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
       "id": 1252037,
@@ -301,28 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情•喜剧•惊悚",
-      "rating": 7.9,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 1368166,
-      "title": "家弑服务",
-      "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.4,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
       "id": 812583,
       "title": "利刃出鞘3：亡者归来",
       "type": "movie",
@@ -334,11 +334,33 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rtdp4G5C3BaGzh17gT0H4gGQ9PI.jpg"
     },
     {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧•惊悚",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
       "id": 628847,
       "title": "青出于蓝",
       "type": "movie",
       "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.2,
+      "rating": 6.3,
       "release_date": "2025-11-14",
       "overview": "一名美国缉毒局卧底特工和他的搭档与一群大胆且令人意想不到的窃贼展开了一场猫捉老鼠的游戏——这些窃贼竟是他们叛逆的青少年子女，这些孩子开始从一个危险的贩毒集团那里行窃，还运用了他们父母的策略和绝密情报。",
       "poster_url": "https://image.tmdb.org/t/p/original/wKNe1BonauSwiYzm3eQoHRm6OIv.jpg",
@@ -356,48 +378,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
+      "id": 244244,
+      "title": "危险追逃",
       "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
-    },
-    {
-      "id": 1259102,
-      "title": "永恒站",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
-      "release_date": "2025-11-26",
-      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
-      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
-    },
-    {
-      "id": 701387,
-      "title": "拯救地球",
-      "type": "movie",
-      "genreTitle": "科幻•犯罪",
-      "rating": 7.4,
-      "release_date": "2025-10-23",
-      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+      "genreTitle": "剧情•悬疑",
+      "rating": 6.6,
+      "release_date": "2026-01-01",
+      "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gwUmGEZT7ttPr1xeTa48olZuOgs.jpg"
     },
     {
       "id": 1054867,
@@ -411,26 +400,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
-      "id": 244244,
-      "title": "危险追逃",
+      "id": 61859,
+      "title": "夜班经理",
       "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.3,
-      "release_date": "2026-01-01",
-      "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gwUmGEZT7ttPr1xeTa48olZuOgs.jpg"
+      "genreTitle": "剧情•悬疑•犯罪",
+      "rating": 7.8,
+      "release_date": "2016-02-21",
+      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
+      "id": 1259102,
+      "title": "永恒站",
       "type": "movie",
-      "genreTitle": "剧情•奇幻•恐怖",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/7GLwLJ3YCLOUZpZ3F57Ysy5UOTP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.1,
+      "release_date": "2025-11-26",
+      "overview": "　　琼安与赖瑞伉俪相伴六十余载，儿孙满堂幸福安康。在金孙的派对上，赖瑞却意外被蝴蝶饼噎死，醒来后发现自己不仅容貌回春，更来到连接今生与无数个永恒世界的交界车站，赖瑞必须在一周内决定去往哪里。几天后，癌末的琼安撒手人寰，刚抵达车站与赖瑞重聚，一转身却见到在战争中阵亡的前夫卢克迎面走来。一边是笑闹到白头的枕边人；一边是苦等67年的痴情种，望着车站大厅里琳琅满目的人生可能，琼安该与谁携手共赴永恒？",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
     },
     {
       "id": 425274,
@@ -442,6 +431,17 @@
       "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
       "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
+    },
+    {
+      "id": 1234731,
+      "title": "新狂蟒之灾",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 6.2,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/h0bcxrUI9l46YjkgopGO9q71xZD.jpg"
     }
   ],
   "popular_movies": [
@@ -455,6 +455,17 @@
       "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "poster_url": "https://image.tmdb.org/t/p/original/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
+      "id": 1252037,
+      "title": "猛虎战车",
+      "type": "movie",
+      "genreTitle": "战争•动作•剧情",
+      "rating": 7.2,
+      "release_date": "2025-09-18",
+      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
+      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
     },
     {
       "id": 1084242,
@@ -560,7 +571,7 @@
       "title": "狂劫艳窟",
       "type": "movie",
       "genreTitle": "动作•犯罪•惊悚",
-      "rating": 4.8,
+      "rating": 5.0,
       "release_date": "2025-08-01",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
@@ -571,33 +582,11 @@
       "title": "神探忠犬：狼之城",
       "type": "movie",
       "genreTitle": "动作•惊悚•悬疑",
-      "rating": 6.7,
+      "rating": 6.8,
       "release_date": "2025-11-13",
       "overview": "　　杰克·罗瑟曾是一名警犬训导员，因服役期间的创伤后应激障碍（PTSD）而饱受折磨，如今他努力与家人及退役警犬伙伴过着平静安宁的生活。然而，一场残酷的暴力袭击瞬间打破了这份宁静——一个残忍无情的帮派将他们锁定为目标。为了保护所爱之人，杰克与他的新警犬搭档“阿戈斯”深入罪恶滋生的黑暗世界，在那里，他不仅要面对腐败官员、揭开危险的毒品走私网络，更要直面自己内心的恶魔。",
       "poster_url": "https://image.tmdb.org/t/p/original/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zXuBWKfUquvBDHFngZzphb2qRUX.jpg"
-    },
-    {
-      "id": 1247002,
-      "title": "破果",
-      "type": "movie",
-      "genreTitle": "动作•悬疑•剧情",
-      "rating": 6.5,
-      "release_date": "2025-04-23",
-      "overview": "该片根据同名小说改编，讲述工作果断的60代女莎手「爪角」碰到了一位男性总是给她打造她人生中没有的东西，然后陷入苦恼的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/gXm3vlMB1yAyzMhJkvjZyeYNxwf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qY9e6jrT08dDigLPeopbtwsjqEa.jpg"
-    },
-    {
-      "id": 1491902,
-      "title": "反悔枪手",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 6.5,
-      "release_date": "2025-07-11",
-      "overview": "讲述了一名冷酷的杀手在死里逃生后，背叛了自己的帮派，想要寻求救赎，却反而成为了被追杀的目标。",
-      "poster_url": "https://image.tmdb.org/t/p/original/x1DP59BiDTm4FsnVFc0lWSeNsA5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nZFJgk5nWSZju9JW76hbv5lUegw.jpg"
     },
     {
       "id": 1368166,
@@ -609,6 +598,17 @@
       "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+    },
+    {
+      "id": 1247002,
+      "title": "破果",
+      "type": "movie",
+      "genreTitle": "动作•悬疑•剧情",
+      "rating": 6.5,
+      "release_date": "2025-04-23",
+      "overview": "该片根据同名小说改编，讲述工作果断的60代女莎手「爪角」碰到了一位男性总是给她打造她人生中没有的东西，然后陷入苦恼的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gXm3vlMB1yAyzMhJkvjZyeYNxwf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qY9e6jrT08dDigLPeopbtwsjqEa.jpg"
     }
   ]
 }
