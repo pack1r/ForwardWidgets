@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 10:07:17",
+  "last_updated": "2026-01-09 20:56:09",
   "today_global": [
     {
       "id": 95479,
@@ -13,15 +13,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
-      "id": 66732,
-      "title": "怪奇物语",
+      "id": 250307,
+      "title": "匹兹堡医护前线",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2025-01-09",
+      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
+    },
+    {
+      "id": 259731,
+      "title": "他和她的谎",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑•犯罪",
+      "rating": 4.0,
+      "release_date": "2026-01-08",
+      "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
     },
     {
       "id": 1242898,
@@ -35,15 +46,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
-      "id": 259731,
-      "title": "他和她的谎",
+      "id": 66732,
+      "title": "怪奇物语",
       "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 3.5,
-      "release_date": "2026-01-08",
-      "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
       "id": 106379,
@@ -57,50 +68,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.3,
-      "release_date": "2025-12-17",
-      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
-    },
-    {
-      "id": 533533,
-      "title": "创：战神",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.6,
-      "release_date": "2025-10-08",
-      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
-    },
-    {
-      "id": 250307,
-      "title": "匹兹堡医护前线",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-01-09",
-      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
-    },
-    {
-      "id": 263330,
-      "title": "靠死亡游戏混饭吃。",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险",
-      "rating": 4.5,
-      "release_date": "2026-01-07",
-      "overview": "醒来以后，发现自己人在陌生的洋楼，身上穿著不知何时换上的女仆装，而有同样遭遇的少女还有五人。“游戏”开始了，我们必须逃出这个充满杀人陷阱的洋楼“GHOST HOUSE”。涉入死亡游戏的事实，使少女们面色凝重──除了我以外。我的玩家名称是幽鬼，今年十七岁，死亡游戏专家。也就是穿女仆装逃离死亡之屋，穿兔女郎装杀人，领奖金过活的人。觉得我有病？我也是这么想。不过，世界上就是有这种人──靠死亡游戏混饭吃的少女。",
-      "poster_url": "https://image.tmdb.org/t/p/original/xCtYF9w9jUGn9WMs36R0q1SBzM8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/rFrkJTGYpSW2vLXw6ioqqERNwGi.jpg"
-    },
-    {
       "id": 139060,
       "title": "魔都精兵的奴隶",
       "type": "tv",
@@ -112,15 +79,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/ncKJRkANwkiv3NtCMWwbS6PJsqv.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
+      "id": 1034716,
+      "title": "盛夏假期遇见爱",
       "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.5,
+      "release_date": "2026-01-06",
+      "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。\r 影片根据艾米莉·亨利的同名畅销书改编。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vPLv0KqnKKUoUWF7oYka4Z9ElNH.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.5,
+      "release_date": "2025-10-08",
+      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
       "id": 7451,
@@ -134,6 +123,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 226045,
+      "title": "大主宰",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 9.0,
+      "release_date": "2023-06-30",
+      "overview": "大千世界，位面交汇，万族林立，群英荟萃，一位位来自下位面的天之至尊，在这无尽世界，演绎者令人向往的传奇，追求着主宰之路。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uRsHrAMY3mk35fK05XrWL4LmnOe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rFGqpNTgti95V6XhXijV0o8r0EY.jpg"
+    },
+    {
       "id": 1084242,
       "title": "疯狂动物城2",
       "type": "movie",
@@ -145,15 +145,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 1272837,
+      "title": "惊变28年2：白骨圣殿",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 0.0,
+      "release_date": "2026-01-07",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
+    },
+    {
+      "id": 285357,
+      "title": "「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+      "genreTitle": "动画•剧情•动作冒险",
+      "rating": 0.0,
+      "release_date": "2026-01-09",
+      "overview": "　　「……我，能活下去的」\n\n　　尽管能力为零，仍被选入勇者队伍的芙拉姆。 唯一拥有的是名为“反转”的难以理解的能力。 果然，在战斗中没什么卵用，但她仍不畏惧。 作为天才的有名贤者吉恩很是讨厌并总是欺负为了保持队伍的活力而工作的她，最后她被强行卖给了奴隶商人。 那个奴隶商会也继续虐待着芙拉姆，最终，出于余兴，她被丢给凶恶的怪物当作盘中餐。 但是，在得到装备并将身体变得黏糊融化的“诅咒之大剑”的瞬间，她的人生“反转”了。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/74ys8ahfrjCb7JQ1NSA5RkMSv63.jpg"
+    },
+    {
+      "id": 1368166,
+      "title": "家弑服务",
+      "type": "movie",
+      "genreTitle": "悬疑•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+    },
+    {
+      "id": 283891,
+      "title": "厄里斯的圣杯",
+      "type": "tv",
+      "genreTitle": "动画•悬疑•Sci-Fi & Fantasy",
+      "rating": 9.5,
+      "release_date": "2026-01-08",
+      "overview": "　　反派千金的亡灵是平凡千金的搭档!?  在遍布阴谋的贵族社会中，两人的反击开始了！\n\n　　“听好了，康斯坦丝·葛莱尔。你就算花费一生时间，也必须让我的复仇成功！”\n\n　　只有诚实勉强算是优点的平凡子爵千金康妮，在某一次宴会上被抢走未婚夫，还被诬陷是窃盗犯，因而陷入走投无路的绝境。就在这种情况下，10年前被处刑的绝代恶女史嘉蕾·卡斯提奥的亡灵出现在她眼前！过去曾经以其绝世美貌、高贵血统，以及压倒性的出众气质而被赞誉为社交界至宝的史嘉蕾，附身在康妮身上之后没两三下子就逆转局势，让康妮得以逃出险境。但是，康妮须要付出的代价，却是帮忙史嘉蕾复仇!? 刚开始是因为利害一致而合作的两人，在不断击溃贵族社会各种暗中恶意和阴谋的过程中建立了情谊，成长为真正的搭档，最后踏上跟过去一直持续至今的巨大阴谋针锋相对的道路……！",
+      "poster_url": "https://image.tmdb.org/t/p/original/xKVJu2INm7wfeeXSRtEGLGpVzdZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yC6RUfpaVEw1bNJoXUc4HzG7bRW.jpg"
     },
     {
       "id": 967941,
@@ -167,48 +200,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
-      "id": 283891,
-      "title": "厄里斯的圣杯",
+      "id": 208919,
+      "title": "罚罪",
       "type": "tv",
-      "genreTitle": "动画•悬疑•Sci-Fi & Fantasy",
-      "rating": 0.0,
-      "release_date": "2026-01-08",
-      "overview": "　　反派千金的亡灵是平凡千金的搭档!?  在遍布阴谋的贵族社会中，两人的反击开始了！\n\n　　“听好了，康斯坦丝·葛莱尔。你就算花费一生时间，也必须让我的复仇成功！”\n\n　　只有诚实勉强算是优点的平凡子爵千金康妮，在某一次宴会上被抢走未婚夫，还被诬陷是窃盗犯，因而陷入走投无路的绝境。就在这种情况下，10年前被处刑的绝代恶女史嘉蕾·卡斯提奥的亡灵出现在她眼前！过去曾经以其绝世美貌、高贵血统，以及压倒性的出众气质而被赞誉为社交界至宝的史嘉蕾，附身在康妮身上之后没两三下子就逆转局势，让康妮得以逃出险境。但是，康妮须要付出的代价，却是帮忙史嘉蕾复仇!? 刚开始是因为利害一致而合作的两人，在不断击溃贵族社会各种暗中恶意和阴谋的过程中建立了情谊，成长为真正的搭档，最后踏上跟过去一直持续至今的巨大阴谋针锋相对的道路……！",
-      "poster_url": "https://image.tmdb.org/t/p/original/xKVJu2INm7wfeeXSRtEGLGpVzdZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yC6RUfpaVEw1bNJoXUc4HzG7bRW.jpg"
-    },
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
-    },
-    {
-      "id": 285357,
-      "title": "「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活",
-      "type": "tv",
-      "genreTitle": "动画•剧情•动作冒险",
-      "rating": 0.0,
-      "release_date": "2026-01-09",
-      "overview": "　　「……我，能活下去的」\n\n　　尽管能力为零，仍被选入勇者队伍的芙拉姆。 唯一拥有的是名为“反转”的难以理解的能力。 果然，在战斗中没什么卵用，但她仍不畏惧。 作为天才的有名贤者吉恩很是讨厌并总是欺负为了保持队伍的活力而工作的她，最后她被强行卖给了奴隶商人。 那个奴隶商会也继续虐待着芙拉姆，最终，出于余兴，她被丢给凶恶的怪物当作盘中餐。 但是，在得到装备并将身体变得黏糊融化的“诅咒之大剑”的瞬间，她的人生“反转”了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/74ys8ahfrjCb7JQ1NSA5RkMSv63.jpg"
+      "genreTitle": "犯罪•剧情•动作冒险",
+      "rating": 6.6,
+      "release_date": "2022-08-25",
+      "overview": "该剧以一桩恶性案件为切入口，通过青年刑警常征（黄景瑜 饰）的视角，讲述出两代公安干警为维护一方安宁，扫除犯罪团伙，不畏艰险、前赴后继的英勇故事。在昌武（虚构地）这座小城，在危机重重的战斗第一线，刑侦大队副大队长常征因长期追查实力雄厚的赵啸声家族，而被卷入重重漩涡之中。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vHDF0TnKFoGrzEJrP7BLEzx7smM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hTCx4qFZ2stVn9rLG10ggnGGU1w.jpg"
     },
     {
       "id": 258680,
@@ -235,17 +235,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
-    },
-    {
       "id": 1242898,
       "title": "铁血战士：杀戮之地",
       "type": "movie",
@@ -257,15 +246,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.3,
-      "release_date": "2025-12-17",
-      "overview": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+      "id": 95479,
+      "title": "咒术回战",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
       "id": 106379,
@@ -277,6 +266,28 @@
       "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
       "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
+      "id": 1252037,
+      "title": "猛虎末路",
+      "type": "movie",
+      "genreTitle": "战争•动作•剧情",
+      "rating": 7.2,
+      "release_date": "2025-09-18",
+      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
+      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
     },
     {
       "id": 967941,
@@ -312,48 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1252037,
-      "title": "猛虎末路",
-      "type": "movie",
-      "genreTitle": "战争•动作•剧情",
-      "rating": 7.2,
-      "release_date": "2025-09-18",
-      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
-      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 250307,
+      "title": "匹兹堡医护前线",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 8.0,
-      "release_date": "2025-11-06",
-      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
-    },
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
       "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
-    },
-    {
-      "id": 244244,
-      "title": "危险追逃",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 6.6,
-      "release_date": "2026-01-01",
-      "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gwUmGEZT7ttPr1xeTa48olZuOgs.jpg"
+      "rating": 8.7,
+      "release_date": "2025-01-09",
+      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
       "id": 7451,
@@ -371,22 +349,77 @@
       "title": "创：战神",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2025-10-08",
       "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
       "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
-      "id": 37854,
-      "title": "航海王",
+      "id": 225171,
+      "title": "Pluribus",
       "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8WW2T4hOggSkX7l3nXjmTuibxx6.jpg"
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2025-11-06",
+      "overview": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
+    },
+    {
+      "id": 840464,
+      "title": "末日逃生2：迁移",
+      "type": "movie",
+      "genreTitle": "冒险•惊悚•科幻",
+      "rating": 7.4,
+      "release_date": "2026-01-07",
+      "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+      "poster_url": "https://image.tmdb.org/t/p/original/aWWCcUC3GIASiBxBfFmgu7jbtrf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/brsYLUGh7TjFflB3gTTnBuZzM7r.jpg"
+    },
+    {
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
+      "id": 1272837,
+      "title": "惊变28年2：白骨圣殿",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 0.0,
+      "release_date": "2026-01-07",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
+      "rating": 7.3,
+      "release_date": "2023-12-19",
+      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
+    },
+    {
+      "id": 244244,
+      "title": "危险追逃",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑",
+      "rating": 6.6,
+      "release_date": "2026-01-01",
+      "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gwUmGEZT7ttPr1xeTa48olZuOgs.jpg"
     },
     {
       "id": 1228246,
@@ -400,48 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
-      "id": 61859,
-      "title": "夜班经理",
+      "id": 208919,
+      "title": "罚罪",
       "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.8,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
-    },
-    {
-      "id": 249907,
-      "title": "判处勇者刑 刑罚勇者9004队服刑记录",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 9.6,
-      "release_date": "2026-01-03",
-      "overview": "所谓勇者，是世间最为残酷的刑罚。犯下大罪之人被制造为“勇者”，其刑罚便是和魔王战斗。哪怕死了也会被复活起来，无法享受死亡的安宁。被判处勇者刑的前圣骑士团团长赛罗·弗巴茨，率领着由各种性格古怪之人构成的刑罚勇者部队，奔走于战斗的最前线。在残酷的战场上，赛罗与最强的生物兵器之一，剑之“女神”缇欧丽塔相遇了。“在将敌人歼灭之后，要为我献上赞赏……以及抚摸我的头。”为了活下来，以及报复陷害自己的人——赛罗与“女神”订下契约，在这令人绝望的世界中，投身于炽烈的斗争与阴谋的漩涡。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6RriaOG7kanuHjs4unVnXyvFrMv.jpg"
-    },
-    {
-      "id": 250307,
-      "title": "匹兹堡医护前线",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-01-09",
-      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
-    },
-    {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "genreTitle": "犯罪•剧情•动作冒险",
+      "rating": 6.6,
+      "release_date": "2022-08-25",
+      "overview": "该剧以一桩恶性案件为切入口，通过青年刑警常征（黄景瑜 饰）的视角，讲述出两代公安干警为维护一方安宁，扫除犯罪团伙，不畏艰险、前赴后继的英勇故事。在昌武（虚构地）这座小城，在危机重重的战斗第一线，刑侦大队副大队长常征因长期追查实力雄厚的赵啸声家族，而被卷入重重漩涡之中。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vHDF0TnKFoGrzEJrP7BLEzx7smM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hTCx4qFZ2stVn9rLG10ggnGGU1w.jpg"
     }
   ],
   "popular_movies": [
@@ -545,17 +545,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
-    },
-    {
       "id": 755898,
       "title": "世界大战",
       "type": "movie",
@@ -565,6 +554,17 @@
       "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
       "poster_url": "https://image.tmdb.org/t/p/original/9RLZ48UeVpICPWa7jK2pZPOp2Ve.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
       "id": 1242501,
@@ -604,7 +604,7 @@
       "title": "狂劫艳窟",
       "type": "movie",
       "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2025-08-01",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
