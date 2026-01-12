@@ -1,17 +1,6 @@
 {
-  "last_updated": "2026-01-12 10:12:12",
+  "last_updated": "2026-01-12 20:58:53",
   "today_global": [
-    {
-      "id": 61859,
-      "title": "夜班经理",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.8,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
-    },
     {
       "id": 117465,
       "title": "地狱乐",
@@ -24,15 +13,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7ZG6Ktb87qi3PycAfZxltlLxzPW.jpg"
     },
     {
-      "id": 66732,
-      "title": "怪奇物语",
+      "id": 61859,
+      "title": "夜班经理",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+      "genreTitle": "剧情•悬疑•犯罪",
+      "rating": 7.8,
+      "release_date": "2016-02-21",
+      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
     },
     {
       "id": 95479,
@@ -46,26 +35,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
+      "id": 66732,
+      "title": "怪奇物语",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
+      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
+      "id": 250307,
+      "title": "匹兹堡医护前线",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2025-01-09",
+      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
       "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
+      "genreTitle": "惊悚•犯罪•动作",
       "rating": 7.4,
-      "release_date": "2025-12-17",
-      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "overview": "影片改编自同名畅销小说，讲述启发莎士比亚最伟大的作品背后，那段不为人知的传奇爱情故事。\r 威廉·莎士比亚（保罗·麦斯卡 Paul Mescal 饰）和妻子艾格尼丝（杰西·巴克利 Jessie Buckley 饰）11岁的儿子哈姆奈特染疫亡故，4年后莎士比亚以此为灵感，写出了后世传颂的《哈姆雷特》。",
+      "poster_url": "https://image.tmdb.org/t/p/original/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
     },
     {
       "id": 278043,
@@ -79,37 +90,59 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/58Hiq9Iaf12HfMGspOfmuFZM61v.jpg"
     },
     {
-      "id": 250307,
-      "title": "匹兹堡医护前线",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-01-09",
-      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
-    },
-    {
       "id": 259731,
       "title": "他和她的谎",
       "type": "tv",
       "genreTitle": "悬疑•犯罪•剧情",
-      "rating": 6.0,
+      "rating": 6.2,
       "release_date": "2026-01-08",
       "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
       "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
     },
     {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
+    },
+    {
       "id": 1034716,
       "title": "盛夏假期遇见爱",
       "type": "movie",
       "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2026-01-06",
       "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。 影片根据艾米莉·亨利的同名畅销书改编。",
       "poster_url": "https://image.tmdb.org/t/p/original/ip1GREVTFUE2eMNnZmRzdnh119i.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vPLv0KqnKKUoUWF7oYka4Z9ElNH.jpg"
+    },
+    {
+      "id": 967941,
+      "title": "魔法坏女巫2",
+      "type": "movie",
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
       "id": 7451,
@@ -123,48 +156,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/tALQc7ZuB7mGiPGnjygRJgymqQi.jpg"
     },
     {
-      "id": 157741,
-      "title": "石油天王",
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 90812,
+      "title": "投行风云",
       "type": "tv",
       "genreTitle": "剧情",
-      "rating": 8.1,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
-    },
-    {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.2,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
-    },
-    {
-      "id": 840464,
-      "title": "末日逃生2：迁移",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.6,
-      "release_date": "2026-01-07",
-      "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-      "poster_url": "https://image.tmdb.org/t/p/original/aWWCcUC3GIASiBxBfFmgu7jbtrf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/brsYLUGh7TjFflB3gTTnBuZzM7r.jpg"
-    },
-    {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "rating": 6.8,
+      "release_date": "2020-11-09",
+      "overview": "讲述的是关于年轻员工们如何陷入高风险金融世界的故事。在这里，曾经的金融精英们尽显华丽服饰背后的创伤与压力。精彩的商战，快节奏的职场较量。  还记得2009年，美国第四大投资银行雷曼兄弟公司申请破产，信贷紧缩，市场信心恶化。资本市场中的各方动作是越来越迷，还是日渐透明？《继承之战》后 ，又一商战大剧——《金融围城》，故事从五位刚刚毕业的年轻人迈进伦敦著名金融机构那一刻开始。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eKKghmnwlrSY1jdWR5h2SEEvhbL.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wHB40QuYIooXZ8Gcl3ntbLr6nXx.jpg"
     },
     {
       "id": 1368166,
@@ -178,48 +189,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1084242,
-      "title": "疯狂动物城2",
+      "id": 1317288,
+      "title": "至尊马蒂",
       "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+      "genreTitle": "剧情•喜剧",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
     },
     {
-      "id": 229858,
-      "title": "命运／奇异赝品",
+      "id": 106379,
+      "title": "辐射",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 7.9,
-      "release_date": "2024-12-31",
-      "overview": "魔术师与英灵为夺取能如愿所偿的愿望机“圣杯”而展开圣杯战争。日本的第五次圣杯战争结束后的几年，在美国西部的城市雪原市被观测到有新的圣杯战争预兆，集结的魔术师与英灵…… 缺失的职阶，无法被选中的英灵，暗中涌动的国家，为战斗造起来的城市。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6SkZ268BIStCeCNu0yGH7dC09uY.jpg"
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.2,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 204266,
-      "title": "枪神 斯坦比特",
+      "id": 157741,
+      "title": "石油天王",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 7.3,
-      "release_date": "2023-01-07",
-      "overview": "　　在架空未来世界的荒凉星球上，有一名赏金六百万的麻烦制造者及通缉犯恐慌，号称「人形台风」的「法修・斯坦比特」相遇了其他人并展开了一连串的冒险。当一切谜团揭开之时，赌上世界的战斗即将开始！",
-      "poster_url": "https://image.tmdb.org/t/p/original/8mqvaj0a74JZkvCc4w1J2ePchl.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5oxSBGmDBXuGrF3I693295D8Bul.jpg"
-    },
-    {
-      "id": 533533,
-      "title": "创：战神",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.6,
-      "release_date": "2025-10-08",
-      "overview": "　　“战神”阿瑞斯（Ares）这个来自数字世界的高度人工智能体，被派遣至现实世界执行高危任务，他的行动将引发人类与人工智能体的首次正面相遇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/a21TyFXoehSk7EOWsxCB0UrrHoF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2024-11-17",
+      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
+      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
     }
   ],
   "week_global_all": [
@@ -231,7 +231,7 @@
       "rating": 8.6,
       "release_date": "2016-07-15",
       "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/2mYLTEQd1oHuXA6NICPIKX7OOvo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
@@ -239,7 +239,7 @@
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-11-05",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
@@ -257,15 +257,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
+      "id": 967941,
+      "title": "魔法坏女巫2",
       "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
     },
     {
       "id": 250307,
@@ -279,6 +279,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
       "id": 106379,
       "title": "辐射",
       "type": "tv",
@@ -290,22 +301,11 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
-      "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
-    },
-    {
       "id": 1034716,
       "title": "盛夏假期遇见爱",
       "type": "movie",
       "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2026-01-06",
       "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。 影片根据艾米莉·亨利的同名畅销书改编。",
       "poster_url": "https://image.tmdb.org/t/p/original/ip1GREVTFUE2eMNnZmRzdnh119i.jpg",
@@ -323,26 +323,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
-      "id": 967941,
-      "title": "魔法坏女巫2",
+      "id": 1228246,
+      "title": "玩具熊的五夜惊魂2",
       "type": "movie",
-      "genreTitle": "奇幻•冒险•爱情",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
-      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-12-03",
+      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
     },
     {
-      "id": 1252037,
-      "title": "猛虎末路",
+      "id": 1368166,
+      "title": "家弑服务",
       "type": "movie",
-      "genreTitle": "战争•动作•剧情",
-      "rating": 7.0,
-      "release_date": "2025-09-18",
-      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
-      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
+      "genreTitle": "悬疑•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
       "id": 7451,
@@ -360,7 +360,7 @@
       "title": "他和她的谎",
       "type": "tv",
       "genreTitle": "悬疑•犯罪•剧情",
-      "rating": 6.0,
+      "rating": 6.2,
       "release_date": "2026-01-08",
       "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
       "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
@@ -378,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
+      "id": 1252037,
+      "title": "猛虎末路",
+      "type": "movie",
+      "genreTitle": "战争•动作•剧情",
+      "rating": 7.0,
+      "release_date": "2025-09-18",
+      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
+      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
+    },
+    {
       "id": 1054867,
       "title": "一战再战",
       "type": "movie",
@@ -387,17 +398,6 @@
       "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
       "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
-    },
-    {
-      "id": 61859,
-      "title": "夜班经理",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.8,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
     },
     {
       "id": 225171,
@@ -411,37 +411,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 1228246,
-      "title": "玩具熊的五夜惊魂2",
+      "id": 61859,
+      "title": "夜班经理",
+      "type": "tv",
+      "genreTitle": "剧情•悬疑•犯罪",
+      "rating": 7.8,
+      "release_date": "2016-02-21",
+      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
+    },
+    {
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
+      "id": 1315303,
+      "title": "猩疯血雨",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-12-03",
-      "overview": "2023年《佛萊迪餐館之五夜驚魂》續集，伊莉莎白萊爾、喬許哈契遜、馬修利拉德主演。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vf6zd73SXTjBgLQX7o9ytFmRufZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hXdsrgqp2vAO3LxUzwLyDd74tvp.jpg"
-    },
-    {
-      "id": 840464,
-      "title": "末日逃生2：迁移",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.6,
-      "release_date": "2026-01-07",
-      "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-      "poster_url": "https://image.tmdb.org/t/p/original/aWWCcUC3GIASiBxBfFmgu7jbtrf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/brsYLUGh7TjFflB3gTTnBuZzM7r.jpg"
-    },
-    {
-      "id": 157741,
-      "title": "石油天王",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.1,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+      "rating": 6.5,
+      "release_date": "2026-01-01",
+      "overview": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jZvPm1hSkw5kLRjRJXeX5thwns4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sD9PnjKDqM9V5YLUPqub7ial5vR.jpg"
     }
   ],
   "popular_movies": [
@@ -450,7 +450,7 @@
       "title": "铁血战士：杀戮之地",
       "type": "movie",
       "genreTitle": "动作•科幻•冒险",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-11-07",
       "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
       "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
@@ -578,17 +578,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/mpdT5sVQMumPcJ3rUS2cb3tOn8M.jpg"
     },
     {
-      "id": 1034716,
-      "title": "盛夏假期遇见爱",
-      "type": "movie",
-      "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.1,
-      "release_date": "2026-01-06",
-      "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。 影片根据艾米莉·亨利的同名畅销书改编。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ip1GREVTFUE2eMNnZmRzdnh119i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vPLv0KqnKKUoUWF7oYka4Z9ElNH.jpg"
-    },
-    {
       "id": 425274,
       "title": "惊天魔盗团3",
       "type": "movie",
@@ -600,11 +589,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hfwzCPUjsCeEKmo9ch5uFmrjRbx.jpg"
     },
     {
+      "id": 1034716,
+      "title": "盛夏假期遇见爱",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.2,
+      "release_date": "2026-01-06",
+      "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。 影片根据艾米莉·亨利的同名畅销书改编。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ip1GREVTFUE2eMNnZmRzdnh119i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vPLv0KqnKKUoUWF7oYka4Z9ElNH.jpg"
+    },
+    {
       "id": 1512623,
       "title": "狂劫艳窟",
       "type": "movie",
       "genreTitle": "动作•犯罪•惊悚",
-      "rating": 7.2,
+      "rating": 7.4,
       "release_date": "2025-08-01",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
