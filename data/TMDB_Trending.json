@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-14 10:11:00",
+  "last_updated": "2026-01-14 20:58:31",
   "today_global": [
     {
       "id": 1208348,
       "title": "临租家庭",
       "type": "movie",
       "genreTitle": "喜剧•剧情",
-      "rating": 7.9,
+      "rating": 7.6,
       "release_date": "2025-11-20",
       "overview": "本片讲述了一位在东京落魄的美国演员的故事。他受雇于一家日本家庭租赁公司，充当门面上的“美籍演员”，由此通过扮演他人生活中的各种角色，踏上了一段意想不到的自我发现之旅。",
       "poster_url": "https://image.tmdb.org/t/p/original/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
@@ -17,40 +17,40 @@
       "title": "尘兔",
       "type": "movie",
       "genreTitle": "动作•奇幻•惊悚",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2025-12-11",
       "overview": "小女孩奥萝拉深信，家中的地板下潜伏着一只吃掉她全家的神秘怪物。 她决定向隔壁冷峻的邻居求助，因为她发现这位看似平凡的男人竟是一名职业杀手！",
-      "poster_url": "https://image.tmdb.org/t/p/original/8ITneaY29kRHAWZ3d5kPhsvhZsO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/iZl0DTHJIQQhLyh53CYQOX12l6O.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ArpD3Imbvj4diy0AH5LwNK7fxuy.jpg"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.6,
+      "release_date": "2023-06-28",
+      "overview": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zIcJ9wXptWkgMLaxgbl6ZSWrR0z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cnFw8up7YcJdmxTsBpJ5TVy09FT.jpg"
     },
     {
       "id": 1371185,
       "title": "蓝调之歌",
       "type": "movie",
       "genreTitle": "剧情•音乐•爱情",
-      "rating": 7.4,
+      "rating": 7.6,
       "release_date": "2025-12-25",
       "overview": "影片改编自真实故事，讲述两名时运不佳的音乐人组成一支充满欢乐气氛的尼尔·戴门致敬乐团，证明了寻找爱情和追逐梦想永远不会太晚。",
       "poster_url": "https://image.tmdb.org/t/p/original/scrkIF5ILNA0Ov5ZAidPoJtUk7I.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/rWv8HTCH8CpJxiQ7JQHBl9POErI.jpg"
     },
     {
-      "id": 66732,
-      "title": "怪奇物语",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
-    },
-    {
       "id": 1584215,
       "title": "反叛行动",
       "type": "movie",
       "genreTitle": "动作",
-      "rating": 5.5,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一名冷酷且训练有素的杀手，自幼被培养于一个名为 The Internship 的 CIA 最高机密项目中。多年后，她决定摧毁这个夺走自己青春的机构。她召集昔日的“实习生”同伴，发动了一场血腥的反抗行动——迫使 CIA 动用同样致命的力量来镇压他们。",
       "poster_url": "https://image.tmdb.org/t/p/original/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
@@ -68,22 +68,44 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yZdljp7chiS12RTL5KWAMuD8Lgl.jpg"
     },
     {
-      "id": 1272837,
-      "title": "惊变28年2：白骨圣殿",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 5.8,
-      "release_date": "2026-01-14",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
+      "id": 66732,
+      "title": "怪奇物语",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
+      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
+      "id": 106379,
+      "title": "辐射",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.2,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 95479,
+      "title": "咒术回战",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
       "id": 1610413,
       "title": "最后的冒险：《怪奇物语》第五季幕后",
       "type": "movie",
       "genreTitle": "纪录",
-      "rating": 7.5,
+      "rating": 7.7,
       "release_date": "2026-01-11",
       "overview": "重塑流行文化十年后，《怪奇物语》迎来最终章。\r 纪录片《最后的冒险：〈怪奇物语〉第5季幕后》以宏大的视角记录了演员、创作者与剧组成员如何将最终季化为现实，并向这部永远改变他们的剧集道别。",
       "poster_url": "https://image.tmdb.org/t/p/original/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
@@ -101,26 +123,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
     },
     {
-      "id": 1054867,
-      "title": "一战再战",
+      "id": 1272837,
+      "title": "惊变28年2：白骨圣殿",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/yp36G3PQsTcFM6qOGBmUGrZdj30.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
-    },
-    {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.1,
+      "release_date": "2026-01-14",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
     },
     {
       "id": 83533,
@@ -138,7 +149,7 @@
       "title": "后座",
       "type": "movie",
       "genreTitle": "爱情•剧情•喜剧",
-      "rating": 7.9,
+      "rating": 7.7,
       "release_date": "2025-10-31",
       "overview": "一名腼腆男子被一位神秘而无比英俊的摩托车手掳获，成为其服从者。",
       "poster_url": "https://image.tmdb.org/t/p/original/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
@@ -156,28 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
-      "id": 259731,
-      "title": "他和她的谎",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪•悬疑",
-      "rating": 6.5,
-      "release_date": "2026-01-08",
-      "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
-    },
-    {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.2,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -189,15 +178,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/tALQc7ZuB7mGiPGnjygRJgymqQi.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
+      "id": 1054867,
+      "title": "一战再战",
       "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.1,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/yp36G3PQsTcFM6qOGBmUGrZdj30.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
       "id": 1034716,
@@ -211,29 +200,29 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vPLv0KqnKKUoUWF7oYka4Z9ElNH.jpg"
     },
     {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
+      "id": 1317288,
+      "title": "至尊马蒂",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
+      "id": 840464,
+      "title": "末日逃生2：迁移",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.8,
+      "release_date": "2026-01-07",
+      "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+      "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/brsYLUGh7TjFflB3gTTnBuZzM7r.jpg"
     }
   ],
   "week_global_all": [
-    {
-      "id": 66732,
-      "title": "怪奇物语",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
-    },
     {
       "id": 95479,
       "title": "咒术回战",
@@ -246,6 +235,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
+      "id": 66732,
+      "title": "怪奇物语",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
+      "rating": 8.6,
+      "release_date": "2016-07-15",
+      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
+      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
+    },
+    {
       "id": 1242898,
       "title": "铁血战士：杀戮之地",
       "type": "movie",
@@ -257,28 +257,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
-      "id": 250307,
-      "title": "匹兹堡医护前线",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2025-01-09",
-      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
-      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
-    },
-    {
-      "id": 259731,
-      "title": "他和她的谎",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪•悬疑",
-      "rating": 6.5,
-      "release_date": "2026-01-08",
-      "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
-    },
-    {
       "id": 106379,
       "title": "辐射",
       "type": "tv",
@@ -288,6 +266,17 @@
       "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
       "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 250307,
+      "title": "匹兹堡医护前线",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2025-01-09",
+      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
+      "poster_url": "https://image.tmdb.org/t/p/original/eXvE7YKLmlF5KpxxrU9inECAHJi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
       "id": 1034716,
@@ -312,37 +301,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
-      "id": 1208348,
-      "title": "临租家庭",
-      "type": "movie",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.9,
-      "release_date": "2025-11-20",
-      "overview": "本片讲述了一位在东京落魄的美国演员的故事。他受雇于一家日本家庭租赁公司，充当门面上的“美籍演员”，由此通过扮演他人生活中的各种角色，踏上了一段意想不到的自我发现之旅。",
-      "poster_url": "https://image.tmdb.org/t/p/original/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/s1mwdEYODtFcyvfYr8vwXp9HZn1.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tALQc7ZuB7mGiPGnjygRJgymqQi.jpg"
-    },
-    {
-      "id": 1252037,
-      "title": "猛虎末路",
-      "type": "movie",
-      "genreTitle": "战争•动作•剧情",
-      "rating": 7.0,
-      "release_date": "2025-09-18",
-      "overview": "　　一辆德国虎式坦克的五名车组成员被派往战火纷飞的前线后方执行一项秘密任务。在德军亢奋药物的刺激下，他们的任务逐渐变成了一场深入黑暗之心的旅程。",
-      "poster_url": "https://image.tmdb.org/t/p/original/g4lFT9d7v2x075Mau2tjIRkzBSd.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wQNYu4VBpqnCCHN7M1JdXv15DFK.jpg"
+      "id": 259731,
+      "title": "他和她的谎",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪•悬疑",
+      "rating": 6.5,
+      "release_date": "2026-01-08",
+      "overview": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg"
     },
     {
       "id": 61859,
@@ -356,37 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
     },
     {
-      "id": 967941,
-      "title": "魔法坏女巫2",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "奇幻•冒险•爱情",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
-      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
-    },
-    {
-      "id": 1054867,
-      "title": "一战再战",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/yp36G3PQsTcFM6qOGBmUGrZdj30.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
-    },
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/fPS0MgOCD7VmFy4EVmq21cr0BFC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tALQc7ZuB7mGiPGnjygRJgymqQi.jpg"
     },
     {
       "id": 1368166,
@@ -400,15 +345,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1317288,
-      "title": "至尊马蒂",
+      "id": 1084242,
+      "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.1,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 967941,
+      "title": "魔法坏女巫2",
+      "type": "movie",
+      "genreTitle": "奇幻•冒险•爱情",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "overview": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
+      "poster_url": "https://image.tmdb.org/t/p/original/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/q8N6V423yOAIy7ikRXewd887m32.jpg"
+    },
+    {
+      "id": 1208348,
+      "title": "临租家庭",
+      "type": "movie",
+      "genreTitle": "喜剧•剧情",
+      "rating": 7.6,
+      "release_date": "2025-11-20",
+      "overview": "本片讲述了一位在东京落魄的美国演员的故事。他受雇于一家日本家庭租赁公司，充当门面上的“美籍演员”，由此通过扮演他人生活中的各种角色，踏上了一段意想不到的自我发现之旅。",
+      "poster_url": "https://image.tmdb.org/t/p/original/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/s1mwdEYODtFcyvfYr8vwXp9HZn1.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/yp36G3PQsTcFM6qOGBmUGrZdj30.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
       "id": 533533,
@@ -422,6 +400,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yPuAG30rh5efVUnemLZ8pszi9t.jpg"
     },
     {
+      "id": 1610413,
+      "title": "最后的冒险：《怪奇物语》第五季幕后",
+      "type": "movie",
+      "genreTitle": "纪录",
+      "rating": 7.7,
+      "release_date": "2026-01-11",
+      "overview": "重塑流行文化十年后，《怪奇物语》迎来最终章。\r 纪录片《最后的冒险：〈怪奇物语〉第5季幕后》以宏大的视角记录了演员、创作者与剧组成员如何将最终季化为现实，并向这部永远改变他们的剧集道别。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jMLn4z9b9Kvf6BcoNbecZId6EnV.jpg"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "type": "tv",
@@ -433,15 +422,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/nTZAAugcWU0U16UWV5ST6I2y2zn.jpg"
     },
     {
-      "id": 1315303,
-      "title": "猩疯血雨",
+      "id": 1317288,
+      "title": "至尊马蒂",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.4,
-      "release_date": "2026-01-01",
-      "overview": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jZvPm1hSkw5kLRjRJXeX5thwns4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sD9PnjKDqM9V5YLUPqub7ial5vR.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.0,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
+      "id": 840464,
+      "title": "末日逃生2：迁移",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.8,
+      "release_date": "2026-01-07",
+      "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+      "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/brsYLUGh7TjFflB3gTTnBuZzM7r.jpg"
     }
   ],
   "popular_movies": [
@@ -604,7 +604,7 @@
       "title": "Erbsünde - Veil of Sin",
       "type": "movie",
       "genreTitle": "恐怖•动作•科幻",
-      "rating": 4.0,
+      "rating": 5.2,
       "release_date": "2024-10-13",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
