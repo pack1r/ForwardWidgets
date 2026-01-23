@@ -1,192 +1,60 @@
 {
-  "last_updated": "2026-01-22 21:02:18",
+  "last_updated": "2026-01-23 10:07:31",
   "today_global": [
+    {
+      "id": 273160,
+      "title": "美丽毒素",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 4.1,
+      "release_date": "2026-01-21",
+      "overview": "国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aHOVBeeNHYRvdlWbUykLMSVuTuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/72SXaqLRnMC40MdvQU5I1bf9ErJ.jpg"
+    },
+    {
+      "id": 1575337,
+      "title": "超时空辉夜姬！",
+      "type": "movie",
+      "genreTitle": "动画•音乐•奇幻",
+      "rating": 0.0,
+      "release_date": "2026-01-22",
+      "overview": "“月读”是希望与梦想交会的虚拟空间，而舞台幕布将缓缓升起，见证几位少女在此谱写短暂却珍贵的相遇篇章。  　　不久的未来……  　　东京的 17 岁高中生酒寄彩叶过着非常忙碌的生活，努力在打工和学业之间寻找平衡。她的纾压方式是观看很有人气的月见八千代直播，八千代管理名为“月读”的线上虚拟空间。  　　彩叶时常光顾月读，在那里可以体验不同的人生，自由挥洒创意。她就靠着支持八千代度过空闲时间，还会玩战斗游戏赚一点外快。有一天，在回家路上，彩叶发现一根电线杆闪耀着奇异光芒，没想到电线杆里竟然凭空冒出一个可爱的宝宝。彩叶没办法随手抛弃宝宝，只好把她抱回家，眼睁睁看着她迅速长成一个跟自己同龄的少女。  　　“你是辉夜姬吗？”  　　这是你绝对不曾看过的辉夜姬物语。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vwFXqXh1LRxEYg94IyF8wAHsWOT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg"
+    },
     {
       "id": 254071,
       "title": "盗窃",
       "type": "tv",
       "genreTitle": "剧情•犯罪",
-      "rating": 8.6,
+      "rating": 8.5,
       "release_date": "2026-01-21",
       "overview": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
       "poster_url": "https://image.tmdb.org/t/p/original/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zf31d80REGIthHsfOGyjoBwUXk2.jpg"
     },
     {
-      "id": 273160,
-      "title": "美丽毒素",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 4.5,
-      "release_date": "2026-01-21",
-      "overview": "故事由国际超模们相继以莫名且骇人的方式死亡，将高端时装界推向黑暗深渊作为开端。联邦调查局探员Cooper Madsen (Evan Peters饰) 与 Jordan Bennett  (Rebecca Hall饰) 被委派到巴黎调查真相。随着两位愈挖愈深，他们发现了一种透过性接触传播的病毒；这种病毒能够将普通人瞬间变成拥有完美外貌及体态的性感美女、型男，但同时会带来令人毛骨悚然的骇人后果",
-      "poster_url": "https://image.tmdb.org/t/p/original/881ME59erfWk1NX7H27f1DDoUZn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/72SXaqLRnMC40MdvQU5I1bf9ErJ.jpg"
-    },
-    {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.2,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
-    },
-    {
-      "id": 1306368,
-      "title": "全信没收",
+      "id": 1608982,
+      "title": "校园火劫：深渊",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
-      "release_date": "2026-01-13",
-      "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
-      "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
-    },
-    {
-      "id": 991494,
-      "title": "海绵宝宝：深海大冒险",
-      "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
-      "rating": 6.4,
-      "release_date": "2025-12-16",
-      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
-    },
-    {
-      "id": 1236153,
-      "title": "极限审判",
-      "type": "movie",
-      "genreTitle": "科幻•动作•惊悚",
-      "rating": 7.0,
-      "release_date": "2026-01-19",
-      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/36VpRDwRssBlxfX5L4TvArRiVb.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
-    },
-    {
-      "id": 224372,
-      "title": "七王国的骑士",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
-      "rating": 8.1,
-      "release_date": "2026-01-18",
-      "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
-    },
-    {
-      "id": 1575337,
-      "title": "超时空辉夜姬",
-      "type": "movie",
-      "genreTitle": "动画•音乐•奇幻",
-      "rating": 0.0,
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.0,
       "release_date": "2026-01-22",
-      "overview": "故事发生在充满梦想与希望的虚拟空间“月读”，讲述了两个女孩透过歌曲结识，以绚丽夺目的视觉效果呈现两人命运交织的戏码。17岁的东京都高中生酒寄彩叶，过着在打工与学业间奔波的忙碌生活。她唯一的纾压管道，就是沉浸在人气网络主播月见八千代的频道中，享受片刻的抽离。彩叶是月读的常客，在这里她能自由挥洒创意、体验不同的人生。某天回家的路上，彩叶偶然发现一根闪耀着奇异光芒电线杆冒出一位神秘的宝宝，无法视而不见的彩叶只好将她抱回家。随后宝宝以惊人的速度，迅速成长为一位与彩叶同龄的少女——辉耀。在辉耀的恳求下，彩叶决定在月读上帮她开设直播。彩叶负责音乐制作和作词，辉耀则专注于直播和演唱，两人合作无间，彼此的关系也更加亲密。然而，一股危险势力正伺机而动，企图将辉耀带回月球",
-      "poster_url": "https://image.tmdb.org/t/p/original/vwFXqXh1LRxEYg94IyF8wAHsWOT.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg"
+      "overview": "暴风雨中，三名女子学校的学生被困在地下坑里，她们必须直面各自的内心冲突，奋力求生。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg"
     },
     {
-      "id": 66732,
-      "title": "怪奇物语",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•悬疑•动作冒险",
-      "rating": 8.6,
-      "release_date": "2016-07-15",
-      "overview": "1983 年，当一个小男孩莫名其妙地失踪后，他的朋友、家人和当地警察开始寻找答案时，他们都被卷入一个非同寻常的谜团，揭开了涉及秘密实验、恐怖的超自然力量以及一个奇怪的小女孩的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
-    },
-    {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy•剧情",
-      "rating": 7.3,
-      "release_date": "2023-12-19",
-      "overview": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lV4wuzl0XRbUwJsbJPErlgmc3pw.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/chzZpWAMcyW8U4c6nCv1oOrDVTr.jpg"
-    },
-    {
-      "id": 1595481,
-      "title": "在家消失的女孩：伊丽莎白·斯马特绑架案",
+      "id": 1233413,
+      "title": "罪人",
       "type": "movie",
-      "genreTitle": "纪录•犯罪",
-      "rating": 7.7,
-      "release_date": "2026-01-20",
-      "overview": "伊丽莎白·斯玛特14岁时在犹他州的家中被绑架的可怕经历，通过她自己的讲述和从未公开过的资料娓娓道来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gBVup7f8OA604vT1x83l75C4EOC.jpg"
-    },
-    {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.7,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
-    },
-    {
-      "id": 1220564,
-      "title": "密探",
-      "type": "movie",
-      "genreTitle": "犯罪•剧情•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-07-23",
-      "overview": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg"
-    },
-    {
-      "id": 198102,
-      "title": "历劫惊途",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.6,
-      "release_date": "2023-06-28",
-      "overview": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cnFw8up7YcJdmxTsBpJ5TVy09FT.jpg"
-    },
-    {
-      "id": 680493,
-      "title": "重返寂静岭",
-      "type": "movie",
-      "genreTitle": "恐怖•剧情•悬疑",
-      "rating": 0.0,
-      "release_date": "2026-01-21",
-      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/tsVYhgOvp2d3bv04yYScSQz6QoW.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jojajuFqS2UsS59aFjDa8bo3lxH.jpg"
-    },
-    {
-      "id": 218961,
-      "title": "Les Gouttes de Dieu",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
+      "genreTitle": "恐怖•动作•惊悚",
       "rating": 7.5,
-      "release_date": "2023-04-21",
-      "overview": "当葡萄酒界为亚历山大莱杰之死哀悼时，其失联已久的女儿卡蜜儿获悉父亲的稀世珍藏将归她所有。但她必须跟亚历山大的得意门生一青展开一场感官之战，以竞逐属于自己的遗产。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nfYVVeSSHIl9t9vSII9xloq3ZuM.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gnkLjtd4efyKyZG6UfWhN1fzil4.jpg"
-    },
-    {
-      "id": 281401,
-      "title": "如舞薄冰",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.0,
-      "release_date": "2026-01-22",
-      "overview": "该剧围绕鲁索家的三姐妹展开，她们是一个家道中落的花样滑冰家族的继承人。十七岁的二姐阿德里亚娜与新搭档布雷登一起备战世界锦标赛，但她心里仍对初恋兼前搭档弗雷迪留有情意。为了获得赞助，维持鲁索家族滑冰场的运营，阿德里亚娜和布雷登假扮情侣，这让她的生活变得更加复杂。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kN5aglEWD1cfrzv1DULfWfzrUUI.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/eaW3LlrEekMpcIA7KYzta0wnCZ4.jpg"
+      "release_date": "2025-04-16",
+      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
+      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
     },
     {
       "id": 1317288,
@@ -200,6 +68,83 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
     },
     {
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "overview": "讲述了一个关于爱与失落的感人至深的故事，正是这段经历启发了莎士比亚创作出其永恒的杰作《哈姆雷特》。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wKGcgF3KS0luee7HjlzZF6hHKRH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+    },
+    {
+      "id": 1220564,
+      "title": "密探",
+      "type": "movie",
+      "genreTitle": "犯罪•剧情•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-07-23",
+      "overview": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg"
+    },
+    {
+      "id": 991494,
+      "title": "海绵宝宝：深海大冒险",
+      "type": "movie",
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 6.3,
+      "release_date": "2025-12-16",
+      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
+    },
+    {
+      "id": 1306368,
+      "title": "全信没收",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.0,
+      "release_date": "2026-01-13",
+      "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
+      "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
+    },
+    {
+      "id": 281401,
+      "title": "如舞薄冰",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.7,
+      "release_date": "2026-01-22",
+      "overview": "该剧围绕鲁索家的三姐妹展开，她们是一个家道中落的花样滑冰家族的继承人。十七岁的二姐阿德里亚娜与新搭档布雷登一起备战世界锦标赛，但她心里仍对初恋兼前搭档弗雷迪留有情意。为了获得赞助，维持鲁索家族滑冰场的运营，阿德里亚娜和布雷登假扮情侣，这让她的生活变得更加复杂。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kN5aglEWD1cfrzv1DULfWfzrUUI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eaW3LlrEekMpcIA7KYzta0wnCZ4.jpg"
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "type": "movie",
+      "genreTitle": "剧情•奇幻•恐怖",
+      "rating": 7.7,
+      "release_date": "2025-10-17",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/3bcOMfVnTMaTh7DDfxypBh0CJRt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1WdgXsGpfYT0dZg2LdUyGgz8Qze.jpg"
+    },
+    {
+      "id": 106379,
+      "title": "辐射",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
       "id": 95479,
       "title": "咒术回战",
       "type": "tv",
@@ -211,15 +156,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
-      "id": 203737,
-      "title": "【我推的孩子】",
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+    },
+    {
+      "id": 701387,
+      "title": "拯救地球",
+      "type": "movie",
+      "genreTitle": "科幻•喜剧",
+      "rating": 7.4,
+      "release_date": "2025-10-23",
+      "overview": "两名痴迷阴谋论的年轻男子绑架了某大公司位高权重的首席执行官，他们坚信对方是一名蓄意毁灭地球的外星人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b5BInTXQHEMF3AxlJb9yCcMXTr6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pbDBF6GGderTKLvZkbUaB2MBlMV.jpg"
+    },
+    {
+      "id": 1241983,
+      "title": "火车梦",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 7.3,
+      "release_date": "2025-11-05",
+      "overview": "改编自丹尼斯·约翰逊的中篇小说，影片以动人笔触描绘了伐木工兼铁路工人罗伯特·格兰尼尔的生命肖像——在20世纪初剧变中的美国，他度过了一段蕴藏意外深度与美感的人生。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ob3TVLDyhsNSaPwdh5LQ845HBGS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4ScTB6ScjY1OONxmPRBXeMzTBdQ.jpg"
+    },
+    {
+      "id": 307534,
+      "title": "放飞吧伯特",
       "type": "tv",
-      "genreTitle": "动画•剧情",
-      "rating": 8.3,
-      "release_date": "2023-04-12",
-      "overview": "「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
-      "poster_url": "https://image.tmdb.org/t/p/original/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg"
+      "genreTitle": "喜剧",
+      "rating": 8.0,
+      "release_date": "2026-01-22",
+      "overview": "大大咧咧的父亲以及跟他同样口无遮拦的家人试图融入精英学校的势利圈子，却引发了各种混乱。",
+      "poster_url": "https://image.tmdb.org/t/p/original/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/utwGNSLV2mjicTPmYPwOCFfdxs1.jpg"
+    },
+    {
+      "id": 1124566,
+      "title": "情感价值",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 7.6,
+      "release_date": "2025-08-20",
+      "overview": "姐妹Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ieRn5Qpin3YbB1yENuIrXplWruf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/s95FumXltyZhO0UH4YutsyNsEiP.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/y1iNp7dlwr8qfOwSNksseVjuSQt.jpg"
     }
   ],
   "week_global_all": [
@@ -228,7 +228,7 @@
       "title": "全信没收",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
@@ -239,7 +239,7 @@
       "title": "七王国的骑士",
       "type": "tv",
       "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
-      "rating": 8.1,
+      "rating": 8.0,
       "release_date": "2026-01-18",
       "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
       "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
@@ -257,6 +257,50 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
     },
     {
+      "id": 95479,
+      "title": "咒术回战",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+    },
+    {
+      "id": 1220564,
+      "title": "密探",
+      "type": "movie",
+      "genreTitle": "犯罪•剧情•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-07-23",
+      "overview": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg"
+    },
+    {
+      "id": 106379,
+      "title": "辐射",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
+      "id": 1317288,
+      "title": "至尊马蒂",
+      "type": "movie",
+      "genreTitle": "剧情",
+      "rating": 8.1,
+      "release_date": "2025-12-19",
+      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ujcNgyHIxy76RKwBCkYv6l786Eq.jpg"
+    },
+    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -268,15 +312,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/tALQc7ZuB7mGiPGnjygRJgymqQi.jpg"
     },
     {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.2,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "overview": "讲述了一个关于爱与失落的感人至深的故事，正是这段经历启发了莎士比亚创作出其永恒的杰作《哈姆雷特》。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wKGcgF3KS0luee7HjlzZF6hHKRH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
     },
     {
       "id": 66732,
@@ -290,37 +334,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+      "id": 991494,
+      "title": "海绵宝宝：深海大冒险",
+      "type": "movie",
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 6.3,
+      "release_date": "2025-12-16",
+      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
     },
     {
-      "id": 61859,
-      "title": "夜班经理",
+      "id": 254071,
+      "title": "盗窃",
       "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.8,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
-    },
-    {
-      "id": 198102,
-      "title": "历劫惊途",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.6,
-      "release_date": "2023-06-28",
-      "overview": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cnFw8up7YcJdmxTsBpJ5TVy09FT.jpg"
+      "genreTitle": "剧情•犯罪",
+      "rating": 8.5,
+      "release_date": "2026-01-21",
+      "overview": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zf31d80REGIthHsfOGyjoBwUXk2.jpg"
     },
     {
       "id": 1272837,
@@ -334,15 +367,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXO8iWBPzQyS6JPLs9fRc7MTQaJ.jpg"
     },
     {
-      "id": 991494,
-      "title": "海绵宝宝：深海大冒险",
+      "id": 83533,
+      "title": "阿凡达：火与烬",
       "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
-      "rating": 6.4,
-      "release_date": "2025-12-16",
-      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
+      "id": 203737,
+      "title": "【我推的孩子】",
+      "type": "tv",
+      "genreTitle": "动画•剧情",
+      "rating": 8.3,
+      "release_date": "2023-04-12",
+      "overview": "「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
+      "poster_url": "https://image.tmdb.org/t/p/original/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg"
+    },
+    {
+      "id": 273160,
+      "title": "美丽毒素",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 4.1,
+      "release_date": "2026-01-21",
+      "overview": "国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aHOVBeeNHYRvdlWbUykLMSVuTuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/72SXaqLRnMC40MdvQU5I1bf9ErJ.jpg"
     },
     {
       "id": 229891,
@@ -360,66 +415,11 @@
       "title": "临租家庭",
       "type": "movie",
       "genreTitle": "喜剧•剧情",
-      "rating": 7.8,
+      "rating": 7.7,
       "release_date": "2025-11-20",
       "overview": "本片讲述了一位在东京落魄的美国演员的故事。他受雇于一家日本家庭租赁公司，充当门面上的“美籍演员”，由此通过扮演他人生活中的各种角色，踏上了一段意想不到的自我发现之旅。",
       "poster_url": "https://image.tmdb.org/t/p/original/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/s1mwdEYODtFcyvfYr8vwXp9HZn1.jpg"
-    },
-    {
-      "id": 254071,
-      "title": "盗窃",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪",
-      "rating": 8.6,
-      "release_date": "2026-01-21",
-      "overview": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zf31d80REGIthHsfOGyjoBwUXk2.jpg"
-    },
-    {
-      "id": 203737,
-      "title": "【我推的孩子】",
-      "type": "tv",
-      "genreTitle": "动画•剧情",
-      "rating": 8.3,
-      "release_date": "2023-04-12",
-      "overview": "「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
-      "poster_url": "https://image.tmdb.org/t/p/original/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg"
-    },
-    {
-      "id": 223530,
-      "title": "星际迷航：星际舰队学院",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•动作冒险",
-      "rating": 5.1,
-      "release_date": "2026-01-15",
-      "overview": "该系列将讲述一批新星际舰队学员在银河系中最传奇的地方成长的历程。《星际迷航：星际舰队学院》将介绍一群年轻的学员，他们聚集在一起追求共同的希望与乐观梦想。在教官们严密且严苛的监督下，他们将发现成为星际舰队军官所需的条件，同时经历萌芽中的友谊、激烈的竞争、初恋以及威胁学院和联邦的新敌人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4CiG4DwMzXMF0F83st0g2A4lnV4.jpg"
-    },
-    {
-      "id": 273160,
-      "title": "美丽毒素",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 4.5,
-      "release_date": "2026-01-21",
-      "overview": "故事由国际超模们相继以莫名且骇人的方式死亡，将高端时装界推向黑暗深渊作为开端。联邦调查局探员Cooper Madsen (Evan Peters饰) 与 Jordan Bennett  (Rebecca Hall饰) 被委派到巴黎调查真相。随着两位愈挖愈深，他们发现了一种透过性接触传播的病毒；这种病毒能够将普通人瞬间变成拥有完美外貌及体态的性感美女、型男，但同时会带来令人毛骨悚然的骇人后果",
-      "poster_url": "https://image.tmdb.org/t/p/original/881ME59erfWk1NX7H27f1DDoUZn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/72SXaqLRnMC40MdvQU5I1bf9ErJ.jpg"
-    },
-    {
-      "id": 250505,
-      "title": "阿加莎·克里斯蒂之七面钟",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑",
-      "rating": 6.3,
-      "release_date": "2026-01-15",
-      "overview": "1925年，英格兰一座乡间大宅铺张设宴，席间一个恶作剧出了差错，竟闹出人命。绰号“邦德尔”的艾琳·布伦特着手探查真相，她外表不像侦探，但生性活泼好奇，究竟命案背后的可怕阴谋会如何改变她的人生？乡间大宅里又暗藏什么秘密？",
-      "poster_url": "https://image.tmdb.org/t/p/original/nrmJhb5wB5cDTOWebIzyXqfiGMc.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3SzZoElCKY271vihTpyURYoD5Q7.jpg"
     },
     {
       "id": 250307,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
-      "id": 157741,
-      "title": "石油天王",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.0,
-      "release_date": "2024-11-17",
-      "overview": "故事背景设定在西德克萨斯的繁荣小镇，以现代石油钻井行业的淘金热为主题。这是一部关于基层工人和冒险致富的亿万富翁的上下阶层故事。他们推动了一场如此庞大的繁荣，不仅正在重塑我们的气候、经济，还改变了全球地缘政治格局。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yLWh4JDe3PQ8VOCYLyQf0Aboh7M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/66sWWyJp28bkNQWcIw3YPUyDFvO.jpg"
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/pcaSAivZ8uFYAVmufI0ArKy7mE3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     }
   ],
   "popular_movies": [
@@ -450,7 +450,7 @@
       "title": "全信没收",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
@@ -501,17 +501,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/e46BMLG1d2KOswRSdFZDniNRg5f.jpg"
     },
     {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
-    },
-    {
       "id": 1368166,
       "title": "家弑服务",
       "type": "movie",
@@ -521,6 +510,17 @@
       "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 1252037,
@@ -538,7 +538,7 @@
       "title": "杀人鲸",
       "type": "movie",
       "genreTitle": "惊悚•恐怖•动作",
-      "rating": 6.0,
+      "rating": 5.8,
       "release_date": "2026-01-16",
       "overview": "故事围绕一对挚友Trish Stevens与Maddie Clark展开，二人被困在一座与世隔绝的环礁湖里，与一头危险的虎鲸狭路相逢。",
       "poster_url": "https://image.tmdb.org/t/p/original/7BkmHVHbXcQVjfQQIxqjIr05IWe.jpg",
@@ -593,7 +593,7 @@
       "title": "巴霍巴利王：史诗",
       "type": "movie",
       "genreTitle": "动作•剧情",
-      "rating": 6.0,
+      "rating": 6.1,
       "release_date": "2025-10-29",
       "overview": "在壮丽的马希什马蒂王国，一段跨越两代的英雄史诗就此展开。自幼在瀑布下部落长大的青年希瓦，因某种神秘召唤爬上绝壁，意外发现自己竟是传奇君主阿玛兰德拉·巴霍巴利的遗孤。 通过老将卡塔帕的讲述，揭开了上一代因王位争夺而引发的阴谋——老巴霍巴利虽仁爱爱民，却惨遭至亲背叛与暗杀，王后德瓦塞娜也被囚禁多年。 得知真相的希瓦承袭父名，化身摩哂陀·巴霍巴利。他集结反抗力量，向暴君巴哈拉迪瓦发起最终决战，誓要夺回王权，洗刷家族耻辱。  这是一场关于勇气、背叛、牺牲与正义回归的终极较量。",
       "poster_url": "https://image.tmdb.org/t/p/original/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
