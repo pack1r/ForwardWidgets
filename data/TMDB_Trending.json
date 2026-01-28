@@ -1,16 +1,27 @@
 {
-  "last_updated": "2026-01-28 10:10:13",
+  "last_updated": "2026-01-28 21:02:26",
   "today_global": [
     {
       "id": 1234731,
       "title": "新狂蟒之灾",
       "type": "movie",
       "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2025-12-24",
       "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
       "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
+    },
+    {
+      "id": 198178,
+      "title": "奇迹人",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 6.3,
+      "release_date": "2026-01-27",
+      "overview": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6HxLMcdaoAg5vpURwmazdU5wVV8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uTY0S0orL4mBtvaGEUmhO14eWWf.jpg"
     },
     {
       "id": 1084242,
@@ -27,34 +38,23 @@
       "id": 840464,
       "title": "末日逃生2：迁移",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.5,
+      "genreTitle": "冒险•惊悚•科幻",
+      "rating": 6.6,
       "release_date": "2026-01-07",
       "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
       "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg"
     },
     {
-      "id": 1206008,
-      "title": "政坛新星",
+      "id": 1168190,
+      "title": "特工迷阵",
       "type": "movie",
-      "genreTitle": "喜剧•剧情",
-      "rating": 5.2,
-      "release_date": "2025-12-11",
-      "overview": "34岁的年轻女子艾拉·麦凯当上了州长，她需要努力平衡政坛职责和家庭生活。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kMnytogLXnSP81sNAIP0LtAi8y3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/doIGrhYdiMMMMIGAIM146iZ8gF0.jpg"
-    },
-    {
-      "id": 198178,
-      "title": "奇迹人",
-      "type": "tv",
-      "genreTitle": "喜剧•Sci-Fi & Fantasy",
-      "rating": 5.7,
-      "release_date": "2026-01-27",
-      "overview": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6HxLMcdaoAg5vpURwmazdU5wVV8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uTY0S0orL4mBtvaGEUmhO14eWWf.jpg"
+      "genreTitle": "动作•喜剧",
+      "rating": 8.7,
+      "release_date": "2026-01-28",
+      "overview": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/Aq2k7ZzKSYBZDGhFsTrCXOOvqEY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zgeGFwF12mWR9GrPEvMCW2CCvj3.jpg"
     },
     {
       "id": 1167307,
@@ -68,15 +68,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d10VuEOMroY7ngQi2FUhJH72k0e.jpg"
     },
     {
-      "id": 1198994,
-      "title": "荒岛求救",
+      "id": 1206008,
+      "title": "政坛新星",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚•喜剧",
-      "rating": 7.1,
-      "release_date": "2026-01-22",
-      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
-      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
+      "genreTitle": "喜剧•剧情",
+      "rating": 5.4,
+      "release_date": "2025-12-11",
+      "overview": "34岁的年轻女子艾拉·麦凯当上了州长，她需要努力平衡政坛职责和家庭生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kMnytogLXnSP81sNAIP0LtAi8y3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/doIGrhYdiMMMMIGAIM146iZ8gF0.jpg"
     },
     {
       "id": 106379,
@@ -90,15 +90,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
+      "id": 1198994,
+      "title": "荒岛求救",
       "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
-      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+      "genreTitle": "恐怖•惊悚•喜剧",
+      "rating": 7.2,
+      "release_date": "2026-01-22",
+      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
+      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "type": "tv",
+      "genreTitle": "剧情•喜剧",
+      "rating": 7.8,
+      "release_date": "2023-01-26",
+      "overview": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "poster_url": "https://image.tmdb.org/t/p/original/9dA7MzC3XvCcgP6SN7AMggzMtXn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k8aCatZeJTdwl26utChphKwqVrS.jpg"
     },
     {
       "id": 1306368,
@@ -112,26 +123,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
     },
     {
-      "id": 1054867,
-      "title": "一战再战",
+      "id": 801937,
+      "title": "平安夜，杀人夜",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•动作",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
-      "poster_url": "https://image.tmdb.org/t/p/original/6cjr6NL1MQC8TKgoNmagSGUu3SK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-12-11",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/6cvHz1TnF2ktoLbbHACh99nKL9H.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2gpkWSDjU8c28Wgt4AXHWhLY97b.jpg"
     },
     {
-      "id": 61859,
-      "title": "夜班经理",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.7,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
+      "id": 1233413,
+      "title": "罪人",
+      "type": "movie",
+      "genreTitle": "恐怖•动作•惊悚",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
+      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+    },
+    {
+      "id": 1340076,
+      "title": "无题惊婚夜",
+      "type": "movie",
+      "genreTitle": "喜剧•动作•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-09-18",
+      "overview": "凯文，一位著名的勃起功能障碍广告演员。婚姻充满问题，他计划与妻子苏茜一起旅行，重新点燃他们的感情。让演员朋友策划入室抢劫，想成为英雄，但结果适得其反，导致夫妻陷入谋杀案。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/s4hEhzWSeKp1h0R8stm5H253g5I.jpg"
     },
     {
       "id": 224372,
@@ -145,39 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
     },
     {
-      "id": 291339,
-      "title": "杀手记忆",
-      "type": "tv",
-      "genreTitle": "犯罪",
-      "rating": 8.8,
-      "release_date": "2026-01-25",
-      "overview": "安杰罗过着双重生活，既是杀手又是顾家男人——这一切原本相安无事，直到他被早发性阿尔茨海默病击中。如今他的两个世界正发生碰撞，将家人置于危险之中。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/beDTB8ik8gw8VknHU8j0MKqJgOX.jpg"
-    },
-    {
-      "id": 1236153,
-      "title": "极限审判",
-      "type": "movie",
-      "genreTitle": "科幻•动作•惊悚",
-      "rating": 6.8,
-      "release_date": "2026-01-19",
-      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
-    },
-    {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
-    },
-    {
       "id": 1317288,
       "title": "至尊马蒂",
       "type": "movie",
@@ -187,6 +176,17 @@
       "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
       "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
+    },
+    {
+      "id": 1054867,
+      "title": "一战再战",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•动作",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "overview": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女之路，父女二人不得不直面他过往行为种下的恶果……",
+      "poster_url": "https://image.tmdb.org/t/p/original/6cjr6NL1MQC8TKgoNmagSGUu3SK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/l7qWNAt9TEJAW9UiZzMcpyXMmVn.jpg"
     },
     {
       "id": 66732,
@@ -200,26 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/i7nVLBdbZjLpV9h42ehgrk0bfgp.jpg"
     },
     {
-      "id": 1443762,
-      "title": "伪术奇才",
+      "id": 1236153,
+      "title": "极限审判",
       "type": "movie",
-      "genreTitle": "惊悚•犯罪•剧情",
-      "rating": 6.5,
-      "release_date": "2026-01-22",
-      "overview": "1970年代，托尼来到罗马，他身无长物，只有一身绘画才华，以及成为伟大艺术家的梦想。对生活、命运甚至历史的渴望，最终让他成为史上最伟大的伪造大师，更是牵动意大利最难解谜团的核心人物。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y4uyZ8nTdzVrWqKunELNba3lXcc.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/hbGZ0dBaLFxCuk1mamsyEq5eRKP.jpg"
+      "genreTitle": "科幻•动作•惊悚",
+      "rating": 6.8,
+      "release_date": "2026-01-19",
+      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
     },
     {
-      "id": 858024,
-      "title": "哈姆尼特",
+      "id": 1315303,
+      "title": "猩疯血雨",
       "type": "movie",
-      "genreTitle": "剧情•爱情•历史",
-      "rating": 7.9,
-      "release_date": "2025-11-26",
-      "overview": "讲述了一个关于爱与失落的感人至深的故事，正是这段经历启发了莎士比亚创作出其永恒的杰作《哈姆雷特》。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wKGcgF3KS0luee7HjlzZF6hHKRH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.6,
+      "release_date": "2026-01-01",
+      "overview": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
+      "poster_url": "https://image.tmdb.org/t/p/original/jZvPm1hSkw5kLRjRJXeX5thwns4.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sD9PnjKDqM9V5YLUPqub7ial5vR.jpg"
     }
   ],
   "week_global_all": [
@@ -235,48 +235,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
+      "id": 198178,
+      "title": "奇迹人",
+      "type": "tv",
+      "genreTitle": "喜剧",
+      "rating": 6.3,
+      "release_date": "2026-01-27",
+      "overview": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6HxLMcdaoAg5vpURwmazdU5wVV8.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/uTY0S0orL4mBtvaGEUmhO14eWWf.jpg"
+    },
+    {
       "id": 1234731,
       "title": "新狂蟒之灾",
       "type": "movie",
       "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2025-12-24",
       "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
       "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
     },
     {
-      "id": 1306368,
-      "title": "全信没收",
+      "id": 1168190,
+      "title": "特工迷阵",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.0,
-      "release_date": "2026-01-13",
-      "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
-      "poster_url": "https://image.tmdb.org/t/p/original/icXEintMlPvKGxCskYRzwd66Oc7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
-    },
-    {
-      "id": 224372,
-      "title": "七王国的骑士",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
-      "rating": 8.1,
-      "release_date": "2026-01-18",
-      "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
-    },
-    {
-      "id": 61859,
-      "title": "夜班经理",
-      "type": "tv",
-      "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.7,
-      "release_date": "2016-02-21",
-      "overview": "乔纳森（汤姆·希德勒斯顿 Tom Hiddleston 饰）曾是一名在伊拉克前线拼杀的士兵，退伍后，他来到了一间富丽堂皇的酒店之中，在此担任夜班经理的职务。某日，乔纳森在酒店里偶遇了名为索菲（奥雷·阿蒂卡 Aure Atika 饰）的美丽女子，对其一见钟情，然而，索菲是某军火走私贩的情妇，她将一份涉及到英国军火黑市大佬理查德（休·劳瑞 Hugh Laurie 饰）的机密文件偷偷交给乔纳森，随后便死于非命。  之后，乔纳森来到了位于瑞士采尔马特的酒店中工作，在那里，他结识了英国情报官安吉拉（奥莉薇娅·柯尔曼 Olivia Colman 饰），安吉拉向乔纳森抛出了橄榄枝，希望他能够协助自己调查黑市内的军火交易和秘密情报。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aIqIIQWKC6d7UVHtX53bigu4jVF.jpg"
+      "genreTitle": "动作•喜剧",
+      "rating": 8.7,
+      "release_date": "2026-01-28",
+      "overview": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/Aq2k7ZzKSYBZDGhFsTrCXOOvqEY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zgeGFwF12mWR9GrPEvMCW2CCvj3.jpg"
     },
     {
       "id": 106379,
@@ -290,59 +279,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
+      "id": 1306368,
+      "title": "全信没收",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.0,
+      "release_date": "2026-01-13",
+      "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
+      "poster_url": "https://image.tmdb.org/t/p/original/icXEintMlPvKGxCskYRzwd66Oc7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
+    },
+    {
       "id": 840464,
       "title": "末日逃生2：迁移",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.5,
+      "genreTitle": "冒险•惊悚•科幻",
+      "rating": 6.6,
       "release_date": "2026-01-07",
       "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
       "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg"
     },
     {
+      "id": 224372,
+      "title": "七王国的骑士",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.1,
+      "release_date": "2026-01-18",
+      "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
+    },
+    {
       "id": 273160,
       "title": "美丽毒素",
       "type": "tv",
       "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 5.3,
+      "rating": 5.5,
       "release_date": "2026-01-21",
       "overview": "国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。",
       "poster_url": "https://image.tmdb.org/t/p/original/gh5XBBjNTIfjfeDLuzPRDW7RFUS.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/72SXaqLRnMC40MdvQU5I1bf9ErJ.jpg"
-    },
-    {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
-    },
-    {
-      "id": 254071,
-      "title": "强制窃贼",
-      "type": "tv",
-      "genreTitle": "剧情•犯罪•悬疑",
-      "rating": 8.0,
-      "release_date": "2026-01-21",
-      "overview": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
-      "poster_url": "https://image.tmdb.org/t/p/original/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zf31d80REGIthHsfOGyjoBwUXk2.jpg"
-    },
-    {
-      "id": 1575337,
-      "title": "超时空辉夜姬！",
-      "type": "movie",
-      "genreTitle": "动画•音乐•奇幻",
-      "rating": 8.5,
-      "release_date": "2026-01-22",
-      "overview": "“月读”是希望与梦想交会的虚拟空间，而舞台幕布将缓缓升起，见证几位少女在此谱写短暂却珍贵的相遇篇章。17岁的东京都高中生酒寄彩叶，过着在打工与学业间奔波的忙碌生活。她唯一的纾压方式，就是沉浸在人气网络主播月见八千代的频道中，享受片刻的抽离。彩叶是月读的常客，在这里她能自由挥洒创意、体验不同的人生。某天回家的路上，彩叶偶然发现一根闪耀着奇异光芒电线杆冒出一位神秘的宝宝，无法视而不见的彩叶只好将她抱回家。随后宝宝以惊人的速度，迅速成长为一位与彩叶同龄的少女——辉夜。在辉夜的恳求下，彩叶决定在月读上帮她开设直播。彩叶负责音乐制作和作词，辉夜则专注于直播和演唱，两人合作无间，彼此的关系也更加亲密。然而，一股危险势力正伺机而动，企图将辉夜带回月球。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lqQfj9sOZ9fT3waHvUUtmbnJjwT.jpg"
     },
     {
       "id": 1317288,
@@ -356,37 +334,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
     },
     {
-      "id": 991494,
-      "title": "海绵宝宝：深海大冒险",
-      "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
-      "rating": 6.5,
-      "release_date": "2025-12-16",
-      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
-    },
-    {
-      "id": 1220564,
-      "title": "密探",
-      "type": "movie",
-      "genreTitle": "犯罪•剧情•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-07-23",
-      "overview": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4on1ZZu7TZNnthwD84FOa9m57WR.jpg"
-    },
-    {
-      "id": 1236153,
-      "title": "极限审判",
-      "type": "movie",
-      "genreTitle": "科幻•动作•惊悚",
-      "rating": 6.8,
-      "release_date": "2026-01-19",
-      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
+      "id": 254071,
+      "title": "强制窃贼",
+      "type": "tv",
+      "genreTitle": "剧情•犯罪•悬疑",
+      "rating": 7.9,
+      "release_date": "2026-01-21",
+      "overview": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
+      "poster_url": "https://image.tmdb.org/t/p/original/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zf31d80REGIthHsfOGyjoBwUXk2.jpg"
     },
     {
       "id": 1443762,
@@ -400,15 +356,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/hbGZ0dBaLFxCuk1mamsyEq5eRKP.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
+      "id": 1575337,
+      "title": "超时空辉夜姬！",
       "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
-      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+      "genreTitle": "动画•奇幻•音乐",
+      "rating": 8.4,
+      "release_date": "2026-01-22",
+      "overview": "“月读”是希望与梦想交会的虚拟空间，而舞台幕布将缓缓升起，见证几位少女在此谱写短暂却珍贵的相遇篇章。17岁的东京都高中生酒寄彩叶，过着在打工与学业间奔波的忙碌生活。她唯一的纾压方式，就是沉浸在人气网络主播月见八千代的频道中，享受片刻的抽离。彩叶是月读的常客，在这里她能自由挥洒创意、体验不同的人生。某天回家的路上，彩叶偶然发现一根闪耀着奇异光芒电线杆冒出一位神秘的宝宝，无法视而不见的彩叶只好将她抱回家。随后宝宝以惊人的速度，迅速成长为一位与彩叶同龄的少女——辉夜。在辉夜的恳求下，彩叶决定在月读上帮她开设直播。彩叶负责音乐制作和作词，辉夜则专注于直播和演唱，两人合作无间，彼此的关系也更加亲密。然而，一股危险势力正伺机而动，企图将辉夜带回月球。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lqQfj9sOZ9fT3waHvUUtmbnJjwT.jpg"
     },
     {
       "id": 209867,
@@ -422,26 +378,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
     },
     {
-      "id": 198178,
-      "title": "奇迹人",
-      "type": "tv",
-      "genreTitle": "喜剧•Sci-Fi & Fantasy",
-      "rating": 5.7,
-      "release_date": "2026-01-27",
-      "overview": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6HxLMcdaoAg5vpURwmazdU5wVV8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/uTY0S0orL4mBtvaGEUmhO14eWWf.jpg"
+      "id": 991494,
+      "title": "海绵宝宝：深海大冒险",
+      "type": "movie",
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 6.6,
+      "release_date": "2025-12-16",
+      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
     },
     {
-      "id": 680493,
-      "title": "重返寂静岭",
+      "id": 1236153,
+      "title": "极限审判",
       "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 5.4,
-      "release_date": "2026-01-21",
-      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mHEtettQs3qwX3IGT7KTwbxgaOL.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
+      "genreTitle": "科幻•动作•惊悚",
+      "rating": 6.8,
+      "release_date": "2026-01-19",
+      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
+    },
+    {
+      "id": 95479,
+      "title": "咒术回战",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+    },
+    {
+      "id": 858024,
+      "title": "哈姆尼特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情•历史",
+      "rating": 7.9,
+      "release_date": "2025-11-26",
+      "overview": "讲述了一个关于爱与失落的感人至深的故事，正是这段经历启发了莎士比亚创作出其永恒的杰作《哈姆雷特》。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wKGcgF3KS0luee7HjlzZF6hHKRH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+    },
+    {
+      "id": 1233413,
+      "title": "罪人",
+      "type": "movie",
+      "genreTitle": "恐怖•动作•惊悚",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
+      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+    },
+    {
+      "id": 1220564,
+      "title": "密探",
+      "type": "movie",
+      "genreTitle": "犯罪•剧情•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-07-23",
+      "overview": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4on1ZZu7TZNnthwD84FOa9m57WR.jpg"
     }
   ],
   "popular_movies": [
@@ -455,6 +455,17 @@
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/icXEintMlPvKGxCskYRzwd66Oc7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 1043197,
@@ -505,7 +516,7 @@
       "title": "海绵宝宝：深海大冒险",
       "type": "movie",
       "genreTitle": "动画•家庭•喜剧",
-      "rating": 6.5,
+      "rating": 6.6,
       "release_date": "2026-01-01",
       "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
       "poster_url": "https://image.tmdb.org/t/p/original/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
@@ -543,17 +554,6 @@
       "overview": "故事围绕一对挚友Trish Stevens与Maddie Clark展开，二人被困在一座与世隔绝的环礁湖里，与一头危险的虎鲸狭路相逢。",
       "poster_url": "https://image.tmdb.org/t/p/original/7BkmHVHbXcQVjfQQIxqjIr05IWe.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kNulN7b7YI6cRQe5d8aZWUmCKwm.jpg"
-    },
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 1252037,
