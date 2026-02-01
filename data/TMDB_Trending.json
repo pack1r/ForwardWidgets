@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 20:59:27",
+  "last_updated": "2026-02-01 10:53:19",
   "today_global": [
     {
       "id": 1168190,
@@ -11,17 +11,6 @@
       "overview": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
       "poster_url": "https://image.tmdb.org/t/p/original/Aq2k7ZzKSYBZDGhFsTrCXOOvqEY.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8k7IjXWuG9ULOHGVxvByPAT4Gi.jpg"
-    },
-    {
-      "id": 1234731,
-      "title": "新狂蟒之灾",
-      "type": "movie",
-      "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.0,
-      "release_date": "2025-12-24",
-      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
     },
     {
       "id": 1084242,
@@ -46,6 +35,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/6NrxGChil7RQAtRRad98C2GVNR2.jpg"
     },
     {
+      "id": 1234731,
+      "title": "新狂蟒之灾",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 5.9,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
+    },
+    {
+      "id": 1198994,
+      "title": "荒岛求救",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•喜剧",
+      "rating": 6.9,
+      "release_date": "2026-01-22",
+      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
+      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
+    },
+    {
       "id": 209867,
       "title": "葬送的芙莉莲",
       "type": "tv",
@@ -57,59 +68,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
     },
     {
-      "id": 1291608,
-      "title": "征服者",
-      "type": "movie",
-      "genreTitle": "动作•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-12-05",
-      "overview": "2000年代初，一名卧底特务潜入喀拉蚩的黑社会，打进权力核心，只为从内部瓦解暴力网络。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/r9vcgqssXKLYEnxDRUZFd4tv0i7.jpg"
-    },
-    {
-      "id": 91239,
-      "title": "布里杰顿家族",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.1,
-      "release_date": "2020-12-25",
-      "overview": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
-      "poster_url": "https://image.tmdb.org/t/p/original/19sVgGYbmRxjiSKv42uyA45zgTo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6ukndhy7Cq5pjdKWCBF0XU9XHzJ.jpg"
-    },
-    {
-      "id": 1198994,
-      "title": "荒岛求救",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•喜剧",
-      "rating": 6.8,
-      "release_date": "2026-01-22",
-      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
-      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
-    },
-    {
       "id": 840464,
       "title": "末日逃生2：迁移",
       "type": "movie",
       "genreTitle": "冒险•惊悚•科幻",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-01-07",
       "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
       "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg"
     },
     {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+      "id": 1116201,
+      "title": "铁肺",
+      "type": "movie",
+      "genreTitle": "科幻•恐怖•悬疑",
+      "rating": 7.2,
+      "release_date": "2026-01-30",
+      "overview": "　　在“寂静狂喜”事件后的末世未来，一名囚犯驾驶名为“铁肺号”的潜艇，在一颗荒芜卫星的血色海洋中探索，寻找消失的星辰与行星。该片由同名游戏改编。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qKYCNfv9Z8bZIvDdE7jTliVBFPu.jpg"
     },
     {
       "id": 106379,
@@ -123,15 +101,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 1116201,
-      "title": "铁肺",
+      "id": 95479,
+      "title": "咒术回战",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
+    },
+    {
+      "id": 91239,
+      "title": "布里杰顿家族",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.1,
+      "release_date": "2020-12-25",
+      "overview": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
+      "poster_url": "https://image.tmdb.org/t/p/original/19sVgGYbmRxjiSKv42uyA45zgTo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6ukndhy7Cq5pjdKWCBF0XU9XHzJ.jpg"
+    },
+    {
+      "id": 1291608,
+      "title": "征服者",
       "type": "movie",
-      "genreTitle": "科幻•恐怖•悬疑",
-      "rating": 7.0,
-      "release_date": "2026-01-30",
-      "overview": "　　在“寂静狂喜”事件后的末世未来，一名囚犯驾驶名为“铁肺号”的潜艇，在一颗荒芜卫星的血色海洋中探索，寻找消失的星辰与行星。该片由同名游戏改编。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qKYCNfv9Z8bZIvDdE7jTliVBFPu.jpg"
+      "genreTitle": "动作•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-12-05",
+      "overview": "2000年代初，一名卧底特务潜入喀拉蚩的黑社会，打进权力核心，只为从内部瓦解暴力网络。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/r9vcgqssXKLYEnxDRUZFd4tv0i7.jpg"
     },
     {
       "id": 250307,
@@ -149,33 +149,11 @@
       "title": "96分钟：列车爆炸案",
       "type": "movie",
       "genreTitle": "动作•犯罪•爱情",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-09-05",
       "overview": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
       "poster_url": "https://image.tmdb.org/t/p/original/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dOfjxTxOPkx9iN9R3sPNBN3pgIn.jpg"
-    },
-    {
-      "id": 1602705,
-      "title": "致我的青春",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.2,
-      "release_date": "2026-01-29",
-      "overview": "这是一个关于和解与疗愈的故事。主人公（由 Fedi Nuril 饰演）偶然发现了一封自己在多年前写给未来的信。这封信唤醒了他对青春时代的记忆，迫使他重新审视那些曾经被遗忘的梦想、错过的爱情以及至今未解的心结。在现在的他与过去的自己进行跨时空“对话”的过程中，他试图原谅当年的错误，并从回忆中汲取力量，去拥抱当下的生活。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7bgnGJxHjysPtIAvpqoxFDWHHlY.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/41ep9kAEosmHFVxF9ik0HD4ff91.jpg"
-    },
-    {
-      "id": 282558,
-      "title": "生命树",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 9.0,
-      "release_date": "2026-01-30",
-      "overview": "上世纪九十年代，青海高原上的拉曲县高度依赖农牧业，其周边的无人区博拉木拉富含矿产和野生动物资源，大量的盗猎盗采分子为牟取暴利滥采滥杀。拉曲县副县长多杰在县长林培生的支持下成立了巡山队，起初是为脱贫在无人区探矿，眼见藏羚羊被屠杀的惨状后，多杰将一切都倾注在环保上。而巡山队里的青年女警白菊成了多杰命定的变数，她是援藏医生张勤勤收养的遗孤，是白家敢闯敢拼的小女儿。枪法过人的白菊与巡山队队员们成了莫逆之交，与报社记者邵云飞相爱，众志成城以建立自然保护区，却在功成前夕经历了领袖多杰的失踪和巡山队的解散。十多年过去，博拉木拉重获宁静，煤矿盗采问题却让开发和环保的天平再次失衡，白菊与昔日爱人、旧友和手足家人重聚首，在新时代的环保路上一并追查着多杰失踪的真相，最终还英雄以清名，继续守护着青藏高原的绿水蓝天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ppFUg9nXeJ4FWj0HcuiIFLiJdAg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ddgXqCBhU3opPoKoWAuHzNfOU8o.jpg"
     },
     {
       "id": 278882,
@@ -189,15 +167,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wJLwEGOWic71e3pvtjr0VCuc1UQ.jpg"
     },
     {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
       "id": 1306368,
       "title": "全信没收",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
+    },
+    {
+      "id": 282158,
+      "title": "择天记",
+      "type": "tv",
+      "genreTitle": "动作冒险•动画•Sci-Fi & Fantasy",
+      "rating": 8.0,
+      "release_date": "2026-01-31",
+      "overview": "西宁少年陈长生身患奇症活不过二十岁，为寻改命之法，前往神都参加大朝试，却因与真凤徐有容的一纸婚约，遭受打压，被流放进废弃的国教学院。陈长生凭借三千道藏，开启修行逆袭之旅，青藤宴废天海牙儿，未央宫胜神国七律，更是与伙伴唐三十六、落落、轩辕破奋战大朝试，夺得首榜首名，却得知改命之法难如登天。陷入迷茫的陈长生，在天书陵见证一代传奇荀梅陨落，激励他继续前行，在周园与魔族的战斗中，遇见乔装而来的徐有容，二人一路生死相依，联手挫败魔族阴谋，彼此相爱，却因周园崩塌分离。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kcgqqnmSMExwITZ7gn3gw62c9l5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eOhBg0HGmpVatlg9EUgeuPszvfk.jpg"
     },
     {
       "id": 1413097,
@@ -211,29 +211,18 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2eWJiUN5NwiTDzVGAsFTXEIG76z.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.3,
-      "release_date": "2025-12-17",
-      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+      "id": 224372,
+      "title": "七王国的骑士",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.1,
+      "release_date": "2026-01-18",
+      "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
     }
   ],
   "week_global_all": [
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "poster_url": "https://image.tmdb.org/t/p/original/fqUJHyzHtchLlpsMpfht7GyCTnK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
-    },
     {
       "id": 1168190,
       "title": "特工迷阵",
@@ -246,15 +235,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/q8k7IjXWuG9ULOHGVxvByPAT4Gi.jpg"
     },
     {
-      "id": 1234731,
-      "title": "新狂蟒之灾",
+      "id": 1084242,
+      "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.0,
-      "release_date": "2025-12-24",
-      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "poster_url": "https://image.tmdb.org/t/p/original/fqUJHyzHtchLlpsMpfht7GyCTnK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
     },
     {
       "id": 198178,
@@ -268,15 +257,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/6NrxGChil7RQAtRRad98C2GVNR2.jpg"
     },
     {
+      "id": 1234731,
+      "title": "新狂蟒之灾",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•恐怖",
+      "rating": 5.9,
+      "release_date": "2025-12-24",
+      "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jWOKrRYVszGbnSmW9r539CHuJ18.jpg"
+    },
+    {
       "id": 840464,
       "title": "末日逃生2：迁移",
       "type": "movie",
       "genreTitle": "冒险•惊悚•科幻",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-01-07",
       "overview": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
       "poster_url": "https://image.tmdb.org/t/p/original/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg"
+    },
+    {
+      "id": 1198994,
+      "title": "荒岛求救",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•喜剧",
+      "rating": 6.9,
+      "release_date": "2026-01-22",
+      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
+      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
     },
     {
       "id": 106379,
@@ -288,28 +299,6 @@
       "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
       "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
-    },
-    {
-      "id": 1198994,
-      "title": "荒岛求救",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•喜剧",
-      "rating": 6.8,
-      "release_date": "2026-01-22",
-      "overview": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
-      "poster_url": "https://image.tmdb.org/t/p/original/9TgYDfNZPRVWDzp7ayYPpo9yV0u.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9F16ZBuJKiuxa8wy1JmYvZ1SCU4.jpg"
-    },
-    {
-      "id": 91239,
-      "title": "布里杰顿家族",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.1,
-      "release_date": "2020-12-25",
-      "overview": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
-      "poster_url": "https://image.tmdb.org/t/p/original/19sVgGYbmRxjiSKv42uyA45zgTo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6ukndhy7Cq5pjdKWCBF0XU9XHzJ.jpg"
     },
     {
       "id": 95479,
@@ -334,37 +323,59 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
     },
     {
+      "id": 91239,
+      "title": "布里杰顿家族",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.1,
+      "release_date": "2020-12-25",
+      "overview": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
+      "poster_url": "https://image.tmdb.org/t/p/original/19sVgGYbmRxjiSKv42uyA45zgTo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6ukndhy7Cq5pjdKWCBF0XU9XHzJ.jpg"
+    },
+    {
       "id": 1306368,
       "title": "全信没收",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
-      "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
-      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
+      "id": 250307,
+      "title": "匹兹堡医护前线",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2025-01-09",
+      "overview": "　　讲述匹兹堡一家医院的医护人员日常应对个人危机、职场政治和危重病人的情志护理等情况，检视当今美国医疗工作者所面临的挑战，揭示他们肩负崇高使命所需的韧性。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
-      "id": 1575337,
-      "title": "超时空辉夜姬！",
+      "id": 1116201,
+      "title": "铁肺",
       "type": "movie",
-      "genreTitle": "动画•奇幻•音乐",
-      "rating": 8.2,
-      "release_date": "2026-01-22",
-      "overview": "“月读”是希望与梦想交会的虚拟空间，而舞台幕布将缓缓升起，见证几位少女在此谱写短暂却珍贵的相遇篇章。17岁的东京都高中生酒寄彩叶，过着在打工与学业间奔波的忙碌生活。她唯一的纾压方式，就是沉浸在人气网络主播月见八千代的频道中，享受片刻的抽离。彩叶是月读的常客，在这里她能自由挥洒创意、体验不同的人生。某天回家的路上，彩叶偶然发现一根闪耀着奇异光芒电线杆冒出一位神秘的宝宝，无法视而不见的彩叶只好将她抱回家。随后宝宝以惊人的速度，迅速成长为一位与彩叶同龄的少女——辉夜。在辉夜的恳求下，彩叶决定在月读上帮她开设直播。彩叶负责音乐制作和作词，辉夜则专注于直播和演唱，两人合作无间，彼此的关系也更加亲密。然而，一股危险势力正伺机而动，企图将辉夜带回月球。",
-      "poster_url": "https://image.tmdb.org/t/p/original/yOyXGXjdQe1v27Bvx8m008HeSd2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg"
+      "genreTitle": "科幻•恐怖•悬疑",
+      "rating": 7.2,
+      "release_date": "2026-01-30",
+      "overview": "　　在“寂静狂喜”事件后的末世未来，一名囚犯驾驶名为“铁肺号”的潜艇，在一颗荒芜卫星的血色海洋中探索，寻找消失的星辰与行星。该片由同名游戏改编。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qKYCNfv9Z8bZIvDdE7jTliVBFPu.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     },
     {
       "id": 224372,
@@ -376,6 +387,17 @@
       "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
       "poster_url": "https://image.tmdb.org/t/p/original/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
+    },
+    {
+      "id": 1233413,
+      "title": "罪人",
+      "type": "movie",
+      "genreTitle": "恐怖•动作•惊悚",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "overview": "《黑豹》《奎迪》导演瑞恩·库格勒执导，迈克尔·B·乔丹主演，带来恐惧的全新诠释。一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）试图摆脱过去纷扰的生活，回到家乡寻求新生，却发现更深的邪恶正等待着他们的归来。[华纳兄弟影业]",
+      "poster_url": "https://image.tmdb.org/t/p/original/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fB1VykVmC8EvApDgKMecl40FIoT.jpg"
     },
     {
       "id": 66732,
@@ -411,37 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/oWUsAwIzGm6GTK6USR4QXEgAmcc.jpg"
     },
     {
-      "id": 1236153,
-      "title": "极限审判",
-      "type": "movie",
-      "genreTitle": "科幻•动作•惊悚",
-      "rating": 6.7,
-      "release_date": "2026-01-19",
-      "overview": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdJEfQdmo6PUg7jMARncDhX33f5.jpg"
-    },
-    {
       "id": 1167307,
       "title": "大卫",
       "type": "movie",
       "genreTitle": "动画•家庭•剧情",
-      "rating": 7.9,
+      "rating": 8.0,
       "release_date": "2025-12-14",
       "overview": "　　在一个被恐惧统治的王国里，一位年轻的牧羊人勇敢地面对巨人以及其背后的黑暗势力。他的勇气将唤醒一个民族，并证明真正的力量来自信任，而非权力。",
       "poster_url": "https://image.tmdb.org/t/p/original/lVyK4nBoUGgLAH6iBnUdEZAfHvM.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/gAzHfw7NWv9B4pdW8pB9BtsoEfI.jpg"
-    },
-    {
-      "id": 1317288,
-      "title": "至尊马蒂",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 7.9,
-      "release_date": "2025-12-19",
-      "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sGaiYUhrGWCCBMawmr3rRtq92O4.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
     }
   ],
   "popular_movies": [
@@ -450,7 +450,7 @@
       "title": "特工迷阵",
       "type": "movie",
       "genreTitle": "动作•喜剧•犯罪",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2026-01-28",
       "overview": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
       "poster_url": "https://image.tmdb.org/t/p/original/Aq2k7ZzKSYBZDGhFsTrCXOOvqEY.jpg",
@@ -494,7 +494,7 @@
       "title": "新狂蟒之灾",
       "type": "movie",
       "genreTitle": "冒险•喜剧•恐怖",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2026-01-09",
       "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
       "poster_url": "https://image.tmdb.org/t/p/original/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
@@ -505,11 +505,22 @@
       "title": "全信没收",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-01-13",
       "overview": "一群迈阿密警察在一间废弃的藏身屋发现数百万现钞，彼此之间的信任开始瓦解。随着外部人士得知充公金额如此可观，一切变得疑点重重，到底还剩下什么可以相信？又有谁依然值得信赖？",
       "poster_url": "https://image.tmdb.org/t/p/original/s3yLyVISgyrDalMyBE7LbGrsjk5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zbSi7PD03wuhYJKMflSqCz40ZOv.jpg"
+    },
+    {
+      "id": 1584215,
+      "title": "反叛行动",
+      "type": "movie",
+      "genreTitle": "动作",
+      "rating": 6.1,
+      "release_date": "2026-01-13",
+      "overview": "一名冷酷且训练有素的杀手，自幼被培养于一个名为 The Internship 的 CIA 最高机密项目中。多年后，她决定摧毁这个夺走自己青春的机构。她召集昔日的“实习生”同伴，发动了一场血腥的反抗行动——迫使 CIA 动用同样致命的力量来镇压他们。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p28DqqaN4dOP1OECjaWYVrBRMqP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2EptPFNLmu61CzCSHW6J5vDqJRw.jpg"
     },
     {
       "id": 1326878,
@@ -523,28 +534,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/e6OL8Z1eM3uAunafM4kPYvzAfFk.jpg"
     },
     {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.8,
-      "release_date": "2025-11-07",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
-    },
-    {
-      "id": 1584215,
-      "title": "反叛行动",
-      "type": "movie",
-      "genreTitle": "动作",
-      "rating": 6.2,
-      "release_date": "2026-01-13",
-      "overview": "一名冷酷且训练有素的杀手，自幼被培养于一个名为 The Internship 的 CIA 最高机密项目中。多年后，她决定摧毁这个夺走自己青春的机构。她召集昔日的“实习生”同伴，发动了一场血腥的反抗行动——迫使 CIA 动用同样致命的力量来镇压他们。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p28DqqaN4dOP1OECjaWYVrBRMqP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2EptPFNLmu61CzCSHW6J5vDqJRw.jpg"
-    },
-    {
       "id": 83533,
       "title": "阿凡达：火与烬",
       "type": "movie",
@@ -554,6 +543,17 @@
       "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
+    },
+    {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.8,
+      "release_date": "2025-11-07",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
       "id": 1043197,
@@ -567,15 +567,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/rB6MzWxyzu7uwf4JgYZ2UBAuihB.jpg"
     },
     {
-      "id": 991494,
-      "title": "海绵宝宝：深海大冒险",
+      "id": 1310568,
+      "title": "大使馆谋杀案",
       "type": "movie",
-      "genreTitle": "动画•家庭•喜剧",
-      "rating": 6.7,
-      "release_date": "2026-01-01",
-      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
+      "genreTitle": "悬疑•惊悚•动作",
+      "rating": 5.6,
+      "release_date": "2025-11-14",
+      "overview": "1934年，私家侦探米兰达·格林调查英国驻开罗大使馆发生的一起谋杀案，而谋杀案中一份绝密文件的被盗，将危及白金汉宫，震惊世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/peSgNSsqiJnBxQ4KyEZ688aMVc3.jpg"
+    },
+    {
+      "id": 1167307,
+      "title": "大卫",
+      "type": "movie",
+      "genreTitle": "动画•家庭•剧情",
+      "rating": 8.0,
+      "release_date": "2025-12-14",
+      "overview": "　　在一个被恐惧统治的王国里，一位年轻的牧羊人勇敢地面对巨人以及其背后的黑暗势力。他的勇气将唤醒一个民族，并证明真正的力量来自信任，而非权力。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lVyK4nBoUGgLAH6iBnUdEZAfHvM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/gAzHfw7NWv9B4pdW8pB9BtsoEfI.jpg"
     },
     {
       "id": 1368166,
@@ -589,26 +600,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5HFf4Ga3wJp2RcV96qreBHO4C46.jpg"
     },
     {
-      "id": 1271895,
-      "title": "96分钟：列车爆炸案",
+      "id": 991494,
+      "title": "海绵宝宝：深海大冒险",
       "type": "movie",
-      "genreTitle": "动作•犯罪•爱情",
-      "rating": 7.7,
-      "release_date": "2026-01-10",
-      "overview": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/dOfjxTxOPkx9iN9R3sPNBN3pgIn.jpg"
-    },
-    {
-      "id": 1242501,
-      "title": "冰湖行动",
-      "type": "movie",
-      "genreTitle": "动作•犯罪•惊悚",
-      "rating": 6.4,
-      "release_date": "2025-10-16",
-      "overview": "一个犯罪团伙抢劫了二千万美元，运钞飞机却因为风暴掉进了冰湖。来年冰雪融化了，盗猎者哈兰在冰面上看到了一只带着金戒指的手，捡到了一皮箱钱。他一打开皮箱就触发了信号，犯罪团伙立马跟了过来。浑然不知的哈兰在冰上悠然的走，却被原住民护林员安妮逮住了，他无法解释钱来源，也没时间解释，犯罪团伙与腐败警察闻风而至，护林员与盗猎者被迫亡命组队，必须在冰面消融前穿越险恶冰湖，开展生死大逃亡，为守护宝藏展开绝地反击。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1kSuekCBFAegCREvxFdjEayeorX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/e46BMLG1d2KOswRSdFZDniNRg5f.jpg"
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 6.7,
+      "release_date": "2026-01-01",
+      "overview": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cQMfWsFzQXUKfaoGSjhHXDjDSSX.jpg"
     }
   ]
 }
