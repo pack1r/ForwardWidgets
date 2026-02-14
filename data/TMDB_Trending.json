@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-14 10:32:30",
+  "last_updated": "2026-02-14 21:01:08",
   "today_global": [
     {
       "id": 1317672,
       "title": "爱我爱我",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 7.4,
+      "rating": 6.8,
       "release_date": "2026-02-12",
       "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
       "poster_url": "https://image.tmdb.org/t/p/original/iTT3jQqeLNTrcNiuAzqKcQarOqJ.jpg",
@@ -17,7 +17,7 @@
       "title": "莎拉的真伪人生",
       "type": "tv",
       "genreTitle": "犯罪•悬疑•剧情",
-      "rating": 9.3,
+      "rating": 9.2,
       "release_date": "2026-02-13",
       "overview": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
       "poster_url": "https://image.tmdb.org/t/p/original/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
@@ -28,10 +28,10 @@
       "title": "祖孙大学公路游",
       "type": "movie",
       "genreTitle": "喜剧",
-      "rating": 7.8,
+      "rating": 6.2,
       "release_date": "2026-02-12",
       "overview": "意识到自己可能过度保护了儿子，布赖恩勉强同意让儿子小B.J.跟随祖父乔一同踏上大学参访之旅，希望乔能在沿途向他传授一些非裔美国人的历史与文化，并帮助他认识真实的世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/ynGw5EiAlEjxY0HOV0B7iZHEYIk.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg"
     },
     {
@@ -39,11 +39,66 @@
       "title": "猩疯血雨",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-01-01",
       "overview": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
       "poster_url": "https://image.tmdb.org/t/p/original/77lTJPRJXAA4fZoGAqgowjdZUMi.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/epV8l6VQJfQDCu8G5BtZggNakVX.jpg"
+    },
+    {
+      "id": 310239,
+      "title": "纯真博物馆",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.0,
+      "release_date": "2026-02-13",
+      "overview": "故事背景设定在 1970 年代的伊斯坦堡：  阶级鸿沟的禁忌之爱：出身显赫豪门的凯末尔（Kemal）本已订婚，却在偶然间爱上了年轻、贫困的远房亲戚——在商店打工的少女芙颂（Füsun）。\n\n长达数十年的执念：这段充满波折的关系最终演变为凯末尔毕生的执念。为了慰藉相思之情，他开始疯狂收集一切与芙颂有关的物件，包括她的耳坠、发夹，甚至 4213 个烟头。\n\n博物馆的诞生：这些原本平凡的生活琐碎，最终汇集成了一座记录爱情、失落与城市记忆的“博物馆”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5onDIkOXk9AmPkFHcNRery1Ogy5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xjVNHrFjcLEpXXy4brrumwPznYZ.jpg"
+    },
+    {
+      "id": 131142,
+      "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 9.0,
+      "release_date": "2026-02-12",
+      "overview": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qrjXZzMte4m5VhcSm1ncJEopfVw.jpg"
+    },
+    {
+      "id": 425274,
+      "title": "惊天魔盗团3",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/42dYhAniBx3kialfwU8n5HwQq6V.jpg"
+    },
+    {
+      "id": 209867,
+      "title": "葬送的芙莉莲",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•剧情",
+      "rating": 8.8,
+      "release_date": "2023-09-29",
+      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
+    },
+    {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.7,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
       "id": 1317288,
@@ -55,50 +110,6 @@
       "overview": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
       "poster_url": "https://image.tmdb.org/t/p/original/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
-    },
-    {
-      "id": 310239,
-      "title": "纯真博物馆",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.0,
-      "release_date": "2026-02-13",
-      "overview": "故事背景设定在 1970 年代的伊斯坦堡：  阶级鸿沟的禁忌之爱：出身显赫豪门的凯末尔（Kemal）本已订婚，却在偶然间爱上了年轻、贫困的远房亲戚——在商店打工的少女芙颂（Füsun）。\n\n长达数十年的执念：这段充满波折的关系最终演变为凯末尔毕生的执念。为了慰藉相思之情，他开始疯狂收集一切与芙颂有关的物件，包括她的耳坠、发夹，甚至 4213 个烟头。\n\n博物馆的诞生：这些原本平凡的生活琐碎，最终汇集成了一座记录爱情、失落与城市记忆的“博物馆”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7p081gpYZLuEOh0ExCZTajjv7c8.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xjVNHrFjcLEpXXy4brrumwPznYZ.jpg"
-    },
-    {
-      "id": 131142,
-      "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.8,
-      "release_date": "2026-02-12",
-      "overview": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qrjXZzMte4m5VhcSm1ncJEopfVw.jpg"
-    },
-    {
-      "id": 1316092,
-      "title": "呼啸山庄",
-      "type": "movie",
-      "genreTitle": "剧情•爱情",
-      "rating": 7.3,
-      "release_date": "2026-02-11",
-      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
-    },
-    {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
       "id": 1426964,
@@ -123,26 +134,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/taZZfNmMHBXfCk4tcxeBCqlAUfb.jpg"
     },
     {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
+      "id": 1316092,
+      "title": "呼啸山庄",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
+      "genreTitle": "剧情•爱情",
+      "rating": 7.0,
+      "release_date": "2026-02-11",
+      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
     },
     {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
+      "id": 95479,
+      "title": "咒术回战",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.8,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
       "id": 250307,
@@ -156,6 +167,50 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xmAe1PBRMd504TCucdnIvh9qEkL.jpg"
     },
     {
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情•历史",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "overview": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 1171145,
+      "title": "洛杉矶劫案",
+      "type": "movie",
+      "genreTitle": "犯罪•惊悚",
+      "rating": 8.2,
+      "release_date": "2026-02-11",
+      "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
+    },
+    {
+      "id": 258462,
+      "title": "泥泞女子帮",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 7.4,
+      "release_date": "2025-08-14",
+      "overview": "故事发生在一座女子监狱，讲述了《边缘》中两个最受关注的角色：不择手段的格拉迪斯・“拉・博尔赫斯”・盖拉 (由安娜・加里波第饰演) 和愤世嫉俗的塞尔吉奥・安廷 (由热拉尔多・罗马诺饰演)。",
+      "poster_url": "https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lNVFNTCWtlOyIDiX99iwBKSFhDj.jpg"
+    },
+    {
       "id": 213306,
       "title": "神探追缉令",
       "type": "tv",
@@ -165,61 +220,6 @@
       "overview": "改编自《纽约时报》畅销书作家詹姆斯·帕特森的头号英雄原型，《神探追缉令》是一部犯罪惊悚剧集，讲述了优秀的法医心理学家和华盛顿特区大都会警局警探亚历克斯·克罗斯调查办案的故事。克罗斯与他最好的朋友兼搭档侦探约翰·桑普森一起，深入探究美国最阴险狡诈的连环杀人犯的心理，同时还要竭力保护家人免受犯罪世界的威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/ki38zfVGkTKVnID9ASfgenFUE8N.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oIt7hJlpbXETlbmDYoZJu5XkYGI.jpg"
-    },
-    {
-      "id": 206494,
-      "title": "百万人推理",
-      "type": "tv",
-      "genreTitle": "悬疑•犯罪",
-      "rating": 10.0,
-      "release_date": "2026-02-12",
-      "overview": "一桩锁定网红的连环杀人案，线索直指神秘预言网红“巴巴女巫”。她的每次预言皆精准应验，引爆百万网友参与推理。资深刑警陈家任（郑伊健 饰）为破解真相，与人气网红“柚子”（娄峻硕 饰）合作，却在案情逼近核心时，揭开骇人的秘密与真相。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hjedJyMoRnJOQNnEVzB3hrNaPGK.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg"
-    },
-    {
-      "id": 1600028,
-      "title": "La Celda de los Milagros",
-      "type": "movie",
-      "genreTitle": "剧情",
-      "rating": 6.0,
-      "release_date": "2025-12-25",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/heC13pt4SV7y3HF5lWNzf0u729j.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg"
-    },
-    {
-      "id": 1171145,
-      "title": "洛杉矶劫案",
-      "type": "movie",
-      "genreTitle": "犯罪•惊悚",
-      "rating": 8.3,
-      "release_date": "2026-02-11",
-      "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
-    },
-    {
-      "id": 233079,
-      "title": "如何从贝尔法斯特去天堂",
-      "type": "tv",
-      "genreTitle": "悬疑•喜剧•剧情",
-      "rating": 8.1,
-      "release_date": "2026-02-12",
-      "overview": "三个一生的挚友踏上乱糟糟的旅程，试图揭开一位老朋友的死亡之谜，同时隐瞒自己的黑暗秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg"
-    },
-    {
-      "id": 220102,
-      "title": "暗影蜘蛛侠",
-      "type": "tv",
-      "genreTitle": "悬疑•犯罪•动作冒险",
-      "rating": 0.0,
-      "release_date": "2026-05-25",
-      "overview": "　　故事设定在独立宇宙里，聚焦1930年代纽约城的一个上了年纪、倒霉透顶的私家侦探，作为这个城市里唯一的超级英雄，他被迫与过去的生活作斗争。",
-      "poster_url": "https://image.tmdb.org/t/p/original/89h2TzFgCnQGNPfXEGRtfXjOOcS.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1lo3PXyXfqCRvMPyM0JXCC8qWZx.jpg"
     }
   ],
   "week_global_all": [
@@ -228,7 +228,7 @@
       "title": "猩疯血雨",
       "type": "movie",
       "genreTitle": "恐怖•惊悚",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-01-01",
       "overview": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
       "poster_url": "https://image.tmdb.org/t/p/original/77lTJPRJXAA4fZoGAqgowjdZUMi.jpg",
@@ -257,17 +257,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/taZZfNmMHBXfCk4tcxeBCqlAUfb.jpg"
     },
     {
-      "id": 1316092,
-      "title": "呼啸山庄",
-      "type": "movie",
-      "genreTitle": "剧情•爱情",
-      "rating": 7.3,
-      "release_date": "2026-02-11",
-      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
-    },
-    {
       "id": 858024,
       "title": "哈姆奈特",
       "type": "movie",
@@ -279,26 +268,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
     },
     {
-      "id": 95479,
-      "title": "咒术回战",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2020-10-03",
-      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
-    },
-    {
-      "id": 106379,
-      "title": "辐射",
-      "type": "tv",
-      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2024-04-10",
-      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+      "id": 1316092,
+      "title": "呼啸山庄",
+      "type": "movie",
+      "genreTitle": "剧情•爱情",
+      "rating": 7.0,
+      "release_date": "2026-02-11",
+      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
     },
     {
       "id": 1242898,
@@ -312,6 +290,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
+      "id": 1084242,
+      "title": "疯狂动物城2",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
+    },
+    {
+      "id": 106379,
+      "title": "辐射",
+      "type": "tv",
+      "genreTitle": "动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2024-04-10",
+      "overview": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+      "poster_url": "https://image.tmdb.org/t/p/original/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
+    },
+    {
       "id": 209867,
       "title": "葬送的芙莉莲",
       "type": "tv",
@@ -323,11 +323,33 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
     },
     {
+      "id": 1297842,
+      "title": "奇迹梦之队",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 6.5,
+      "release_date": "2026-02-11",
+      "overview": "　　主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6aAsTVPSsqyD2bqYfAnOdG9g4rF.jpg"
+    },
+    {
+      "id": 680493,
+      "title": "重返寂静岭",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 5.1,
+      "release_date": "2026-01-21",
+      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
+    },
+    {
       "id": 1317672,
       "title": "爱我爱我",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 7.4,
+      "rating": 6.8,
       "release_date": "2026-02-12",
       "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
       "poster_url": "https://image.tmdb.org/t/p/original/iTT3jQqeLNTrcNiuAzqKcQarOqJ.jpg",
@@ -345,70 +367,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
     },
     {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/vE77NYLU8ZfsPLLYljaPeBJSKxm.jpg"
-    },
-    {
-      "id": 1297842,
-      "title": "奇迹梦之队",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.5,
-      "release_date": "2026-02-11",
-      "overview": "　　主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6aAsTVPSsqyD2bqYfAnOdG9g4rF.jpg"
-    },
-    {
-      "id": 273977,
-      "title": "莎拉的真伪人生",
+      "id": 95479,
+      "title": "咒术回战",
       "type": "tv",
-      "genreTitle": "犯罪•悬疑•剧情",
-      "rating": 9.3,
-      "release_date": "2026-02-13",
-      "overview": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
-      "poster_url": "https://image.tmdb.org/t/p/original/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9u8GVoBdTUE1CI8x7G3f0KJovEu.jpg"
-    },
-    {
-      "id": 680493,
-      "title": "重返寂静岭",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 5.1,
-      "release_date": "2026-01-21",
-      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2020-10-03",
+      "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
       "id": 1171145,
       "title": "洛杉矶劫案",
       "type": "movie",
       "genreTitle": "犯罪•惊悚",
-      "rating": 8.3,
+      "rating": 8.2,
       "release_date": "2026-02-11",
       "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
       "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
     },
     {
-      "id": 213306,
-      "title": "神探追缉令",
+      "id": 273977,
+      "title": "莎拉的真伪人生",
       "type": "tv",
-      "genreTitle": "犯罪•剧情•悬疑",
-      "rating": 7.0,
-      "release_date": "2024-11-14",
-      "overview": "改编自《纽约时报》畅销书作家詹姆斯·帕特森的头号英雄原型，《神探追缉令》是一部犯罪惊悚剧集，讲述了优秀的法医心理学家和华盛顿特区大都会警局警探亚历克斯·克罗斯调查办案的故事。克罗斯与他最好的朋友兼搭档侦探约翰·桑普森一起，深入探究美国最阴险狡诈的连环杀人犯的心理，同时还要竭力保护家人免受犯罪世界的威胁。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ki38zfVGkTKVnID9ASfgenFUE8N.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oIt7hJlpbXETlbmDYoZJu5XkYGI.jpg"
+      "genreTitle": "犯罪•悬疑•剧情",
+      "rating": 9.2,
+      "release_date": "2026-02-13",
+      "overview": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9u8GVoBdTUE1CI8x7G3f0KJovEu.jpg"
     },
     {
       "id": 250307,
@@ -433,15 +422,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg"
     },
     {
-      "id": 1548113,
-      "title": "布偶秀50周年特别节目",
+      "id": 1373198,
+      "title": "恐怖买家",
       "type": "movie",
-      "genreTitle": "喜剧•家庭•音乐",
-      "rating": 7.1,
-      "release_date": "2026-02-03",
-      "overview": "科米蛙、猪小姐以及其他迷人的伙伴们，重返最初的布偶剧院舞台，带来全新的音乐、搞笑短剧，以及一连串的后台大乱斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mgsqZ0WussW8H4sxkxdeKKA5nbq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2QZe9XyiNGMCeGNwVI3u4DhTzRf.jpg"
+      "genreTitle": "恐怖•惊悚",
+      "rating": 4.5,
+      "release_date": "2026-02-06",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jQMy2FKeEX2E0aZK4mtHQOOTpQr.jpg"
+    },
+    {
+      "id": 213306,
+      "title": "神探追缉令",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情•悬疑",
+      "rating": 7.0,
+      "release_date": "2024-11-14",
+      "overview": "改编自《纽约时报》畅销书作家詹姆斯·帕特森的头号英雄原型，《神探追缉令》是一部犯罪惊悚剧集，讲述了优秀的法医心理学家和华盛顿特区大都会警局警探亚历克斯·克罗斯调查办案的故事。克罗斯与他最好的朋友兼搭档侦探约翰·桑普森一起，深入探究美国最阴险狡诈的连环杀人犯的心理，同时还要竭力保护家人免受犯罪世界的威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ki38zfVGkTKVnID9ASfgenFUE8N.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oIt7hJlpbXETlbmDYoZJu5XkYGI.jpg"
     }
   ],
   "popular_movies": [
@@ -600,15 +600,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/dOfjxTxOPkx9iN9R3sPNBN3pgIn.jpg"
     },
     {
-      "id": 755898,
-      "title": "世界大战",
+      "id": 1316092,
+      "title": "呼啸山庄",
       "type": "movie",
-      "genreTitle": "科幻•惊悚",
-      "rating": 4.2,
-      "release_date": "2025-07-29",
-      "overview": "威尔·拉德福德是国土安全部的顶级网络安全分析师，他通过大规模监控项目追踪国家安全的潜在威胁。直到有一天，一个不明实体的攻击让他开始怀疑政府是否对他……以及世界其他地方隐瞒了什么。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9RLZ48UeVpICPWa7jK2pZPOp2Ve.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg"
+      "genreTitle": "剧情•爱情",
+      "rating": 7.1,
+      "release_date": "2026-03-13",
+      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
     }
   ]
 }
