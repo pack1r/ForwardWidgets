@@ -1,23 +1,45 @@
 {
-  "last_updated": "2026-02-15 10:46:28",
+  "last_updated": "2026-02-15 21:03:05",
   "today_global": [
+    {
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情•历史",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "overview": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+    },
     {
       "id": 1317672,
       "title": "爱我爱我",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 6.0,
+      "rating": 6.2,
       "release_date": "2026-02-12",
       "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iTT3jQqeLNTrcNiuAzqKcQarOqJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/mcYOnJBjWMAOoYwfl67gM2XKML0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/p3zUnwoKRU3kBZhj8XQoitz794r.jpg"
+    },
+    {
+      "id": 1242898,
+      "title": "铁血战士：杀戮之地",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.7,
+      "release_date": "2025-11-05",
+      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
     },
     {
       "id": 1243460,
       "title": "祖孙大学公路游",
       "type": "movie",
       "genreTitle": "喜剧",
-      "rating": 5.5,
+      "rating": 4.4,
       "release_date": "2026-02-12",
       "overview": "意识到自己可能过度保护了儿子，布赖恩勉强同意让儿子小B.J.跟随祖父乔一同踏上大学参访之旅，希望乔能在沿途向他传授一些非裔美国人的历史与文化，并帮助他认识真实的世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/ynGw5EiAlEjxY0HOV0B7iZHEYIk.jpg",
@@ -28,7 +50,7 @@
       "title": "莎拉的真伪人生",
       "type": "tv",
       "genreTitle": "犯罪•悬疑•剧情",
-      "rating": 8.0,
+      "rating": 8.2,
       "release_date": "2026-02-13",
       "overview": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
       "poster_url": "https://image.tmdb.org/t/p/original/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
@@ -46,26 +68,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/epV8l6VQJfQDCu8G5BtZggNakVX.jpg"
     },
     {
-      "id": 1368166,
-      "title": "家弑服务",
+      "id": 425274,
+      "title": "惊天魔盗团3",
       "type": "movie",
-      "genreTitle": "悬疑•惊悚",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/taZZfNmMHBXfCk4tcxeBCqlAUfb.jpg"
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/42dYhAniBx3kialfwU8n5HwQq6V.jpg"
     },
     {
-      "id": 1242898,
-      "title": "铁血战士：杀戮之地",
+      "id": 1316092,
+      "title": "呼啸山庄",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "overview": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oDFIBAT9HLXx95HMT6kjbOw7Ge7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bxAm2pC3kuYrAP89K2fnQCpRzzI.jpg"
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2026-02-11",
+      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
     },
     {
       "id": 1317288,
@@ -79,92 +101,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
     },
     {
-      "id": 1316092,
-      "title": "呼啸山庄",
+      "id": 1368166,
+      "title": "家弑服务",
       "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.9,
-      "release_date": "2026-02-11",
-      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
-    },
-    {
-      "id": 425274,
-      "title": "惊天魔盗团3",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•悬疑",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/42dYhAniBx3kialfwU8n5HwQq6V.jpg"
-    },
-    {
-      "id": 131142,
-      "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.7,
-      "release_date": "2026-02-12",
-      "overview": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qrjXZzMte4m5VhcSm1ncJEopfVw.jpg"
-    },
-    {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.8,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
-    },
-    {
-      "id": 858024,
-      "title": "哈姆奈特",
-      "type": "movie",
-      "genreTitle": "剧情•爱情•历史",
-      "rating": 7.8,
-      "release_date": "2025-11-26",
-      "overview": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
+      "genreTitle": "悬疑•惊悚",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/taZZfNmMHBXfCk4tcxeBCqlAUfb.jpg"
     },
     {
       "id": 680493,
       "title": "重返寂静岭",
       "type": "movie",
       "genreTitle": "恐怖•悬疑",
-      "rating": 5.2,
+      "rating": 5.1,
       "release_date": "2026-01-21",
       "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
       "poster_url": "https://image.tmdb.org/t/p/original/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
-    },
-    {
-      "id": 1084242,
-      "title": "疯狂动物城2",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•冒险",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg"
-    },
-    {
-      "id": 310239,
-      "title": "纯真博物馆",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 7.0,
-      "release_date": "2026-02-13",
-      "overview": "故事背景设定在 1970 年代的伊斯坦堡：  阶级鸿沟的禁忌之爱：出身显赫豪门的凯末尔（Kemal）本已订婚，却在偶然间爱上了年轻、贫困的远房亲戚——在商店打工的少女芙颂（Füsun）。\n\n长达数十年的执念：这段充满波折的关系最终演变为凯末尔毕生的执念。为了慰藉相思之情，他开始疯狂收集一切与芙颂有关的物件，包括她的耳坠、发夹，甚至 4213 个烟头。\n\n博物馆的诞生：这些原本平凡的生活琐碎，最终汇集成了一座记录爱情、失落与城市记忆的“博物馆”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5onDIkOXk9AmPkFHcNRery1Ogy5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg"
     },
     {
       "id": 106379,
@@ -189,37 +145,81 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg"
     },
     {
-      "id": 1171145,
-      "title": "洛杉矶劫案",
-      "type": "movie",
-      "genreTitle": "犯罪•惊悚",
-      "rating": 7.8,
-      "release_date": "2026-02-11",
-      "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
+      "id": 224372,
+      "title": "七王国的骑士",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.3,
+      "release_date": "2026-01-18",
+      "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+      "poster_url": "https://image.tmdb.org/t/p/original/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
     },
     {
-      "id": 1297842,
-      "title": "奇迹梦之队",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.9,
-      "release_date": "2026-02-11",
-      "overview": "　　主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6aAsTVPSsqyD2bqYfAnOdG9g4rF.jpg"
+      "id": 131142,
+      "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.7,
+      "release_date": "2026-02-12",
+      "overview": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qrjXZzMte4m5VhcSm1ncJEopfVw.jpg"
     },
     {
-      "id": 1426964,
-      "title": "惊城之乱",
+      "id": 1084242,
+      "title": "疯狂动物城2",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 4.1,
-      "release_date": "2026-02-10",
-      "overview": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5Wvl190QkHeNJe0BRURdtf4YzMq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg"
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "overview": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg"
+    },
+    {
+      "id": 209867,
+      "title": "葬送的芙莉莲",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•剧情",
+      "rating": 8.8,
+      "release_date": "2023-09-29",
+      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
+    },
+    {
+      "id": 1259102,
+      "title": "永恒站",
+      "type": "movie",
+      "genreTitle": "爱情•喜剧•剧情",
+      "rating": 7.0,
+      "release_date": "2025-11-26",
+      "overview": "赖瑞（迈尔斯·特勒 饰）刚刚去世，他来到了一个类似火车站的中间地带，在那里被告知必须自己选择未来的生活方式——是永远在海滩上度过每一天；还是在一连串的轮回中过着放荡不羁的生活。就在他还在犹豫不决的时候，他的妻子琼安（伊丽莎白·奥尔森 饰）也去世了。于是，这对夫妇在生死之间的这个“中转站”重新团聚了。这本该是一个幸福的时刻，但却存在一个重大缺陷：在琼安的灵魂等待她的地方，还有她的第一任丈夫卢克（卡勒姆·特纳 饰），这位英俊潇洒的战争飞行员在他们的婚姻仅两年后，就在朝鲜战场上牺牲了。从那以后，卢克就一直在等待琼安的归来，他以调酒师的身份在“极乐世界”版的纽约中央车站工作，耐心地等待着那一天的到来。然而，这一情况彻底打乱了赖瑞原本的计划——他本想和结婚65年的妻子继续过正常的生活。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/aA8JeLtFdGh3K2YNOZXLtvPtwue.jpg"
+    },
+    {
+      "id": 310239,
+      "title": "纯真博物馆",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 7.0,
+      "release_date": "2026-02-13",
+      "overview": "故事背景设定在 1970 年代的伊斯坦堡：  阶级鸿沟的禁忌之爱：出身显赫豪门的凯末尔（Kemal）本已订婚，却在偶然间爱上了年轻、贫困的远房亲戚——在商店打工的少女芙颂（Füsun）。\n\n长达数十年的执念：这段充满波折的关系最终演变为凯末尔毕生的执念。为了慰藉相思之情，他开始疯狂收集一切与芙颂有关的物件，包括她的耳坠、发夹，甚至 4213 个烟头。\n\n博物馆的诞生：这些原本平凡的生活琐碎，最终汇集成了一座记录爱情、失落与城市记忆的“博物馆”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5onDIkOXk9AmPkFHcNRery1Ogy5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg"
+    },
+    {
+      "id": 83533,
+      "title": "阿凡达：火与烬",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•奇幻",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7AfS3CzDcI5jO65ljzO58YLSXL.jpg"
     }
   ],
   "week_global_all": [
@@ -246,6 +246,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/gZRVtEWGdBSa1Sx9yH2OXXX6pyp.jpg"
     },
     {
+      "id": 1316092,
+      "title": "呼啸山庄",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2026-02-11",
+      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
+    },
+    {
       "id": 1368166,
       "title": "家弑服务",
       "type": "movie",
@@ -255,28 +266,6 @@
       "overview": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
       "poster_url": "https://image.tmdb.org/t/p/original/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/taZZfNmMHBXfCk4tcxeBCqlAUfb.jpg"
-    },
-    {
-      "id": 1316092,
-      "title": "呼啸山庄",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.9,
-      "release_date": "2026-02-11",
-      "overview": "　　故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3iK4OUoMztIg7basATxRGLXEulR.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg"
-    },
-    {
-      "id": 858024,
-      "title": "哈姆奈特",
-      "type": "movie",
-      "genreTitle": "剧情•爱情•历史",
-      "rating": 7.8,
-      "release_date": "2025-11-26",
-      "overview": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
     },
     {
       "id": 1242898,
@@ -301,15 +290,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg"
     },
     {
-      "id": 209867,
-      "title": "葬送的芙莉莲",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•剧情",
-      "rating": 8.8,
-      "release_date": "2023-09-29",
-      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
+      "id": 680493,
+      "title": "重返寂静岭",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑",
+      "rating": 5.1,
+      "release_date": "2026-01-21",
+      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "poster_url": "https://image.tmdb.org/t/p/original/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
+    },
+    {
+      "id": 858024,
+      "title": "哈姆奈特",
+      "type": "movie",
+      "genreTitle": "剧情•爱情•历史",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "overview": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/g4oYzlJZMdqtVOCYSkhNjg92rKf.jpg"
     },
     {
       "id": 95479,
@@ -334,50 +334,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg"
     },
     {
-      "id": 1171145,
-      "title": "洛杉矶劫案",
-      "type": "movie",
-      "genreTitle": "犯罪•惊悚",
-      "rating": 7.8,
-      "release_date": "2026-02-11",
-      "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-      "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
-    },
-    {
-      "id": 1297842,
-      "title": "奇迹梦之队",
-      "type": "movie",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 6.9,
-      "release_date": "2026-02-11",
-      "overview": "　　主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6aAsTVPSsqyD2bqYfAnOdG9g4rF.jpg"
-    },
-    {
-      "id": 680493,
-      "title": "重返寂静岭",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑",
-      "rating": 5.2,
-      "release_date": "2026-01-21",
-      "overview": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "poster_url": "https://image.tmdb.org/t/p/original/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qTV8eVFJDeCNx3N1FQ39GbmsnMq.jpg"
-    },
-    {
-      "id": 1317672,
-      "title": "爱我爱我",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.0,
-      "release_date": "2026-02-12",
-      "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iTT3jQqeLNTrcNiuAzqKcQarOqJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/p3zUnwoKRU3kBZhj8XQoitz794r.jpg"
-    },
-    {
       "id": 224372,
       "title": "七王国的骑士",
       "type": "tv",
@@ -385,15 +341,81 @@
       "rating": 8.3,
       "release_date": "2026-01-18",
       "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-      "poster_url": "https://image.tmdb.org/t/p/original/px2bHM5OOeJUQjVxPutn0dwmFEj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ckZ0ytHQnMtH5AKuVHWMNNPh6FW.jpg"
+    },
+    {
+      "id": 209867,
+      "title": "葬送的芙莉莲",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•剧情",
+      "rating": 8.8,
+      "release_date": "2023-09-29",
+      "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3nm4GqbzM0Fzj9uHE5zJ5ciWvw8.jpg"
+    },
+    {
+      "id": 1297842,
+      "title": "奇迹梦之队",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 7.1,
+      "release_date": "2026-02-11",
+      "overview": "　　主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6aAsTVPSsqyD2bqYfAnOdG9g4rF.jpg"
+    },
+    {
+      "id": 1317672,
+      "title": "爱我爱我",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.2,
+      "release_date": "2026-02-12",
+      "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mcYOnJBjWMAOoYwfl67gM2XKML0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/p3zUnwoKRU3kBZhj8XQoitz794r.jpg"
+    },
+    {
+      "id": 425274,
+      "title": "惊天魔盗团3",
+      "type": "movie",
+      "genreTitle": "惊悚•犯罪•悬疑",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/42dYhAniBx3kialfwU8n5HwQq6V.jpg"
+    },
+    {
+      "id": 1426964,
+      "title": "惊城之乱",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 4.3,
+      "release_date": "2026-02-10",
+      "overview": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5Wvl190QkHeNJe0BRURdtf4YzMq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg"
+    },
+    {
+      "id": 1171145,
+      "title": "洛杉矶劫案",
+      "type": "movie",
+      "genreTitle": "犯罪•惊悚",
+      "rating": 7.7,
+      "release_date": "2026-02-11",
+      "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+      "poster_url": "https://image.tmdb.org/t/p/original/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/WzjHfquVW0bKeWn0XSvwrf4Ac5.jpg"
     },
     {
       "id": 273977,
       "title": "莎拉的真伪人生",
       "type": "tv",
       "genreTitle": "犯罪•悬疑•剧情",
-      "rating": 8.0,
+      "rating": 8.2,
       "release_date": "2026-02-13",
       "overview": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
       "poster_url": "https://image.tmdb.org/t/p/original/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
@@ -409,28 +431,6 @@
       "overview": "当新的鬼脸杀手出现在西德妮·普雷斯科特归隐的宁静小镇时，她最深的恐惧化为现实——这一次，屠刀指向了她的女儿。为守护仅存的安宁，这位曾经的幸存者必须再度直面血色的过往，与纠缠半生的梦魇进行最后的清算。",
       "poster_url": "https://image.tmdb.org/t/p/original/vhCUlEsfshjLcOzKpg6EbvyLJQT.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ytmQOsyYNypGDJCkTJ2TPP3Jc0u.jpg"
-    },
-    {
-      "id": 425274,
-      "title": "惊天魔盗团3",
-      "type": "movie",
-      "genreTitle": "惊悚•犯罪•悬疑",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "overview": "　　因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "poster_url": "https://image.tmdb.org/t/p/original/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/42dYhAniBx3kialfwU8n5HwQq6V.jpg"
-    },
-    {
-      "id": 1548113,
-      "title": "布偶秀50周年特别节目",
-      "type": "movie",
-      "genreTitle": "喜剧•家庭•音乐",
-      "rating": 7.1,
-      "release_date": "2026-02-03",
-      "overview": "科米蛙、猪小姐以及其他迷人的伙伴们，重返最初的布偶剧院舞台，带来全新的音乐、搞笑短剧，以及一连串的后台大乱斗。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mgsqZ0WussW8H4sxkxdeKKA5nbq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2QZe9XyiNGMCeGNwVI3u4DhTzRf.jpg"
     },
     {
       "id": 213306,
@@ -505,7 +505,7 @@
       "title": "惊城之乱",
       "type": "movie",
       "genreTitle": "动作•惊悚•犯罪",
-      "rating": 4.1,
+      "rating": 4.3,
       "release_date": "2026-02-10",
       "overview": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
       "poster_url": "https://image.tmdb.org/t/p/original/5Wvl190QkHeNJe0BRURdtf4YzMq.jpg",
@@ -516,10 +516,10 @@
       "title": "爱我爱我",
       "type": "movie",
       "genreTitle": "爱情•剧情",
-      "rating": 6.0,
+      "rating": 6.2,
       "release_date": "2026-02-12",
       "overview": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
-      "poster_url": "https://image.tmdb.org/t/p/original/iTT3jQqeLNTrcNiuAzqKcQarOqJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/original/mcYOnJBjWMAOoYwfl67gM2XKML0.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/p3zUnwoKRU3kBZhj8XQoitz794r.jpg"
     },
     {
